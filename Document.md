@@ -150,6 +150,14 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
+<br>
+WeaveGuard es una Startup innovadora creada por estudiantes de la Facultad de Ingeniería de la Universidad Privada de Ciencias Aplicadas (UPC). Las empresas en el sector textil y confecciones enfrentan desafíos a la hora de cuidar y mantener la calidad de las telas en sus almacenes, destacando la falta de un Software gestión de inventario. Creamos nuestra Empresa emergente con el objetivo de solucionar estos problemas, el producto que desarrollamos ayudara a mantener informados a los encargados de supervisar el inventario si el ambiente es indicado para guardar la tela, al mismo tiempo fomentara una cultura de responsabilidad. La aplicación integrara tecnologías avanzadas, como inteligencias artificiales, para ayudar en la ubicación de las telas y características del ambiente, y bases de datos para tener un historial de importaciones y exportaciones.
+<br></br>
+Misión: Nuestra misión es elevar la calidad, rentabilidad y confianza de las empresas en el sector textil y confecciones dando una herramienta que facilite tener un seguimiento de la temperatura, fechas de fumigación y ubicación del producto, fomentando la importancia de la responsabilidad. Apuntamos a ser más que solo un proveedor de software, queremos ser un aliado para alcanzar el éxito y confianza con los clientes.
+<br></br>
+Vision:
+</br>
+
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
 | Integrante                                                                                                                                                                                                                             | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
