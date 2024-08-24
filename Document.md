@@ -164,6 +164,9 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
+
+Hemos identificado que, tanto las empresas de confección como los distribuidores de telas, enfrentan dificultades a la hora de monitorear de manera continua aspectos claves relacionados al almacenamiento de sus telas, como la temperatura y la humedad. La falta de siguimiento puede derivar en la degradación del material, ocasionando pérdidas económicas, y en última instancia, una mala experiencia de cara al usuario final. Actualmente, si bien existen almacenes automáticos que ayudan a la gestión del inventario, no ofrecen una solución que integre esto, sumado al  control en tiempo real de los factores mencionados inicialmente, lo que dificulta y desfavorece la preservación de la calidad de las telas.
+
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
