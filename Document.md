@@ -155,8 +155,7 @@ WeaveGuard es una Startup innovadora creada por estudiantes de la Facultad de In
 <br></br>
 Misión: Nuestra misión es elevar la calidad, rentabilidad y confianza de las empresas en el sector textil y confecciones dando una herramienta que facilite tener un seguimiento de la temperatura, fechas de fumigación y ubicación del producto, fomentando la importancia de la responsabilidad. Apuntamos a ser más que solo un proveedor de software, queremos ser un aliado para alcanzar el éxito y confianza con los clientes.
 <br></br>
-Vision:
-</br>
+Vision: Como vision, apuntamos a ser la empresa mas conocida y confiable en el desarrollo de software de gestion de inventario, pretendemos personalizar y desarrollar varias versiones para muchos tipos de almacenes. Tendremos una base de datos con informacion sobre el cuidado y mantenimiento de muchos productos diferentes, pero siempre teniendo principal objetivo el cuidado de las telas.
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
