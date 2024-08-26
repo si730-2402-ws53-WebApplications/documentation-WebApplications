@@ -165,7 +165,15 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
-Hemos identificado que, tanto las empresas de confección como los distribuidores de telas, enfrentan dificultades a la hora de monitorear de manera continua aspectos claves relacionados al almacenamiento de sus telas, como la temperatura y la humedad. La falta de siguimiento puede derivar en la degradación del material, ocasionando pérdidas económicas, y en última instancia, una mala experiencia de cara al usuario final. Actualmente, si bien existen almacenes automáticos que ayudan a la gestión del inventario, no ofrecen una solución que integre esto, sumado al  control en tiempo real de los factores mencionados inicialmente, lo que dificulta y desfavorece la preservación de la calidad de las telas.
+**Problem Statement1**  
+Actualmente los empresarios del sector textil se mantienen cautos a la hora de contratar nuevo personal, debido a que se estan recuperando de pérdidas ocacionadas por el clima en el año anterior. ¿Cómo podrian estos empresarios evitar pérdidas y asegurar la calidad de las telas contratando el menor personal posible?
+
+**Problem Statement2**  
+Las empresas de confección y desitribuidores de telas enfrentan dificultades a la hora de mantener un ambiente óptimo en los almacenes para la preservación del material. ¿Cómo podrian las empresas y distribuidores monitoriar de manera continua aspectos necesarios para preservar las telas?
+
+**Problem Statement3**  
+El costo de mantenimiento y actualización de los sistemas de almacenamiento actuales es elevado para muchas empresas de confección y distribuidores de telas. Los gastos relacionados a la modernización pueden ser una gran carga financiera. ¿Cómo pueden estas empresas reducir los costos de mantenimiento y actualización de sus sistemas de almacenamiento sin comprometer la calidad de las telas?
+
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
