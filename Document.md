@@ -169,44 +169,64 @@ Hemos identificado que, tanto las empresas de confección como los distribuidore
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 1.	Creo que los distribuidores de telas y las empresas de confección necesitan una solución más eficiente para gestionar el inventario de textiles y mantener la calidad del material en condiciones óptimas.
+
 2.	Estas necesidades se pueden resolver con una plataforma web integral que permita la gestión en tiempo real de inventarios textiles, el control de condiciones ambientales críticas, y la detección temprana de problemas como plagas.
+  
 3.	Mis clientes iniciales serán distribuidores de telas y empresas de confección que buscan optimizar su logística, reducir pérdidas y mejorar la calidad del producto.
+   
 4.	El valor que un cliente quiere de mi servicio es una solución que les permita tener un control preciso sobre su inventario, así como herramientas para prevenir el deterioro del material y mantener estándares de calidad.
+   
 5.	El cliente también puede obtener estos beneficios adicionales mediante integraciones con sistemas de gestión de pedidos y de producción, permitiendo una coordinación más fluida entre el inventario y la cadena de suministro.
+   
 6.	Voy a adquirir la mayoría de mis clientes a través de estrategias de marketing digital dirigidas a la industria textil y a través de asociaciones con proveedores de telas y empresas de confección.
+    
 7.	Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente y el tamaño de su inventario.
+    
 8.	Mi competencia principal en el mercado serán sistemas de gestión de inventarios genéricos y soluciones específicas para la industria textil que no abordan de manera integral el control de condiciones ambientales y plagas.
+    
 9.	Los venceremos debido a nuestra especialización en el sector textil, la integración de funciones avanzadas para el control de calidad y el enfoque en la prevención de problemas específicos del manejo de textiles.
+    
 10.	Mi mayor riesgo de producto es la resistencia a adoptar nuevas tecnologías por parte de los usuarios, especialmente si ya tienen sistemas en funcionamiento que perciben como adecuados. Para mitigar este riesgo, ofreceremos una fase de prueba gratuita y capacitación personalizada para facilitar la transición.
 
 BUSSINES OUTCOMES
 
 1.	Optimización de la Gestión de Inventarios:
+   
 •	Impacto: Mejora significativa en la eficiencia operativa al proporcionar una visión clara y en tiempo real del inventario textil. Esto reduce el tiempo dedicado a la administración manual y facilita una toma de decisiones más ágil y precisa.
+
 •	Beneficio Clave: Minimiza errores y retrasos en el manejo de existencias, lo que optimiza la logística y reduce costos operativos asociados con la gestión ineficiente del inventario.
+
 2.	Reducción de Pérdidas y Deterioro de Material:
+   
 •	Impacto: Disminuye las pérdidas y el deterioro de los textiles mediante el monitoreo constante de condiciones ambientales críticas (como temperatura y humedad) y la detección temprana de plagas.
+
 •	Beneficio Clave: Protege la calidad del material y evita gastos adicionales relacionados con la reposición de textiles dañados, asegurando así la conservación óptima del inventario y la satisfacción del cliente.
 
 
 User Outcomes:
 
 ¿Quién es el usuario?
+
 •	Los usuarios son distribuidores de telas y empresas de confección 
 
 ¿Dónde encaja nuestra empresa en su trabajo o vida?
+
 •	Nuestra empresa se posiciona como un socio estratégico para la gestión y conservación de inventarios textiles, ofreciendo una plataforma integral que facilita la administración eficiente de recursos, asegurando su calidad y minimizando pérdidas.
 
 ¿Qué problemas tiene nuestra empresa?
+
 •	Nos enfrentamos a la falta de soluciones especializadas que integren el control de condiciones ambientales, la gestión de inventarios y la prevención de problemas como plagas, lo que complica la administración eficiente y la protección del inventario textil.
 
 ¿Cuándo y cómo es nuestra empresa?
+
 •	Nuestra empresa está en una etapa de desarrollo inicial, ofreciendo una solución innovadora y adaptativa para el manejo integral de inventarios textiles, con características específicas que abordan las necesidades únicas del sector textil.
 
 ¿Qué características son importantes?
+
 •	Las características importantes incluyen un sistema de monitoreo en tiempo real de condiciones ambientales (temperatura y humedad), herramientas de gestión de inventarios, alertas para la detección de plagas, y un interfaz intuitiva que facilita la administración y el seguimiento del material.
 
 ¿Cómo debe verse nuestra empresa y comportarse?
+
 •	Nuestra empresa debe proyectar confianza y especialización en el sector textil, actuando como un aliado proactivo que mejora la gestión y conservación del inventario. Debe ser percibida como una solución accesible y orientada al cliente, con un enfoque en la innovación continua y el soporte personalizado para garantizar la satisfacción y el éxito de nuestros usuarios.
 
 
