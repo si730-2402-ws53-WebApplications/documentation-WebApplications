@@ -163,7 +163,21 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
-Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, cultirales y económicos. En la actualidad se ha convertido en un fenómeno complejo pues se ha vuelto una expresión personal y social, señala la clase social, y la visibilidad aumento con las redes sociales. Las empresas de la industria Textil son conscientes de la importancia en el cuidado de sus telas para ser relevantes en el mercado, pues las empresas de la industria de la Moda y Confección crean sus productos en tiempos específicos y en grandes cantidades. Sin embargo, es evidente que muchos no pueden gestionar sus inventarios sin tener pedidas por la destrucción de la integridad de sus telas.
+Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, cultirales y económicos. En la actualidad se ha convertido en un fenómeno más complejo pues se ha vuelto una expresión personal y social, señala la clase social, y la visibilidad aumento con las redes sociales. Las empresas de la industria Textil son conscientes de la importancia en el cuidado de sus telas para ser relevantes en el mercado, pues las empresas de la industria de la Moda y Confección crean sus productos en tiempos específicos y en grandes cantidades. Sin embargo, es evidente que muchos no pueden gestionar sus inventarios sin tener pedidas por la destrucción de la integridad de sus telas.
+
+##### What?
+
+##### When?
+
+##### Where?
+
+##### Who?
+
+##### Why?
+
+##### How?
+
+##### How much?
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
