@@ -178,6 +178,22 @@ Hemos identificado que, tanto las empresas de confección como los distribuidore
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
+
+Segmento 1: 
+Entrevista 1:
+Datos del entrevistado
+Nombre: Juan
+Apellidos: Garces
+Edad: 23
+Distrito: San Martin de Porres
+
+URL:
+
+Inicio: 0:18
+Duracion: 6:17
+
+Resumen: Juan, encargado de gestionar el inventario de telas en su empresa, describe su rol como responsable de mantener el inventario en condiciones óptimas, coordinando el almacenamiento y supervisando la calidad. Destaca la importancia de controlar factores ambientales como temperatura, humedad y plagas para preservar la calidad de las telas. Enfrenta desafíos relacionados con la fluctuación ambiental y la gestión de plagas. La falta de control adecuado ha llevado a problemas como la degradación de telas y retrasos en la producción. María usa sistemas tecnológicos para el monitoreo y gestión del inventario, pero busca mejoras en integración y alertas en tiempo real. Valora la automatización por su precisión y eficiencia y anticipa una mayor automatización en el futuro, con tecnologías avanzadas como IA y IoT. La adopción de nuevas tecnologías se basa en la integración con sistemas existentes, escalabilidad y soporte técnico. También se preocupa por la integración con los sistemas actuales y la capacitación del personal. Está abierta a colaborar con proveedores para mejorar las plataformas tecnológicas según las necesidades de la empresa.
+
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
