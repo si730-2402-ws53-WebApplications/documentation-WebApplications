@@ -167,35 +167,51 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
 
 ##### What?
 
+###### ¿Que problema se resuelve?
+
+###### ¿Que relacion tiene el problema con los clientes?
+
 ##### When?
+
+###### ¿Cuándo sucede el problema?
+
+###### ¿Cuándo el producto sera util?
 
 ##### Where?
 
+###### ¿Dónde se encuentra el cliente al usar el producto?
+
 ##### Who?
+
+###### ¿Quienes son los afectados por el problema?
+
+###### ¿Quienes utilizaran nuestro producto?
 
 ##### Why?
 
+###### ¿Por qué hay que hacerlo?
+
+###### ¿Por qué los clientes elegiran nuestro producto?
+
 ##### How?
 
-* ¿Cómo nos descubren nuestros clientes?
+- ¿Cómo nos descubren nuestros clientes?
 
-Nuestros clientes pueden conocer nuestra plataforma a través de una amplia variedad de estrategias publicitarias principalmente en línea, como anuncios en redes sociales, banners en sitios web y campañas de email. Además, la recomendación boca a boca por parte de clientes anteriores o actuales. 
+Nuestros clientes pueden conocer nuestra plataforma a través de una amplia variedad de estrategias publicitarias principalmente en línea, como anuncios en redes sociales, banners en sitios web y campañas de email. Además, la recomendación boca a boca por parte de clientes anteriores o actuales.
 
-* ¿Cómo pueden los clientes acceder a nuestro contenido?
+- ¿Cómo pueden los clientes acceder a nuestro contenido?
 
 El acceso a la plataforma sera sencillo y flexible. Los clientes podrán conectarse a través de cualquier dispositivo, ya sea un teléfono inteligente, tablet, laptop o computadora de escritorio. Además, las funcionalidades serán las mismas desde todos los dispositivos.
 
-* ¿Qué factores llevan a los clientes a elegirnos?
+- ¿Qué factores llevan a los clientes a elegirnos?
 
-Los clientes se sentirán atraídos hacia nuestra plataforma debido a que combinamos la gestión tradicional de inventarios con la innovación de almacenes inteligentes. Los clientes podran tener acceso y control en tiempo real a factores críticos como la temperatura, humedad y otros parámetros, a través de sensores y controladores que serán instalados estratégicamente. Nuestra plataforma facilita el monitereo de las telas, lo que evita la contratación de personal adicional, lo que a su vez, puede ayudar a ahorrar recursos a nuestros clientes y así destinar estos a otras áreas, mejorando la calidad del producto final y costos operativos. 
-
+Los clientes se sentirán atraídos hacia nuestra plataforma debido a que combinamos la gestión tradicional de inventarios con la innovación de almacenes inteligentes. Los clientes podran tener acceso y control en tiempo real a factores críticos como la temperatura, humedad y otros parámetros, a través de sensores y controladores que serán instalados estratégicamente. Nuestra plataforma facilita el monitereo de las telas, lo que evita la contratación de personal adicional, lo que a su vez, puede ayudar a ahorrar recursos a nuestros clientes y así destinar estos a otras áreas, mejorando la calidad del producto final y costos operativos.
 
 ##### How much?
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1277479531925737556/image.png?ex=66cd5106&is=66cbff86&hm=494b53c2fd46c461810d60956b6a2cec8ebd9f301e7d4b58148f47ed3f8fffbc&">  
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1277479531925737556/image.png?ex=66cd5106&is=66cbff86&hm=494b53c2fd46c461810d60956b6a2cec8ebd9f301e7d4b58148f47ed3f8fffbc&">
 
-Durante el 2024 el sector textil peruano ha experimentado cierto crecimiento, debido en gran parte al invierno, sin embargo no estan surgiendo nuevos puestos de trabajo en el mismo, y es que, según una encuesta realizada por la SNI (Sociedad Nacional de Industrias), en el sector de textil y confecciones el 40% de los empresarios encuestados manifestó haber operado en el II trimestre 2024 a un nivel mayor al alcanzado en el mismo periodo del año anterior; mientras el 33% señaló haber producido a un nivel similar. A pesar de ello, en el corto plazo los empresarios de este sector se mantienen cautos para contratar más personal. 
-
+Durante el 2024 el sector textil peruano ha experimentado cierto crecimiento, debido en gran parte al invierno, sin embargo no estan surgiendo nuevos puestos de trabajo en el mismo, y es que, según una encuesta realizada por la SNI (Sociedad Nacional de Industrias), en el sector de textil y confecciones el 40% de los empresarios encuestados manifestó haber operado en el II trimestre 2024 a un nivel mayor al alcanzado en el mismo periodo del año anterior; mientras el 33% señaló haber producido a un nivel similar. A pesar de ello, en el corto plazo los empresarios de este sector se mantienen cautos para contratar más personal.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
