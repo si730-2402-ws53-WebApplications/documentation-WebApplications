@@ -167,31 +167,31 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
 
 ##### What?
 
-###### ¿Que problema se resuelve?
+- ¿Que problema se resuelve?
 
-###### ¿Que relacion tiene el problema con los clientes?
+- ¿Que relacion tiene el problema con los clientes?
 
 ##### When?
 
-###### ¿Cuándo sucede el problema?
+- ¿Cuándo sucede el problema?
 
-###### ¿Cuándo el producto sera util?
+- ¿Cuándo el producto sera util?
 
 ##### Where?
 
-###### ¿Dónde se encuentra el cliente al usar el producto?
+- ¿Dónde se encuentra el cliente al usar el producto?
 
 ##### Who?
 
-###### ¿Quienes son los afectados por el problema?
+- ¿Quienes son los afectados por el problema?
 
-###### ¿Quienes utilizaran nuestro producto?
+- ¿Quienes utilizaran nuestro producto?
 
 ##### Why?
 
-###### ¿Por qué hay que hacerlo?
+- ¿Por qué hay que hacerlo?
 
-###### ¿Por qué los clientes elegiran nuestro producto?
+- ¿Por qué los clientes elegiran nuestro producto?
 
 ##### How?
 
