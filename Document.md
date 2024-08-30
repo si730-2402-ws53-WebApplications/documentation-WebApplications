@@ -171,6 +171,7 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
   Las empresas en el rubro textil tienen que mantener controlados los almacenes donde guardan su mercancía, pues un nivel más alto de humedad, existencia de insectos como polillas o la temperatura puede dañar la integridad de las telas. Esto significaría menos ingresos y baja confianza con los clientes, cosas que una empresa respetable no puede permitir. En otras palabras, necesitan una herramienta que permita monitorear en tiempo real las características del lugar donde se almacenaran las telas.
 
 - ¿Que relacion tiene el problema con los clientes?
+  Las empresas que distribuyan la tela desearan tener una solución a este problema para los supervisores del inventario y para la alta dirección, pues las consecuencias del cuidado inadecuado afectan la económica de la empresa y su reputación. Se convertirán en un mal producto y nadie lo comprara.
 
 ##### When?
 
