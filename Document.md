@@ -184,18 +184,23 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
 ##### Where?
 
 - ¿Dónde se encuentra el cliente al usar el producto?
+  El cliente puede estar en cualquier lugar mientras tenga un dispositivo electrónico y acceso a internet.
 
 ##### Who?
 
 - ¿Quienes son los afectados por el problema?
+  Los afectados son todos los miembros de una organización o empresa que distribuye telas, pues el problema causa daños a la integridad de las telas y al ser este un mal producto no será fácil vender ni ganar la confianza de los posibles clientes, esto causará un daño económico que puede terminar con despidos o cierre.
 
 - ¿Quienes utilizaran nuestro producto?
+  Los que estarán más interesados son los empleados encargados del almacén e inventario, también otro tipo de personal encargada de la calidad y transporte, entre otros estarán interesados en un programa que confirme el cuidado óptimo de las telas.
 
 ##### Why?
 
 - ¿Por qué hay que hacerlo?
+  Estamos comprometidos a solucionar los problemas que otros softwares sobre gestión de inventario no pueden solucionar porque no se especializan en el producto guardado, se enfocan en tener una lista de inventario con sus facturas, olvidando que un inventario necesita tener las condiciones adecuadas si no quiere que se malogre el producto guardado. Nuestra empresa lo solucionara con un equipo comprometido.
 
 - ¿Por qué los clientes elegiran nuestro producto?
+  Conocerán los beneficios de una herramienta especializada, le ayudaremos no solo en la gestión de inventario sino también en el correcto mantenimiento del espacio para almacenar telas. Este problema escala con la cantidad y la diferencia será más notoria al compararnos con otros softwares.
 
 ##### How?
 
