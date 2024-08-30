@@ -175,7 +175,8 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
 
 ##### When?
 
-- ¿Cuándo sucede el problema?
+- ¿Cuándo ocurre el problema?
+  El ambiente óptimo para depositar las telas en el almacén debe ser constante, pues en una empresa no todos los productos se venden hasta no dejar sin existencia, generalmente el almacén contiene un producto. En otras palabras, si no quieres que tu producto guardado se malogre y no preparas el ambiente para la siguiente adquisición de tela, debes tomar precauciones de manera constante para que no ocurra el problema.
 
 - ¿Cuándo el producto sera util?
 
