@@ -179,6 +179,7 @@ Desde tiempos antiguos, la importancia de la ropa involucra aspectos sociales, c
   El ambiente óptimo para depositar las telas en el almacén debe ser constante, pues en una empresa no todos los productos se venden hasta no dejar sin existencia, generalmente el almacén contiene un producto. En otras palabras, si no quieres que tu producto guardado se malogre y no preparas el ambiente para la siguiente adquisición de tela, debes tomar precauciones de manera constante para que no ocurra el problema.
 
 - ¿Cuándo el producto sera util?
+  Nuestro software de gestión de inventario de telas, le permitirá mantenerse informado de todas las condiciones actuales del almacén, pues si algo no está dentro del rango aceptable como la humedad, temperatura o luz solar se le enviara notificación, junto con las herramientas necesarias para la gestión de inventarios pues está diseñada para almacenes que guarden la tela.
 
 ##### Where?
 
