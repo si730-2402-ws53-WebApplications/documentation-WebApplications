@@ -181,7 +181,7 @@ Hemos identificado que, tanto las empresas de confección como los distribuidore
 
 **Segmento 1:** Encargados del inventario de empresas de confección.
 
-Entrevista 1:
+1. Entrevista 1:
 
 Datos del entrevistado
 Nombre: Juan
@@ -196,7 +196,40 @@ Duracion: 6:17
 
 Resumen: Juan, encargado de gestionar el inventario de telas en su empresa, describe su rol como responsable de mantener el inventario en condiciones óptimas, coordinando el almacenamiento y supervisando la calidad. Destaca la importancia de controlar factores ambientales como temperatura, humedad y plagas para preservar la calidad de las telas. Enfrenta desafíos relacionados con la fluctuación ambiental y la gestión de plagas. La falta de control adecuado ha llevado a problemas como la degradación de telas y retrasos en la producción. María usa sistemas tecnológicos para el monitoreo y gestión del inventario, pero busca mejoras en integración y alertas en tiempo real. Valora la automatización por su precisión y eficiencia y anticipa una mayor automatización en el futuro, con tecnologías avanzadas como IA y IoT. La adopción de nuevas tecnologías se basa en la integración con sistemas existentes, escalabilidad y soporte técnico. También se preocupa por la integración con los sistemas actuales y la capacitación del personal. Está abierta a colaborar con proveedores para mejorar las plataformas tecnológicas según las necesidades de la empresa.
 
+2.  Entrevista 2: <br>
+    Datos del entrevistado <br>
+    Nombre: Natalie <br>
+    Apellidos: Casas<br>
+    Edad: 23 <br>
+    Distrito: Los Olivos <br>
+
+![Foto de entrevista](https://cdn.discordapp.com/attachments/1275939183327711244/1279572479853072394/image.png?ex=66d4ee3c&is=66d39cbc&hm=8c8f872f64cbacfd17a0caa0cae5640fd7f66fddc4fa24749e45e5af80698b5a&)
+
+URL: [Link de entrevista](https://drive.google.com/file/d/1URbPtL2fp3i8rMZujeILmk02iV5b-mEl/view?usp=sharing "Entrevista 1")
+
+Inicio: 0:18<br>
+Duracion: 9:04
+
+Resumen:
+Se entrevisto a Natalie, una graduada en la carrera de administración nos comenta que en su trabajo como supervisora de un almacén para guardar telas su prioridad es verificar que se entregue la tela en buen estado. Nos advierte que existen riesgos ambientales y que pueden ocasionar perdidas, por ello en su trabajo hay horarios estrictos para verificar las condiciones ambientales del almacén y actuar en consecuencia. Solo usan Excel para ayudarles al cuidado de su producto, pero los trabajadores se sienten interesados en un programa que facilite esta tarea. Considera interesante que un software que ayude en la gestión de inventario tenga la capacidad de ayudarlos también en mantener el ambiente de los almacenes en condiciones óptimas.
+
 **Segmento 2:** Distribuidores de telas.
+
+1.  Entrevista 1: <br>
+    Datos del entrevistado <br>
+    Nombre: Giovanna<br>
+    Apellidos: Arteaga Ayala <br>
+    Edad: 53<br>
+    Distrito: San Isidro<br>
+
+![Foto de entrevista](https://cdn.discordapp.com/attachments/1275939183327711244/1279579295286558851/image.png?ex=66d4f495&is=66d3a315&hm=f211bb894d9d53f3185b620c5d10836c66eaf43fd195266da54075cbfca8d116&)
+
+URL: [Link de entrevista](https://drive.google.com/file/d/1zEs0fcH9lJ1IZVDoWmw7VmuNru3xV8-z/view?usp=sharing "Entrevista 1")
+
+Inicio: 0:12<br>
+Duracion: 10:07
+
+Resumen:
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
