@@ -568,6 +568,15 @@ Basándonos en las entrevistas, concluimos que los responsables de la gestión d
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
+
+A continuacion se presentran los User Journey Mapping.
+
+SEGMENTO DISTRINUIDORES DE TELAS: Aquí para el segmento de distribuidores de telas se presenta el viaje del usuario
+<img src="https://media.discordapp.net/attachments/1275939655635959848/1279922179202351115/Customer_journey_map_1_2.png?ex=66d633eb&is=66d4e26b&hm=e975c7bbfd06d8dbb314d0edbbfbcd4f8e46147c4dc0b93a820139089e3f453b&=&format=webp&quality=lossless&width=833&height=662"/>
+
+SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el segmento de encargados del inventario de empresas de confección. se presenta el viaje del usuario
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279922235087388744/Customer_journey_map_1_3.png?ex=66d633f8&is=66d4e278&hm=d934dd382929c7fc4158cf460e45fda244c6bd9591b12376aa6c6974ea1dff30&"/>
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
