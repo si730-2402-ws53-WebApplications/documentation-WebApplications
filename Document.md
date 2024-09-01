@@ -36,7 +36,7 @@
 
 ## Project Report Collaboration Insights
 
-URL de la organización del proyecto: [https://github.com/omele7/Markdown-Aplicaciones-Web]
+URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications]
 
 **TB1**
 |Integrante|Tareas Asignadas|
@@ -300,6 +300,39 @@ User Outcomes:
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+* **Hypothesis Statement 01:**
+
+  **Creemos que** proporcionar una plataforma web de gestión de inventarios textiles con monitoreo en tiempo real y control de condiciones ambientales ayudará a los distribuidores de telas a mantener la calidad de sus productos y reducir las pérdidas por deterioro.
+
+  **Sabremos que** hemos tenido éxito
+
+  **Cuando** observemos una reducción significativa en las pérdidas de material debido a condiciones ambientales adversas y un aumento en la satisfacción de los usuarios con la plataforma, medido por un incremento en el uso continuo de las funcionalidades de monitoreo.
+
+* **Hypothesis Statement 02:**
+
+  **Creemos que** implementar un sistema de detección y alerta temprana de plagas dentro de la plataforma web permitirá a las empresas de confección proteger su inventario de manera más efectiva, mejorando la calidad del producto final.
+
+  **Sabremos que** hemos tenido éxito
+
+  **Cuando** veamos una disminución en los informes de pérdidas de inventario causadas por plagas y un aumento en los comentarios positivos sobre la calidad del producto preservado, así como una mayor retención de clientes.
+
+* **Hypothesis Statement 03:**
+
+  **Creemos que** ofrecer una interfaz intuitiva y herramientas de análisis detallado dentro de la plataforma permitirá a los usuarios optimizar la logística y la administración de sus recursos, mejorando la eficiencia operativa.
+
+  **Sabremos que** hemos tenido éxito
+
+  **Cuando** se vea una mejora en los tiempos de respuesta en la gestión de inventarios y una reducción en los errores operativos, reflejado en un aumento en la productividad reportada por los usuarios.
+
+* **Hypothesis Statement 04:**
+
+  **Creemos que** adaptando la plataforma a las necesidades específicas del manejo de textiles, y ofreciendo funciones especializadas, aumentará la adopción por parte de empresas del rubro textil.
+
+  **Sabremos que** hemos tenido éxito
+
+  **Cuando** observemos un aumento en el número de empresas de confección que adoptan la plataforma, junto con un incremento 
+
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
 
 
