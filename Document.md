@@ -236,7 +236,84 @@ Hemos identificado que, tanto las empresas de confección como los distribuidore
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
-<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>  
+
+**Segmento:** Encargados del inventario de empresas de confección.
+
+   1. Descripción del Rol:  
+   ¿Podría describir su rol en la empresa y su relación con la gestión y almacenamiento de telas?  
+
+   2. Importancia del Control de Factores Ambientales:  
+   ¿Qué tan críticos son factores como la temperatura, humedad y control de plagas en la preservación de la calidad de las telas que manejan?  
+
+   3. Desafíos Actuales:  
+   ¿Cuáles son los mayores desafíos que enfrenta en el monitoreo y mantenimiento del almacenamiento de las telas?  
+
+   4. Consecuencias de una Gestión Inadecuada:  
+   ¿Ha tenido experiencias donde la falta de monitoreo haya resultado en pérdidas o degradación de telas?  
+
+   5. Necesidades Tecnológicas:  
+   ¿Qué tipo de herramientas o sistemas utiliza para el control de inventarios y condiciones ambientales? ¿Qué mejoras desearía obtener?  
+
+   6. Impacto de la Innovación:  
+   ¿Qué tan dispuesto estaría a implementar una solución tecnológica que permita el control en tiempo real de la temperatura, humedad y otras condiciones en sus almacenes?  
+
+   7. Evaluación de Procedimientos Manuales vs Automatizados:   
+   ¿Cree que exista alguna diferencia notoria entre el uso de procedimientos manuales y automatizados en la gestión y almacenamiento de telas? ¿Qué impacto cree que genera cada uno?
+
+   8. Visión Futura del Almacén:  
+   ¿Cómo imagina la evolución de los procesos de gestión de almacenes en los próximos años?  
+
+   9. Adopción de Nuevas Tecnologías:  
+   ¿Qué factores consideraría más importantes al evaluar la adopción de una nueva plataforma de gestión de almacenes?  
+
+   10. Expectativas de Personalización:  
+   ¿Qué tan importante es para usted que una solución tecnológica se pueda adaptar a las necesidades y procesos de su empresa?  
+ 
+   11. Preocupaciones:  
+   ¿Qué podría generar dudas a la hora de implementar nuevas tecnologías para la gestión del almacén?  
+
+   12. Retroalimentación y Mejora Continua:
+   Si implementara una nueva herramienta, ¿qué tan dispuesto estaría a colaborar con el proveedor para mejorar la plataforma en función de sus necesidades? 
+
+**Segmento:** Distribuidores de telas.
+
+   1. Descripción del Negocio:  
+   ¿Podría describir cómo funciona su proceso de distribución de telas y qué tipos de telas maneja mayoritariamente?  
+
+   2. Gestión del Inventario en Tránsito:   
+   ¿Qué tan importante es para usted el monitoreo de condiciones ambientales como la temperatura y humedad a la hora de almacenar las telas? 
+
+   3. Desafíos en la Logística de Distribución:  
+   ¿Cuáles son los mayores desafíos logísticos que enfrenta a la hora de evitar la degradación del material y mantener así su calidad?  
+
+   4. Impacto de las Condiciones de Almacenamiento:  
+   ¿Ha tenido problemas en los que las telas sufrieron daños debido a las condiciones en el almacén antes de ser distribuidas? ¿Cómo afectó esto a su negocio?  
+
+   5. Expectativas de Calidad del Cliente:  
+   ¿Qué tan exigentes son sus clientes en cuanto a la calidad de las telas que reciben? ¿Cómo asegura que se cumplan estas exigencias?  
+
+   6. Herramientas de Control Actuales:  
+   ¿Qué herramientas utiliza actualmente para monitorear las condiciones ambientales en su almacén y durante la distribución?  
+
+   7. Innovación en la Distribución:  
+   ¿Qué tan interesado estaría en una solución que no solo gestione el inventario, sino que también monitoree en tiempo real las condiciones que podrían afectar la calidad de las telas?  
+
+   8. Relación con Proveedores de soluciones:  
+   ¿Cómo selecciona actualmente a sus proveedores de soluciones para la gestión de su negocio?  
+
+   9. Futuro del negocio:  
+   ¿Cómo ve la evolución del negocio de distribución de telas en los próximos años? ¿Qué cambios espera implementar para mantenerse vigente?  
+
+   10. Personalización de Soluciones:  
+   ¿Qué tan importante es para usted contar con una solución tecnológica que pueda ajustarse a los procesos específicos de su empresa? 
+ 
+   11. Preocupaciones de Seguridad:  
+   ¿Qué preocupaciones tiene respecto a la seguridad de las telas durante el almacenamiento? ¿Cómo aborda estos desafíos actualmente?  
+
+   12. Colaboración con Proveedor de Soluciones:  
+   Si adoptara una nueva herramienta para mejorar la gestión y mejora del almacenamiento, ¿estaría dispuesto a trabajar en conjunto con la empresa para asegurar que la herramienta cumpla con todas sus necesidades?  
+
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas</h4></div>
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
