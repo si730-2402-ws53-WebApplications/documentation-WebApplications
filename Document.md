@@ -423,6 +423,9 @@ User Outcomes:
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+
+
+
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>  
 
