@@ -307,6 +307,78 @@ User Outcomes:
 | **What's the most important thing we need to learn first?**                                                        |<ul><li>Conocer la arquitectura del software de la solución, considerando las capas y componentes que la conforman (Base de Datos, Backend, Frontend, Landing Page).</li><li>Conocer las herramientas necesarias para aprovechar el uso de entrevistas y estudios de usuario.</li><li>Conocer las nociones y herramientas necesarias para el desarrollo de los diferentes servicios de la aplicación.</li></ul>                                                                                                                                                                                                                        |
 | **What's the least amount of work we need to do to learn tne next most important thing?**           |<ul><li>Realizar el diseño de una Landing Page sencilla, eficiente y cómoda para que el usuario pueda conocer nuestra propuesta.</li><li>Recopilar información sobre el estudio del mercado objetivo a través de las entrevistas de usuario.</li><li>Realizar el diseño de prototipos y diagramas para expresar de manera gráfica los procesos y funcionalidades que tendrá nuestra aplicación.</li></ul>              |
 <div id='1.3.'><h3> 1.3. Segmento objetivo</h3></div>
+
+<div class="segmento">
+    <h3>Descripción de cada segmento objetivo</h3>
+        <p><strong>Distribuidor de tela</strong></p>
+    <p>Este segmento objetivo de nuestra plataforma está dirigido a distribuidores de tela en Perú que se dedican a la gestión y distribución de sus telas. Su principal enfoque radica en preservar la calidad y el buen estado de las telas, con el objetivo de ofrecer un producto de buena calidad y asegurar la satisfacción de quienes adquieren sus productos. </p>
+    <p><strong>Empresas de confeccion textil</strong></p>
+    <p>El segmento objetivo de nuestra plataforma está dirigido a empresas de confección textil. Estas empresas se caracterizan por su capacidad para transformar materias primas en una amplia gama de productos textiles, a través de procesos complejos y demandantes. Están interesados en la adquisición de material de primera calidad y óptimos para su elaboración o transformación, priorizando a distribudores que les ofrezcan materiales con el menor defecto del este.</p>
+    
+</div>
+
+<div class="segmento">
+    <h3>Datos cuantitativos del problema para cada segmento</h3>
+    <p><strong>Distribuidor de tela</strong></p>
+    <p>Según el Comité Nacional de Conservación Textil (2002), la temperatura y la humedad relativa son factores críticos en la preservación de textiles, ya que las fibras naturales, debido a su capacidad de absorber humedad, reaccionan a las variaciones ambientales. Estos cambios pueden causar hinchazón, encogimiento y eventualmente debilitar las fibras, resultando en roturas o rasgaduras. Una humedad relativa alta, por encima del 70%, no solo acelera el deterioro químico y biológico, sino que también propicia el crecimiento de moho y microorganismos, mientras que una humedad baja, inferior al 30%, puede resecar las fibras, volviéndolas quebradizas y susceptibles de desintegrarse con el tiempo. Las fluctuaciones de temperatura también pueden ser perjudiciales, favoreciendo la corrosión de componentes metálicos y acelerando la descomposición de materiales orgánicos</p>
+    <p><strong>Empresas de confeccion textil</strong></p>
+    <p>Según DELTA, la baja calidad en los productos textiles está estrechamente relacionada con la utilización de equipos obsoletos o inadecuados, lo que afecta directamente la calidad de las telas producidas. Por ejemplo, algunas empresas utilizan máquinas domésticas para probar muestras textiles, lo que no solo resulta en retrasos y pérdidas de material, sino que también impide una inspección adecuada de la calidad de los tejidos. Además, la negativa a comprobar los tejidos adquiridos compromete la integridad de la tela durante la producción, especialmente en la fase de dobladillado, lo que puede causar problemas de dimensiones y llevar a una inevitable pérdida de material. La falta de control sobre la tensión en los tejidos también puede causar deformaciones por estiramiento o contracción, impactando negativamente en la calidad final del producto. Por ello, invertir en soluciones automatizadas y optimizadas se vuelve esencial para garantizar una producción textil de alta calidad, evitando desperdicios y fortaleciendo la posición de la empresa en un mercado competitivo.</p>
+</div>
+    
+<div class="segmento">
+    <h3>Variables geográficas, demográficas y psicológicas para cada segmento</h3>
+    <p><strong>Distribuidor de tela</strong></p>
+    <p>Variable geográfica:</p>
+    <ul>
+        <li>País: Perú</li>
+        <li>Ciudad: Zonas urbanas</li>
+    </ul>
+    <p>Variable demográfica:</p>
+    <ul>
+        <li>Género: Femenino / Masculino.</li>
+        <li>Ocupación: Todas las ocupaciones</li>
+        <li>Estado civil: Todos los estados</li>
+        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 22 años.</li>
+    </ul>
+    <p>Variable psicográfica:</p>
+    <ul>
+        <li>Nivel Socioeconómico (NSE): Nivel A y B</li>
+        <li>Características de personalidad:
+            <ul>
+                <li>Asertivo</li>
+                <li>Transparente</li>
+                <li>Proactivo</li>
+                <li>Perseverante</li>
+            </ul>
+        </li>
+    </ul>
+    <p><strong>Empresas textiles</strong></p>
+    <p>Variable geográfica:</p>
+    <ul>
+        <li>País: Perú</li>
+        <li>Ciudad: Zonas urbanas</li>
+    </ul>
+    <p>Variable demográfica:</p>
+    <ul>
+        <li>Género: Femenino / Masculino.</li>
+        <li>Ocupación: Todas las ocupaciones</li>
+        <li>Estado civil: Todos los estados</li>
+        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años.</li>
+    </ul>
+    <p>Variable psicográfica:</p>
+    <ul>
+        <li>Nivel Socioeconómico (NSE): Nivel A, B y C</li>
+        <li>Características de personalidad:
+            <ul>
+                <li>Responsable</li>
+                <li>Perseverante</li>
+                <li>Orientado a resultados</li>
+                <li>Flexible</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
