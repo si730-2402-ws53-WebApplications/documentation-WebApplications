@@ -560,6 +560,24 @@ Basándonos en las entrevistas, concluimos que los responsables de la gestión d
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
+
+
+| Tarea                                                                                                      | JUAN Frecuencia    | JUAN Importancia | OWEN Frecuencia    | OWEN Importancia |
+| ---------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ---------------- |
+| Monitorear condiciones ambientales (temperatura, humedad)                                                 | A menudo           | Alta             | A menudo           | Alta             |
+| Gestionar la calidad y preservación de las telas                                                            | A menudo           | Alta             | A menudo           | Alta             |
+| Controlar y gestionar plagas en el almacén                                                                  | A veces            | Alta             | Rara vez           | Media            |
+| Implementar y mantener sistemas de monitoreo en tiempo real                                                | A veces            | Alta             | A menudo           | Alta             |
+| Evaluar e integrar nuevas tecnologías y herramientas (IA, IoT)                                              | Mensual            | Media            | Mensual            | Media            |
+| Colaborar con proveedores para adaptar soluciones tecnológicas a las necesidades de la empresa              | A veces            | Alta             | A veces            | Alta             |
+| Capacitar al personal en el uso de nuevas herramientas y tecnologías                                        | A veces            | Media            | A veces            | Media            |
+| Asegurarse de que los sistemas de monitoreo estén bien integrados con los sistemas existentes                | A veces            | Alta             | A veces            | Alta             |
+| Mantener un registro y seguimiento del inventario y las condiciones del almacén                             | A menudo           | Alta             | A menudo           | Alta             |
+| Evaluar la seguridad contra incendios y otras medidas de seguridad en el almacén                            | Rara vez           | Media            | A veces            | Alta             |
+| Adaptar herramientas y sistemas a modelos de negocio específicos                                            | A veces            | Alta             | A veces            | Alta             |
+
+
+
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
