@@ -561,21 +561,19 @@ Basándonos en las entrevistas, concluimos que los responsables de la gestión d
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
-
-| Tarea                                                                                                      | JUAN Frecuencia    | JUAN Importancia | OWEN Frecuencia    | OWEN Importancia |
-| ---------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ---------------- |
-| Monitorear condiciones ambientales (temperatura, humedad)                                                 | A menudo           | Alta             | A menudo           | Alta             |
-| Gestionar la calidad y preservación de las telas                                                            | A menudo           | Alta             | A menudo           | Alta             |
-| Controlar y gestionar plagas en el almacén                                                                  | A veces            | Alta             | Rara vez           | Media            |
-| Implementar y mantener sistemas de monitoreo en tiempo real                                                | A veces            | Alta             | A menudo           | Alta             |
-| Evaluar e integrar nuevas tecnologías y herramientas (IA, IoT)                                              | Mensual            | Media            | Mensual            | Media            |
-| Colaborar con proveedores para adaptar soluciones tecnológicas a las necesidades de la empresa              | A veces            | Alta             | A veces            | Alta             |
-| Capacitar al personal en el uso de nuevas herramientas y tecnologías                                        | A veces            | Media            | A veces            | Media            |
-| Asegurarse de que los sistemas de monitoreo estén bien integrados con los sistemas existentes                | A veces            | Alta             | A veces            | Alta             |
-| Mantener un registro y seguimiento del inventario y las condiciones del almacén                             | A menudo           | Alta             | A menudo           | Alta             |
-| Evaluar la seguridad contra incendios y otras medidas de seguridad en el almacén                            | Rara vez           | Media            | A veces            | Alta             |
-| Adaptar herramientas y sistemas a modelos de negocio específicos                                            | A veces            | Alta             | A veces            | Alta             |
-
+| Task                                                                                                      | JUAN Frequency   | JUAN Importance | OWEN Frequency   | OWEN Importance |
+| ---------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ---------------- | --------------- |
+| Monitorear condiciones ambientales (temperatura, humedad)                                                 | Often            | High            | Often            | High            |
+| Gestionar la calidad y preservación de las telas                                                            | Often            | High            | Often            | High            |
+| Controlar y gestionar plagas en el almacén                                                                  | Sometimes        | High            | Rarely           | Medium          |
+| Implementar y mantener sistemas de monitoreo en tiempo real                                                | Sometimes        | High            | Often            | High            |
+| Evaluar e integrar nuevas tecnologías y herramientas (IA, IoT)                                              | Monthly          | Medium          | Monthly          | Medium          |
+| Colaborar con proveedores para adaptar soluciones tecnológicas a las necesidades de la empresa              | Sometimes        | High            | Sometimes        | High            |
+| Capacitar al personal en el uso de nuevas herramientas y tecnologías                                        | Sometimes        | Medium          | Sometimes        | Medium          |
+| Asegurarse de que los sistemas de monitoreo estén bien integrados con los sistemas existentes                | Sometimes        | High            | Sometimes        | High            |
+| Mantener un registro y seguimiento del inventario y las condiciones del almacén                             | Often            | High            | Often            | High            |
+| Evaluar la seguridad contra incendios y otras medidas de seguridad en el almacén                            | Rarely           | Medium          | Sometimes        | High            |
+| Adaptar herramientas y sistemas a modelos de negocio específicos                                            | Sometimes        | High            | Sometimes        | High            |
 
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
