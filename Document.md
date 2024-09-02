@@ -556,19 +556,51 @@ User Outcomes:
 **Segmento 1: Encargados del inventario de empresas de confección.**
 
 Basándonos en las entrevistas, concluimos que los responsables de la gestión de inventarios de telas enfrentan desafíos importantes relacionados con el control ambiental, como temperatura, humedad y plagas que afectan la calidad del producto. Si bien todos reconocen la importancia de utilizar la tecnología para gestionar y monitorear estos factores, existen diferencias en el grado en que se implementan. Mientras que algunos han adoptado sistemas de tecnología avanzada y buscan una mejor integración y automatización, otros todavía dependen de herramientas básicas y ven la necesidad de un software más sofisticado. Por lo tanto, una plataforma que brinde soluciones tecnológicas integradas para la gestión de inventarios y control ambiental será de gran valor para ellos.
-
-
 **Segmento 2: Distribuidores de telas.**
-
-
-
-
-
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
+
+# Segmento 1 : Encargados del inventario de empresas de confección. (Jeffrey Diaz)
+| *What He Thinks and Feels*                                                                                                    | *What He Sees*                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Necesita mantener las telas en condiciones óptimas, preocupándose por factores ambientales que puedan deteriorarlas.         | Observa que el entorno de almacenamiento a menudo enfrenta problemas con la climatización y la gestión de plagas. |
+| Está interesado en soluciones tecnológicas que ofrezcan un control más preciso y en tiempo real del entorno de almacenamiento. | Nota la existencia de sistemas de gestión de inventarios y sensores ambientales, pero ve margen para mejoras en la integración y precisión. |
+| Experimenta frustraciones debido a fluctuaciones en la temperatura y humedad, y problemas con el control de plagas.            | Ve que la automatización y las tecnologías avanzadas están revolucionando la gestión de almacenes.           |
+
+| *What He Says and Does*                                                                                                   | *What He Hears*                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Habla sobre la necesidad de mejorar el control ambiental y la integración de tecnologías de monitoreo con la gestión de inventarios. | Recibe feedback sobre la necesidad de sistemas más precisos y la importancia de una integración más fluida.                |
+| Utiliza sistemas actuales de gestión y monitoreo, pero está buscando activamente nuevas soluciones que integren mejor ambos aspectos y ofrezcan alertas en tiempo real. | Escucha sobre innovaciones tecnológicas que podrían mejorar el control y la automatización en la gestión de inventarios.  |
+
+| *Pains*                                                                                                                   | *Gains*                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Ha tenido problemas significativos con fallos en la climatización que han llevado a la degradación de telas.                | Una solución moderna que permita el monitoreo en tiempo real y ajuste automático de condiciones ambientales.      |
+| Los sistemas de gestión y monitoreo actuales no siempre ofrecen la integración y alertas necesarias para una gestión eficaz. | Herramientas que integren mejor el control ambiental con la gestión de inventarios, mejorando la eficiencia y reduciendo el riesgo de pérdidas. |
+|                                                                                                                            | Implementación exitosa de tecnologías avanzadas, como inteligencia artificial y sistemas IoT, que pueden predecir y prevenir problemas antes de que causen daños significativos. |
+
+# Segmento 2: Distribuidores de Telas (Owen)
+
+| **What He Thinks and Feels**                                                                                              | **What He Sees**                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Cree firmemente en la importancia de mantener las telas en condiciones óptimas para preservar su calidad y evitar pérdidas económicas. | Ve que el almacenamiento adecuado es crítico para la preservación de la calidad de las telas y que cualquier fallo en las condiciones puede resultar en pérdidas significativas. |
+| Está enfocado en mejorar la eficiencia de sus operaciones mediante la implementación de tecnologías avanzadas como IoT y sistemas de monitoreo en tiempo real. | Nota que la tecnología avanza rápidamente y que muchas soluciones innovadoras están disponibles para mejorar la gestión del almacén. |
+| Se siente motivado a colaborar con otras empresas y buscar soluciones a medida que puedan adaptarse a sus necesidades específicas. | Observa la creciente tendencia hacia la colaboración y la integración de soluciones para optimizar procesos y asegurar estándares de calidad. |
+
+| **What He Says and Does**                                                                                                  | **What He Hears**                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Habla sobre la necesidad de controlar la temperatura y humedad de manera efectiva para evitar la degradación de las telas. | Escucha sobre nuevos desarrollos tecnológicos y soluciones que podrían mejorar el monitoreo y la gestión del ambiente en el almacén. |
+| Utiliza herramientas como controladores de humedad y software de monitoreo continuo y está en busca de proyectos que mejoren la eficiencia y reduzcan errores. | Recibe comentarios sobre la importancia de adoptar tecnologías emergentes y las mejores prácticas en el almacenamiento de telas. |
+| Está dispuesto a adaptar y colaborar con nuevas soluciones que puedan ofrecer una mejora significativa en la calidad y seguridad. | Escucha sobre la necesidad de soluciones que también integren medidas de seguridad contra incendios y que puedan ajustarse a necesidades específicas.. |
+
+| **Pains**                                                                                                               | **Gains**                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Ha enfrentado pérdidas económicas debido a almacenamiento inadecuado y problemas en mantener condiciones óptimas.     | Beneficiarse de tecnologías avanzadas como IoT que proporcionen un monitoreo en tiempo real y ajuste automático para mantener condiciones óptimas. |
+| Los sistemas actuales a veces no ofrecen la precisión y la integración necesarias para una gestión eficiente.          | Implementar soluciones a medida que integren monitoreo, gestión de condiciones ambientales, y medidas de seguridad, mejorando así la eficiencia y reduciendo riesgos. |
+| Existen preocupaciones sobre la seguridad contra incendios que también deben ser abordadas.                            | Colaborar con otras empresas y adoptar nuevas tecnologías que también incluyan medidas efectivas de seguridad contra incendios. |
+
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
