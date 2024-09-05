@@ -671,7 +671,43 @@ Basándonos en las entrevistas, concluimos que los responsables de la gestión d
 <br>
 
 </div> 
-<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4>
+
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+<img src="resources/Mockup-DesktopWebBrowser.png">
+<br>
+
+
+<img src="resources/Mockup-DesktopWebBrowser-Registro.png">
+<br>
+
+
+<img src="resources/Mockup-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-Registro.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p></div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
