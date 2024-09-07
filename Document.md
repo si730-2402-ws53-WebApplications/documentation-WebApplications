@@ -767,6 +767,7 @@ TelaSecure automatiza múltiples aspectos del control y la gestión del inventar
 - **Recordatorios y Mantenimiento**: La plataforma también envía recordatorios para el mantenimiento de equipos de control ambiental y sugiere acciones basadas en el uso y las condiciones detectadas.
 
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+
 En WeaveGuard, hemos diseñado un sistema de etiquetado claro y funcional para nuestra plataforma, con el objetivo de facilitar una navegación intuitiva y eficiente para todos los usuarios. A continuación, se presentan las secciones principales de nuestra plataforma y sus relaciones, cada una adaptada a las necesidades específicas de distribuidores de tela y empresas de confección textil.
 
 ## 1. Inventario
@@ -811,6 +812,7 @@ La sección de Configuración del Usuario permite personalizar la experiencia en
 
 
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+
 Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer a los usuarios adecuados, hemos definido los siguientes datos para cada sección de nuestra plataforma:
 
 ### Página de Inicio
@@ -851,7 +853,6 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 
 
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
-# Sistemas de Búsqueda en WeaveGuard
 
 ## Búsqueda Global
 - **Objetivo**: Permitir a los usuarios realizar búsquedas amplias a través de toda la plataforma de WeaveGuard.
@@ -891,8 +892,6 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 - **Vista de Resultados**: Muestra configuraciones relevantes con opciones para modificar ajustes, gestionar notificaciones, y personalizar la experiencia del usuario.
 
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
-# Sistemas de Navegación en WeaveGuard
-
 ## Página de Inicio (Landing Page)
 - **Estructura**:
   - **Encabezado (Header)**: Incluye el logotipo de WeaveGuard, un menú de navegación principal con enlaces a las secciones clave (Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, Configuración), y un campo de búsqueda.
@@ -1060,7 +1059,7 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
-# Convenciones y Etiquetas en WeaveGuard
+
 
 En esta sección, detallaremos las convenciones y etiquetas específicas que hemos implementado en HTML, CSS y JavaScript para el desarrollo de WeaveGuard. Estas directrices están diseñadas para garantizar una estructura coherente, mejorar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma de gestión de inventario textil. A continuación, describiremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
 
@@ -1162,7 +1161,6 @@ Usamos herramientas de monitoreo para rastrear cambios y recibir alertas sobre p
 
 
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
-# Preparación para el Despliegue
 
 **Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
 
@@ -1174,7 +1172,7 @@ Usamos herramientas de monitoreo para rastrear cambios y recibir alertas sobre p
 
 **Servidor de Producción:** Selecciona un proveedor de hosting confiable y configura el servidor de producción con las especificaciones necesarias para la aplicación.
 
-**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras.
+**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras..
 
 **CI/CD:** Establece un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
 
