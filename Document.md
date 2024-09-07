@@ -1499,5 +1499,23 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 <div id='6.'><h2>Conclusiones</h2></div>
+
+El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desafiante pero gratificante. El equipo demostró un alto nivel de compromiso, colaboración y capacidad para distribuir tareas de manera efectiva, logrando implementar características clave como la Landing Page, el analisis de competidores, los Mockups y el desarrollo de estrategias Lean UX orientadas a mejorar la experiencia del usuario.
+
+A lo largo del proyecto, el grupo adquirió una valiosa experiencia en metodologías de desarrollo web, gestión de proyectos a través de plataformas colaborativas como GitHub y diseño centrado en el usuario. Para proyectos futuros, se seguirá utilizando herramientas de gestión colaborativa, manteniendo una comunicación constante entre los miembros del equipo.
+
+En conclusión, este proyecto fue una experiencia de aprendizaje significativa que permitió al equipo fortalecer sus habilidades técnicas y de trabajo grupal. Las lecciones aprendidas y recomendaciones obtenidas servirán como base sólida para el desarrollo de futuros proyectos enfocados a la creación de soluciones web innovadoras y efectivas.
+
 <div id='7.'><h2>Bibliografía</h2></div>
+
+Manual de conservación (2002). Manual de conservación preventiva de textiles. [https://www.cnct.cl/documentos/manualconservacion.pdf](https://www.cnct.cl/documentos/manualconservacion.pdf)
+
+Delta (2023). Problemas de calidad de los productos textiles: ¿cómo resolverlos?. [https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/](https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/)
+
+Sociedad Nacional de Industrias (2024). Resultados encuesta de opinión industrial (EOI). [https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf](https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf)
+
 <div id='8.'><h2>Anexos</h2></div>
+
+Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
+
+Enlace para el vídeo de exposición: [https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing](https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing)
