@@ -44,11 +44,11 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
 **TB1**
 |Integrante|Tareas Asignadas|
 |-|-|
-|Diego Rolin Acuña Tomas||
-|Diego Ivan Cabrera Buitron||
-|John Telesforo Arevalo Meza||  
-|Godofredo Quispe Tipo| _ Lean UX Canvas. _ Segmentos Objetivos|
-|Valentino Sandoval Paiva||
+|Diego Rolin Acuña Tomas|Landing Page, Service & Applications Implementation|
+|Diego Ivan Cabrera Buitron|_Lean UX Hypothesis. _Estrategias y tácticas frente a competidores. _Software Object-Oriented Design|
+|John Telesforo Arevalo Meza|_Landing Pade UI Design. _Web Aplication UX/UI Design. _Style Guidelines|  
+|Godofredo Quispe Tipo| _Lean UX Canvas. _Segmentos Objetivos|
+|Valentino Sandoval Paiva| _Software Configuration Management. _Information Architecture. _Impact Mapping|
 
 **TB1 Github**
 
