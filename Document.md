@@ -1334,8 +1334,73 @@ En base a los requisitos, hemos seleccionado las siguientes tecnologías para We
   - **Ruta del proyecto**: [Figma - WeaveGuard](https://www.figma.com/)
 
 
-<div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
-<div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
+<div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4>
+En esta sección, nuestro equipo define los métodos y la estructura organizativa para gestionar los cambios usando GitHub como plataforma de control de versiones. Así, hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y colaborar con los miembros del equipo.
+
+## Estructura del Repositorio
+
+Hemos organizado el repositorio en ramas específicas para distintos entornos como desarrollo, pruebas y producción. Las ramas principales y sus propósitos son:
+
+- *Main branch* (rama principal): Contiene la versión estable de producción.
+- *Develop branch*: Contiene el código en desarrollo que se integrará eventualmente en la rama principal.
+
+Para cada nueva funcionalidad, creamos una rama específica siguiendo las convenciones de nomenclatura:
+
+- *Feature branches*: feature/<nombre-feature>
+
+Además, implementamos GitFlow siguiendo el modelo de Vincent Driessen, que incluye la creación de las siguientes ramas:
+
+- *Main branch*: Rama principal con el código estable preparado para producción.
+- *Develop branch*: Rama de desarrollo para integrar nuevas funcionalidades.
+- *Feature branches*: Se crean a partir de develop para añadir nuevas características. Ejemplo de nomenclatura: feature/nueva-funcionalidad.
+
+## Mensajes de Commits
+
+Empleamos Conventional Commits para los mensajes de nuestros commits. Algunos ejemplos son:
+
+- feat: agregar nueva funcionalidad de pago
+- fix: corregir error en la validación del formulario
+- docs: actualizar la documentación de la API
+- style: aplicar formato al código
+- refactor: refactorizar el módulo de autenticación
+- test: añadir pruebas unitarias para el servicio de usuario
+
+Documentación: La documentación se encuentra en el archivo README.md dentro del repositorio.
+
+Backup y Recuperación: Hemos configurado backups automáticos para protegernos contra la pérdida de datos.
+
+Monitoreo: Usamos herramientas de monitoreo para rastrear cambios y recibir alertas sobre problemas en tiempo real.
+</div>
+<div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4>
+### HTML
+
+- Usa nombres de clases e IDs que sean claros y representativos.
+- Indenta el código HTML adecuadamente para facilitar su lectura.
+- Emplea etiquetas semánticas apropiadas (como <header>, <nav>, <main>, <footer>) para mejorar tanto la accesibilidad como el SEO.
+- Añade comentarios para clarificar secciones complejas o importantes del código HTML.
+
+### CSS
+
+- Usa nombres de clases y selectores que sean descriptivos y coherentes.
+- Agrupa propiedades relacionadas y separa diferentes secciones del CSS con comentarios.
+- Prefiere clases en lugar de IDs para estilos que se puedan reutilizar.
+- Incluye prefijos de vendedor y asegúrate de la compatibilidad con distintos navegadores cuando sea necesario.
+- Utiliza unidades relativas (como em, rem, %) siempre que sea posible para mayor flexibilidad y accesibilidad.
+
+### JavaScript
+
+- Usa nombres claros y descriptivos para variables y funciones.
+- Añade comentarios para explicar la lógica compleja o el propósito de las funciones.
+- Usa espacios en blanco y sangrías para hacer el código más legible.
+- Evita crear funciones globales y opta por módulos o patrones de diseño para organizar el código cuando sea posible.
+- Usa camelCase para nombrar variables y funciones.
+
+### Comentarios
+
+- Emplea comentarios para explicar la función de bloques de código, funciones o partes complejas.
+- Mantén los comentarios actualizados conforme el código cambia.
+- Evita comentarios innecesarios o redundantes que no aporten información valiosa.
+</div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
 
 **Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
