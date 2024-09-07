@@ -697,10 +697,12 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 <center><img width=200px src="resources/TelaSecureLogo.png"></center>
 
 ### Tipografía  
-Logo: Monserat  
-https://fonts.google.com/specimen/Montserrat   
-Font size = 48  
-Weights: Bold, Regular, Light.
+
+Escala:  
+En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.  
+- Base: 30 px  
+- Ratio: 2,05  
+- Tipografía: Sulphur Point
 
 ### Elementos gráficos:  
 La estética principal será minimalista, respetando siempre la paleta de colores y buscando resaltar los atributos de la plataforma.
@@ -812,9 +814,35 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 
 </div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p>
+
+<img src="resources/wireframeInventario.png">
+<br>
+<img src="resources/WireframeControlAmbiental.png">
+<br>
+<img src="resources/WireframeReportes-y-Análisis.png">
+<br>
+<img src="resources/wireframeMantenimiento-y-Soporte.png">
+<br>
+<img src="resources/wireframeConfiguracion.png">
+<br>
+
+</div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
-<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4>
+
+<img src="resources/mockupInventario.png">
+<br>
+<img src="resources/mockupControlAmbiental.png">
+<br>
+<img src="resources/mockupReportes-y-Análisis.png">
+<br>
+<img src="resources/mockupMantenimiento-y-Soporte.png">
+<br>
+<img src="resources/mockupConfiguracion.png">
+<br>
+
+</div>
 <div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4></div>
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
