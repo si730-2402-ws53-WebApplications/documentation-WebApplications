@@ -689,6 +689,11 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | US021  | Notificaciones a correo y celular vinculado             | Como usuario de la plataforma, quiero que las notificaciones me lleguen tanto al correo, como a un número de celular vinculado.                                     | **Escenario 1: Notificación exitosa a correo y celular**<br>Dado que el usuario ha registrado un número de celular,<br>Cuando ocurre una notificación importante,<br>Entonces recibe la alerta tanto por correo como por celular.<br><br>**Escenario 2: Error en la recepción de notificaciones**<br>Dado que hay un fallo en el sistema,<br>Cuando ocurre un evento de notificación,<br>Entonces no recibe la alerta.                                 | EP012 - Experiencia en la Landing Page        |
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
+<p align="center">
+
+<img src="resources/Impact map.jpg">
+<br>
+
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 
 | Orden | User Story ID | Título                                               | Descripción                                                                                                                                                                                                                                          | Story Points |
