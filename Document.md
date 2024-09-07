@@ -888,7 +888,23 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
+
+| Sprint #                        | Sprint 1                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      | Sprint 1                                                                                                                                       |
+| Time                            | 6:00 PM                                                                                                                                        |
+| Location                        | Reunion virtual en Meet                                                                                                                        |
+| Prepared by                     | Godofredo Quispe Tipo                                                                                                                          |
+| Attendees (to planning meeting) | Diego Rolin Acuña Tomas, Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva, Godofredo Quispe Tipo              |
+| Sprint Goal & User stories      |                                                                                                                                                |
+| Sprint 1 Goal                   | Diseñar, programar y probar una landing page con una interfaz de usuario intuitiva, concisa y sophisticada para la aplicación web "TelaSecure" |
+| Sprint n Velocity               |                                                                                                                                                |
+| Sum of story points             | numero?                                                                                                                                        |
+
 <div id='5.2.1.2.'><h5> 5.2.1.2.Sprint Backlog 1</h5></div>
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1281955160570204272/image.png?ex=66dd9947&is=66dc47c7&hm=05e0734ca474da51fc0c0ac50feaed9efb828d5650e2640d01a2389b854a0f9a&">
+
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
