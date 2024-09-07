@@ -708,9 +708,81 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
-<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframes</h4>
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+<img src="resources/Wireframe-DesktopWebBrowser.png">
+<br>
+
+
+<img src="resources/Wireframe-DesktopWebBrowser-Registro.png">
+<br>
+
+
+<img src="resources/Wireframe-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="resources/Wireframe-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="resources/Wireframe-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="resources/Wireframe-MobileWebBrowser-Registro.png">
+<br>
+
+<img width=300px src="resources/Wireframe-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</div> 
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4>
+
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+<img src="resources/Mockup-DesktopWebBrowser.png">
+<br>
+
+
+<img src="resources/Mockup-DesktopWebBrowser-Registro.png">
+<br>
+
+
+<img src="resources/Mockup-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+</p>
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-Menu.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-Registro.png">
+<br>
+
+<img width=300px src="resources/Mockup-MobileWebBrowser-InicioSesion.png">
+<br>
+
+</div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p></div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 <div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4></div>
