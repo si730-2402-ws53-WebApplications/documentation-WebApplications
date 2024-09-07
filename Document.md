@@ -778,9 +778,217 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+
+
+Nuestro propósito es ofrecer una solución integral que optimice la gestión del inventario textil y el control ambiental en los almacenes. Nuestra plataforma, diseñada con tecnologías avanzadas, busca abordar los problemas críticos que enfrentan las empresas del sector textil y de confección. A continuación, se detalla la estructura visual y funcional de nuestra plataforma, diseñada para adaptarse a nuestros dos segmentos objetivos: Distribuidores de Tela y Empresas de Confección Textil.
+
+## 1. Registro y Configuración del Perfil
+
+El proceso inicia con el acceso a la plataforma TelaSecure. Los usuarios, ya sean distribuidores de tela o empresas de confección, se registran y configuran su perfil. Esto incluye ingresar información relevante sobre sus operaciones, como el tipo de telas, las condiciones óptimas de almacenamiento y los objetivos de gestión de inventario. La personalización del Dashboard permite ajustar la visualización de datos y alertas según las necesidades específicas.
+
+## 2. Monitoreo y Control Ambiental
+
+TelaSecure ofrece herramientas avanzadas para el monitoreo en tiempo real de la temperatura y la humedad en los almacenes. Los usuarios pueden:
+
+- **Distribuidores de Tela**: Acceder a un mapa visual del almacén que muestra la ubicación de los sensores ambientales y ajustar los parámetros según las necesidades específicas de las telas que manejan. Reciben alertas sobre condiciones fuera de rango para tomar acciones preventivas.
+
+- **Empresas de Confección Textil**: Monitorear y controlar las condiciones del ambiente del almacén para asegurar la calidad de las telas en cada etapa de la producción. La plataforma proporciona datos históricos y análisis sobre cómo las variaciones ambientales afectan la calidad de los materiales.
+
+## 3. Gestión de Inventario
+
+La plataforma facilita la gestión del inventario a través de:
+
+- **Registro y Seguimiento**: Registro detallado de entradas y salidas de materiales con actualizaciones en tiempo real para ambos segmentos. Los distribuidores y las empresas de confección pueden optimizar su stock y planificación de recursos.
+
+- **Reportes y Análisis**: Generación de reportes personalizados sobre el estado del almacén y el inventario. Esto incluye informes sobre la eficiencia de la gestión y el impacto de las condiciones ambientales en la calidad de los materiales.
+
+## 4. Automatización y Notificaciones
+
+TelaSecure automatiza múltiples aspectos del control y la gestión del inventario:
+
+- **Alertas en Tiempo Real**: Notificaciones instantáneas sobre cambios en las condiciones ambientales o irregularidades en el inventario. Esto permite una respuesta rápida para prevenir pérdidas y ajustar los parámetros de almacenamiento.
+
+- **Recordatorios y Mantenimiento**: La plataforma también envía recordatorios para el mantenimiento de equipos de control ambiental y sugiere acciones basadas en el uso y las condiciones detectadas.
+
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+
+En WeaveGuard, hemos diseñado un sistema de etiquetado claro y funcional para nuestra plataforma, con el objetivo de facilitar una navegación intuitiva y eficiente para todos los usuarios. A continuación, se presentan las secciones principales de nuestra plataforma y sus relaciones, cada una adaptada a las necesidades específicas de distribuidores de tela y empresas de confección textil.
+
+## 1. Inventario
+
+La sección de Inventario es el núcleo de la gestión de materiales en WeaveGuard. Aquí, los usuarios pueden crear, visualizar y administrar el inventario de telas y otros productos. Esta sección incluye herramientas para:
+
+- **Registro de Entradas y Salidas**: Añadir nuevos materiales, registrar su ubicación y actualizar los niveles de stock en tiempo real.
+- **Categorías y Etiquetas**: Clasificar telas y productos según tipo, características y condiciones de almacenamiento, facilitando la búsqueda y el seguimiento.
+- **Historial de Movimientos**: Revisar el historial completo de entradas y salidas para un control detallado y auditable.
+
+## 2. Control Ambiental
+
+La sección de Control Ambiental está diseñada para gestionar las condiciones de almacenamiento, cruciales para mantener la calidad de las telas. Incluye:
+
+- **Monitoreo en Tiempo Real**: Visualizar datos actuales de temperatura y humedad a través de gráficos y mapas del almacén.
+- **Alertas y Notificaciones**: Recibir alertas automáticas sobre condiciones fuera de rango y eventos críticos, como fallos en los sensores.
+- **Configuración de Parámetros**: Ajustar los umbrales de temperatura y humedad según las necesidades específicas de cada tipo de tela.
+
+## 3. Reportes y Análisis
+
+La sección de Reportes y Análisis ofrece un conjunto de herramientas para evaluar el rendimiento y el estado del inventario y el entorno. Aquí los usuarios pueden:
+
+- **Generación de Reportes**: Crear informes detallados sobre el estado del inventario, el control ambiental y los eventos recientes.
+- **Análisis de Tendencias**: Revisar gráficos y datos históricos para identificar patrones y posibles problemas recurrentes.
+- **Optimización de Recursos**: Analizar la eficiencia del uso de espacio y la rotación de inventario para mejorar la gestión.
+
+## 4. Mantenimiento y Soporte
+
+La sección de Mantenimiento y Soporte se enfoca en asegurar el buen funcionamiento de la plataforma y los equipos asociados. Incluye:
+
+- **Gestión de Equipos de Control**: Registrar el mantenimiento y las actualizaciones de sensores y otros dispositivos de monitoreo.
+- **Soporte Técnico**: Acceder a guías, tutoriales y asistencia directa para resolver problemas técnicos y responder a consultas.
+- **Registro de Incidencias**: Documentar y seguir el progreso de problemas reportados y solicitudes de soporte.
+
+## 5. Configuración del Usuario
+
+La sección de Configuración del Usuario permite personalizar la experiencia en WeaveGuard según las preferencias individuales y de equipo. Ofrece opciones para:
+
+- **Preferencias de Visualización**: Ajustar la disposición del dashboard, los colores y los widgets según las necesidades personales.
+- **Notificaciones y Alertas**: Configurar qué tipos de alertas y notificaciones recibir y cómo se presentan.
+- **Seguridad y Acceso**: Gestionar configuraciones de seguridad, como la autenticación en dos pasos y permisos de usuario.
+
+
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+
+Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer a los usuarios adecuados, hemos definido los siguientes datos para cada sección de nuestra plataforma:
+
+### Página de Inicio
+- **Title**: WeaveGuard - Gestión de Inventario y Control Ambiental para la Industria Textil
+- **Meta Description**: WeaveGuard ofrece una solución integral para el control de inventario y condiciones ambientales en el sector textil. Mejora la calidad de tus telas con monitoreo en tiempo real, alertas automáticas y gestión avanzada de inventarios.
+- **Keywords**: gestión de inventario textil, control ambiental de telas, software para el sector textil, monitoreo de temperatura y humedad, gestión de almacenes textiles.
+- **Author**: WeaveGuard Team
+
+### Inventario
+- **Title**: Gestión de Inventario de Telas
+- **Meta Description**: Optimiza la administración de tu inventario textil con WeaveGuard. Registra entradas y salidas de materiales, organiza tus telas por categorías, y mantiene un historial detallado para un control eficiente.
+- **Keywords**: administración de inventario, gestión de telas, registro de entradas y salidas, categorización de productos, historial de inventario.
+- **Author**: WeaveGuard Team
+
+### Control Ambiental
+- **Title**: Control Ambiental para Almacenes Textiles
+- **Meta Description**: Monitorea y ajusta las condiciones de almacenamiento de tus telas con WeaveGuard. Accede a datos en tiempo real de temperatura y humedad, recibe alertas y ajusta parámetros para mantener la calidad óptima de tus materiales.
+- **Keywords**: monitoreo de temperatura y humedad, control ambiental textil, gestión de condiciones de almacén, alertas de condiciones críticas, optimización del entorno de almacenamiento.
+- **Author**: WeaveGuard Team
+
+### Reportes y Análisis
+- **Title**: Reportes y Análisis del Inventario Textil
+- **Meta Description**: Genera reportes detallados con WeaveGuard para analizar el estado de tu inventario y las condiciones ambientales. Obtén insights valiosos para mejorar la eficiencia y tomar decisiones informadas.
+- **Keywords**: reportes de inventario, análisis de datos textil, generación de informes, evaluación del estado de almacén, insights de gestión.
+- **Author**: WeaveGuard Team
+
+### Mantenimiento y Soporte
+- **Title**: Mantenimiento y Soporte de Equipos en WeaveGuard
+- **Meta Description**: Asegura el óptimo funcionamiento de tus equipos de control ambiental con WeaveGuard. Accede a guías de mantenimiento, soporte técnico y registros de incidencias para una gestión efectiva.
+- **Keywords**: mantenimiento de equipos, soporte técnico, gestión de incidencias, guía de mantenimiento, optimización de herramientas.
+- **Author**: WeaveGuard Team
+
+### Configuración del Usuario
+- **Title**: Configuración y Personalización en WeaveGuard
+- **Meta Description**: Personaliza tu experiencia en WeaveGuard con opciones avanzadas de configuración. Ajusta notificaciones, gestiona permisos de acceso y adapta la plataforma a tus necesidades específicas.
+- **Keywords**: configuración de usuario, personalización de plataforma, ajustes de notificaciones, gestión de permisos, preferencias de usuario.
+- **Author**: WeaveGuard Team
+
+
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+
+## Búsqueda Global
+- **Objetivo**: Permitir a los usuarios realizar búsquedas amplias a través de toda la plataforma de WeaveGuard.
+- **Ubicación**: En el encabezado o el panel lateral de la aplicación.
+- **Funcionalidad**: Los usuarios pueden ingresar términos de búsqueda para encontrar información en todas las secciones de la plataforma, incluyendo Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, y Configuración.
+- **Sugerencias en Tiempo Real**: Muestra sugerencias mientras el usuario escribe, basadas en términos de búsqueda comunes y resultados previos relacionados con el inventario textil, condiciones ambientales, y soporte técnico.
+- **Vista de Resultados**: Muestra una lista de resultados categorizados por tipo de contenido, como Inventario, Control Ambiental, Reportes, Documentos de Soporte, y Configuración.
+
+## Búsqueda en Inventario
+- **Objetivo**: Facilitar la localización de telas, registros de entradas y salidas, y detalles específicos del inventario.
+- **Ubicación**: En la sección de Inventario.
+- **Funcionalidad**: Permite buscar por nombre de tela, categoría, fecha de entrada/salida, o código de inventario.
+- **Vista de Resultados**: Muestra los registros de inventario relevantes junto con detalles como ubicación en el almacén, cantidad disponible, y estado de la tela.
+
+## Búsqueda en Control Ambiental
+- **Objetivo**: Permitir a los usuarios localizar configuraciones y datos relacionados con las condiciones ambientales del almacén.
+- **Ubicación**: En la sección de Control Ambiental.
+- **Funcionalidad**: Permite buscar por tipo de configuración de temperatura y humedad, eventos de alerta, o registros de cambios en las condiciones.
+- **Vista de Resultados**: Muestra eventos y configuraciones relevantes con detalles como fecha, tipo de evento, y parámetros ambientales.
+
+## Búsqueda en Reportes
+- **Objetivo**: Facilitar la localización de informes y análisis específicos sobre el inventario y condiciones ambientales.
+- **Ubicación**: En la sección de Reportes.
+- **Funcionalidad**: Permite buscar por tipo de reporte, fecha, o palabras clave contenidas en los informes.
+- **Vista de Resultados**: Muestra reportes relevantes con opciones para ver, editar o exportar, incluyendo análisis de eficiencia y estado del inventario.
+
+## Búsqueda en Mantenimiento y Soporte
+- **Objetivo**: Facilitar la localización de guías de mantenimiento, incidencias registradas, y soporte técnico relacionado con los equipos de control ambiental.
+- **Ubicación**: En la sección de Mantenimiento y Soporte.
+- **Funcionalidad**: Permite buscar por tipo de incidencia, fecha de registro, o términos en las guías de mantenimiento.
+- **Vista de Resultados**: Muestra registros de incidencias y guías de mantenimiento con detalles como fecha de reporte, tipo de problema, y acciones recomendadas.
+
+## Búsqueda en Configuración del Usuario
+- **Objetivo**: Permitir a los usuarios encontrar ajustes y configuraciones personalizadas de su perfil y preferencias.
+- **Ubicación**: En la sección de Configuración.
+- **Funcionalidad**: Permite buscar por tipo de ajuste, notificaciones, o permisos de usuario.
+- **Vista de Resultados**: Muestra configuraciones relevantes con opciones para modificar ajustes, gestionar notificaciones, y personalizar la experiencia del usuario.
+
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+
+**Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
+
+**Control de Versiones:** Emplea una herramienta de control de versiones, como Git, para mantener un historial de modificaciones y facilitar el manejo de diferentes versiones.
+
+**Pruebas Automatizadas:** Implementa pruebas automatizadas para garantizar que no existan errores en la aplicación antes de su despliegue.
+
+**Entorno de Staging:** Configura un entorno de staging que replique el entorno de producción para llevar a cabo pruebas finales previas al despliegue.
+
+**Servidor de Producción:** Selecciona un proveedor de hosting confiable y configura el servidor de producción con las especificaciones necesarias para la aplicación.
+
+**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras.
+
+**CI/CD:** Establece un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
+
+**Monitoreo y Registro:** Implementa soluciones para monitorear y registrar el rendimiento de la aplicación, permitiendo la detección rápida de problemas.
+
+**Backup y Recuperación:** Establece procedimientos de backup y recuperación para proteger los datos de los usuarios y garantizar la continuidad del negocio.
+
+**Documentación:** Documenta todo el proceso de despliegue y mantenimiento para que cualquier miembro del equipo pueda comprenderlo y gestionarlo.
+
+
+## Registro e Inicio de Sesión
+- **Estructura**:
+  - **Formulario de Registro**: Campos para nombre, correo electrónico, contraseña, y otros datos necesarios para crear una cuenta.
+  - **Formulario de Inicio de Sesión**: Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
+- **Acción del Usuario**:
+  - **Nuevos Usuarios**: Completar el registro para acceder al panel principal de WeaveGuard.
+  - **Usuarios Recurrentes**: Ingresar credenciales para acceder a su cuenta y comenzar a usar la plataforma.
+
+## Panel Principal (Dashboard)
+- **Estructura**:
+  - **Menú Lateral o Superior**: Enlaces a las secciones de Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, y Configuración.
+  - **Resumen de Actividades**: Vista general que muestra inventario actual, alertas ambientales recientes, y notificaciones importantes.
+  - **Widgets Personalizables**: Herramientas para acceso rápido a datos clave y funciones como estadísticas de inventario y alertas ambientales.
+- **Acción del Usuario**:
+  - **Interacción Inicial**: Explorar el panel para acceder a los inventarios, gestionar alertas, y revisar notificaciones.
+  - **Acceso a Secciones**: Utilizar el menú para navegar a otras secciones de la plataforma según las necesidades.
+
+## Sección de Inventario
+- **Estructura**:
+  - **Lista de Inventario**: Muestra registros de telas, cantidades disponibles, y detalles de entradas y salidas.
+  - **Detalles del Inventario**: Información sobre cada tipo de tela, ubicación en el almacén, y estado.
+  - **Opciones de Gestión**: Crear, editar y actualizar registros de inventario.
+- **Acción del Usuario**:
+  - **Gestión del Inventario**: Añadir nuevas telas, actualizar el estado de los registros y revisar las existencias.
+
+## Sección de Control Ambiental
+- **Estructura**:
+  - **Configuración Ambiental**: Ajustes para temperatura, humedad, y otros parámetros del almacén.
+  - **Historial de Datos**: Registro de datos y eventos relacionados con las condiciones ambientales.
+
+
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframes</h4>
 
 ##### Desktop Web Browser:
@@ -916,9 +1124,67 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+
+
+En esta sección, detallaremos las convenciones y etiquetas específicas que hemos implementado en HTML, CSS y JavaScript para el desarrollo de WeaveGuard. Estas directrices están diseñadas para garantizar una estructura coherente, mejorar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma de gestión de inventario textil. A continuación, describiremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
+
+## Definición de Requisitos
+Antes de comenzar el desarrollo, es esencial definir claramente los requisitos de WeaveGuard. Esto incluye las funcionalidades clave que queremos ofrecer, tales como:
+- **Monitoreo de Condiciones Ambientales**: Seguimiento de temperatura y humedad en tiempo real.
+- **Historial de Fumigación**: Registro de fechas y detalles de tratamientos de fumigación.
+- **Ubicación de Tela**: Sistema para la localización precisa de productos dentro del almacén.
+- **Integración de Inteligencia Artificial**: Para optimizar la ubicación de las telas y evaluar las condiciones del ambiente.
+
+## Elección de la Tecnología
+En base a los requisitos, hemos seleccionado las siguientes tecnologías para WeaveGuard:
+- **Frontend**: React para una interfaz de usuario dinámica y receptiva que facilite la interacción del usuario con las funciones de monitoreo y gestión.
+- **Backend**: Express.js sobre Node.js, proporcionando una solución robusta para manejar la lógica del servidor y las operaciones con la base de datos.
+- **Base de Datos**: PostgreSQL para almacenar información crítica sobre importaciones, exportaciones, y condiciones de almacenamiento.
+
+## Configuración del Entorno de Desarrollo
+- **Editor de Código**: Visual Studio Code
+  - **Propósito**: Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
+  - **Ruta de descarga**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Control de Versiones**: Git, con repositorios en GitHub.
+  - **Propósito**: Gestión de versiones y colaboración en el código.
+  - **Ruta de descarga**: [Git](https://git-scm.com/)
+  - **Repositorio**: [GitHub - WeaveGuard](https://github.com/WeaveGuard)
+- **Pruebas**: Jest para pruebas unitarias y Cypress para pruebas end-to-end.
+  - **Propósito**: Validación exhaustiva de la funcionalidad del software.
+  - **Ruta de descarga**: [Jest](https://jestjs.io/) | [Cypress](https://www.cypress.io/)
+  - **Nota**: Las pruebas unitarias se documentan utilizando lenguaje Gherkin para mejorar la claridad y comprensión.
+
+## Diseño y Desarrollo
+- **UI/UX**: Crear una interfaz amigable y accesible para los usuarios.
+  - **Herramienta**: Figma
+  - **Propósito**: Diseño de prototipos y interfaces de usuario.
+  - **Ruta del proyecto**: [Figma - WeaveGuard](https://www.figma.com/)
+
+
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
+
+**Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
+
+**Control de Versiones:** Emplea una herramienta de control de versiones, como Git, para mantener un historial de modificaciones y facilitar el manejo de diferentes versiones.
+
+**Pruebas Automatizadas:** Implementa pruebas automatizadas para garantizar que no existan errores en la aplicación antes de su despliegue.
+
+**Entorno de Staging:** Configura un entorno de staging que replique el entorno de producción para llevar a cabo pruebas finales previas al despliegue.
+
+**Servidor de Producción:** Selecciona un proveedor de hosting confiable y configura el servidor de producción con las especificaciones necesarias para la aplicación.
+
+**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras..
+
+**CI/CD:** Establece un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
+
+**Monitoreo y Registro:** Implementa soluciones para monitorear y registrar el rendimiento de la aplicación, permitiendo la detección rápida de problemas.
+
+**Backup y Recuperación:** Establece procedimientos de backup y recuperación para proteger los datos de los usuarios y garantizar la continuidad del negocio.
+
+**Documentación:** Documenta todo el proceso de despliegue y mantenimiento para que cualquier miembro del equipo pueda comprenderlo y gestionarlo.
+
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
