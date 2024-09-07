@@ -1489,7 +1489,41 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 |                                                                 | main   | b812346    | added login.html and register.html                                                       | added login.html and register.html                                                       | 07/09/2024         |
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
-<div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5>
+
+Durante el primer sprint del proyecto TelaSecure, logramos un avace parcial de la lading page, donde los potenciales usuarios pueden visualiar aspectos como visisón y misión de la empresa, beneficios, características, etc. El trabajo en equipo fue y seguira siendo fundamental para seguir llevando el proyecto por buen camino.
+
+Sección de inicio de sesión:  
+Dentro de la sección, los usuarios pueden agregar el correo y contraseña pertinentes, y en caso de no tener acceso, se sugerirá registrarse. Asi mismo, se encuentra la barra de navegación, con atajos a diferentes secciones, y el footer con las redes sociales de la empres.  
+<br>
+<img src="resources/Mockup-DesktopWebBrowser-InicioSesion.png">
+<br>
+
+Sección Registro:  
+En esta sección, el usuario puede registrarse rellenando todos los datos de manera acorde. Además, cuenta con el footer y barra de navegación al igual que en inicio de sesión. 
+<br>
+<img src="resources/Mockup-DesktopWebBrowser-Registro.png">
+<br>
+
+Sección inicio:  
+En esta sección se recibe a los usuarios con un eslogan atractivo y una pequeña descripción, lo que invita a averiguar más sobre TelaSecure.
+<br>
+<img src="resources/heroSection.png">
+<br>
+
+Sección principales características:  
+En esta sección, se muestra al usuario las principales características de TelaSecure y qué es lo que ofrece.
+<br>
+<img src="resources/principalesBeneficios.png">
+<br>
+Sección Beneficios, Nosotros, y lanzar:  
+En estas secciones, el usuario puede seguir viendo los beneficios del proyecto, además de conocer más sobre los creadores de la misma. Por otro lado, en la sección de lanzar, pueden acceder rápidamente al registro. 
+<br>
+<img src="resources/beneficios_nosotros_footer.png">
+<br>
+
+
+</div>
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
