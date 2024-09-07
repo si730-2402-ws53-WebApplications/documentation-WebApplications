@@ -30,9 +30,12 @@
 
 | Versión | Fecha    | Autor | Descripción de la modificación |
 | ------- | -------- | ----- | ------------------------------ |
-| 1       | 16/08/24 |       |                                |
-|         |          |       |                                |
-|         |          |       |                                |
+| 1       | 16/08/24 |Diego Cabrera| Creación del documento en formato Markdown |
+| 1       | 27/08/24 |Diego Cabrera| Realización del capítulo I y el capítulo IV |
+| 1       | 27/08/24 |Diego Acuña  | Realización del capítulo I, capítulo II y capítulo V |
+| 1       | 28/08/24 |John Arevalo | Realización del capítulo II, capítulo III y capítulo IV |
+| 1       | 29/08/24 |Godofredo Quispe | Realización del capítulo I y capítulo II |
+| 1       | 30/08/24 |Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V |
 
 ## Project Report Collaboration Insights
 
@@ -144,8 +147,8 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                   | Conclusiones |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos. <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
