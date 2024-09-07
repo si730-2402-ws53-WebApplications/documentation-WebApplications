@@ -1,6 +1,6 @@
 # <center>Universidad Peruana de Ciencias Aplicadas</center>
 
-## <center>Desarrollo de Aplicaciones Open Source WS53</center>
+## <center>Aplicaciones Web WS53</center>
 
 <p align="center">
   <img src="resources/UPCLogo.png" alt="UPC" width="150">
