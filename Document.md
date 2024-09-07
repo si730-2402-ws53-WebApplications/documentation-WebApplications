@@ -585,7 +585,7 @@ SEGMENTO DISTRINUIDORES DE TELAS: Aquí para el segmento de distribuidores de te
 <img src="resources/mapping1.png"/>
 
 SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el segmento de encargados del inventario de empresas de confección. se presenta el viaje del usuario
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279922235087388744/Customer_journey_map_1_3.png?ex=66d633f8&is=66d4e278&hm=d934dd382929c7fc4158cf460e45fda244c6bd9591b12376aa6c6974ea1dff30&"/>
+<img src="resourcer/mapping2.png"/>
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
@@ -1368,7 +1368,7 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
   <tr>
     <td>US018</td>
     <td>Landing Page Responsive</td>
-    <td>01</td>
+    <td>03</td>
     <td>Diseño ordenado</td>
     <td>El Landing page se divide en secciones, como descripción, header, beneficios.</td>
     <td>1/2 hora</td>
@@ -1378,7 +1378,7 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
   <tr>
     <td>US018</td>
     <td>Landing Page Responsive</td>
-    <td>02</td>
+    <td>04</td>
     <td>Agregar estilos y imágenes</td>
     <td>Se agregan estilos con CSS para el Header, Footer, entre otros. Y se agrega una carpeta para poner las imágenes.</td>
     <td>1 hora</td>
@@ -1388,7 +1388,7 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
   <tr>
     <td>US019</td>
     <td>Sección nosotros en landing page</td>
-    <td>01</td>
+    <td>05</td>
     <td>Descripción de la startup</td>
     <td>Se agrega la sección "Nosotros" donde se puede ver una descripción de nuestra empresa, su visión y misión. También puede ver los beneficios de nuestro producto y nuestro compromiso.</td>
     <td>1/2 hora</td>
@@ -1398,7 +1398,7 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
   <tr>
     <td>US016</td>
     <td>Link a redes sociales</td>
-    <td>01</td>
+    <td>06</td>
     <td>Botón con hipervínculo a redes sociales en el Footer</td>
     <td>Se agregan hipervínculos en forma de botones con el logo de cada red social en el Footer para redireccionar a nuestras redes sociales.</td>
     <td>1/2 hora</td>
@@ -1408,7 +1408,7 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
   <tr>
     <td>US007</td>
     <td>Conocer TelaSecure</td>
-    <td>01</td>
+    <td>07</td>
     <td>Descripción de nuestro producto</td>
     <td>Agregamos la información de nuestro producto, el enfoque al cuidado de las telas, las ventajas frente a competidores.</td>
     <td>1/2 hora</td>
