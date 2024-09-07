@@ -546,6 +546,14 @@ Basándonos en las entrevistas, concluimos que los responsables de la gestión d
 
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
+En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, DISTRIBUIDOR DE TELAS y ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN. A contunuación se presentra los user person:
+
+**DISTRIBUIDOR DE TELAS:**
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279919261254553600/OwenWanderley_Pinedo.png?ex=66d63133&is=66d4dfb3&hm=28b3c66c85816c37a1a983fa27c782b24f984632c60e00dd2af312af87acba71&"/>
+
+**ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN:**
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279919449499238420/Juan_Jeffrey_Dias_Garces.png?ex=66d63160&is=66d4dfe0&hm=884a1dc6de682efd20d1e43ca0b5acb11d6593f962a89577600357410e5c9698&"/>
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
 | Task                                                                                           | JUAN Frequency | JUAN Importance | OWEN Frequency | OWEN Importance |
