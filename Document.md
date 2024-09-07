@@ -935,10 +935,6 @@ Para esta entrega no fue contemplada la evidencia de documentación de los servi
 
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 
-
-
-
-
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
 
 Para esta entrega no fue contemplada la evidencia de documentación de los servicios
@@ -957,8 +953,32 @@ Durante nuestro primer sprint del desarrollo de nuestro programa TelaSecure, uti
 
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067667334860930/image.png?ex=66de020f&is=66dcb08f&hm=c2b2cff19c7e13ec123c85ee34888c9b4e751ac25621a9db6ed22bc2bff18d21&">
 
-
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
+
+|           Alumno            |               Actividad               |
+| :-------------------------: | :-----------------------------------: |
+|   Diego Rolin Acuña Tomas   |  Realizacion del capitulo I, II y V   |
+| Diego Ivan Cabrera Buitron  |    Realizacion del capitulo I y IV    |
+| John Telesforo Arevalo Meza | Realizacion del capitulo II, III y IV |
+|    Godofredo Quispe Tipo    |    Realizacion del capitulo I y II    |
+|  Valentino Sandoval Paiva   | Realizacion del capitulo III, IV y V  |
+
+En el desarrollo del landing page hemos subido 7 commits para el desarrollo de estilos, secciones, correccion de errores y subida de imagenes.
+
+Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cada miembro:
+
+|           Alumno            | Username (Github) |
+| :-------------------------: | :---------------: |
+|   Diego Rolin Acuña Tomas   |  ComidaRapida007  |
+| Diego Ivan Cabrera Buitron  |      omele7       |
+| John Telesforo Arevalo Meza |    John_Arvlo     |
+|    Godofredo Quispe Tipo    |    GodofredoGT    |
+|  Valentino Sandoval Paiva   |     SoyValzzz     |
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073540178346034/image.png?ex=66de0787&is=66dcb607&hm=cd9be1ea17d72a028018eeced12e269ddd1ccf254a1462bf7c50dc81d6174fc0&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
