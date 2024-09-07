@@ -931,8 +931,16 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 |                                                                 | main   | b812346    | added login.html and register.html                                                       | added login.html and register.html                                                       | 07/09/2024         |
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+
+Durante nuestro primer sprint del desarrollo de nuestro programa TelaSecure, utilizando herramientas como GitHub que nos permite hacer un control de versiones, hemos creado una organización donde creados un repositorio para guardar nuestro documento y otro repositorio para guardar y hacer el despliegue del landing page. En la creación de nuestra página nos enfocamos en diseñarlo por secciones y crear botones para el fácil desplazamiento a estas secciones, para que nuestros clientes puedan acceder fácilmente a la información relevante sobre nuestra empresa emergente y nuestro producto. Junto con herramientas como Trello, nos separamos las tareas y funcionalidades.
+
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
