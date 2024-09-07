@@ -147,8 +147,8 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                   | Conclusiones |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos. <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> | Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea. |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> TB1: Desarrollando el documento, me pareció más importante comprender el problema que nuestro proyecto soluciona. Investigando para el Solution Profile investigue en páginas confiables las consecuencias de este problema y como no permitir sus causas, esto me ayudo a ser una persona activa en las decisiones sobre la investigación de nuestros posibles clientes. En conjunto decidimos cuales serian nuestro Segmento Objetivo y cuales serian los User Story que nuestros clientes realmente valorarían. <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas. <br>**Godofredo Quispe Tipo**<br> TB1: La colaboración con los miembros del equipo fue clave no solo para completar mis propias tareas, sino también para asegurar el progreso general del equipo. Coordiné los puntos críticos en los que era necesario trabajar en conjunto, revisando los avances y comunicando oportunamente cualquier ajuste o mejora que debiera implementarse. Esta coordinación permitió optimizar el flujo de trabajo y mantener la calidad en cada etapa del proyecto. Para facilitar la comunicación, utilizamos dos canales principales: un chat grupal y llamadas por Discord. Estos medios resultaron esenciales para mantener una comunicación fluida y en tiempo real, permitiendo que todos los miembros estuvieran al tanto de los avances y que las decisiones se tomaran de manera rápida y eficiente. La combinación de estos canales aseguró una gestión dinámica de las tareas y permitió resolver problemas de forma ágil, favoreciendo así el cumplimiento de los objetivos. <br>**Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva. | Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> TB1: Unos días después de reunirnos hicimos una reunión virtual para separarnos tareas y objetivos que cumpliríamos en esa semana. Por supuesto que también creamos reuniones para solución dudas y apoyar cuando uno terminaba sus responsabilidades. Todos tuvieron sus oportunidades de opinar y dar sus propias versiones del trabajo, sin embargo, la elección fue por mayoría de opiniones. Pero nadie se quejó, entendíamos que a veces tenemos que ceder para seguir avanzando. <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización <br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo  un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez,  planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos. <br>**Godofredo Quispe Tipo**<br> TB1: A lo largo del proyecto, mantuve una actitud proactiva, tomando la iniciativa en la coordinación de tareas clave y promoviendo la colaboración dentro del equipo. Siempre estuve dispuesto a escuchar las ideas y opiniones de mis compañeros, lo que fomentó un ambiente abierto y enriquecedor. Ante las críticas constructivas, me encargué de analizarlas cuidadosamente y proponer soluciones viables, lo que permitió mejorar continuamente el proyecto. Para garantizar la cooperación y participación efectiva de todos, promoví una integración fluida, revisando avances, ajustando tareas cuando fue necesario, y asegurando una comunicación constante mediante el uso de canales como el chat grupal y las llamadas por Discord. <br>**Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva. | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea. |
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
@@ -1590,8 +1590,49 @@ En estas secciones, el usuario puede seguir viendo los beneficios del proyecto, 
 
 </div>
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+Durante nuestro primer sprint del desarrollo de nuestro programa TelaSecure, utilizando herramientas como GitHub que nos permite hacer un control de versiones, hemos creado una organización donde creados un repositorio para guardar nuestro documento y otro repositorio para guardar y hacer el despliegue del landing page. En la creación de nuestra página nos enfocamos en diseñarlo por secciones y crear botones para el fácil desplazamiento a estas secciones, para que nuestros clientes puedan acceder fácilmente a la información relevante sobre nuestra empresa emergente y nuestro producto. Junto con herramientas como Trello, nos separamos las tareas y funcionalidades.
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282066675201605733/image.png?ex=66de0123&is=66dcafa3&hm=0ddccfae6d03178e9bc7659865a3a3bc41a35278045e6e747945a82e2db03ecc&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282066895234924617/image.png?ex=66de0157&is=66dcafd7&hm=8619f2242d62fccc9930c555ce9165b724c074807b6a3d9b653a2d912c90fd8a&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067299758505994/image.png?ex=66de01b7&is=66dcb037&hm=d71caab7946f9697cb0fa05ad597578b0524ce32f5d9a63145e8497c3c007849&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067622753734716/image.png?ex=66de0204&is=66dcb084&hm=d2b0d009880fb8812fcfd7a96b719d950199c1241e3e1915439e574b8419729a&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067667334860930/image.png?ex=66de020f&is=66dcb08f&hm=c2b2cff19c7e13ec123c85ee34888c9b4e751ac25621a9db6ed22bc2bff18d21&">
+
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
+
+|           Alumno            |               Actividad               |
+| :-------------------------: | :-----------------------------------: |
+|   Diego Rolin Acuña Tomas   |  Realizacion del capitulo I, II y V   |
+| Diego Ivan Cabrera Buitron  |    Realizacion del capitulo I y IV    |
+| John Telesforo Arevalo Meza | Realizacion del capitulo II, III y IV |
+|    Godofredo Quispe Tipo    |    Realizacion del capitulo I y II    |
+|  Valentino Sandoval Paiva   | Realizacion del capitulo III, IV y V  |
+
+En el desarrollo del landing page hemos subido 7 commits para el desarrollo de estilos, secciones, correccion de errores y subida de imagenes.
+
+Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cada miembro:
+
+|           Alumno            | Username (Github) |
+| :-------------------------: | :---------------: |
+|   Diego Rolin Acuña Tomas   |  ComidaRapida007  |
+| Diego Ivan Cabrera Buitron  |      omele7       |
+| John Telesforo Arevalo Meza |    John_Arvlo     |
+|    Godofredo Quispe Tipo    |    GodofredoGT    |
+|  Valentino Sandoval Paiva   |     SoyValzzz     |
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073540178346034/image.png?ex=66de0787&is=66dcb607&hm=cd9be1ea17d72a028018eeced12e269ddd1ccf254a1462bf7c50dc81d6174fc0&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
