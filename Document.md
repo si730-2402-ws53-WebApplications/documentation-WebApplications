@@ -684,6 +684,11 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
+<p align="center">
+
+<img src="resources/Impact map.jpg">
+<br>
+
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
