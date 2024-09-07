@@ -11,8 +11,8 @@
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
-<h4 style="text-align: center;"> Startup:  </h4>
-<h4 style="text-align: center;"> Producto:   </h4>
+<h4 style="text-align: center;"> Startup: WeaveGuard</h4>
+<h4 style="text-align: center;"> Producto: TelaSecure</h4>
 
 ## Integrantes
 
@@ -30,9 +30,12 @@
 
 | Versión | Fecha    | Autor | Descripción de la modificación |
 | ------- | -------- | ----- | ------------------------------ |
-| 1       | 16/08/24 |       |                                |
-|         |          |       |                                |
-|         |          |       |                                |
+| 1       | 16/08/24 |Diego Cabrera| Creación del documento en formato Markdown |
+| 1       | 27/08/24 |Diego Cabrera| Realización del capítulo I y el capítulo IV |
+| 1       | 27/08/24 |Diego Acuña  | Realización del capítulo I, capítulo II y capítulo V |
+| 1       | 28/08/24 |John Arevalo | Realización del capítulo II, capítulo III y capítulo IV |
+| 1       | 29/08/24 |Godofredo Quispe | Realización del capítulo I y capítulo II |
+| 1       | 30/08/24 |Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V |
 
 ## Project Report Collaboration Insights
 
@@ -41,11 +44,11 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
 **TB1**
 |Integrante|Tareas Asignadas|
 |-|-|
-|Diego Rolin Acuña Tomas||
-|Diego Ivan Cabrera Buitron||
-|John Telesforo Arevalo Meza||  
-|Godofredo Quispe Tipo| _ Lean UX Canvas. _ Segmentos Objetivos|
-|Valentino Sandoval Paiva||
+|Diego Rolin Acuña Tomas|Landing Page, Service & Applications Implementation|
+|Diego Ivan Cabrera Buitron|_Lean UX Hypothesis. _Estrategias y tácticas frente a competidores. _Software Object-Oriented Design|
+|John Telesforo Arevalo Meza|_Landing Pade UI Design. _Web Aplication UX/UI Design. _Style Guidelines|  
+|Godofredo Quispe Tipo| _Lean UX Canvas. _Segmentos Objetivos|
+|Valentino Sandoval Paiva| _Software Configuration Management. _Information Architecture. _Impact Mapping|
 
 **TB1 Github**
 
@@ -144,8 +147,8 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                   | Conclusiones |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> <br>**Diego Ivan Cabrera Buitron**<br> <br>**John Telesforo Arevalo Meza**<br> <br>**Godofredo Quispe Tipo**<br> <br>**Valentino Sandoval Paiva**<br> |              |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> TB1: Desarrollando el documento, me pareció más importante comprender el problema que nuestro proyecto soluciona. Investigando para el Solution Profile investigue en páginas confiables las consecuencias de este problema y como no permitir sus causas, esto me ayudo a ser una persona activa en las decisiones sobre la investigación de nuestros posibles clientes. En conjunto decidimos cuales serian nuestro Segmento Objetivo y cuales serian los User Story que nuestros clientes realmente valorarían. <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas. <br>**Godofredo Quispe Tipo**<br> TB1: La colaboración con los miembros del equipo fue clave no solo para completar mis propias tareas, sino también para asegurar el progreso general del equipo. Coordiné los puntos críticos en los que era necesario trabajar en conjunto, revisando los avances y comunicando oportunamente cualquier ajuste o mejora que debiera implementarse. Esta coordinación permitió optimizar el flujo de trabajo y mantener la calidad en cada etapa del proyecto. Para facilitar la comunicación, utilizamos dos canales principales: un chat grupal y llamadas por Discord. Estos medios resultaron esenciales para mantener una comunicación fluida y en tiempo real, permitiendo que todos los miembros estuvieran al tanto de los avances y que las decisiones se tomaran de manera rápida y eficiente. La combinación de estos canales aseguró una gestión dinámica de las tareas y permitió resolver problemas de forma ágil, favoreciendo así el cumplimiento de los objetivos. <br>**Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva. | Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> TB1: Unos días después de reunirnos hicimos una reunión virtual para separarnos tareas y objetivos que cumpliríamos en esa semana. Por supuesto que también creamos reuniones para solución dudas y apoyar cuando uno terminaba sus responsabilidades. Todos tuvieron sus oportunidades de opinar y dar sus propias versiones del trabajo, sin embargo, la elección fue por mayoría de opiniones. Pero nadie se quejó, entendíamos que a veces tenemos que ceder para seguir avanzando. <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización <br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo  un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez,  planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos. <br>**Godofredo Quispe Tipo**<br> TB1: A lo largo del proyecto, mantuve una actitud proactiva, tomando la iniciativa en la coordinación de tareas clave y promoviendo la colaboración dentro del equipo. Siempre estuve dispuesto a escuchar las ideas y opiniones de mis compañeros, lo que fomentó un ambiente abierto y enriquecedor. Ante las críticas constructivas, me encargué de analizarlas cuidadosamente y proponer soluciones viables, lo que permitió mejorar continuamente el proyecto. Para garantizar la cooperación y participación efectiva de todos, promoví una integración fluida, revisando avances, ajustando tareas cuando fue necesario, y asegurando una comunicación constante mediante el uso de canales como el chat grupal y las llamadas por Discord. <br>**Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva. | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea. |
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
@@ -162,10 +165,10 @@ Vision: Como vision, apuntamos a ser la empresa mas conocida y confiable en el d
 | Integrante                                                                                                                                                                                                                             | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="resources/diego.png">                                                                                                                                                                                                        | **Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| <img src="https://cdn.discordapp.com/attachments/1257109045723271192/1275266454484291584/1_whatsapp_image_2022_09_10_at_6_21_27_pm.jpeg?ex=66c543f0&is=66c3f270&hm=ff4e77e9d7155359050d176bdbb843afec0163b5a1189920cefca60fce153d40&"> | **Diego Rolin Acuña Tomas** <br> Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han fascinado las computadoras y como se mostraban en las películas los expertos en informática. Hoy en día entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profesional. También conozco los tipos de base de datos, aprendí SQL server para las bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos.                                                                                                                                                                                                               |
-| <img src="https://cdn.discordapp.com/attachments/1274549420616192020/1281799492122841199/Foto.jpg?ex=66dd084d&is=66dbb6cd&hm=bcd4be9f943779b285910e785e9a188797446366e9b532a2eb2be9dc1f6e4f8d&">                                       | **Godofredo Quispe Tipo** <br> Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.<br><br>Además, poseo un profundo conocimiento en el ámbito de la comunicación de redes, lo que me ha permitido comprender los complejos mecanismos detrás de la interconexión de sistemas y dispositivos. Mi formación en ciencia de datos, con un enfoque en Python, ha sido un pilar fundamental en mi desarrollo profesional, permitiéndome trabajar con grandes volúmenes de datos y obtener valiosos insights. Asimismo, cuento con experiencia en el manejo de Matlab, una herramienta clave en diversos proyectos de análisis y simulación. |
-|                                                                                                                                                                                                                                        | **Valentino Sandoval Paiva** <br> Soy Valentino Sandoval, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| <img width="800" src="https://cdn.discordapp.com/attachments/1274759574087270442/1275491344412053595/Polish_20240820_112102455.jpg?ex=66d53ea1&is=66d3ed21&hm=4d74b0e54a840fca0c6460f8adce4d6ef420390eb0540094698723f3db5f9567&">      | **John Arévalo Meza** <br> Soy John Arévalo y estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <img src="resources/foto-diego.jpeg"> | **Diego Rolin Acuña Tomas** <br> Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han fascinado las computadoras y como se mostraban en las películas los expertos en informática. Hoy en día entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profesional. También conozco los tipos de base de datos, aprendí SQL server para las bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos.                                                                                                                                                                                                               |
+| <img src="resources/foto-godofredo.jpg">                                       | **Godofredo Quispe Tipo** <br> Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.<br><br>Además, poseo un profundo conocimiento en el ámbito de la comunicación de redes, lo que me ha permitido comprender los complejos mecanismos detrás de la interconexión de sistemas y dispositivos. Mi formación en ciencia de datos, con un enfoque en Python, ha sido un pilar fundamental en mi desarrollo profesional, permitiéndome trabajar con grandes volúmenes de datos y obtener valiosos insights. Asimismo, cuento con experiencia en el manejo de Matlab, una herramienta clave en diversos proyectos de análisis y simulación. |
+|                                                                                                                                                                                                                           <img width="800" src="resources/foto-valentino.jpg">        | **Valentino Sandoval Paiva** <br> Soy Valentino Sandoval, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <img width="800" src="resources/foto-john.jpg">      | **John Arévalo Meza** <br> Soy John Arévalo y estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
@@ -225,7 +228,7 @@ Los clientes se sentirán atraídos hacia nuestra plataforma debido a que combin
 
 ##### How much?
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1277479531925737556/image.png?ex=66cd5106&is=66cbff86&hm=494b53c2fd46c461810d60956b6a2cec8ebd9f301e7d4b58148f47ed3f8fffbc&">
+<img src="resources/howmuch.png">
 
 Durante el 2024 el sector textil peruano ha experimentado cierto crecimiento, debido en gran parte al invierno, sin embargo no estan surgiendo nuevos puestos de trabajo en el mismo, y es que, según una encuesta realizada por la SNI (Sociedad Nacional de Industrias), en el sector de textil y confecciones el 40% de los empresarios encuestados manifestó haber operado en el II trimestre 2024 a un nivel mayor al alcanzado en el mismo periodo del año anterior; mientras el 33% señaló haber producido a un nivel similar. A pesar de ello, en el corto plazo los empresarios de este sector se mantienen cautos para contratar más personal.
 
@@ -331,7 +334,7 @@ User Outcomes:
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Business Problem**                                                                      | El problema que enfrentan los usuarios es la falta de un control automatizado sobre la temperatura y la humedad, así como la dificultad para realizar un seguimiento eficiente de los cambios en el almacén y la gestión del stock. Actualmente, se ven obligados a realizar estas tareas manualmente, revisando medidores y utilizando hojas de cálculo para el seguimiento del inventario. Esta situación no solo representa una pérdida de tiempo, sino que también incrementa la probabilidad de cometer errores y dificulta la toma de decisiones rápidas e informadas, lo que puede resultar en pérdidas económicas significativas.                                                                                                                                                                                                                                               |
 | **Business Outcomes**                                                                     | <ul><li>Aumentar la eficiencia y satisfaccion del usuario en el control y gestion del almacen.</li><li>Mejorar la retención de usuarios y la lealtad a la plataforma.</li><li>Establecer normas para instalar sensores y controladores de temperatura y humedad.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Users and Customers**                                                                   | <ul><li>Usuarios: Personas que quieren administra y gestionar su almacen de telas.</li><li>Clientes: TelaSecure,encargado de almacen o director del control de inventarios.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Users and Customers**                                                                   | <ul><li>Usuarios: Personas que quieren administra y gestionar su almacen de telas.</li><li>Clientes: Persona que trabaja en una Empresa Textilera.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **User Benefits**                                                                         | <ul><li>Mejorar el control de la temperatura y la humedad en el almacén, así como realizar un seguimiento eficiente de las existencias para optimizarlas de acuerdo con los materiales almacenados.</li><li>Aumento de la confianza en la plataforma gracias a un mejor control de la temperatura y la humedad dentro del almacén, junto con una gestión eficiente del stock.</li><li>Aumentar la satisfacción al poder monitorear y ajustar los niveles de temperatura y humedad del almacén desde una computadora, además de mejorar el control del inventario de stock..</li></ul>                                                                                                                                                                                                                                                                                                   |
 | **Solution Ideas**                                                                        | <ul><li>Un sistema centralizado que muestre el estado actual del ambiente del almacén y permita ajustes instantáneos.</li><li> Notificaciones para alertar a los usuarios sobre condiciones fuera de rango o cambios en el inventario.</li><li>Funciones que registren las entradas y salidas de materiales, actualizando el inventario en tiempo real.</li><li>Generación de reportes sobre el estado del almacén y del inventario para ayudar en la toma de decisiones</li><li>Recordatorios y sugerencias para el mantenimiento de equipos de control ambiental, basados en su uso y condiciones.</li></ul>                                                                                                                                                                                                                                                                          |
 | **Hypotheses**                                                                            | <ul><li>Creemos que al mejorar la capacidad de los usuarios para controlar el ambiente del almacén y gestionar el inventario desde cualquier lugar con acceso a internet, aumentará su satisfacción y eficiencia. Podrán realizar ajustes en tiempo real según las necesidades específicas de los materiales almacenados, y gestionar el stock de manera intuitiva, simplificando así los procesos y optimizando el funcionamiento del almacén.</li><li>Creemos que aumentar la fidelidad de los clientes y mejorar la retención de usuarios es posible si se les proporcionan herramientas que les permitan gestionar eficientemente el stock y controlar los sensores de temperatura y humedad en sus almacenes. Estas funcionalidades clave facilitan el control preciso del entorno y optimizan la gestión del inventario, lo que impulsa el uso continuo de la solución.</li></ul> |
@@ -414,7 +417,40 @@ User Outcomes:
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
+
+||WeaveGuard|SoftExpert|Datatex|
+|-|-|-|-|
+|**Overview**| Plataforma innovadora enfocada en la gestión y control de productos textiles dentro de almacenes y fábricas. La solución permite a los usuarios realizar un seguimiento eficiente del inventario de telas, incluyendo el monitoreo de las condiciones ambientales, el control de plagas y la seguridad de acceso en los almacenes.|Plataforma integral para la gestión de la excelencia operacional, que ofrece soluciones para la gestión de calidad, procesos, riesgo, y cumplimiento normativo.|Solución ERP desarrollado específicamente para las complejidades de la manufactura textil; abarca la gestión de la cadena de suministro, producción, inventario y control de calidad, todo en un solo sistema.|
+|**Ventajas competitivas**|WeaveGuard está diseñada específicamente para la gestión de almacenes y productos textiles, lo que le permite abordar las necesidades particulares de esta industria (como el control de telas, seguimiento de inventarios, y gestión ambiental).|SoftExpert ofrece una plataforma modular que puede personalizarse para diferentes industrias, lo que permite a las empresas elegir y pagar solo por los módulos que necesitan.|A diferencia de otros ERP genéricos, Datatex está completamente diseñado para las necesidades específicas de la manufactura y la cadena de suministro textil, lo que lo convierte en una herramienta más eficaz para las empresas de este sector.|
+|**Mercado Objetivo**|Empresas dedicadas a la fabricación de telas y productos textiles que necesitan una gestión eficiente de inventarios, almacenaje y control de calidad de los materiales.|Empresas dedicadas a la fabricación de telas y productos textiles que necesitan una gestión eficiente de inventarios, almacenaje y control de calidad de los materiales.|Empresas que gestionan procesos complejos de manufactura textil, desde la materia prima hasta el producto final, que necesitan un ERP especializado para optimizar cada paso del proceso.|
+|**Estrategias de Marketing**|Utilización de redes sociales como LinkedIn, Instagram, y Facebook para llegar a las empresas textiles y confecciones, mostrando casos de uso, beneficios del software, y demostraciones en video.|Contenido educativo como blogs, whitepapers, e-books, y webinars para educar a sus clientes sobre la gestión empresarial y la mejora de procesos.|Publica artículos, estudios de caso, y blogs técnicos que destacan las soluciones específicas para la industria textil, incluyendo la gestión de la cadena de suministro y optimización de la producción.|
+|**Productos y servicios**|Solución para el monitoreo continuo de parámetros como temperatura, humedad, y calidad del aire en almacenes de productos textiles.|Plataforma integrada para la gestión empresarial que incluye módulos para la gestión de procesos, calidad, riesgos, cumplimiento, y recursos humanos.|ERP especializado para la industria textil que gestiona todos los aspectos de la cadena de suministro, desde la planificación de la producción hasta la distribución.|
+|**Precios y costos**|Los precios de la licencia pueden variar según el tamaño del almacén, la cantidad de sensores y la personalización del software.|El modelo de precios suele ser basado en suscripciones anuales, con costos que varían según el número de usuarios y módulos adquiridos. Las tarifas de licencia por usuario pueden empezar desde aproximadamente $1,000 a $3,000 por usuario/año para una solución básica.|Los costos iniciales para una implementación de ERP pueden comenzar desde $50,000 y escalar a cientos de miles de dólares en implementaciones grandes y complejas.|
+|**Canales de distribución**|Plataforma en línea y aplicación móvil.|Plataforma en línea|Plataforma en línea|
+|**Fortalezas**|Enfocada en el sector textil, ofreciendo soluciones diseñadas para abordar los problemas particulares de almacenamiento y gestión de telas.|Ofrece una plataforma integral que abarca desde la gestión de la calidad, cumplimiento normativo y gestión de riesgos.|Proovedor ERP diseñado para la industria textil y de confección, lo que les da una ventaja significativa en términos de funcionalidad específica para este sector.|
+|**Debilidades**|Al estar altamente especializado en la industria textil, WeaveGuard puede tener dificultades para diversificarse o atraer clientes de otros sectores, limitando su mercado potencial y crecimiento.|Sus soluciones, aunque completas, pueden ser percibidas como complejas de implementar, requiriendo tiempo y recursos considerables para su correcta integración, lo que puede desalentar a algunas empresas.|Su software es menos intuitivo y más difícil de usar en comparación con otros ERPs más modernos, lo que puede requerir capacitación adicional para los empleados.|
+|**Oportunidades**|Expandir nuestra presencia a mercados emergentes en Asia, América Latina y África, donde la industria textil está creciendo rápidamente y busca modernizarse con tecnología avanzada.|SoftExpert puede aprovechar su especialización para ayudar a las empresas a cumplir con normativas internacionales en calidad, medio ambiente y seguridad.|Datatex puede capitalizar la tendencia hacia la adopción de software en la nube y SaaS, ofreciendo soluciones más flexibles y accesibles que permiten a las empresas textiles gestionar sus operaciones de manera más eficiente.|
+|**Amenazas**|La entrada de nuevos actores con productos más avanzados o económicos puede erosionar la cuota de mercado de WeaveGuard.|Las constantes actualizaciones en normativas y estándares pueden requerir ajustes continuos en sus soluciones, generando costos adicionales y riesgo de no cumplir con las expectativas de los clientes si no se actualizan a tiempo.|Datatex enfrenta una fuerte competencia de otros proveedores de software ERP especializados y soluciones digitales para la industria textil, lo que puede presionar los precios y reducir sus márgenes de ganancia.|
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+
+**Estratregias**
+
+- Desarrollar y ofrecer soluciones tecnológicas únicas y personalizadas que se adapten a las necesidades específicas de los clientes en la industria textil, destacando características que otros competidores no ofrecen.
+
+- Ofrecer precios competitivos sin comprometer la calidad, posicionándose como una opción de alto valor para empresas textiles que buscan optimizar sus costos operativos.
+
+- Expandir la presencia de WeaveGuard en mercados internacionales para reducir la dependencia de un solo mercado y aumentar la base de clientes.
+
+**Tácticas**
+
+- Personalización de las soluciones para ajustarse a los procesos específicos de cada cliente, creando un valor añadido frente a competidores con productos estandarizados.
+
+- Crear planes de suscripción flexibles que se adapten a las necesidades y tamaño de los clientes, permitiendo escalabilidad.
+
+- Implementar un sistema de atención al cliente ágil, con respuestas rápidas a problemas técnicos y consultas, mejorando la satisfacción del cliente.
+
+- Colaborar con distribuidores y socios locales en mercados clave para facilitar la entrada y mejorar la adaptabilidad a las demandas locales.
 
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
@@ -509,12 +545,12 @@ User Outcomes:
 | Edad                                                                                                                                                                                                                                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Profesión                                                                                                                                                                                                                                                | Administración y Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Departamento                                                                                                                                                                                                                                             | Los Olivos, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| <img src="https://cdn.discordapp.com/attachments/1275939183327711244/1279572479853072394/image.png?ex=66d4ee3c&is=66d39cbc&hm=8c8f872f64cbacfd17a0caa0cae5640fd7f66fddc4fa24749e45e5af80698b5a&" />                                                      | Como segunda entrevistada tenemos a Natalie, una graduada en la carrera de administración nos comenta que en su trabajo como supervisora de un almacén para guardar telas su prioridad es verificar que se entregue la tela en buen estado. Nos advierte que existen riesgos ambientales y que pueden ocasionar perdidas, por ello en su trabajo hay horarios estrictos para verificar las condiciones ambientales del almacén y actuar en consecuencia. Solo usan Excel para ayudarles al cuidado de su producto, pero los trabajadores se sienten interesados en un programa que facilite esta tarea. Considera interesante que un software que ayude en la gestión de inventario tenga la capacidad de ayudarlos también en mantener el ambiente de los almacenes en condiciones óptimas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| <img src="resources/entrevistaNatalie.png" />                                                      | Como segunda entrevistada tenemos a Natalie, una graduada en la carrera de administración nos comenta que en su trabajo como supervisora de un almacén para guardar telas su prioridad es verificar que se entregue la tela en buen estado. Nos advierte que existen riesgos ambientales y que pueden ocasionar perdidas, por ello en su trabajo hay horarios estrictos para verificar las condiciones ambientales del almacén y actuar en consecuencia. Solo usan Excel para ayudarles al cuidado de su producto, pero los trabajadores se sienten interesados en un programa que facilite esta tarea. Considera interesante que un software que ayude en la gestión de inventario tenga la capacidad de ayudarlos también en mantener el ambiente de los almacenes en condiciones óptimas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Nombre entrevistado**                                                                                                                                                                                                                                  | **Matías Munives Santamaria**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Edad                                                                                                                                                                                                                                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Profesión                                                                                                                                                                                                                                                | Ingeniero de Sistemas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Departamento                                                                                                                                                                                                                                             | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279706094083510333/image.png?ex=66d56aac&is=66d4192c&hm=d150930430c996de3e74013c6b1bb1206883b6ddcf85c103f2bc958be6e41ee4&=&format=webp&quality=lossless&width=835&height=289" /> | Como último entrevistado tenemos a Matías; es gerente del almacén de su empresa de confección y supervisa el almacenamiento de telas para garantizar que su calidad esté garantizada y que haya existencias siempre disponibles para la producción. Prioriza la importancia de controlar factores como la temperatura, la humedad y las plagas, ya que pueden afectar negativamente a los materiales. Enfrenta el desafío de monitorear continuamente las condiciones del almacén y lidiar con problemas imprevistos como alta humedad o plagas de insectos. Por falta de una supervisión adecuada, sufrió pérdidas que afectaron la producción y la economía. Matías utiliza tecnología para la gestión de inventario, pero buscaba una mejor integración y acceso a alertas instantáneas. Él cree que la automatización es clave para reducir errores y mejorar la eficiencia, y espera que la gestión de inventario esté más automatizada en el futuro. Al adoptar nuevas tecnologías, se centra en la facilidad de integración, la personalización y la rentabilidad, con especial atención a la capacitación del personal. Está dispuesto a trabajar con proveedores para personalizar las herramientas tecnológicas que satisfagan las necesidades de su negocio. |
+| <img src="resources/entrevistaMatias.png" /> | Como último entrevistado tenemos a Matías; es gerente del almacén de su empresa de confección y supervisa el almacenamiento de telas para garantizar que su calidad esté garantizada y que haya existencias siempre disponibles para la producción. Prioriza la importancia de controlar factores como la temperatura, la humedad y las plagas, ya que pueden afectar negativamente a los materiales. Enfrenta el desafío de monitorear continuamente las condiciones del almacén y lidiar con problemas imprevistos como alta humedad o plagas de insectos. Por falta de una supervisión adecuada, sufrió pérdidas que afectaron la producción y la economía. Matías utiliza tecnología para la gestión de inventario, pero buscaba una mejor integración y acceso a alertas instantáneas. Él cree que la automatización es clave para reducir errores y mejorar la eficiencia, y espera que la gestión de inventario esté más automatizada en el futuro. Al adoptar nuevas tecnologías, se centra en la facilidad de integración, la personalización y la rentabilidad, con especial atención a la capacitación del personal. Está dispuesto a trabajar con proveedores para personalizar las herramientas tecnológicas que satisfagan las necesidades de su negocio. |
 | Duración de todas las entrevistas: 22:51                                                                                                                                                                                                                 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWW8tkL1UxpIs8ShXXuC33IBAeP6mHzhpoi_LS3HFE1aKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sT1ol2]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 **Segmento 2:** Distribuidores de telas.
@@ -534,7 +570,7 @@ User Outcomes:
 | Edad                                                                                                                                                                                                                                                                                     | 25 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Profesión                                                                                                                                                                                                                                                                                | Reservado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Departamento                                                                                                                                                                                                                                                                             | Lima, Perú                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279708003075096608/image.png?ex=66d56c73&is=66d41af3&hm=df51a9d1ae9f6d828156aa8aae50f7dd092c4c4953b518ce08f06d8ca9b811b6&=&format=webp&quality=lossless&width=550&height=222" />                                 | Paco gestiona la distribución de tejidos como algodón, lino, poliéster, seda y lana, asegurando la calidad desde la recepción hasta la entrega a los clientes. Se enfrenta a problemas como el control de la humedad y el calor para evitar daños durante el almacenamiento y el envío de telas ya que estos problemas han dañado la reputación de la empresa. Consciente de las altas expectativas de sus clientes, Paco utiliza sensores para monitorizar el medio ambiente y busca soluciones tecnológicas avanzadas para mejorar la gestión de inventarios y el control de las condiciones ambientales. Espera mayores niveles de automatización en el futuro y apreciaría trabajar con proveedores que puedan brindarle soluciones personalizadas y seguras basadas en las necesidades específicas de su empresa.                                                                                                                                                                                                                                                                                                           |
+| <img src="resources/entrevistaPacoRamirez.png" />                                 | Paco gestiona la distribución de tejidos como algodón, lino, poliéster, seda y lana, asegurando la calidad desde la recepción hasta la entrega a los clientes. Se enfrenta a problemas como el control de la humedad y el calor para evitar daños durante el almacenamiento y el envío de telas ya que estos problemas han dañado la reputación de la empresa. Consciente de las altas expectativas de sus clientes, Paco utiliza sensores para monitorizar el medio ambiente y busca soluciones tecnológicas avanzadas para mejorar la gestión de inventarios y el control de las condiciones ambientales. Espera mayores niveles de automatización en el futuro y apreciaría trabajar con proveedores que puedan brindarle soluciones personalizadas y seguras basadas en las necesidades específicas de su empresa.                                                                                                                                                                                                                                                                                                           |
 | Duración de todas las entrevistas: 27:02                                                                                                                                                                                                                                                 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Ea-8go80rp1EtXvLEj-WppEBJ3TX6tNq39jQvw2_MuTWYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ulfYLQ]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
@@ -553,10 +589,10 @@ Si bien Owen y Paco han utilizado tecnología avanzada, como sensores y software
 En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, DISTRIBUIDOR DE TELAS y ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN. A contunuación se presentra los user person:
 
 **DISTRIBUIDOR DE TELAS:**
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279919261254553600/OwenWanderley_Pinedo.png?ex=66d63133&is=66d4dfb3&hm=28b3c66c85816c37a1a983fa27c782b24f984632c60e00dd2af312af87acba71&"/>
+<img src="resources/userpersona!.png"/>
 
 **ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN:**
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279919449499238420/Juan_Jeffrey_Dias_Garces.png?ex=66d63160&is=66d4dfe0&hm=884a1dc6de682efd20d1e43ca0b5acb11d6593f962a89577600357410e5c9698&"/>
+<img src="resources/userpersona2.png"/>
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
@@ -579,10 +615,10 @@ En esta seccion se presentan las personas que se han identificado como usuarios 
 A continuacion se presentran los User Journey Mapping.
 
 SEGMENTO DISTRINUIDORES DE TELAS: Aquí para el segmento de distribuidores de telas se presenta el viaje del usuario
-<img src="https://media.discordapp.net/attachments/1275939655635959848/1279922179202351115/Customer_journey_map_1_2.png?ex=66d633eb&is=66d4e26b&hm=e975c7bbfd06d8dbb314d0edbbfbcd4f8e46147c4dc0b93a820139089e3f453b&=&format=webp&quality=lossless&width=833&height=662"/>
+<img src="resources/mapping1.png"/>
 
 SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el segmento de encargados del inventario de empresas de confección. se presenta el viaje del usuario
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1279922235087388744/Customer_journey_map_1_3.png?ex=66d633f8&is=66d4e278&hm=d934dd382929c7fc4158cf460e45fda244c6bd9591b12376aa6c6974ea1dff30&"/>
+<img src="resources/mapping2.png"/>
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
@@ -641,7 +677,17 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 #### Link: https://miro.com/app/board/uXjVKisFQ3E=/?share_link_id=689871797552
 
- <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+ <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3>
+ 
+ **Product Backlog:** Una lista priorizada de todas las funcionalidades, características y correciones que el producto necesita. Es el lugar donde se acumulan los requisitos del producto.
+
+**Sprint:** Un ciclo de desarrollo que dura entre una y cuatro semanas, durante el cual el equipo trabaja en un conjunto definido de tareas del Product Backlog.
+
+**Sprint Backlog:** Un subconjunto del Product Backlog que se selecciona para ser completado durante el Sprint. Contiene tareas detalladas que el equipo planea realizar para entregar los incrementos de producto.
+
+**User Story** (Historia de Usuario): Una breve descripción de una funcionalidad desde la perspectiva del usuario final o cliente. Formato: "Como [tipo de usuario], quiero [funcionalidad] para [beneficio]".
+
+ </div>
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 <div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
 
@@ -669,7 +715,7 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | US004  | Visualización en Tiempo Real de Condiciones Ambientales | Como usuario, quiero visualizar en tiempo real la temperatura y la humedad del almacén.                                                                             | **Escenario 1: Visualización exitosa**<br>Dado que el usuario está en el dashboard de monitoreo,<br>Cuando abre la pestaña de condiciones ambientales,<br>Entonces ve los datos de temperatura y humedad en tiempo real.<br><br>**Escenario 2: Error en la visualización de condiciones**<br>Dado que hay un fallo en el sistema,<br>Cuando intenta visualizar los datos,<br>Entonces no se muestran correctamente.                                    | EP002 - Monitoreo de Condiciones Ambientales  |
 | US005  | Alerta de Presencia de Plagas                           | Como usuario, quiero recibir una notificación inmediata si se detectan plagas en el almacén.                                                                        | **Escenario 1: Notificación exitosa de plagas**<br>Dado que el sistema detecta la presencia de plagas,<br>Cuando se confirma la detección,<br>Entonces el usuario recibe una notificación inmediata.<br><br>**Escenario 2: Falsa alarma de plagas**<br>Dado que el sistema detecta una posible plaga,<br>Cuando el análisis es incorrecto,<br>Entonces el usuario recibe una falsa alarma.                                                             | EP003 - Control y Detección de Plagas         |
 | US006  | Historial de Detección de Plagas                        | Como usuario, quiero acceder al historial de detección de plagas en el almacén.                                                                                     | **Escenario 1: Acceso exitoso al historial**<br>Dado que el usuario está en el módulo de control de plagas,<br>Cuando selecciona el historial de detección,<br>Entonces puede visualizar los registros correctamente.<br><br>**Escenario 2: Error en el acceso al historial**<br>Dado que hay un fallo en el sistema,<br>Cuando intenta acceder al historial,<br>Entonces recibe un mensaje de error.                                                  | EP003 - Control y Detección de Plagas         |
-| US007  | Contactar a WeaveGuard                                  | Como usuario que se encuentra en la landing page, quiero contactar al equipo para obtener información.                                                              | **Escenario 1: Contacto exitoso**<br>Dado que el usuario está en la landing page,<br>Cuando completa y envía el formulario de contacto,<br>Entonces el mensaje se envía exitosamente.<br><br>**Escenario 2: Contacto fallido**<br>Dado que el usuario completa el formulario incorrectamente,<br>Cuando intenta enviarlo,<br>Entonces recibe un mensaje de error.                                                                                      | EP012 - Experiencia en la Landing Page        |
+| US007  | Conocer a TelaSecure                                  | Como usuario que se encuentra en la landing page, quiero conocer al equipo para obtener información.                                                              | **Escenario 1: Contacto exitoso**<br>Dado que el usuario está en la landing page,<br>Cuando navega por esta,<br>Entonces encontrará un apartado donde está el equipo de TelaSecure.<br><br>**Escenario 2: Contacto fallido**<br>Dado que el usuario completa el formulario incorrectamente,<br>Cuando navega por esta,<br>Entonces no visualizara al equipo de TelaSecure.                                                                                      | EP012 - Experiencia en la Landing Page        |
 | US008  | Registrar tipo de tela                                  | Como usuario, quiero registrar el tipo de telas que manejo en el almacén.                                                                                           | **Escenario 1: Registro exitoso de tipo de tela**<br>Dado que el usuario ingresa un nuevo tipo de tela,<br>Cuando guarda los detalles,<br>Entonces el sistema almacena el tipo de tela exitosamente.<br><br>**Escenario 2: Registro rechazado**<br>Dado que el usuario ingresa datos inválidos,<br>Cuando intenta guardarlo,<br>Entonces recibe un mensaje de error.                                                                                   | EP001 - Gestión de Inventarios de Telas       |
 | US009  | Agregado de áreas del almacén                           | Como usuario, quiero agregar áreas del almacén.                                                                                                                     | **Escenario 1: Agregado exitoso de áreas**<br>Dado que el usuario quiere agregar una nueva área,<br>Cuando ingresa los detalles y guarda,<br>Entonces la nueva área se agrega correctamente.<br><br>**Escenario 2: Agregado fallido**<br>Dado que los datos son incorrectos,<br>Cuando intenta agregar el área,<br>Entonces recibe un mensaje de error.                                                                                                | EP001 - Gestión de Inventarios de Telas       |
 | US010  | Implementación de un módulo de gestión de pedidos       | Como usuario, quiero un módulo de gestión de pedidos para controlar la entrada y salida de telas.                                                                   | **Escenario 1: Pedido exitoso**<br>Dado que el usuario ingresa un nuevo pedido de telas,<br>Cuando completa el formulario de pedido,<br>Entonces el sistema procesa el pedido exitosamente.<br><br>**Escenario 2: Pedido fallido**<br>Dado que el sistema tiene un fallo,<br>Cuando intenta enviar el pedido,<br>Entonces el usuario recibe un mensaje de error.                                                                                       | Nueva épica: Gestión de Pedidos               |
@@ -686,7 +732,38 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | US021  | Notificaciones a correo y celular vinculado             | Como usuario de la plataforma, quiero que las notificaciones me lleguen tanto al correo, como a un número de celular vinculado.                                     | **Escenario 1: Notificación exitosa a correo y celular**<br>Dado que el usuario ha registrado un número de celular,<br>Cuando ocurre una notificación importante,<br>Entonces recibe la alerta tanto por correo como por celular.<br><br>**Escenario 2: Error en la recepción de notificaciones**<br>Dado que hay un fallo en el sistema,<br>Cuando ocurre un evento de notificación,<br>Entonces no recibe la alerta.                                 | EP012 - Experiencia en la Landing Page        |
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
+<p align="center">
+
+<img src="resources/Impact map.jpg">
+<br>
+
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
+
+| Orden | User Story ID | Título                                               | Descripción                                                                                                                                                                                                                                          | Story Points |
+|-------|---------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US007          | Conocer a TelaSecure                                 | Como usuario, quiero conocer más acerca de TelaSecure para comprender sus beneficios.                                                                                                                                                                | 2            |
+| 2     | US016          | Link a redes sociales                                | Como usuario que se encuentra en la landing page, quiero poder tener un acceso rápido a las redes sociales del proyecto.                                                                                                                             | 2            |
+| 3     | US017          | Links de redirección a secciones                     | Como usuario que se encuentra en la landing page, quiero poder ir directamente a cada sección a través de la barra de navegación.                                                                                                                   | 2            |
+| 4     | US019          | Sección nosotros en landing page                     | Como usuario que se encuentra en la landing page, quiero ver una sección dedicada a la empresa detrás del proyecto.                                                                                                                                   | 2            |
+| 5     | US008          | Registrar tipo de tela                               | Como usuario, quiero registrar el tipo de telas que manejo en el almacén.                                                                                                                                                                            | 3            |
+| 6     | US009          | Agregado de áreas del almacén                        | Como usuario, quiero agregar áreas del almacén para una mejor organización.                                                                                                                                                                          | 3            |
+| 7     | US002          | Actualización de Cantidad de Telas                   | Como usuario, quiero poder actualizar la cantidad de telas en el inventario después de realizar una venta o recibir un nuevo lote.                                                                                                                   | 3            |
+| 8     | US006          | Historial de Detección de Plagas                     | Como usuario, quiero acceder al historial de detección de plagas en el almacén.                                                                                                                                                                      | 3            |
+| 9     | US013          | Configuración de Parámetros de Alerta para Temperatura | Como encargado de almacén, quiero configurar los parámetros de alerta para la temperatura.                                                                                                                                                           | 3            |
+| 10    | US014          | Configuración de Parámetros de Alerta para Humedad   | Como encargado de almacén, quiero configurar los parámetros de alerta para la humedad.                                                                                                                                                               | 3            |
+| 11    | US015          | Alerta de mantenimiento del almacén                  | Como encargado, quiero recibir alertas sobre los mantenimientos programados en el almacén.                                                                                                                                                           | 3            |
+| 12    | US001          | Registro de Telas en Inventario                      | Como usuario de la aplicación, quiero poder registrar nuevas telas en el inventario proporcionando detalles como tipo de tela, cantidad y ubicación en el almacén.                                                                                    | 5            |
+| 13    | US003          | Configuración de Alertas de Temperatura              | Como usuario, quiero configurar alertas de temperatura para recibir notificaciones cuando los niveles estén fuera del rango óptimo.                                                                                                                   | 5            |
+| 14    | US005          | Alerta de Presencia de Plagas                        | Como usuario, quiero recibir una notificación inmediata si se detectan plagas en el almacén.                                                                                                                                                         | 5            |
+| 15    | US011          | Notificaciones de umbrales de temperatura o humedad  | Como encargado de almacén, quiero recibir notificaciones cuando se superen los umbrales de temperatura o humedad.                                                                                                                                    | 5            |
+| 16    | US012          | Seguimiento del historial de movimientos de tela     | Como encargado de almacén, quiero realizar un seguimiento del historial de movimientos de cada rollo de tela.                                                                                                                                        | 5            |
+| 17    | US018          | Landing Page Responsive                              | Como usuario potencial, quiero poder acceder a la landing page desde cualquier dispositivo y que esta se adecue al mismo.                                                                                                                            | 5            |
+| 18    | US020          | Cambiar de cuenta                                    | Como usuario de la plataforma, quiero poder agregar otra cuenta y acceder rápidamente a la misma.                                                                                                                                                    | 5            |
+| 19    | US021          | Notificaciones a correo y celular vinculado          | Como usuario de la plataforma, quiero que las notificaciones me lleguen tanto al correo, como a un número de celular vinculado.                                                                                                                      | 5            |
+| 20    | US004          | Visualización en Tiempo Real de Condiciones Ambientales | Como usuario, quiero visualizar en tiempo real la temperatura y la humedad del almacén.                                                                                                                                                              | 8            |
+| 21    | US010          | Módulo de gestión de pedidos                         | Como usuario, quiero un módulo de gestión de pedidos para controlar la entrada y salida de telas.                                                                                                                                                    | 8            |
+
+
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
@@ -699,12 +776,13 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 <center><img width=200px src="resources/TelaSecureLogo.png"></center>
 
-### Tipografía
+### Tipografía  
 
-Logo: Monserat  
-https://fonts.google.com/specimen/Montserrat  
-Font size = 48  
-Weights: Bold, Regular, Light.
+Escala:  
+En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.  
+- Base: 30 px  
+- Ratio: 2,05  
+- Tipografía: Sulphur Point
 
 ### Elementos gráficos:
 
@@ -744,9 +822,244 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+
+<img src="resources/oSystems.png">
+
+Nuestro propósito es ofrecer una solución integral que optimice la gestión del inventario textil y el control ambiental en los almacenes. Nuestra plataforma, diseñada con tecnologías avanzadas, busca abordar los problemas críticos que enfrentan las empresas del sector textil y de confección. A continuación, se detalla la estructura visual y funcional de nuestra plataforma, diseñada para adaptarse a nuestros dos segmentos objetivos: Distribuidores de Tela y Empresas de Confección Textil.
+
+## 1. Registro y Configuración del Perfil
+
+El proceso inicia con el acceso a la plataforma TelaSecure. Los usuarios, ya sean distribuidores de tela o empresas de confección, se registran y configuran su perfil. Esto incluye ingresar información relevante sobre sus operaciones, como el tipo de telas, las condiciones óptimas de almacenamiento y los objetivos de gestión de inventario. La personalización del Dashboard permite ajustar la visualización de datos y alertas según las necesidades específicas.
+
+## 2. Monitoreo y Control Ambiental
+
+TelaSecure ofrece herramientas avanzadas para el monitoreo en tiempo real de la temperatura y la humedad en los almacenes. Los usuarios pueden:
+
+- **Distribuidores de Tela**: Acceder a un mapa visual del almacén que muestra la ubicación de los sensores ambientales y ajustar los parámetros según las necesidades específicas de las telas que manejan. Reciben alertas sobre condiciones fuera de rango para tomar acciones preventivas.
+
+- **Empresas de Confección Textil**: Monitorear y controlar las condiciones del ambiente del almacén para asegurar la calidad de las telas en cada etapa de la producción. La plataforma proporciona datos históricos y análisis sobre cómo las variaciones ambientales afectan la calidad de los materiales.
+
+## 3. Gestión de Inventario
+
+La plataforma facilita la gestión del inventario a través de:
+
+- **Registro y Seguimiento**: Registro detallado de entradas y salidas de materiales con actualizaciones en tiempo real para ambos segmentos. Los distribuidores y las empresas de confección pueden optimizar su stock y planificación de recursos.
+
+- **Reportes y Análisis**: Generación de reportes personalizados sobre el estado del almacén y el inventario. Esto incluye informes sobre la eficiencia de la gestión y el impacto de las condiciones ambientales en la calidad de los materiales.
+
+## 4. Automatización y Notificaciones
+
+TelaSecure automatiza múltiples aspectos del control y la gestión del inventario:
+
+- **Alertas en Tiempo Real**: Notificaciones instantáneas sobre cambios en las condiciones ambientales o irregularidades en el inventario. Esto permite una respuesta rápida para prevenir pérdidas y ajustar los parámetros de almacenamiento.
+
+- **Recordatorios y Mantenimiento**: La plataforma también envía recordatorios para el mantenimiento de equipos de control ambiental y sugiere acciones basadas en el uso y las condiciones detectadas.
+
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+
+En WeaveGuard, hemos diseñado un sistema de etiquetado claro y funcional para nuestra plataforma, con el objetivo de facilitar una navegación intuitiva y eficiente para todos los usuarios. A continuación, se presentan las secciones principales de nuestra plataforma y sus relaciones, cada una adaptada a las necesidades específicas de distribuidores de tela y empresas de confección textil.
+
+## 1. Inventario
+
+La sección de Inventario es el núcleo de la gestión de materiales en WeaveGuard. Aquí, los usuarios pueden crear, visualizar y administrar el inventario de telas y otros productos. Esta sección incluye herramientas para:
+
+- **Registro de Entradas y Salidas**: Añadir nuevos materiales, registrar su ubicación y actualizar los niveles de stock en tiempo real.
+- **Categorías y Etiquetas**: Clasificar telas y productos según tipo, características y condiciones de almacenamiento, facilitando la búsqueda y el seguimiento.
+- **Historial de Movimientos**: Revisar el historial completo de entradas y salidas para un control detallado y auditable.
+
+## 2. Control Ambiental
+
+La sección de Control Ambiental está diseñada para gestionar las condiciones de almacenamiento, cruciales para mantener la calidad de las telas. Incluye:
+
+- **Monitoreo en Tiempo Real**: Visualizar datos actuales de temperatura y humedad a través de gráficos y mapas del almacén.
+- **Alertas y Notificaciones**: Recibir alertas automáticas sobre condiciones fuera de rango y eventos críticos, como fallos en los sensores.
+- **Configuración de Parámetros**: Ajustar los umbrales de temperatura y humedad según las necesidades específicas de cada tipo de tela.
+
+## 3. Reportes y Análisis
+
+La sección de Reportes y Análisis ofrece un conjunto de herramientas para evaluar el rendimiento y el estado del inventario y el entorno. Aquí los usuarios pueden:
+
+- **Generación de Reportes**: Crear informes detallados sobre el estado del inventario, el control ambiental y los eventos recientes.
+- **Análisis de Tendencias**: Revisar gráficos y datos históricos para identificar patrones y posibles problemas recurrentes.
+- **Optimización de Recursos**: Analizar la eficiencia del uso de espacio y la rotación de inventario para mejorar la gestión.
+
+## 4. Mantenimiento y Soporte
+
+La sección de Mantenimiento y Soporte se enfoca en asegurar el buen funcionamiento de la plataforma y los equipos asociados. Incluye:
+
+- **Gestión de Equipos de Control**: Registrar el mantenimiento y las actualizaciones de sensores y otros dispositivos de monitoreo.
+- **Soporte Técnico**: Acceder a guías, tutoriales y asistencia directa para resolver problemas técnicos y responder a consultas.
+- **Registro de Incidencias**: Documentar y seguir el progreso de problemas reportados y solicitudes de soporte.
+
+## 5. Configuración del Usuario
+
+La sección de Configuración del Usuario permite personalizar la experiencia en WeaveGuard según las preferencias individuales y de equipo. Ofrece opciones para:
+
+- **Preferencias de Visualización**: Ajustar la disposición del dashboard, los colores y los widgets según las necesidades personales.
+- **Notificaciones y Alertas**: Configurar qué tipos de alertas y notificaciones recibir y cómo se presentan.
+- **Seguridad y Acceso**: Gestionar configuraciones de seguridad, como la autenticación en dos pasos y permisos de usuario.
+
+
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+
+Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer a los usuarios adecuados, hemos definido los siguientes datos para cada sección de nuestra plataforma:
+
+### Página de Inicio
+- **Title**: WeaveGuard - Gestión de Inventario y Control Ambiental para la Industria Textil
+- **Meta Description**: WeaveGuard ofrece una solución integral para el control de inventario y condiciones ambientales en el sector textil. Mejora la calidad de tus telas con monitoreo en tiempo real, alertas automáticas y gestión avanzada de inventarios.
+- **Keywords**: gestión de inventario textil, control ambiental de telas, software para el sector textil, monitoreo de temperatura y humedad, gestión de almacenes textiles.
+- **Author**: WeaveGuard Team
+
+### Inventario
+- **Title**: Gestión de Inventario de Telas
+- **Meta Description**: Optimiza la administración de tu inventario textil con WeaveGuard. Registra entradas y salidas de materiales, organiza tus telas por categorías, y mantiene un historial detallado para un control eficiente.
+- **Keywords**: administración de inventario, gestión de telas, registro de entradas y salidas, categorización de productos, historial de inventario.
+- **Author**: WeaveGuard Team
+
+### Control Ambiental
+- **Title**: Control Ambiental para Almacenes Textiles
+- **Meta Description**: Monitorea y ajusta las condiciones de almacenamiento de tus telas con WeaveGuard. Accede a datos en tiempo real de temperatura y humedad, recibe alertas y ajusta parámetros para mantener la calidad óptima de tus materiales.
+- **Keywords**: monitoreo de temperatura y humedad, control ambiental textil, gestión de condiciones de almacén, alertas de condiciones críticas, optimización del entorno de almacenamiento.
+- **Author**: WeaveGuard Team
+
+### Reportes y Análisis
+- **Title**: Reportes y Análisis del Inventario Textil
+- **Meta Description**: Genera reportes detallados con WeaveGuard para analizar el estado de tu inventario y las condiciones ambientales. Obtén insights valiosos para mejorar la eficiencia y tomar decisiones informadas.
+- **Keywords**: reportes de inventario, análisis de datos textil, generación de informes, evaluación del estado de almacén, insights de gestión.
+- **Author**: WeaveGuard Team
+
+### Mantenimiento y Soporte
+- **Title**: Mantenimiento y Soporte de Equipos en WeaveGuard
+- **Meta Description**: Asegura el óptimo funcionamiento de tus equipos de control ambiental con WeaveGuard. Accede a guías de mantenimiento, soporte técnico y registros de incidencias para una gestión efectiva.
+- **Keywords**: mantenimiento de equipos, soporte técnico, gestión de incidencias, guía de mantenimiento, optimización de herramientas.
+- **Author**: WeaveGuard Team
+
+### Configuración del Usuario
+- **Title**: Configuración y Personalización en WeaveGuard
+- **Meta Description**: Personaliza tu experiencia en WeaveGuard con opciones avanzadas de configuración. Ajusta notificaciones, gestiona permisos de acceso y adapta la plataforma a tus necesidades específicas.
+- **Keywords**: configuración de usuario, personalización de plataforma, ajustes de notificaciones, gestión de permisos, preferencias de usuario.
+- **Author**: WeaveGuard Team
+
+
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+
+## Búsqueda Global
+- **Objetivo**: Permitir a los usuarios realizar búsquedas amplias a través de toda la plataforma de WeaveGuard.
+- **Ubicación**: En el encabezado o el panel lateral de la aplicación.
+- **Funcionalidad**: Los usuarios pueden ingresar términos de búsqueda para encontrar información en todas las secciones de la plataforma, incluyendo Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, y Configuración.
+- **Sugerencias en Tiempo Real**: Muestra sugerencias mientras el usuario escribe, basadas en términos de búsqueda comunes y resultados previos relacionados con el inventario textil, condiciones ambientales, y soporte técnico.
+- **Vista de Resultados**: Muestra una lista de resultados categorizados por tipo de contenido, como Inventario, Control Ambiental, Reportes, Documentos de Soporte, y Configuración.
+
+## Búsqueda en Inventario
+- **Objetivo**: Facilitar la localización de telas, registros de entradas y salidas, y detalles específicos del inventario.
+- **Ubicación**: En la sección de Inventario.
+- **Funcionalidad**: Permite buscar por nombre de tela, categoría, fecha de entrada/salida, o código de inventario.
+- **Vista de Resultados**: Muestra los registros de inventario relevantes junto con detalles como ubicación en el almacén, cantidad disponible, y estado de la tela.
+
+## Búsqueda en Control Ambiental
+- **Objetivo**: Permitir a los usuarios localizar configuraciones y datos relacionados con las condiciones ambientales del almacén.
+- **Ubicación**: En la sección de Control Ambiental.
+- **Funcionalidad**: Permite buscar por tipo de configuración de temperatura y humedad, eventos de alerta, o registros de cambios en las condiciones.
+- **Vista de Resultados**: Muestra eventos y configuraciones relevantes con detalles como fecha, tipo de evento, y parámetros ambientales.
+
+## Búsqueda en Reportes
+- **Objetivo**: Facilitar la localización de informes y análisis específicos sobre el inventario y condiciones ambientales.
+- **Ubicación**: En la sección de Reportes.
+- **Funcionalidad**: Permite buscar por tipo de reporte, fecha, o palabras clave contenidas en los informes.
+- **Vista de Resultados**: Muestra reportes relevantes con opciones para ver, editar o exportar, incluyendo análisis de eficiencia y estado del inventario.
+
+## Búsqueda en Mantenimiento y Soporte
+- **Objetivo**: Facilitar la localización de guías de mantenimiento, incidencias registradas, y soporte técnico relacionado con los equipos de control ambiental.
+- **Ubicación**: En la sección de Mantenimiento y Soporte.
+- **Funcionalidad**: Permite buscar por tipo de incidencia, fecha de registro, o términos en las guías de mantenimiento.
+- **Vista de Resultados**: Muestra registros de incidencias y guías de mantenimiento con detalles como fecha de reporte, tipo de problema, y acciones recomendadas.
+
+## Búsqueda en Configuración del Usuario
+- **Objetivo**: Permitir a los usuarios encontrar ajustes y configuraciones personalizadas de su perfil y preferencias.
+- **Ubicación**: En la sección de Configuración.
+- **Funcionalidad**: Permite buscar por tipo de ajuste, notificaciones, o permisos de usuario.
+- **Vista de Resultados**: Muestra configuraciones relevantes con opciones para modificar ajustes, gestionar notificaciones, y personalizar la experiencia del usuario.
+
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+
+## Página de Inicio (Landing Page)
+
+- *Estructura:*
+  - *Encabezado (Header):* Incluye el logotipo de WeaveGuard, un menú de navegación principal con enlaces a las secciones clave (Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, Configuración), y un campo de búsqueda.
+  - *Llamadas a la Acción (CTAs):* Botones prominentes para "Registrarse" y "Iniciar Sesión". Opcionalmente, un botón de "Solicitar una Demostración" para nuevos usuarios interesados en explorar la plataforma.
+  - *Sección Principal:* Breve descripción de WeaveGuard destacando sus características principales y beneficios. Enlaces a páginas detalladas como "Características" y "Precios".
+
+- *Acción del Usuario:*
+  - *Nuevos Visitantes:* Se les anima a registrarse o solicitar una demostración para conocer las capacidades de WeaveGuard.
+  - *Usuarios Existentes:* Pueden iniciar sesión para acceder a su cuenta y gestionar sus operaciones.
+
+## Registro e Inicio de Sesión
+
+- *Estructura:*
+  - *Formulario de Registro:* Campos para nombre, correo electrónico, contraseña, y otros datos necesarios para crear una cuenta.
+  - *Formulario de Inicio de Sesión:* Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
+
+- *Acción del Usuario:*
+  - *Nuevos Usuarios:* Completar el registro para acceder al panel principal de WeaveGuard.
+  - *Usuarios Recurrentes:* Ingresar credenciales para acceder a su cuenta y comenzar a usar la plataforma.
+
+## Panel Principal (Dashboard)
+
+- *Estructura:*
+  - *Menú Lateral o Superior:* Enlaces a las secciones de Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, y Configuración.
+  - *Resumen de Actividades:* Vista general que muestra inventario actual, alertas ambientales recientes, y notificaciones importantes.
+  - *Widgets Personalizables:* Herramientas para acceso rápido a datos clave y funciones como estadísticas de inventario y alertas ambientales.
+
+- *Acción del Usuario:*
+  - *Interacción Inicial:* Explorar el panel para acceder a los inventarios, gestionar alertas, y revisar notificaciones.
+  - *Acceso a Secciones:* Utilizar el menú para navegar a otras secciones de la plataforma según las necesidades.
+
+## Sección de Inventario
+
+- *Estructura:*
+  - *Lista de Inventario:* Muestra registros de telas, cantidades disponibles, y detalles de entradas y salidas.
+  - *Detalles del Inventario:* Información sobre cada tipo de tela, ubicación en el almacén, y estado.
+  - *Opciones de Gestión:* Crear, editar y actualizar registros de inventario.
+
+- *Acción del Usuario:*
+  - *Gestión del Inventario:* Añadir nuevas telas, actualizar el estado de los registros y revisar las existencias.
+
+## Sección de Control Ambiental
+
+- *Estructura:*
+  - *Configuración Ambiental:* Ajustes para temperatura, humedad, y otros parámetros del almacén.
+  - *Historial de Datos:* Registro de datos y eventos relacionados con las condiciones ambientales.
+
+- *Acción del Usuario:*
+  - *Monitoreo y Ajuste:* Revisar y ajustar configuraciones ambientales, y consultar el historial de eventos para asegurar el cumplimiento de las condiciones óptimas.
+
+## Sección de Reportes
+
+- *Estructura:*
+  - *Creación de Reportes:* Herramientas para generar reportes personalizados basados en datos de inventario y condiciones ambientales.
+  - *Visualización de Reportes:* Gráficos, tablas y resúmenes para analizar información y obtener insights clave.
+
+- *Acción del Usuario:*
+  - *Generación de Reportes:* Crear y revisar reportes para evaluar el desempeño del inventario y las condiciones ambientales.
+
+## Sección de Mantenimiento y Soporte
+
+- *Estructura:*
+  - *Registro de Incidencias:* Información sobre incidencias reportadas y su estado.
+  - *Guías de Mantenimiento:* Documentación y procedimientos para el mantenimiento de equipos y sistemas de control ambiental.
+
+- *Acción del Usuario:*
+  - *Gestión de Incidencias:* Reportar nuevos problemas, revisar el estado de incidencias existentes y consultar guías de mantenimiento.
+
+## Sección de Configuración
+
+- *Estructura:*
+  - *Ajustes de Usuario:* Configuración de notificaciones, preferencias de idioma, y perfil de usuario.
+  - *Configuración de Cuenta:* Cambiar contraseñas, activar 2FA, y gestionar permisos de usuario.
+
+- *Acción del Usuario:*
+  - *Personalización:* Ajustar configuraciones personales y de cuenta para adaptar la plataforma a las necesidades individuales y del equipo.
+
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframes</h4>
 
 ##### Desktop Web Browser:
@@ -816,10 +1129,112 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 
 </div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p></div>
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
-<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
-<div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p>
+
+<img src="resources/wireframeInventario.png">
+<br>
+<img src="resources/WireframeControlAmbiental.png">
+<br>
+<img src="resources/WireframeReportes-y-Análisis.png">
+<br>
+<img src="resources/wireframeMantenimiento-y-Soporte.png">
+<br>
+<img src="resources/wireframeConfiguracion.png">
+<br>
+
+</div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4>
+
+### User goal: Registrar un nuevo usuario
+
+<img src="resources/wireflow1.png">
+<br>
+
+### User goal: Iniciar sesión
+
+<img src="resources/wireflow2.png">
+<br>
+
+### User goal: Registrar nuevas telas en el inventario
+<img src="resources/wireflow3.png">
+<br>
+
+### User goal: Modificar la cantidad de telas
+
+<img src="resources/wireflow4.png">
+<br>
+
+### User goal: Registrar tipo de telas
+
+<img src="resources/wireflow5.png">
+<br>
+
+### User goal: Visualizar en tiempo real temperatura del almacén
+
+<img src="resources/wireflow6.png">
+<br>
+
+
+</div>
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4>
+
+<img src="resources/mockupInventario.png">
+<br>
+<img src="resources/mockupControlAmbiental.png">
+<br>
+<img src="resources/mockupReportes-y-Análisis.png">
+<br>
+<img src="resources/mockupMantenimiento-y-Soporte.png">
+<br>
+<img src="resources/mockupConfiguracion.png">
+<br>
+
+</div>
+<div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4>
+
+### User goal: Como usuario, quiero registrarme
+
+<img src="resources/userflow1.png">
+<br>
+
+#### Para lograrlo, presiono en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo, seré redirigido a "Iniciar Sesión", para de esta manera, poder acceder con la nueva cuenta.
+
+
+### User goal: Como usuario quiero iniciar sesión en TelaSecure
+
+<img src="resources/userflow2.png">
+<br>
+
+#### Para lograrlo, presiono "Iniciar Sesión" y posteriormente, relleno los campos correspondientes y acepto.
+
+### User goal: Como usuario, quiero registrar nuevas telas en el inventario
+<img src="resources/userflow3.png">
+<br>
+
+#### Para lograrlo, presiono "Agregar" en la sección "Inventario". Posteriormente relleno los campos correspondientes y presiono "aceptar" para guardar el nuevo producto.
+
+### User goal: Como usuario, quiero poder modificar la cantidad de telas
+
+<img src="resources/userflow5.png">
+<br>
+
+#### Para lograrlo, me dirijo al ícono de editar, a la derecha de la tela deseada. Tras presionar el botón, podré editar todos los datos de esta, para finalmente presionar "Aceptar".
+
+### User goal: Como usuario quiero registrar diferentes tipos de telas
+
+<img src="resources/userflow4.png">
+<br>
+
+#### Para lograrlo, me dirijo a "Categoría +", para posteriormente ingresar el nombre de la nueva categoría o tipo de telas y aceptar.
+
+### User goal: Como usuario, quiero poder visualizar la temperatura mediante el termómetro vinculado a la plataforma y en tiempo real.
+
+<img src="resources/userflow6.png">
+<br>
+
+#### Para lograrlo, me dirijo a "Control Ambiental" con ayuda del panel lateral, posteriormente selecciono el termómetro al cual quiero hacer seguimiento, para así poder ver la temperatura actual, además de la mínima y máxima registradas en las últimas 24h.
+
+</div>
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
@@ -882,9 +1297,67 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
 <div id='5.1.1.'><h4> 5.1.1.Software Development Environment Configuration</h4></div>
+
+
+En esta sección, detallaremos las convenciones y etiquetas específicas que hemos implementado en HTML, CSS y JavaScript para el desarrollo de WeaveGuard. Estas directrices están diseñadas para garantizar una estructura coherente, mejorar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma de gestión de inventario textil. A continuación, describiremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
+
+## Definición de Requisitos
+Antes de comenzar el desarrollo, es esencial definir claramente los requisitos de WeaveGuard. Esto incluye las funcionalidades clave que queremos ofrecer, tales como:
+- **Monitoreo de Condiciones Ambientales**: Seguimiento de temperatura y humedad en tiempo real.
+- **Historial de Fumigación**: Registro de fechas y detalles de tratamientos de fumigación.
+- **Ubicación de Tela**: Sistema para la localización precisa de productos dentro del almacén.
+- **Integración de Inteligencia Artificial**: Para optimizar la ubicación de las telas y evaluar las condiciones del ambiente.
+
+## Elección de la Tecnología
+En base a los requisitos, hemos seleccionado las siguientes tecnologías para WeaveGuard:
+- **Frontend**: React para una interfaz de usuario dinámica y receptiva que facilite la interacción del usuario con las funciones de monitoreo y gestión.
+- **Backend**: Express.js sobre Node.js, proporcionando una solución robusta para manejar la lógica del servidor y las operaciones con la base de datos.
+- **Base de Datos**: PostgreSQL para almacenar información crítica sobre importaciones, exportaciones, y condiciones de almacenamiento.
+
+## Configuración del Entorno de Desarrollo
+- **Editor de Código**: Visual Studio Code
+  - **Propósito**: Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
+  - **Ruta de descarga**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Control de Versiones**: Git, con repositorios en GitHub.
+  - **Propósito**: Gestión de versiones y colaboración en el código.
+  - **Ruta de descarga**: [Git](https://git-scm.com/)
+  - **Repositorio**: [GitHub - WeaveGuard](https://github.com/WeaveGuard)
+- **Pruebas**: Jest para pruebas unitarias y Cypress para pruebas end-to-end.
+  - **Propósito**: Validación exhaustiva de la funcionalidad del software.
+  - **Ruta de descarga**: [Jest](https://jestjs.io/) | [Cypress](https://www.cypress.io/)
+  - **Nota**: Las pruebas unitarias se documentan utilizando lenguaje Gherkin para mejorar la claridad y comprensión.
+
+## Diseño y Desarrollo
+- **UI/UX**: Crear una interfaz amigable y accesible para los usuarios.
+  - **Herramienta**: Figma
+  - **Propósito**: Diseño de prototipos y interfaces de usuario.
+  - **Ruta del proyecto**: [Figma - WeaveGuard](https://www.figma.com/)
+
+
 <div id='5.1.2.'><h4> 5.1.2.Source Code Management</h4></div>
 <div id='5.1.3.'><h4> 5.1.3.Source Code Style Guide & Conventions</h4></div>
 <div id='5.1.4.'><h4> 5.1.4.Software Deployment Configuration</h4></div>
+
+**Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
+
+**Control de Versiones:** Emplea una herramienta de control de versiones, como Git, para mantener un historial de modificaciones y facilitar el manejo de diferentes versiones.
+
+**Pruebas Automatizadas:** Implementa pruebas automatizadas para garantizar que no existan errores en la aplicación antes de su despliegue.
+
+**Entorno de Staging:** Configura un entorno de staging que replique el entorno de producción para llevar a cabo pruebas finales previas al despliegue.
+
+**Servidor de Producción:** Selecciona un proveedor de hosting confiable y configura el servidor de producción con las especificaciones necesarias para la aplicación.
+
+**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras..
+
+**CI/CD:** Establece un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
+
+**Monitoreo y Registro:** Implementa soluciones para monitorear y registrar el rendimiento de la aplicación, permitiendo la detección rápida de problemas.
+
+**Backup y Recuperación:** Establece procedimientos de backup y recuperación para proteger los datos de los usuarios y garantizar la continuidad del negocio.
+
+**Documentación:** Documenta todo el proceso de despliegue y mantenimiento para que cualquier miembro del equipo pueda comprenderlo y gestionarlo.
+
 <div id='5.2.'><h3> 5.2.Landing Page, Services & Applications Implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1.Sprint 1</h4></div>
 <div id='5.2.1.1.'><h5> 5.2.1.1.Sprint Planning 1</h5></div>
@@ -907,17 +1380,102 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282018244684677280/image.png?ex=66ddd408&is=66dc8288&hm=200459fe598e1f746fe86e8fd8ba29686e39d7f782c10240e3ba723413c0dbe6&">
 
-| Sprint #   | Spring 1                                  |       |                                                      |                                                                                                                                                                                       |                    |                          |                                               |
-| ---------- | ----------------------------------------- | ----- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------ | --------------------------------------------- |
-| User Story | Work-Item/Task                            |       |                                                      |                                                                                                                                                                                       |                    |                          |                                               |
-| ID         | Title                                     | ID    | Title                                                | Description                                                                                                                                                                           | Estimation (Hours) | Assigned To              | Status (To-do / InProcess / To-Review / Done) |
-| US017      | Links de redirección a secciones (Header) | TA001 | Accecibilidad a los hipervinculos desde el Header    | El Header contiene hipervinculos que redirigen correctamente a la seccion indicada                                                                                                    | 1/2 hora           | Diego Acuña              | Done                                          |
-|            |                                           | TA002 | Desplazamiento por Ancla desde el Header             | El Header contiene botones que realizan desplazamiento por Ancla para llevar al usuario directamente a secciones dentro de la pagina                                                  | 1/2 hora           | Diego Acuña              |
-| US018      | Landing Page Responsive                   | TA001 | Diseño ordenado                                      | El Landing page se dividen en secciones, como descripcion, header, beneficios                                                                                                         | 1/2 hora           | Diego Acuña              |
-|            |                                           | TA002 | Agregar estilos y imagenes                           | Se agrega estilos con CSS para el Header, Footer, entre otros. Y se agrega una carpeta para poner las imagenes                                                                        | 1 hora             | Diego Acuña              |
-| US019      | Sección nosotros en landing page          | TA001 | Descipcion de la startup                             | Se agrega la seccion Nosotros donde se puede ver una descripcion de nuestra empresa, su vision y su mision. Tambien puede ver los beneficios de nuestro producto y nuestro compromiso | 1/2 hora           | Valentino Sandoval Paiva |
-| US016      | Link a redes sociales                     | TA001 | Boton con hipervinculo a redes sociales en el Footer | Se agregan hipervinculos en forma de botones con el logo de cada red social en el Footer para redireccionar a nuestras redes sociales                                                 | 1/2 hora           | Godofredo Quispe Tipo    |
-| US007      | Conocer TelaSecure                        | TA001 | Desciption de nuestro producto                       | Agregamos la informacion de nuestro producto, el enfoque al cuidado de la telas, las ventajas frente a competidores                                                                   | 1/2 hora           | Diego Acuña              |
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th colspan="8">Sprint #</th>
+    <th colspan="8">Sprint 1</th>
+  </tr>
+  <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td>US017</td>
+    <td>Links de redirección a secciones (Header)</td>
+    <td>01</td>
+    <td>Accesibilidad a los hipervínculos desde el Header</td>
+    <td>El Header contiene hipervínculos que redirigen correctamente a la sección indicada.</td>
+    <td>1/2 hora</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US017</td>
+    <td>Links de redirección a secciones (Header)</td>
+    <td>02</td>
+    <td>Desplazamiento por Ancla desde el Header</td>
+    <td>El Header contiene botones que realizan desplazamiento por Ancla para llevar al usuario directamente a secciones dentro de la página.</td>
+    <td>1/2 hora</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US018</td>
+    <td>Landing Page Responsive</td>
+    <td>03</td>
+    <td>Diseño ordenado</td>
+    <td>El Landing page se divide en secciones, como descripción, header, beneficios.</td>
+    <td>1/2 hora</td>
+    <td>Diego Acuña</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US018</td>
+    <td>Landing Page Responsive</td>
+    <td>04</td>
+    <td>Agregar estilos y imágenes</td>
+    <td>Se agregan estilos con CSS para el Header, Footer, entre otros. Y se agrega una carpeta para poner las imágenes.</td>
+    <td>1 hora</td>
+    <td>Diego Acuña</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US019</td>
+    <td>Sección nosotros en landing page</td>
+    <td>05</td>
+    <td>Descripción de la startup</td>
+    <td>Se agrega la sección "Nosotros" donde se puede ver una descripción de nuestra empresa, su visión y misión. También puede ver los beneficios de nuestro producto y nuestro compromiso.</td>
+    <td>1/2 hora</td>
+    <td>Valentino Sandoval Paiva</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US016</td>
+    <td>Link a redes sociales</td>
+    <td>06</td>
+    <td>Botón con hipervínculo a redes sociales en el Footer</td>
+    <td>Se agregan hipervínculos en forma de botones con el logo de cada red social en el Footer para redireccionar a nuestras redes sociales.</td>
+    <td>1/2 hora</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>To-Review</td>
+  </tr>
+  <tr>
+    <td>US007</td>
+    <td>Conocer TelaSecure</td>
+    <td>07</td>
+    <td>Descripción de nuestro producto</td>
+    <td>Agregamos la información de nuestro producto, el enfoque al cuidado de las telas, las ventajas frente a competidores.</td>
+    <td>1/2 hora</td>
+    <td>Diego Acuña</td>
+    <td>To-Review</td>
+  </tr>
+</table>
 
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
 
@@ -985,5 +1543,23 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 <div id='6.'><h2>Conclusiones</h2></div>
+
+El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desafiante pero gratificante. El equipo demostró un alto nivel de compromiso, colaboración y capacidad para distribuir tareas de manera efectiva, logrando implementar características clave como la Landing Page, el analisis de competidores, los Mockups y el desarrollo de estrategias Lean UX orientadas a mejorar la experiencia del usuario.
+
+A lo largo del proyecto, el grupo adquirió una valiosa experiencia en metodologías de desarrollo web, gestión de proyectos a través de plataformas colaborativas como GitHub y diseño centrado en el usuario. Para proyectos futuros, se seguirá utilizando herramientas de gestión colaborativa, manteniendo una comunicación constante entre los miembros del equipo.
+
+En conclusión, este proyecto fue una experiencia de aprendizaje significativa que permitió al equipo fortalecer sus habilidades técnicas y de trabajo grupal. Las lecciones aprendidas y recomendaciones obtenidas servirán como base sólida para el desarrollo de futuros proyectos enfocados a la creación de soluciones web innovadoras y efectivas.
+
 <div id='7.'><h2>Bibliografía</h2></div>
+
+Manual de conservación (2002). Manual de conservación preventiva de textiles. [https://www.cnct.cl/documentos/manualconservacion.pdf](https://www.cnct.cl/documentos/manualconservacion.pdf)
+
+Delta (2023). Problemas de calidad de los productos textiles: ¿cómo resolverlos?. [https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/](https://deltamaquinastexteis.com.br/es/problemas-de-calidad-de-los-productos-textiles-como-resolverlos/)
+
+Sociedad Nacional de Industrias (2024). Resultados encuesta de opinión industrial (EOI). [https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf](https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf)
+
 <div id='8.'><h2>Anexos</h2></div>
+
+Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
+
+Enlace para el vídeo de exposición: [https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing](https://drive.google.com/drive/folders/1wDpO4y-I9rqgWNwqgABYew9u3hMfNxk3?usp=sharing)
