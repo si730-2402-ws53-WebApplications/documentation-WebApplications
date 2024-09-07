@@ -585,7 +585,7 @@ SEGMENTO DISTRINUIDORES DE TELAS: Aquí para el segmento de distribuidores de te
 <img src="resources/mapping1.png"/>
 
 SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el segmento de encargados del inventario de empresas de confección. se presenta el viaje del usuario
-<img src="resourcer/mapping2.png"/>
+<img src="resources/mapping2.png"/>
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping</h4>
 
