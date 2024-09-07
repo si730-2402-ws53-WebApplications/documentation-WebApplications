@@ -823,6 +823,7 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
 
+<img src="resources/oSystems.png">
 
 Nuestro propósito es ofrecer una solución integral que optimice la gestión del inventario textil y el control ambiental en los almacenes. Nuestra plataforma, diseñada con tecnologías avanzadas, busca abordar los problemas críticos que enfrentan las empresas del sector textil y de confección. A continuación, se detalla la estructura visual y funcional de nuestra plataforma, diseñada para adaptarse a nuestros dos segmentos objetivos: Distribuidores de Tela y Empresas de Confección Textil.
 
@@ -981,57 +982,83 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
 
-**Preparación del Código:** Asegúrate de que el código esté listo para su implementación, lo que implica la minificación de archivos CSS y JavaScript, la optimización de imágenes, y la eliminación de código de depuración o comentarios innecesarios.
+## Página de Inicio (Landing Page)
 
-**Control de Versiones:** Emplea una herramienta de control de versiones, como Git, para mantener un historial de modificaciones y facilitar el manejo de diferentes versiones.
+- *Estructura:*
+  - *Encabezado (Header):* Incluye el logotipo de WeaveGuard, un menú de navegación principal con enlaces a las secciones clave (Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, Configuración), y un campo de búsqueda.
+  - *Llamadas a la Acción (CTAs):* Botones prominentes para "Registrarse" y "Iniciar Sesión". Opcionalmente, un botón de "Solicitar una Demostración" para nuevos usuarios interesados en explorar la plataforma.
+  - *Sección Principal:* Breve descripción de WeaveGuard destacando sus características principales y beneficios. Enlaces a páginas detalladas como "Características" y "Precios".
 
-**Pruebas Automatizadas:** Implementa pruebas automatizadas para garantizar que no existan errores en la aplicación antes de su despliegue.
-
-**Entorno de Staging:** Configura un entorno de staging que replique el entorno de producción para llevar a cabo pruebas finales previas al despliegue.
-
-**Servidor de Producción:** Selecciona un proveedor de hosting confiable y configura el servidor de producción con las especificaciones necesarias para la aplicación.
-
-**Base de Datos:** Configura la base de datos en el servidor de producción, asegurándote de que las credenciales y conexiones sean seguras.
-
-**CI/CD:** Establece un pipeline de integración y despliegue continuo para automatizar el proceso de despliegue utilizando herramientas como Jenkins, Travis CI o GitHub Actions.
-
-**Monitoreo y Registro:** Implementa soluciones para monitorear y registrar el rendimiento de la aplicación, permitiendo la detección rápida de problemas.
-
-**Backup y Recuperación:** Establece procedimientos de backup y recuperación para proteger los datos de los usuarios y garantizar la continuidad del negocio.
-
-**Documentación:** Documenta todo el proceso de despliegue y mantenimiento para que cualquier miembro del equipo pueda comprenderlo y gestionarlo.
-
+- *Acción del Usuario:*
+  - *Nuevos Visitantes:* Se les anima a registrarse o solicitar una demostración para conocer las capacidades de WeaveGuard.
+  - *Usuarios Existentes:* Pueden iniciar sesión para acceder a su cuenta y gestionar sus operaciones.
 
 ## Registro e Inicio de Sesión
-- **Estructura**:
-  - **Formulario de Registro**: Campos para nombre, correo electrónico, contraseña, y otros datos necesarios para crear una cuenta.
-  - **Formulario de Inicio de Sesión**: Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
-- **Acción del Usuario**:
-  - **Nuevos Usuarios**: Completar el registro para acceder al panel principal de WeaveGuard.
-  - **Usuarios Recurrentes**: Ingresar credenciales para acceder a su cuenta y comenzar a usar la plataforma.
+
+- *Estructura:*
+  - *Formulario de Registro:* Campos para nombre, correo electrónico, contraseña, y otros datos necesarios para crear una cuenta.
+  - *Formulario de Inicio de Sesión:* Campos para correo electrónico y contraseña, con opciones para recuperar contraseña y activar autenticación en dos pasos (2FA).
+
+- *Acción del Usuario:*
+  - *Nuevos Usuarios:* Completar el registro para acceder al panel principal de WeaveGuard.
+  - *Usuarios Recurrentes:* Ingresar credenciales para acceder a su cuenta y comenzar a usar la plataforma.
 
 ## Panel Principal (Dashboard)
-- **Estructura**:
-  - **Menú Lateral o Superior**: Enlaces a las secciones de Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, y Configuración.
-  - **Resumen de Actividades**: Vista general que muestra inventario actual, alertas ambientales recientes, y notificaciones importantes.
-  - **Widgets Personalizables**: Herramientas para acceso rápido a datos clave y funciones como estadísticas de inventario y alertas ambientales.
-- **Acción del Usuario**:
-  - **Interacción Inicial**: Explorar el panel para acceder a los inventarios, gestionar alertas, y revisar notificaciones.
-  - **Acceso a Secciones**: Utilizar el menú para navegar a otras secciones de la plataforma según las necesidades.
+
+- *Estructura:*
+  - *Menú Lateral o Superior:* Enlaces a las secciones de Inventario, Control Ambiental, Reportes, Mantenimiento y Soporte, Foro, y Configuración.
+  - *Resumen de Actividades:* Vista general que muestra inventario actual, alertas ambientales recientes, y notificaciones importantes.
+  - *Widgets Personalizables:* Herramientas para acceso rápido a datos clave y funciones como estadísticas de inventario y alertas ambientales.
+
+- *Acción del Usuario:*
+  - *Interacción Inicial:* Explorar el panel para acceder a los inventarios, gestionar alertas, y revisar notificaciones.
+  - *Acceso a Secciones:* Utilizar el menú para navegar a otras secciones de la plataforma según las necesidades.
 
 ## Sección de Inventario
-- **Estructura**:
-  - **Lista de Inventario**: Muestra registros de telas, cantidades disponibles, y detalles de entradas y salidas.
-  - **Detalles del Inventario**: Información sobre cada tipo de tela, ubicación en el almacén, y estado.
-  - **Opciones de Gestión**: Crear, editar y actualizar registros de inventario.
-- **Acción del Usuario**:
-  - **Gestión del Inventario**: Añadir nuevas telas, actualizar el estado de los registros y revisar las existencias.
+
+- *Estructura:*
+  - *Lista de Inventario:* Muestra registros de telas, cantidades disponibles, y detalles de entradas y salidas.
+  - *Detalles del Inventario:* Información sobre cada tipo de tela, ubicación en el almacén, y estado.
+  - *Opciones de Gestión:* Crear, editar y actualizar registros de inventario.
+
+- *Acción del Usuario:*
+  - *Gestión del Inventario:* Añadir nuevas telas, actualizar el estado de los registros y revisar las existencias.
 
 ## Sección de Control Ambiental
-- **Estructura**:
-  - **Configuración Ambiental**: Ajustes para temperatura, humedad, y otros parámetros del almacén.
-  - **Historial de Datos**: Registro de datos y eventos relacionados con las condiciones ambientales.
 
+- *Estructura:*
+  - *Configuración Ambiental:* Ajustes para temperatura, humedad, y otros parámetros del almacén.
+  - *Historial de Datos:* Registro de datos y eventos relacionados con las condiciones ambientales.
+
+- *Acción del Usuario:*
+  - *Monitoreo y Ajuste:* Revisar y ajustar configuraciones ambientales, y consultar el historial de eventos para asegurar el cumplimiento de las condiciones óptimas.
+
+## Sección de Reportes
+
+- *Estructura:*
+  - *Creación de Reportes:* Herramientas para generar reportes personalizados basados en datos de inventario y condiciones ambientales.
+  - *Visualización de Reportes:* Gráficos, tablas y resúmenes para analizar información y obtener insights clave.
+
+- *Acción del Usuario:*
+  - *Generación de Reportes:* Crear y revisar reportes para evaluar el desempeño del inventario y las condiciones ambientales.
+
+## Sección de Mantenimiento y Soporte
+
+- *Estructura:*
+  - *Registro de Incidencias:* Información sobre incidencias reportadas y su estado.
+  - *Guías de Mantenimiento:* Documentación y procedimientos para el mantenimiento de equipos y sistemas de control ambiental.
+
+- *Acción del Usuario:*
+  - *Gestión de Incidencias:* Reportar nuevos problemas, revisar el estado de incidencias existentes y consultar guías de mantenimiento.
+
+## Sección de Configuración
+
+- *Estructura:*
+  - *Ajustes de Usuario:* Configuración de notificaciones, preferencias de idioma, y perfil de usuario.
+  - *Configuración de Cuenta:* Cambiar contraseñas, activar 2FA, y gestionar permisos de usuario.
+
+- *Acción del Usuario:*
+  - *Personalización:* Ajustar configuraciones personales y de cuenta para adaptar la plataforma a las necesidades individuales y del equipo.
 
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframes</h4>
 
