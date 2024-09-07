@@ -920,6 +920,16 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 | US007      | Conocer TelaSecure                        | TA001 | Desciption de nuestro producto                       | Agregamos la informacion de nuestro producto, el enfoque al cuidado de la telas, las ventajas frente a competidores                                                                   | 1/2 hora           | Diego Acuña              |
 
 <div id='5.2.1.3.'><h5> 5.2.1.3.Development Evidence for Sprint Review</h5></div>
+
+| Repository                                                      | Branch | Commint Id | Commint Message                                                                          | Commint Message Body                                                                     | Commited on (Date) |
+| --------------------------------------------------------------- | ------ | ---------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------ |
+| https://github.com/si730-2402-ws53-WebApplications/landing-page | main   | 8ab182f    | init: landing page navbar setup                                                          | init: landing page navbar setup                                                          | 06/09/2024         |
+|                                                                 | main   | ffa91ff    | feat: Initial setup of landing page structure, header, description                       | feat: Initial setup of landing page structure, header, description                       | 07/09/2024         |
+|                                                                 | main   | 3f15615    | feat: Initial setup of landing page structure, header, description, beneficios, nosotros | feat: Initial setup of landing page structure, header, description, beneficios, nosotros | 07/09/2024         |
+|                                                                 | main   | 3c2b1f4    | Add Footer Landing Page                                                                  | feat(footer): add a footer in the landing page.                                          | 07/09/2024         |
+|                                                                 | main   | 961a843    | added login to styles.css                                                                | added login to styles.css                                                                | 07/09/2024         |
+|                                                                 | main   | b812346    | added login.html and register.html                                                       | added login.html and register.html                                                       | 07/09/2024         |
+
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
