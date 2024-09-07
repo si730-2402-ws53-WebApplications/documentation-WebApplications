@@ -622,9 +622,36 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | Existen preocupaciones sobre la seguridad contra incendios que también deben ser abordadas.                       | Colaborar con otras empresas y adoptar nuevas tecnologías que también incluyan medidas efectivas de seguridad contra incendios.                                       |
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping</h4></div>
+
+### Segmento Objetivo: Distribuidor de telas
+<p align="center">
+<img src="resources/As-IsScenarioMappingSegmento1.jpg">
+</p>
+
+### Segmento Objetivo: Distribuidor de telas
+<p align="center">
+<img src="resources/As-IsScenarioMappingSegmento2.jpg">
+</p>
+
+#### Link: https://miro.com/app/board/uXjVKisFQ3E=/?share_link_id=689871797552
+
  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 <div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
+
+
+### Segmento Objetivo: Distribuidor de telas
+<p align="center">
+<img src="resources/To-BeScenarioMappingSegmento1.jpg">
+</p>
+
+### Segmento Objetivo: Distribuidor de telas
+<p align="center">
+<img src="resources/To-BeScenarioMappingSegmento2.jpg">
+</p>
+
+#### Link: https://miro.com/app/board/uXjVKisFQ3E=/?share_link_id=689871797552
+
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 <div id='3.4'><h3> 3.4. Product Backlog.</h3></div>
