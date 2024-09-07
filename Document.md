@@ -631,8 +631,50 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+
+### Paleta de colores:
+
+<center><img src="resources/paletaColores.png"></center>
+
+### Logotipo
+<center><img width=200px src="resources/TelaSecureLogo.png"></center>
+
+### Tipografía  
+Logo: Monserat  
+https://fonts.google.com/specimen/Montserrat   
+Font size = 48  
+Weights: Bold, Regular, Light.
+
+### Elementos gráficos:  
+La estética principal será minimalista, respetando siempre la paleta de colores y buscando resaltar los atributos de la plataforma.
+
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+
+### Diseño responsive
+Para permitir que la página se adapte a diferentes pantallas o que el usuario cambie el tamaño de la ventana para que el contenido siga siendo entendible. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
+
+### Imágenes
+Los formatos de imagen recomendados serán JPEG y PNG para priorizar la calidad. Se definirán tamaños de imágenes recomendados y se aplicarán reglas de compresión para optimizar el rendimiento.
+
+### Interacción con el usuario
+Se emplearán animaciones simples y básicas para mostrar imágenes y texto que ayuden al usuario a conocer más acerca del servicio. 
+
+### Navegación
+La barra de navegación y el footer contarán con márgenes y espaciado adecuados para asegurar una presentación óptima en diferentes dispositivos. El menú de navegación será claro y fácil de usar, con la opción de un menú de hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
+
+
 <div id='4.1.3.'><h4> 4.1.3. Mobile Style Guidelines</h4></div>
+
+### Diseño responsive
+Para permitir que la página se adapte a diferentes pantallas.
+
+### Hamburger Menu (menú de hamburguesa):
+El espacio en la pantalla es “mercancía valiosa” en un móvil y el hamburger menu (o menú lateral) es uno de los patrones más comunes para ahorrar espacio. Este menú nos permite ocultar la navegación en el borde izquierdo de la pantalla y se muestra solo luego de una acción del usuario. Puede ser particularmente útil si queremos que el usuario se centre en el contenido principal.
+
+### Tamaño de Elementos	
+Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a más pequeños estos, mayor el tiempo en acceder a estos, ya que se incrementa la posibilidad de equivocarse.
+
+
 <div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
