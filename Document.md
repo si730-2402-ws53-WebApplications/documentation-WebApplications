@@ -542,7 +542,11 @@ User Outcomes:
 **Segmento 1: Encargados del inventario de empresas de confección.**
 
 Basándonos en las entrevistas, concluimos que los responsables de la gestión de inventarios de telas enfrentan desafíos importantes relacionados con el control ambiental, como temperatura, humedad y plagas que afectan la calidad del producto. Si bien todos reconocen la importancia de utilizar la tecnología para gestionar y monitorear estos factores, existen diferencias en el grado en que se implementan. Mientras que algunos han adoptado sistemas de tecnología avanzada y buscan una mejor integración y automatización, otros todavía dependen de herramientas básicas y ven la necesidad de un software más sofisticado. Por lo tanto, una plataforma que brinde soluciones tecnológicas integradas para la gestión de inventarios y control ambiental será de gran valor para ellos.
+
 **Segmento 2: Distribuidores de telas.**
+
+Con base en las entrevistas, llegamos a la conclusión de que los minoristas de telas enfrentan desafíos importantes en la gestión de la calidad del producto debido a factores ambientales como la temperatura y la humedad. Todos los entrevistados reconocieron la importancia de controlar estos factores para evitar pérdidas materiales y financieras. Sin embargo, la implementación de soluciones técnicas difiere entre ellos.
+Si bien Owen y Paco han utilizado tecnología avanzada, como sensores y software de monitoreo, para mejorar la gestión de inventario y monitorear las condiciones ambientales, Giovanna todavía confía en métodos tradicionales y busca un software que satisfaga sus necesidades específicas. Este contraste resalta la necesidad de plataformas que ofrezcan soluciones tecnológicas integradas con capacidades de monitoreo inmediato y automatización de procesos para satisfacer las diversas necesidades de este segmento.
 
 <div id='2.3.'><h3> 2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4> 2.3.1. User Personas</h4>
