@@ -11,8 +11,8 @@
 <h4 style="text-align: center;"> Ingeniería de Software </h4>
 <h4 style="text-align: center;"> Ciclo 2024-01 </h4>
 <h4 style="text-align: center;"> Docente: Angel Augusto Velasquez Nuñez </h4>
-<h4 style="text-align: center;"> Startup:  </h4>
-<h4 style="text-align: center;"> Producto:   </h4>
+<h4 style="text-align: center;"> Startup: WeaveGuard</h4>
+<h4 style="text-align: center;"> Producto: TelaSecure</h4>
 
 ## Integrantes
 
