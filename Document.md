@@ -639,7 +639,17 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 #### Link: https://miro.com/app/board/uXjVKisFQ3E=/?share_link_id=689871797552
 
- <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3></div>
+ <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3>
+ 
+ **Product Backlog:** Una lista priorizada de todas las funcionalidades, características y correciones que el producto necesita. Es el lugar donde se acumulan los requisitos del producto.
+
+**Sprint:** Un ciclo de desarrollo que dura entre una y cuatro semanas, durante el cual el equipo trabaja en un conjunto definido de tareas del Product Backlog.
+
+**Sprint Backlog:** Un subconjunto del Product Backlog que se selecciona para ser completado durante el Sprint. Contiene tareas detalladas que el equipo planea realizar para entregar los incrementos de producto.
+
+**User Story** (Historia de Usuario): Una breve descripción de una funcionalidad desde la perspectiva del usuario final o cliente. Formato: "Como [tipo de usuario], quiero [funcionalidad] para [beneficio]".
+
+ </div>
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 <div id='3.1.'><h3> 3.1. To-be scenario mapping</h3></div>
 
@@ -828,7 +838,39 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <br>
 
 </div>
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4>
+
+### User goal: Registrar un nuevo usuario
+
+<img src="resources/wireflow1.png">
+<br>
+
+### User goal: Iniciar sesión
+
+<img src="resources/wireflow2.png">
+<br>
+
+### User goal: Registrar nuevas telas en el inventario
+<img src="resources/wireflow3.png">
+<br>
+
+### User goal: Modificar la cantidad de telas
+
+<img src="resources/wireflow4.png">
+<br>
+
+### User goal: Registrar tipo de telas
+
+<img src="resources/wireflow5.png">
+<br>
+
+### User goal: Visualizar en tiempo real temperatura del almacén
+
+<img src="resources/wireflow6.png">
+<br>
+
+
+</div>
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4>
 
 <img src="resources/mockupInventario.png">
@@ -843,7 +885,51 @@ Elementos interactivos de mediano tamaño, puesto que según la ley de Fitts, a 
 <br>
 
 </div>
-<div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4></div>
+<div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4>
+
+### User goal: Como usuario, quiero registrarme
+
+<img src="resources/userflow1.png">
+<br>
+
+#### Para lograrlo, presiono en cualquiera de los botones "Registrarse",. Posteriormente, se pedirá que ingrese los datos necesarios y una vez listo, seré redirigido a "Iniciar Sesión", para de esta manera, poder acceder con la nueva cuenta.
+
+
+### User goal: Como usuario quiero iniciar sesión en TelaSecure
+
+<img src="resources/userflow2.png">
+<br>
+
+#### Para lograrlo, presiono "Iniciar Sesión" y posteriormente, relleno los campos correspondientes y acepto.
+
+### User goal: Como usuario, quiero registrar nuevas telas en el inventario
+<img src="resources/userflow3.png">
+<br>
+
+#### Para lograrlo, presiono "Agregar" en la sección "Inventario". Posteriormente relleno los campos correspondientes y presiono "aceptar" para guardar el nuevo producto.
+
+### User goal: Como usuario, quiero poder modificar la cantidad de telas
+
+<img src="resources/userflow5.png">
+<br>
+
+#### Para lograrlo, me dirijo al ícono de editar, a la derecha de la tela deseada. Tras presionar el botón, podré editar todos los datos de esta, para finalmente presionar "Aceptar".
+
+### User goal: Como usuario quiero registrar diferentes tipos de telas
+
+<img src="resources/userflow4.png">
+<br>
+
+#### Para lograrlo, me dirijo a "Categoría +", para posteriormente ingresar el nombre de la nueva categoría o tipo de telas y aceptar.
+
+### User goal: Como usuario, quiero poder visualizar la temperatura mediante el termómetro vinculado a la plataforma y en tiempo real.
+
+<img src="resources/userflow6.png">
+<br>
+
+#### Para lograrlo, me dirijo a "Control Ambiental" con ayuda del panel lateral, posteriormente selecciono el termómetro al cual quiero hacer seguimiento, para así poder ver la temperatura actual, además de la mínima y máxima registradas en las últimas 24h.
+
+</div>
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
