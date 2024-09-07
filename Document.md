@@ -417,7 +417,40 @@ User Outcomes:
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis</h2></div>
 <div id='2.1.'><h3> 2.1. Competidores</h3></div>
 <div id='2.1.1.'><h4> 2.1.1. Análisis Competitivo</h4></div>
+
+||WeaveGuard|SoftExpert|Datatex|
+|-|-|-|-|
+|**Overview**| Plataforma innovadora enfocada en la gestión y control de productos textiles dentro de almacenes y fábricas. La solución permite a los usuarios realizar un seguimiento eficiente del inventario de telas, incluyendo el monitoreo de las condiciones ambientales, el control de plagas y la seguridad de acceso en los almacenes.|Plataforma integral para la gestión de la excelencia operacional, que ofrece soluciones para la gestión de calidad, procesos, riesgo, y cumplimiento normativo.|Solución ERP desarrollado específicamente para las complejidades de la manufactura textil; abarca la gestión de la cadena de suministro, producción, inventario y control de calidad, todo en un solo sistema.|
+|**Ventajas competitivas**|WeaveGuard está diseñada específicamente para la gestión de almacenes y productos textiles, lo que le permite abordar las necesidades particulares de esta industria (como el control de telas, seguimiento de inventarios, y gestión ambiental).|SoftExpert ofrece una plataforma modular que puede personalizarse para diferentes industrias, lo que permite a las empresas elegir y pagar solo por los módulos que necesitan.|A diferencia de otros ERP genéricos, Datatex está completamente diseñado para las necesidades específicas de la manufactura y la cadena de suministro textil, lo que lo convierte en una herramienta más eficaz para las empresas de este sector.|
+|**Mercado Objetivo**|Empresas dedicadas a la fabricación de telas y productos textiles que necesitan una gestión eficiente de inventarios, almacenaje y control de calidad de los materiales.|Empresas dedicadas a la fabricación de telas y productos textiles que necesitan una gestión eficiente de inventarios, almacenaje y control de calidad de los materiales.|Empresas que gestionan procesos complejos de manufactura textil, desde la materia prima hasta el producto final, que necesitan un ERP especializado para optimizar cada paso del proceso.|
+|**Estrategias de Marketing**|Utilización de redes sociales como LinkedIn, Instagram, y Facebook para llegar a las empresas textiles y confecciones, mostrando casos de uso, beneficios del software, y demostraciones en video.|Contenido educativo como blogs, whitepapers, e-books, y webinars para educar a sus clientes sobre la gestión empresarial y la mejora de procesos.|Publica artículos, estudios de caso, y blogs técnicos que destacan las soluciones específicas para la industria textil, incluyendo la gestión de la cadena de suministro y optimización de la producción.|
+|**Productos y servicios**|Solución para el monitoreo continuo de parámetros como temperatura, humedad, y calidad del aire en almacenes de productos textiles.|Plataforma integrada para la gestión empresarial que incluye módulos para la gestión de procesos, calidad, riesgos, cumplimiento, y recursos humanos.|ERP especializado para la industria textil que gestiona todos los aspectos de la cadena de suministro, desde la planificación de la producción hasta la distribución.|
+|**Precios y costos**|Los precios de la licencia pueden variar según el tamaño del almacén, la cantidad de sensores y la personalización del software.|El modelo de precios suele ser basado en suscripciones anuales, con costos que varían según el número de usuarios y módulos adquiridos. Las tarifas de licencia por usuario pueden empezar desde aproximadamente $1,000 a $3,000 por usuario/año para una solución básica.|Los costos iniciales para una implementación de ERP pueden comenzar desde $50,000 y escalar a cientos de miles de dólares en implementaciones grandes y complejas.|
+|**Canales de distribución**|Plataforma en línea y aplicación móvil.|Plataforma en línea|Plataforma en línea|
+|**Fortalezas**|Enfocada en el sector textil, ofreciendo soluciones diseñadas para abordar los problemas particulares de almacenamiento y gestión de telas.|Ofrece una plataforma integral que abarca desde la gestión de la calidad, cumplimiento normativo y gestión de riesgos.|Proovedor ERP diseñado para la industria textil y de confección, lo que les da una ventaja significativa en términos de funcionalidad específica para este sector.|
+|**Debilidades**|Al estar altamente especializado en la industria textil, WeaveGuard puede tener dificultades para diversificarse o atraer clientes de otros sectores, limitando su mercado potencial y crecimiento.|Sus soluciones, aunque completas, pueden ser percibidas como complejas de implementar, requiriendo tiempo y recursos considerables para su correcta integración, lo que puede desalentar a algunas empresas.|Su software es menos intuitivo y más difícil de usar en comparación con otros ERPs más modernos, lo que puede requerir capacitación adicional para los empleados.|
+|**Oportunidades**|Expandir nuestra presencia a mercados emergentes en Asia, América Latina y África, donde la industria textil está creciendo rápidamente y busca modernizarse con tecnología avanzada.|SoftExpert puede aprovechar su especialización para ayudar a las empresas a cumplir con normativas internacionales en calidad, medio ambiente y seguridad.|Datatex puede capitalizar la tendencia hacia la adopción de software en la nube y SaaS, ofreciendo soluciones más flexibles y accesibles que permiten a las empresas textiles gestionar sus operaciones de manera más eficiente.|
+|**Amenazas**|La entrada de nuevos actores con productos más avanzados o económicos puede erosionar la cuota de mercado de WeaveGuard.|Las constantes actualizaciones en normativas y estándares pueden requerir ajustes continuos en sus soluciones, generando costos adicionales y riesgo de no cumplir con las expectativas de los clientes si no se actualizan a tiempo.|Datatex enfrenta una fuerte competencia de otros proveedores de software ERP especializados y soluciones digitales para la industria textil, lo que puede presionar los precios y reducir sus márgenes de ganancia.|
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
+
+**Estratregias**
+
+- Desarrollar y ofrecer soluciones tecnológicas únicas y personalizadas que se adapten a las necesidades específicas de los clientes en la industria textil, destacando características que otros competidores no ofrecen.
+
+- Ofrecer precios competitivos sin comprometer la calidad, posicionándose como una opción de alto valor para empresas textiles que buscan optimizar sus costos operativos.
+
+- Expandir la presencia de WeaveGuard en mercados internacionales para reducir la dependencia de un solo mercado y aumentar la base de clientes.
+
+**Tácticas**
+
+- Personalización de las soluciones para ajustarse a los procesos específicos de cada cliente, creando un valor añadido frente a competidores con productos estandarizados.
+
+- Crear planes de suscripción flexibles que se adapten a las necesidades y tamaño de los clientes, permitiendo escalabilidad.
+
+- Implementar un sistema de atención al cliente ágil, con respuestas rápidas a problemas técnicos y consultas, mejorando la satisfacción del cliente.
+
+- Colaborar con distribuidores y socios locales en mercados clave para facilitar la entrada y mejorar la adaptabilidad a las demandas locales.
 
 <div id='2.2.'><h3> 2.2. Entrevistas</h3></div>
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas</h4></div>
