@@ -1489,10 +1489,54 @@ En nuestro primer sprint backlog, nuestro objetivo fue completar las user storie
 |                                                                 | main   | b812346    | added login.html and register.html                                                       | added login.html and register.html                                                       | 07/09/2024         |
 
 <div id='5.2.1.4.'><h5> 5.2.1.4.Testing Suite Evidence for Sprint Review</h5></div>
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
 <div id='5.2.1.5.'><h5> 5.2.1.5.Execution Evidence for Sprint Review</h5></div>
+
 <div id='5.2.1.6.'><h5> 5.2.1.6.Services Documentation Evidence for Sprint Review</h5></div>
+
+Para esta entrega no fue contemplada la evidencia de documentación de los servicios
+
 <div id='5.2.1.7.'><h5> 5.2.1.7.Software Deployment Evidence for Sprint Review</h5></div>
+
+Durante nuestro primer sprint del desarrollo de nuestro programa TelaSecure, utilizando herramientas como GitHub que nos permite hacer un control de versiones, hemos creado una organización donde creados un repositorio para guardar nuestro documento y otro repositorio para guardar y hacer el despliegue del landing page. En la creación de nuestra página nos enfocamos en diseñarlo por secciones y crear botones para el fácil desplazamiento a estas secciones, para que nuestros clientes puedan acceder fácilmente a la información relevante sobre nuestra empresa emergente y nuestro producto. Junto con herramientas como Trello, nos separamos las tareas y funcionalidades.
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282066675201605733/image.png?ex=66de0123&is=66dcafa3&hm=0ddccfae6d03178e9bc7659865a3a3bc41a35278045e6e747945a82e2db03ecc&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282066895234924617/image.png?ex=66de0157&is=66dcafd7&hm=8619f2242d62fccc9930c555ce9165b724c074807b6a3d9b653a2d912c90fd8a&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067299758505994/image.png?ex=66de01b7&is=66dcb037&hm=d71caab7946f9697cb0fa05ad597578b0524ce32f5d9a63145e8497c3c007849&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067622753734716/image.png?ex=66de0204&is=66dcb084&hm=d2b0d009880fb8812fcfd7a96b719d950199c1241e3e1915439e574b8419729a&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282067667334860930/image.png?ex=66de020f&is=66dcb08f&hm=c2b2cff19c7e13ec123c85ee34888c9b4e751ac25621a9db6ed22bc2bff18d21&">
+
 <div id='5.2.1.8.'><h5> 5.2.1.8.Team Collaboration Insights during Sprint</h5></div>
+
+|           Alumno            |               Actividad               |
+| :-------------------------: | :-----------------------------------: |
+|   Diego Rolin Acuña Tomas   |  Realizacion del capitulo I, II y V   |
+| Diego Ivan Cabrera Buitron  |    Realizacion del capitulo I y IV    |
+| John Telesforo Arevalo Meza | Realizacion del capitulo II, III y IV |
+|    Godofredo Quispe Tipo    |    Realizacion del capitulo I y II    |
+|  Valentino Sandoval Paiva   | Realizacion del capitulo III, IV y V  |
+
+En el desarrollo del landing page hemos subido 7 commits para el desarrollo de estilos, secciones, correccion de errores y subida de imagenes.
+
+Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cada miembro:
+
+|           Alumno            | Username (Github) |
+| :-------------------------: | :---------------: |
+|   Diego Rolin Acuña Tomas   |  ComidaRapida007  |
+| Diego Ivan Cabrera Buitron  |      omele7       |
+| John Telesforo Arevalo Meza |    John_Arvlo     |
+|    Godofredo Quispe Tipo    |    GodofredoGT    |
+|  Valentino Sandoval Paiva   |     SoyValzzz     |
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073540178346034/image.png?ex=66de0787&is=66dcb607&hm=cd9be1ea17d72a028018eeced12e269ddd1ccf254a1462bf7c50dc81d6174fc0&">
+
+<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
