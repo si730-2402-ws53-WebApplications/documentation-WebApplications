@@ -698,13 +698,27 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
  <div id='2.4.'><h3> 2.4. Ubiquituos Language</h3>
  
- **Product Backlog:** Una lista priorizada de todas las funcionalidades, características y correciones que el producto necesita. Es el lugar donde se acumulan los requisitos del producto.
+  **Lino:** Fibra natural que proviene de la planta de lino, utilizada para hacer tejidos suaves y duraderos.  
 
-**Sprint:** Un ciclo de desarrollo que dura entre una y cuatro semanas, durante el cual el equipo trabaja en un conjunto definido de tareas del Product Backlog.
-
-**Sprint Backlog:** Un subconjunto del Product Backlog que se selecciona para ser completado durante el Sprint. Contiene tareas detalladas que el equipo planea realizar para entregar los incrementos de producto.
-
-**User Story** (Historia de Usuario): Una breve descripción de una funcionalidad desde la perspectiva del usuario final o cliente. Formato: "Como [tipo de usuario], quiero [funcionalidad] para [beneficio]".
+  **Entretela:** Material que se usa entre dos capas de tela para darle rigidez a una prenda.  
+  
+  **Metraje:** Longitud total de la tela disponible, medida en metros.  
+  
+  **Gramaje:** Peso de la tela por metro cuadrado, un factor clave en la clasificación de materiales.  
+  
+  **Telas técnicas:** Tejidos especializados con propiedades funcionales (resistencia al fuego, impermeabilidad, etc.).  
+  
+  **Rotación de stock:** Frecuencia con la que las telas ingresan y salen del inventario, importante para evitar la obsolescencia.  
+  
+  **Mermas:** Pérdidas o desperdicio de tela durante el almacenamiento, que deben ser contabilizadas.  
+  
+  **Lote de telas:** Conjunto de telas producidas bajo las mismas condiciones, importante para mantener la consistencia en color y calidad.  
+  
+  **Acabado:** Tratamiento final que se le da a la tela, como impermeabilización, antiestático, ignífugo, etc.  
+  
+  **Reabastecimiento:** Proceso de reponer telas en el inventario cuando alcanzan el stock mínimo.  
+  
+  **Inventario cíclico:** Revisión periódica del inventario de telas para asegurar la precisión en los registros.  
 
  </div>
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
