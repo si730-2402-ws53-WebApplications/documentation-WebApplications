@@ -1834,12 +1834,13 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/60 | feature/Sprint2-sprintBacklog-services_Documentation_Evidence|75c0c75| US1: Se realizó la agregación de los videos y páginas| Created the README file.|25/09/2024|
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/59 | development | 6548432   | US2: feat: Testing Suite Evidence for Sprint Review  | feat: Testing Suite Evidence for Sprint Review  | 25/09/2024|
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/58 |development|a19b6ac |US3: feature: Sprint Backlog 2 update|Se realizó una actualización del product backlog | 25/09/2024|
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/57 | development | 29ca9f3 |US4: feature/execution-evidence-from-sprint-review|feature/execution-evidence-from-sprint-review | 24/09/2024              |
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/56 | docs/landingpage-deployment-evidence | 7fe8f1f   | US8: feature: added landing page deployment evidence | feature: added landing page deployment evidence | 24/09/2024              |
-| https://github.com/Horizon-ManageWise/si730-2402-ws53-WebApplications/Testing/pull/50 | fix/diagrama-clases | 6e41532 | US9: feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	|75c0c75| Initial commit| Initial commit |25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6548432   | feature: added US01 gherkin  | feature: added US01 gherkin  | 25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	|a19b6ac |feature: added US02 gherkin|feature: added US02 gherkin | 25/09/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 29ca9f3 |feature: added US03 gherkin|feature: added US03 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 7fe8f1f   | feature: added US04 gherkin | feature: added US04 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6e41532 | feature: added US05 gherkin | feature: added US05 gherkin | 24/09/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TP	 | 6e41532 | feature: added US056 gherkin | feature: added US06 gherkin | 24/09/2024              |
 
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review</h4></div>
 <div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
