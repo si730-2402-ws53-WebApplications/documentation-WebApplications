@@ -1825,8 +1825,7 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | US04 | Visualización en tiempo real de condiciones ambientales | TA004 | Añadir apartado para visualizar la temperatura en tiempo real de los almacenes |Agregar apartado para visualizar la temperatura de los diferentes almacenes registrados| 3 horas | Diego Acuña| InProcess |
 | US08 | Registro de tipo de tela | TA005 | Añadir tipos/categorias de tela inventario |Facilitar el añadir diferentes tipos de telas por parte del usuario| 2 horas | Godofredo Quispe| InProcess |
 | US09 | Agregado de áreas del almacen | TA006 | Añadir diferentes areas a los almacenes |Facilitar la distribucion en los almacenes al divir estos en secciones| 2 horas | Valentino Sandoval| InProcess |
-| US15 | Alerta de mantenimiento del almacén | TA007  Recibe informes periódicos sobre la actividad de detección de plagas |Generación automática de informes y ausencia de actividad de plagas.
-Mantenimiento y Soporte| 4 horas | Valentino Sandoval| InProcess |
+| US15 | Alerta de mantenimiento del almacén | TA007 | Recibe informes periódicos sobre la actividad de detección de plagas |Generación automática de informes y ausencia de actividad de plagas.| 4 horas | Valentino Sandoval| InProcess |
 | US30 | Informes periódicos de detección de plagas | TA008 |Generar reportes detallados sobre el estado del inventario y las condiciones ambientales |Generación de reporte de inventario y generación de reporte de condiciones ambientales| 4 horas | Valentino Sandoval| InProcess |
 
 
