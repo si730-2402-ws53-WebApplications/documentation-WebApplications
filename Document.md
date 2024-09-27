@@ -1810,9 +1810,7 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | Asistentes (reunión de planificación) | Diego Rolin Acuña Tomas, Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva, Godofredo Quispe Tipo            |
 | Sprint Goal & User Stories       |                                                                                                                                                |
 | Sprint 2 Goal                    | Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante |
-| Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.      |
-| **User Stories seleccionadas para Sprint 2** |                                                                                                                                   |
-| US001(3 puntos), US003 (3 puntos), US00 (2 puntos), US002(2 puntos), US004(5 puntos), US009: (3 puntos)                                                                                 |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  US001(3 puntos), US003 (3 puntos), US00 (2 puntos), US002(2 puntos), US004(5 puntos), US009: (3 puntos) |
 | Sum of story points             | 18                                                                                                                                             |
 
 <div id='5.2.2.2.'><h4> 5.2.2.2. Sprint Backlog 2</h4></div>
