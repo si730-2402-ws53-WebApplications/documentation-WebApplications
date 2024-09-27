@@ -1386,6 +1386,13 @@ Link: Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/ed
 
 </div>
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+Link del prototipo: https://www.figma.com/proto/VVRIvZgSl1WPhbla6bDxa9/Web-Application-TelaSecure?page-id=11%3A71&node-id=11-72&node-type=canvas&viewport=936%2C720%2C0.42&t=CXtQFW4bwsyIOSbM-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11%3A72
+
+<p align="center">
+  <img src="resources/prototype.png">
+</p>
+
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
