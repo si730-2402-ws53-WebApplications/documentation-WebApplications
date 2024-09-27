@@ -1812,12 +1812,7 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | Sprint 2 Goal                    | Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante |
 | Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.      |
 | **User Stories seleccionadas para Sprint 2** |                                                                                                                                   |
-| US001: Registro de nuevas telas en el inventario con detalles de tipo, cantidad y ubicación. (3 puntos)                                                                           |
-| US003: Configuración de alertas de temperatura para recibir notificaciones cuando se excedan los niveles óptimos. (3 puntos)                                                      |
-| US008: Registrar el tipo de telas que se manejan en el almacén. (2 puntos)                                                                                                        |
-| US002: Actualización de la cantidad de telas en el inventario tras ventas o nuevos lotes. (2 puntos)                                                                              |
-| US004: Visualización en tiempo real de la temperatura y la humedad en el almacén. (5 puntos)                                                                                      |
-| US009: Agregar nuevas áreas del almacén. (3 puntos)                                                                                                                               |
+| US001(3 puntos), US003 (3 puntos), US00 (2 puntos), US002(2 puntos), US004(5 puntos), US009: (3 puntos)                                                                                 |
 | Sum of story points             | 18                                                                                                                                             |
 
 <div id='5.2.2.2.'><h4> 5.2.2.2. Sprint Backlog 2</h4></div>
