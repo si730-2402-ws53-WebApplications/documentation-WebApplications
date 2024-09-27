@@ -615,19 +615,21 @@ En esta seccion se presentan las personas que se han identificado como usuarios 
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4>
 
-| Task                                                                                           | JUAN Frequency | JUAN Importance | OWEN Frequency | OWEN Importance |
-| ---------------------------------------------------------------------------------------------- | -------------- | --------------- | -------------- | --------------- |
-| Monitorear condiciones ambientales (temperatura, humedad)                                      | Often          | High            | Often          | High            |
-| Gestionar la calidad y preservación de las telas                                               | Often          | High            | Often          | High            |
-| Controlar y gestionar plagas en el almacén                                                     | Sometimes      | High            | Rarely         | Medium          |
-| Implementar y mantener sistemas de monitoreo en tiempo real                                    | Sometimes      | High            | Often          | High            |
-| Evaluar e integrar nuevas tecnologías y herramientas (IA, IoT)                                 | Monthly        | Medium          | Monthly        | Medium          |
-| Colaborar con proveedores para adaptar soluciones tecnológicas a las necesidades de la empresa | Sometimes      | High            | Sometimes      | High            |
-| Capacitar al personal en el uso de nuevas herramientas y tecnologías                           | Sometimes      | Medium          | Sometimes      | Medium          |
-| Asegurarse de que los sistemas de monitoreo estén bien integrados con los sistemas existentes  | Sometimes      | High            | Sometimes      | High            |
-| Mantener un registro y seguimiento del inventario y las condiciones del almacén                | Often          | High            | Often          | High            |
-| Evaluar la seguridad contra incendios y otras medidas de seguridad en el almacén               | Rarely         | Medium          | Sometimes      | High            |
-| Adaptar herramientas y sistemas a modelos de negocio específicos                               | Sometimes      | High            | Sometimes      | High            |
+En este apartado, se presenta una matriz de tareas que resume las actividades diarias y semanales que Juan y Owen realizan en la gestión de su negocio textil. Esta matriz destaca la frecuencia e importancia de cada tarea, lo que permite identificar áreas clave de enfoque y mejora en sus operaciones.
+
+| Task                                                          | JUAN Frequency | JUAN Importance | OWEN Frequency | OWEN Importance |
+|---------------------------------------------------------------|----------------|------------------|----------------|------------------|
+| Monitorear condiciones ambientales (temperatura, humedad)     | Daily          | High             | Daily          | High             |
+| Gestionar el inventario de telas y productos                  | Daily          | High             | Daily          | High             |
+| Controlar y gestionar plagas en el almacén                    | Weekly         | High             | Weekly         | Medium           |
+| Mantener sistemas de monitoreo en tiempo real                 | Daily          | High             | Often          | High             |
+| Capacitar al personal en el uso de herramientas existentes     | Weekly         | Medium           | Monthly        | Medium           |
+| Colaborar con proveedores para reabastecimiento de materiales  | Weekly         | High             | Sometimes      | High             |
+| Evaluar la eficiencia de los procesos de almacenamiento        | Monthly        | Medium           | Monthly        | Medium           |
+| Adaptar herramientas y sistemas a las necesidades diarias      | Weekly         | High             | Weekly         | High             |
+| Revisar y actualizar registros de inventario                  | Daily          | High             | Daily          | High             |
+| Evaluar y asegurar la implementación de medidas de seguridad  | Monthly        | Medium           | Weekly         | High             |
+
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping</h4>
 
