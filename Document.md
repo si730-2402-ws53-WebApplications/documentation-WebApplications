@@ -239,61 +239,69 @@ Hemos identificado que, tanto las empresas de confección como los distribuidore
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
-1.	Creo que los distribuidores de telas y las empresas de confección necesitan una solución más eficiente para gestionar el inventario de textiles y mantener la calidad del material en condiciones óptimas.
+## Business Assumptions
 
-2. Estas necesidades se pueden resolver con una plataforma web integral que permita la gestión en tiempo real de inventarios textiles, el control de condiciones ambientales críticas, y la detección temprana de problemas como plagas.
+- **Necesidad del mercado:** Existe una creciente demanda en la industria textil por soluciones eficientes de gestión de inventarios y control ambiental que minimicen las pérdidas y mejoren la calidad del producto.
+- **Interés en la automatización:** Las empresas de confección y los distribuidores de telas están buscando activamente herramientas tecnológicas que les permitan automatizar procesos y optimizar sus operaciones diarias.
+- **Competitividad:** Las empresas que implementen soluciones tecnológicas avanzadas tendrán una ventaja competitiva significativa en el mercado, mejorando su posicionamiento frente a competidores que aún dependen de procesos manuales.
+- **Sostenibilidad:** Hay un enfoque creciente hacia prácticas sostenibles en la industria textil, lo que impulsará a las empresas a adoptar tecnologías que reduzcan el desperdicio y optimicen el uso de recursos.
+- **Costos de implementación:** Se asume que la inversión inicial en tecnologías de control ambiental y gestión de inventarios se amortizará rápidamente a través de la reducción de pérdidas y mejora en la eficiencia operativa.
 
-3. Mis clientes iniciales serán distribuidores de telas y empresas de confección que buscan optimizar su logística, reducir pérdidas y mejorar la calidad del producto.
+## Business Outcome Assumptions
 
-4. El valor que un cliente quiere de mi servicio es una solución que les permita tener un control preciso sobre su inventario, así como herramientas para prevenir el deterioro del material y mantener estándares de calidad.
+- **Reducir los tiempos de supervisión de variables ambientales:** Se espera que la automatización en el monitoreo de variables como temperatura y humedad permita que los empleados dediquen más tiempo a otras áreas críticas del negocio, mejorando la productividad general.
+- **Aumentar el ingreso económico:** La implementación de sistemas de control ambiental y gestión de inventarios reducirá las pérdidas por degradación de materiales textiles, lo que se traducirá en un aumento significativo en los márgenes de beneficio.
+- **Mejorar la reputación de la empresa:** Al garantizar la entrega de productos textiles de alta calidad y minimizar las quejas de los clientes, la reputación de la empresa se verá fortalecida, lo que atraerá a nuevos clientes y mejorará las relaciones con los actuales.
+- **Optimización de recursos:** La mejora en el control de inventarios permitirá una gestión más eficiente de los recursos, reduciendo costos operativos y mejorando la rentabilidad a largo plazo.
+- **Fidelización del cliente:** La calidad constante y la capacidad de respuesta rápida a las necesidades del cliente generarán una mayor fidelización, lo que conducirá a un crecimiento sostenible del negocio.
 
-5. El cliente también puede obtener estos beneficios adicionales mediante integraciones con sistemas de gestión de pedidos y de producción, permitiendo una coordinación más fluida entre el inventario y la cadena de suministro.
+## User Assumptions
 
-6. Voy a adquirir la mayoría de mis clientes a través de estrategias de marketing digital dirigidas a la industria textil y a través de asociaciones con proveedores de telas y empresas de confección.
-7. Haré dinero a través de un modelo de suscripción mensual o anual, ofreciendo diferentes niveles de funcionalidad según las necesidades del cliente y el tamaño de su inventario.
-8. Mi competencia principal en el mercado serán sistemas de gestión de inventarios genéricos y soluciones específicas para la industria textil que no abordan de manera integral el control de condiciones ambientales y plagas.
-9. Los venceremos debido a nuestra especialización en el sector textil, la integración de funciones avanzadas para el control de calidad y el enfoque en la prevención de problemas específicos del manejo de textiles.
-10. Mi mayor riesgo de producto es la resistencia a adoptar nuevas tecnologías por parte de los usuarios, especialmente si ya tienen sistemas en funcionamiento que perciben como adecuados. Para mitigar este riesgo, ofreceremos una fase de prueba gratuita y capacitación personalizada para facilitar la transición.
+Miguel, un adulto de 30 años, es Responsable de Almacén de textiles y representa a los empleados en el rango de 20 a 40 años. Con más de una década de experiencia desde que terminó la secundaria, ha desarrollado una sólida comprensión de la operación de un almacén textil, enfrentándose a los desafíos diarios de gestionar inventarios, organizar el stock y controlar las condiciones ambientales del almacén.
 
-BUSSINES OUTCOMES
+### Objetivos:
+- Optimización de tiempos en labores repetitivas.
+- Busca soluciones tecnológicas que le permitan automatizar tareas rutinarias y optimizar el control ambiental y de inventarios.
+- Controlar y regular de manera intuitiva los dispositivos de control ambiental, idealmente desde una plataforma móvil.
+- Supervisión en tiempo real de los productos y el ambiente del almacén con reportes automáticos y alertas que le avisen de cualquier anomalía.
+- Eficiencia en la toma de decisiones.
 
-1. Optimización de la Gestión de Inventarios:
+### Obstáculos:
+- Dependencia de procesos manuales.
+- Falta de integración de sistemas para los stocks, monitoreo ambiental y reportes.
+- Riesgo de desajustes ambientales en horas de alta demanda o cuando no hay nadie para realizar la corrección.
+- Falta de alertas automáticas.
+- Complejidad en la implementación de nuevas tecnologías.
 
-• Impacto: Mejora significativa en la eficiencia operativa al proporcionar una visión clara y en tiempo real del inventario textil. Esto reduce el tiempo dedicado a la administración manual y facilita una toma de decisiones más ágil y precisa.
+### Necesidades:
+- Busca una solución que le permita reducir errores humanos y mejorar la precisión en el manejo del inventario.
+- Desea herramientas que sean fáciles de usar y que requieran mínima capacitación para los empleados.
+- Necesita soporte técnico confiable para resolver problemas que puedan surgir con el sistema.
 
-• Beneficio Clave: Minimiza errores y retrasos en el manejo de existencias, lo que optimiza la logística y reduce costos operativos asociados con la gestión ineficiente del inventario.
+### Expectativas:
+- Espera que la solución propuesta no solo resuelva sus problemas actuales, sino que también se adapte a futuras necesidades a medida que su negocio crece.
 
-2. Reducción de Pérdidas y Deterioro de Material:
+## Feature Assumptions
 
-• Impacto: Disminuye las pérdidas y el deterioro de los textiles mediante el monitoreo constante de condiciones ambientales críticas (como temperatura y humedad) y la detección temprana de plagas.
+- **Seguimiento de inventario en tiempo real:** Los usuarios tendrán acceso a la aplicación web en tiempo real, lo que les permitirá realizar un seguimiento preciso de las cantidades y condiciones de los productos almacenados.
+- **Panel de control centralizado:** La plataforma contará con un panel de control intuitivo que permitirá a los usuarios configurar sensores y ajustar la climatización según las necesidades específicas de los diferentes tipos de textiles.
+- **Accesibilidad remota:** Los usuarios podrán acceder a la aplicación desde cualquier dispositivo (móvil, tablet, computadora), lo que les permitirá gestionar su inventario y condiciones ambientales desde cualquier lugar y en cualquier momento.
+- **Sistema de alertas:** Se implementará un sistema de notificaciones automáticas que alertará a los usuarios sobre anomalías en los datos proporcionados por los dispositivos de medición, permitiendo una respuesta rápida ante cualquier problema.
+- **Herramientas de gestión de stock:** La aplicación incluirá funciones fáciles de usar para la gestión eficiente del stock de telas, como herramientas de planificación de reabastecimiento y reportes de tendencias de consumo.
+- **Integración con sistemas existentes:** La solución deberá ser capaz de integrarse con sistemas de gestión de pedidos y producción ya existentes, facilitando una coordinación fluida entre el inventario y la cadena de suministro.
+- **Análisis de datos y reportes:** La plataforma ofrecerá herramientas de análisis de datos que permitirán a los usuarios generar reportes sobre el rendimiento del inventario, identificando áreas de mejora y oportunidades de ahorro.
 
-• Beneficio Clave: Protege la calidad del material y evita gastos adicionales relacionados con la reposición de textiles dañados, asegurando así la conservación óptima del inventario y la satisfacción del cliente.
+## User Outcomes Assumptions
 
-User Outcomes:
+### Distribuidores de telas:
+- Tendrán un acceso inmediato a información actualizada sobre el estado de su inventario, lo que les permitirá tomar decisiones más informadas y rápidas.
+- Mejorarán su capacidad para prever necesidades de reposición y reducir el riesgo de escasez de productos.
 
-¿Quién es el usuario?
+### Encargados de gestión de almacenes en empresas textiles:
+- **Tener un mayor control sobre variables ambientales:** Lograrán mantener las condiciones óptimas para el almacenamiento de textiles, minimizando el riesgo de deterioro.
+- **Mejorar el control sobre el inventario:** Obtendrán una visibilidad completa sobre el inventario, lo que les permitirá gestionar mejor los niveles de stock y reducir pérdidas.
+- **Optimizar tiempos:** Disminuirán significativamente el tiempo dedicado a la gestión manual de inventarios y a la supervisión de condiciones ambientales, permitiendo enfocarse en tareas más estratégicas y de valor añadido.
 
-• Los usuarios son distribuidores de telas y empresas de confección
-
-¿Dónde encaja nuestra empresa en su trabajo o vida?
-
-• Nuestra empresa se posiciona como un socio estratégico para la gestión y conservación de inventarios textiles, ofreciendo una plataforma integral que facilita la administración eficiente de recursos, asegurando su calidad y minimizando pérdidas.
-
-¿Qué problemas tiene nuestra empresa?
-
-• Nos enfrentamos a la falta de soluciones especializadas que integren el control de condiciones ambientales, la gestión de inventarios y la prevención de problemas como plagas, lo que complica la administración eficiente y la protección del inventario textil.
-
-¿Cuándo y cómo es nuestra empresa?
-
-• Nuestra empresa está en una etapa de desarrollo inicial, ofreciendo una solución innovadora y adaptativa para el manejo integral de inventarios textiles, con características específicas que abordan las necesidades únicas del sector textil.
-
-¿Qué características son importantes?
-
-• Las características importantes incluyen un sistema de monitoreo en tiempo real de condiciones ambientales (temperatura y humedad), herramientas de gestión de inventarios, alertas para la detección de plagas, y un interfaz intuitiva que facilita la administración y el seguimiento del material.
-
-¿Cómo debe verse nuestra empresa y comportarse?
-
-• Nuestra empresa debe proyectar confianza y especialización en el sector textil, actuando como un aliado proactivo que mejora la gestión y conservación del inventario. Debe ser percibida como una solución accesible y orientada al cliente, con un enfoque en la innovación continua y el soporte personalizado para garantizar la satisfacción y el éxito de nuestros usuarios.
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
