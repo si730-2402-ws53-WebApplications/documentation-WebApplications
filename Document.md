@@ -643,24 +643,12 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 # Segmento 1 : Encargados del inventario de empresas de confección. (Jeffrey Diaz)
 
-| _What He Thinks and Feels_                                                                                                     | _What He Sees_                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Necesita mantener las telas en condiciones óptimas, preocupándose por factores ambientales que puedan deteriorarlas.           | Observa que el entorno de almacenamiento a menudo enfrenta problemas con la climatización y la gestión de plagas.                           |
-| Está interesado en soluciones tecnológicas que ofrezcan un control más preciso y en tiempo real del entorno de almacenamiento. | Nota la existencia de sistemas de gestión de inventarios y sensores ambientales, pero ve margen para mejoras en la integración y precisión. |
-| Experimenta frustraciones debido a fluctuaciones en la temperatura y humedad, y problemas con el control de plagas.            | Ve que la automatización y las tecnologías avanzadas están revolucionando la gestión de almacenes.                                          |
+<img src="resources/empa_page-0001 (1).jpg"/>
 
-| _What He Says and Does_                                                                                                                                                 | _What He Hears_                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Habla sobre la necesidad de mejorar el control ambiental y la integración de tecnologías de monitoreo con la gestión de inventarios.                                    | Recibe feedback sobre la necesidad de sistemas más precisos y la importancia de una integración más fluida.              |
-| Utiliza sistemas actuales de gestión y monitoreo, pero está buscando activamente nuevas soluciones que integren mejor ambos aspectos y ofrezcan alertas en tiempo real. | Escucha sobre innovaciones tecnológicas que podrían mejorar el control y la automatización en la gestión de inventarios. |
-
-| _Pains_                                                                                                                      | _Gains_                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ha tenido problemas significativos con fallos en la climatización que han llevado a la degradación de telas.                 | Una solución moderna que permita el monitoreo en tiempo real y ajuste automático de condiciones ambientales.                                                                     |
-| Los sistemas de gestión y monitoreo actuales no siempre ofrecen la integración y alertas necesarias para una gestión eficaz. | Herramientas que integren mejor el control ambiental con la gestión de inventarios, mejorando la eficiencia y reduciendo el riesgo de pérdidas.                                  |
-|                                                                                                                              | Implementación exitosa de tecnologías avanzadas, como inteligencia artificial y sistemas IoT, que pueden predecir y prevenir problemas antes de que causen daños significativos. |
 
 # Segmento 2: Distribuidores de Telas (Owen)
+
+<img src="resources/empa2_page-0001.jpg"/>
 
 | **What He Thinks and Feels**                                                                                                                                   | **What He Sees**                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
