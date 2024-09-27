@@ -1099,16 +1099,21 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 
 <div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframes</h4>
 
+Link a figma: https://www.figma.com/design/wtjdA05SJmNhu0Pxk8hkBN/landing-aw?node-id=29-28&t=8E7iF9yetZEUy1hx-1
+
 ##### Desktop Web Browser:
 
 <p align="center">
 
+La landing page contará con diferentes secciones como: Descripción general, beneficios, inicio de sesion, registro, hero, footer y una especializada con un call to action para registrarse. Además se contara con una barra de navegación, desde donde se podrá acceder a las diferentes secciones de una manera más rápida y fluida. 
 <img src="resources/Wireframe-DesktopWebBrowser.png">
 <br>
 
+En la sección de registro se contará con un formulario con todos los apartados requeridos para la creación de una cuenta de manera segura.
 <img src="resources/Wireframe-DesktopWebBrowser-Registro.png">
 <br>
 
+En la sección de registro, se necesitará que el usuario ingrese los datos de su cuenta correctamente, para asi ser redirigido a la aplicación web,
 <img src="resources/Wireframe-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1118,6 +1123,7 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 
 <p align="center">
 
+La landign page será responsive, y contará con un hamburger mernu, lo que asegura una correcta visualización desde cualquier tipo de dispositivo.
 <img width=300px src="resources/Wireframe-MobileWebBrowser-Menu.png">
 <br>
 
@@ -1133,16 +1139,21 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 </div> 
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4>
 
+Link a figma: https://www.figma.com/design/wtjdA05SJmNhu0Pxk8hkBN/Landing-Page-TelaSecure?node-id=0-1&t=vEoprmNOVY4ZiwNl-1
+
 ##### Desktop Web Browser:
 
 <p align="center">
 
+La landing page cuenta con diferentes secciones como descripcion general, en donde se muestran los principales features de la aplicación, beneficios, en donde se muestran los beneficios mas notorios, nosotros, en donde se conocen aspectos como la visión y misión de la empresa, e iniciar sesión y registrarse. Además en la parte de Hero, se cuenta con un eslogan y un call to action a registrarse. Por último en el footer se muestran links a las redes sociales de la plataforma. 
 <img src="resources/Mockup-DesktopWebBrowser.png">
 <br>
 
+En esta sección, el usuario ingresa los datos correctamente para poder registrarse.
 <img src="resources/Mockup-DesktopWebBrowser-Registro.png">
 <br>
 
+En esta sección, el usuario puede ingresar los datos deseados, para así crear una nueva cuenta.
 <img src="resources/Mockup-DesktopWebBrowser-InicioSesion.png">
 <br>
 
@@ -1151,6 +1162,8 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 ##### Mobile Web Browser:
 
 <p align="center">
+
+La landing page cuenta con un diseño responsive, que se adapta a diferentes tipos de pantallas, contando con un hamburger menu.
 
 <img width=300px src="resources/Mockup-MobileWebBrowser-Menu.png">
 <br>
@@ -1168,66 +1181,92 @@ Para optimizar la visibilidad de WeaveGuard en los motores de búsqueda y atraer
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></p>
 
+Link a figma: https://www.figma.com/design/VVRIvZgSl1WPhbla6bDxa9/Web-Application-TelaSecure?node-id=0-1&t=L7EaXphGupDY7cYj-1
+
+Sección encargada de agregar, eliminar y editar telas en el inventario.
 <img src="resources/wireframeInventario.png">
 <br>
+
+Sección encargada de permitir al usuario modificar y visualizar los diferentes sensores y herramientas instaladas y compatibles con la aplicación.
 <img src="resources/WireframeControlAmbiental.png">
 <br>
+
+Sección encargada de mostrar reportes sobre variables de entorno en los almacenes.
 <img src="resources/WireframeReportes-y-Análisis.png">
 <br>
+
+Sección en la cual el usuario puede comunicar fallas al soporte técnico.
 <img src="resources/wireframeMantenimiento-y-Soporte.png">
 <br>
+
+Sección encargada de gestionar todos los cambios posibles en la aplicación.
 <img src="resources/wireframeConfiguracion.png">
 <br>
 
 </div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4>
 
-### User goal: Registrar un nuevo usuario
+Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/edit?viewport_loc=-9312%2C-2800%2C13875%2C5963%2C0_0&invitationId=inv_273a5656-5804-424f-b1da-0e7195daa536 
 
+### User goal: Registrar un nuevo usuario  
+El usuario ingresa los datos pertinentes de manera correcta en el formulario de registro.
 <img src="resources/wireflow1.png">
 <br>
 
-### User goal: Iniciar sesión
-
+### User goal: Iniciar sesión  
+El usuario ingresa tanto su correo electrónico, como su contraseña en el formulario de inicio de sesión.
 <img src="resources/wireflow2.png">
 <br>
 
-### User goal: Registrar nuevas telas en el inventario
-
+### User goal: Registrar nuevas telas en el inventario  
+EL usuario ingresa los datos correspondientes en el apartado de Agregar, dentro de la sección invetory.
 <img src="resources/wireflow3.png">
 <br>
 
-### User goal: Modificar la cantidad de telas
-
+### User goal: Modificar la cantidad de telas  
+EL usuario modifica la cantidad de telas dentro de un lote, al seleccionar editar dentro de la sección invetory.
 <img src="resources/wireflow4.png">
 <br>
 
-### User goal: Registrar tipo de telas
-
+### User goal: Registrar tipo de telas  
+EL usuario ingresa los datos correspondientes en el apartado de Agregar categoria, dentro de la sección invetory.
 <img src="resources/wireflow5.png">
 <br>
 
-### User goal: Visualizar en tiempo real temperatura del almacén
-
+### User goal: Visualizar en tiempo real temperatura del almacén  
+El usuario ingresa a la sección de environmental control, en donde puede visualizar diferentes variables como la temperatura con tan solo seleccionar el dispositivo deseado.
 <img src="resources/wireflow6.png">
 <br>
 
 </div>
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4>
 
+Link a figma: https://www.figma.com/design/VVRIvZgSl1WPhbla6bDxa9/Web-Application-TelaSecure?node-id=11-71&t=L7EaXphGupDY7cYj-1
+
+En la sección inventory, se muestra una tabla al usuario con todas las telas registradas, además, el usuario puede agregar nuevas telas, eliminarlas, o editar características de las mismos  
 <img src="resources/mockupInventario.png">
 <br>
+
+En la sección de Environmental control, el usuario observa los diferentes dispositivos instalados en los almacenes, ademas de poder controlar diferentes aspectos de los mismos, como temperatura máxima o mínima.
 <img src="resources/mockupControlAmbiental.png">
 <br>
+
+En el apartado de Reports, el usuario puede visualizar diferentes análisis y gráficos en relación al inventario y calidad de las telas.
 <img src="resources/mockupReportes-y-Análisis.png">
 <br>
+
+En esta sección el usuario puede observar las versiones de diferetes dependencias, además de enviar incidencias al soporte técnico.
 <img src="resources/mockupMantenimiento-y-Soporte.png">
 <br>
+
+En esta sección el usuario tiene acceso a diferentes tipos de configuración y personalización de la aplicación web.
 <img src="resources/mockupConfiguracion.png">
 <br>
 
 </div>
 <div id='4.4.4.'><h4> 4.4.2. Web Applications User Flow Diagrams</h4>
+
+Link: Link: https://lucid.app/lucidchart/62c3f7ad-1e69-44ee-b538-37f68e284862/edit?viewport_loc=-9312%2C-2800%2C13875%2C5963%2C0_0&invitationId=inv_273a5656-5804-424f-b1da-0e7195daa536 
 
 ### User goal: Como usuario, quiero registrarme
 
