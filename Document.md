@@ -130,6 +130,15 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5.2.1.6.)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint](#5.2.1.8.)<br>
+   5.2.2. [Sprint 2](#5.2.2.)<br>
+   5.2.2.1. [Sprint Planning 2](#5.2.2.1.)<br>
+   5.2.2.2. [Sprint Backlog 2](#5.2.2.2.)<br>
+   5.2.2.3. [Development Evidence for Sprint Review](#5.2.2.3.)<br>
+   5.2.2.4. [Testing Suite Evidence for Sprint Review](#5.2.2.4.)<br>
+   5.2.2.5. [Execution Evidence for Sprint Review](#5.2.2.5.)<br>
+   5.2.2.6. [Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
+   5.2.2.7. [Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
+   5.2.2.8. [Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
@@ -1777,6 +1786,28 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073540178346034/image.png?ex=66de0787&is=66dcb607&hm=cd9be1ea17d72a028018eeced12e269ddd1ccf254a1462bf7c50dc81d6174fc0&">
 
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
+
+5.2.2. Sprint 2
+5.2.2.1. Sprint Planning 2.
+5.2.2.2. Sprint Backlog 2.
+5.2.2.3. Development Evidence for Sprint Review.
+5.2.2.4. Testing Suite Evidence for Sprint Review.
+5.2.2.5. Execution Evidence for Sprint Review.
+5.2.2.6. Services Documentation Evidence for Sprint Review.
+5.2.2.7. Software Deployment Evidence for Sprint Review.
+5.2.2.8. Team Collaboration Insights during Sprint
+
+<div id='5.2.2.'><h3> 5.2.2. Sprint 2</h3></div>
+<div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2</h4></div>
+<div id='5.2.2.2.'><h4> 5.2.2.2. Sprint Backlog 2</h4></div>
+<div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
+<div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
+<div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+<div id='5.2.2.6.'><h4> 5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+<div id='5.2.2.7.'><h4> 5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+<div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
