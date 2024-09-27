@@ -1814,6 +1814,14 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | Sum of story points             | 18                                                                                                                                             |
 
 <div id='5.2.2.2.'><h4> 5.2.2.2. Sprint Backlog 2</h4></div>
+
+| Sprint #       | Sprint 2 | | | | | | |
+| -------------- | -------- | - | - | - | - | - | - |
+| **User<br>Story** | | **Work-Item /Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do /InProcess / To-Review /Done)** |
+| **ID**         | **Title** | **ID** | **Title** | **Description** | | |
+| us x | dasdas | id| titulo |descripcion| | | |
+
+
 <div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
 <div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
 <div id='5.2.2.5.'><h4> 5.2.2.5. Execution Evidence for Sprint Review</h4></div>
