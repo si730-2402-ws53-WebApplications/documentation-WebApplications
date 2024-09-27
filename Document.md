@@ -1819,8 +1819,12 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | -------------- | -------- | - | - | - | - | - | - |
 | **User<br>Story** | | **Work-Item /Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do /InProcess / To-Review /Done)** |
 | **ID**         | **Title** | **ID** | **Title** | **Description** | | |
-| us x | dasdas | id| titulo |descripcion| | | |
-
+| US01 | Registro de telas de inventario | TA001 | Añadir telas al inventario |Facilitar el añadir telas al inventario por parte del usuario| 3 horas | John Arevalo| InProcess |
+| US02 | Actualizacion de cantidad de telas | TA002 | Editar cantidad de telas |Facilitar el poder editar y actualizar la cantidad de telas| 2 horas |Valentino Sandoval| InProcess |
+| US03 | Configuracion de alertas de temperatura | TA003 | Añadir alertas a ciertas temperaturas |Agregar la función de emitir alertasa dependiendo de la temperatura máxima o mínima del almacen, escogida por el usuario| 4 horas | Diego Cabrera| InProcess |
+| US04 | Visualización en tiempo real de condiciones ambientales | TA004 | Añadir apartado para visualizar la temperatura en tiempo real de los almacenes |Agregar apartado para visualizar la temperatura de los diferentes almacenes registrados| 3 horas | Diego Acuña| InProcess |
+| US08 | Registro de tipo de tela | TA005 | Añadir tipos/categorias de tela inventario |Facilitar el añadir diferentes tipos de telas por parte del usuario| 2 horas | Godofredo Quispe| InProcess |
+| US09 | Agregado de áreas del almacen | TA006 | Añadir diferentes areas a los almacenes |Facilitar la distribucion en los almacenes al divir estos en secciones| 2 horas | Valentino Sandoval| InProcess |
 
 <div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
 <div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
