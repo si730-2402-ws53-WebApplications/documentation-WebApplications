@@ -893,38 +893,40 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 <div id='3.4'><h3> 3.4. Product Backlog. </h3></div>
 
 
-| Prioridad | User Story ID | Descripción                                                                                                           | Story Points (SP) |
-|-----------|----------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|
-| 1         | **US001**       | Registro de nuevas telas en el inventario con detalles de tipo, cantidad y ubicación.                                  | **3**             |
-| 2         | **US002**       | Actualización de la cantidad de telas en el inventario tras ventas o nuevos lotes.                                     | **2**             |
-| 3         | **US010**       | Gestión de entrada y salida de pedidos de tela del inventario.                                                         | **5**             |
-| 4         | **US003**       | Configuración de alertas de temperatura para recibir notificaciones cuando se excedan los niveles óptimos.             | **3**             |
-| 5         | **US022**       | Notificaciones cuando el nivel de inventario de una tela específica esté bajo.                                         | **3**             |
-| 6         | **US008**       | Registrar el tipo de telas que se manejan en el almacén.                                                              | **2**             |
-| 7         | **US004**       | Visualización en tiempo real de la temperatura y la humedad en el almacén.                                             | **5**             |
-| 8         | **US005**       | Notificación inmediata de presencia de plagas en el almacén.                                                           | **5**             |
-| 9         | **US023**       | Generación de reportes detallados sobre el estado del inventario y las condiciones ambientales.                        | **8**             |
-| 10        | **US024**       | Automatizar tareas recurrentes en la gestión de inventarios y condiciones ambientales.                                 | **8**             |
-| 11        | **US011**       | Notificaciones cuando se superan los umbrales de temperatura o humedad.                                                | **5**             |
-| 12        | **US012**       | Seguimiento del historial de movimientos de cada rollo de tela.                                                       | **4**             |
-| 13        | **US006**       | Acceso al historial de detección de plagas en el almacén.                                                              | **3**             |
-| 14        | **US007**       | Conocer al equipo de TelaSecure desde la landing page.                                                                 | **1**             |
-| 15        | **US015**       | Recibir alertas sobre los mantenimientos programados en el almacén.                                                    | **2**             |
-| 16        | **US009**       | Agregar nuevas áreas del almacén.                                                                                     | **3**             |
-| 17        | **US025**       | Configurar parámetros de alerta para temperatura, humedad y plagas.                                                    | **5**             |
-| 18        | **US013**       | Configuración de parámetros de alerta para temperatura.                                                                | **3**             |
-| 19        | **US014**       | Configuración de parámetros de alerta para humedad.                                                                    | **3**             |
-| 20        | **US030**       | Recibir informes periódicos sobre la actividad de detección de plagas.                                                 | **4**             |
-| 21        | **US021**       | Recibir notificaciones tanto en correo como en celular vinculado.                                                      | **3**             |
-| 22        | **US016**       | Tener acceso rápido a las redes sociales del proyecto desde la landing page.                                            | **1**             |
-| 23        | **US017**       | Navegar entre secciones de la landing page a través de la barra de navegación.                                          | **2**             |
-| 24        | **US018**       | Acceder a la landing page desde cualquier dispositivo (responsiva).                                                    | **3**             |
-| 25        | **US019**       | Registro de datos en la landing page.                                                                                  | **2**             |
-| 26        | **US020**       | Cambiar entre varias cuentas de usuario en la plataforma.                                                             | **5**             |
-| 27        | **US026**       | Gestión de accesos y permisos de usuarios en la plataforma.                                                            | **8**             |
-| 28        | **US027**       | Recibir notificaciones y actualizaciones sobre el mantenimiento de la plataforma.                                      | **3**             |
-| 29        | **US028**       | Monitoreo de temperatura y humedad en zonas específicas del almacén.                                                   | **4**             |
-| 30        | **US029**       | Configurar diferentes parámetros de monitoreo para distintos tipos de telas.                                           | **5**             |
+| Prioridad | User Story ID | Descripción | Story Points (SP) |
+|-----------|---------------|-------------|--------------------|
+| 1         | US001         | Mostrar beneficios de la plataforma. | 3                  |
+| 2         | US002         | Llamada a la acción (Call to Action). | 2                  |
+| 3         | US004         | Acceso rápido desde la landing page. | 5                  |
+| 4         | US005         | Landing Page Responsive. | 5                  |
+| 5         | US009         | Menú Lateral. | 3                  |
+| 6         | US010         | Ocultar y Mostrar Menú Lateral. | 2                  |
+| 7         | US011         | Vista en la Barra Superior para Configuración. | 3                  |
+| 8         | US012         | Inicio de Sesión Sencillo. | 3                  |
+| 9         | US013         | Creación de Cuentas. | 5                  |
+| 10        | US014         | Registro de Telas en el Inventario. | 3                  |
+| 11        | US015         | Registrar Categoría de Tela. | 2                  |
+| 12        | US016         | Filtros para Ver Inventario por Almacén. | 5                  |
+| 13        | US017         | Edición de Telas del Inventario. | 3                  |
+| 14        | US018         | Eliminación de Telas del Inventario. | 4                  |
+| 15        | US019         | Notificación de la Cantidad de Tela. | 3                  |
+| 16        | US020         | Configuración de Alertas de Temperatura. | 3                  |
+| 17        | US021         | Visualización en Tiempo Real de Temperatura. | 5                  |
+| 18        | US022         | Visualización en Tiempo Real de Humedad. | 5                  |
+| 19        | US023         | Configuración de Parámetros de Alerta para Humedad. | 4                  |
+| 20        | US024         | Monitoreo de Zonas Específicas. | 4                  |
+| 21        | US025         | Modificación de Temperatura. | 3                  |
+| 22        | US026         | Modificación de Humedad. | 3                  |
+| 23        | US027         | Registrar un almacén. | 3                  |
+| 24        | US028         | Quitar un almacén registrado. | 2                  |
+| 25        | US029         | Registrar un sensor de un almacén. | 5                  |
+| 26        | US030         | Eliminar la conexión a un sensor de un almacén. | 5                  |
+| 27        | US031         | Visualizar Almacenes y Sensores. | 3                  |
+| 28        | US003         | Sección de preguntas frecuentes (FAQ). | 3                  |
+| 29        | US006         | Links de redirección a secciones. | 2                  |
+| 30        | US007         | Conocer a TelaSecure. | 1                  |
+| 31        | US008         | Link a redes sociales. | 1                  |
+
 
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
