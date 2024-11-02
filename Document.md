@@ -2330,7 +2330,94 @@ Gestión de Inventario de Telas
 
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA : Ingeniería de Software
+CURSO : Aplicaciones Web
+SECCIÓN : WS53
+PROFESORES : Todos
+AUDITOR : WeaveGuard
+CLIENTE(S) : WeaveGuard
+SITE o APP a evaluar : TelaSecure
+---
+TAREAS A EVALUAR: Para el alcance de esta entrega, se realizó la revisión de las siguientes tareas:
+
+**Para el segmento Encargados**
+
+1. Navegación entre las funcionalidades de la aplicación: Evaluar la funcionalidad de navegar entre los servicios que ofrece nuestra aplicación, ya sea registrar telas como cambiar la temperatura.
+2. Actualización de la temperatura: Evaluar la funcionalidad y la facilidad de cambiar las temperaturas y la humedad de los sensores.
+3. Registro de almacenes: Evaluar la funcionalidad y la facilidad de registrar almacenes y sensores.
+
+**Para el segmento Distribuidores**
+
+1. Actualización de los inventarios: Evaluar la funcionalidad y la facilidad de actualizar y registrar las telas.
+2. Registro de las temperaturas: Evaluar la funcionalidad y la facilidad de visualizar el registro de temperaturas.
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                        |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente lanzamiento. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.          |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.      |
+
+TABLA DE RESUMEN: 
+
+| # | Problema                                                              | Escala de severidad | Heurística/Principio violado(a)                    |
+|---|-----------------------------------------------------------------------|---------------------|---------------------------------------------------|
+| 1 | No se actualiza las temperaturas de los almacenes | 3                   | Usability: Libertad y control del usuario          |
+| 2 | Se duplican las telas de los inventarios      | 1                   | Usability: Libertad y control del usuario            |
+| 3 | No se visualiza el historial de las temperaturas      | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 4 | No se visualiza los almacenes con sus sensores indicados  | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 5 | No se guarda correctamente las ID de los almacenes | 2                   | Usability: Libertad y control del usuario   |
+
+Descripción de Problemas
+
+Problema #1: 
+
+- Tarea Evaluada: Actualización de la temperatura.
+- Recomendación: Implementar una actualización automática o un botón de "Actualizar" visible para que el usuario pueda refrescar las temperaturas cuando lo necesite.
+
+Problema #2:
+
+- Tarea Evaluada: Duplicación de telas
+- Recomendación: Agregar una validación en el sistema para evitar duplicados al añadir telas y establece una notificación cuando una tela ya existe en el inventario.
+
+Problema #3:
+
+- Tarea Evaluada: Registro de las temperaturas
+- Recomendación: Añadir una sección de historial que muestre los cambios en la temperatura, con fechas y valores anteriores, para que el usuario pueda monitorear las variaciones.
+
+Problema #4:
+
+- Tarea Evaluada: Registro de almacenes 
+- Recomendación: Validar que cada almacén muestre claramente los sensores conectados y su estado. Considerar una representación visual o íconos para cada tipo de sensor.
+
+Problema #5: 
+
+- Tarea Evaluada: Registro de almacenes
+- Recomendación: Validar la lógica de guardado y asegurar de que cada almacén tenga un identificador único. Implementar mensajes de error si falla el guardado y opciones para reintentar.
+
+User Flows a Validar
+
+Para el Segmento Encargados:
+- Navegación entre funcionalidades de la aplicación: Evaluar la facilidad para encontrar y explorar los servicios de la aplicación, como el registro de telas y el ajuste de temperatura.
+- Actualización de la temperatura: Evaluar la funcionalidad y facilidad para cambiar los valores de temperatura y humedad de los sensores.
+- Registro de almacenes: Evaluar la facilidad para registrar nuevos almacenes y asignarles sensores de manera correcta.
+
+Para el Segmento Distribuidores:
+- Actualización de inventarios: Evaluar la funcionalidad y facilidad para actualizar y registrar telas en el inventario.
+- Registro de las temperaturas: Evaluar la facilidad para visualizar el historial de temperaturas registradas en los almacenes.
+
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+[https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM)
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desafiante pero gratificante. El equipo demostró un alto nivel de compromiso, colaboración y capacidad para distribuir tareas de manera efectiva, logrando implementar características clave como la Landing Page, el analisis de competidores, los Mockups y el desarrollo de estrategias Lean UX orientadas a mejorar la experiencia del usuario.
