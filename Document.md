@@ -139,6 +139,15 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
+   5.2.3. [Sprint 3](#5.2.3.)<br>
+   5.2.3.1. [Sprint Planning 3](#5.2.3.1.)<br>
+   5.2.3.2. [Sprint Backlog 3](#5.2.3.2.)<br>
+   5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
+   5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
