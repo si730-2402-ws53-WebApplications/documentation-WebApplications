@@ -771,7 +771,7 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | EP004   | Gestión Ambiental                        | Como encargado de almacén, quiero contar con herramientas para monitorear y gestionar las condiciones ambientales, asegurando la integridad de las telas. |
 | EP005   | Gestión de Almacenes                        | Como usuario de la aplicación, quiero contar con herramientas  para gestionar mis almacenes de telas, asegurando la integridad y calidad de los materiales a través de la asignación de sensores y sistemas de monitoreo. |
 | EP006   | Gestión de Reportes | Como encargado de almacén, quiero poder generar y monitorear reportes periódicos y detallados sobre diversos aspectos del inventario, condiciones ambientales, y detección de plagas, para mantener un control eficiente y realizar acciones correctivas basadas en datos. |
-| EP07       | Desarrollo de las funcionalidades de la aplicación | Como equipo de desarrollo, queremos optimizar la generación de reportes y la visualización de datos en la plataforma, implementando funcionalidades que permitan a los usuarios crear reportes personalizados, visualizar datos ambientales en gráficos y gestionar información sobre plagas y almacenes.|
+| EP007       | Desarrollo de las funcionalidades de la aplicación | Como equipo de desarrollo, queremos optimizar la generación de reportes y la visualización de datos en la plataforma, implementando funcionalidades que permitan a los usuarios crear reportes personalizados, visualizar datos ambientales en gráficos y gestionar información sobre plagas y almacenes.|
 
 
 <div id='3.2.1'><h3> 3.2.1 User Stories </h3></div>
@@ -902,8 +902,23 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | US035     | Informes periódicos de detección de plagas |
 | US036     | Historial de Detección de Plagas         |
 
+# Epic 07: Desarrollo de las funcionalidades de la aplicación
 
-
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| TS001     | Implementar API REST para generación de reportes personalizables|
+| TS002     | Implementar visualización de datos en gráficos para reportes ambientales|
+| TS003     | Configuración del almacenamiento de datos históricos de plagas   |
+| TS004     | Implementar Sección de Beneficios en la Landing Page|
+| TS005     | Crear Llamada a la Acción en la Landing Page  |
+| TS006     |Implementar Menú Lateral Navegable|
+|TS007|Crear Vista de Configuración en la Barra Superior|
+|TS008|Crear API para Registro de Telas en el Inventario|
+|TS009|Implementar Filtros para Visualización de Inventario por Almacén |
+|TS010|API para Configuración de Alertas de Temperatura y Humedad|
+|TS011|Monitoreo en Tiempo Real de Temperatura y Humedad|
+|TS012|Crear API para Registrar Almacenes y Sensores|
+|TS013|Implementar Visualización de Almacenes y Sensores |
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
 
