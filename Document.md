@@ -1965,12 +1965,83 @@ Link: https://si730-2402-ws53-webapplications.github.io/weaveguard-frontend/
 
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
 
+<div id='5.2.3.'><h3> 5.2.3. Sprint 3</h3></div>
+
+<div id='5.2.3.1.'><h4> 5.2.3.1. Sprint Planning 3</h4></div>
+
+| Sprint #                        | Sprint 3                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 3                                                                                                                                       |
+| Date                            | 25/10/2024                                                                                                                                    |
+| Time                             | 12:00 AM                                                                                                                                       |
+| Location                            | Discord (Reunión virtual)                                                                                                                      |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
+| Attendees (to planning meeting) | Diego Rolin Acuña Tomas, Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva           |
+| Sprint n – 3 Review Summary                    | Logramos completar el primer despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo  la visualización de datos y la funcionalidad principal de gestión de inventarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas.|
+| Sprint n – 2 Retrospective Summary                   | Se notó una mejora en la comunicación y colaboración entre los miembros, lo cual facilitó el avance en las tareas críticas. Sin embargo, se identificaron oportunidades de optimización en algunos flujos de trabajo para reducir tiempos y mejorar la organización en el manejo de tareas.  |
+| Sprint Goal & User Stories       |
+ Sprint 3 Goal                    | Nuestro enfoque es mejorar la experiencia de los usuarios en la plataforma TelaSecure optimizando las funcionalidades de gestión de inventario y monitoreo ambiental. Se busca proporcionar herramientas que permitan una supervisión detallada y en tiempo real de las condiciones del almacén, así como una gestión eficiente del inventario y sus categorías. Creemos que esto facilitará a los usuarios la administración de sus productos, asegurando condiciones óptimas de almacenamiento y manteniendo un control preciso de las existencias. Este objetivo se considerará cumplido cuando los usuarios puedan monitorear las variables ambientales, gestionar el inventario y recibir alertas en tiempo real ante condiciones fuera de los parámetros establecidos |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US001(3 puntos), <br>-US003 (3 puntos), <br>-US00 (2 puntos), <br>-US002(2 puntos), <br>-US004(5 puntos), <br>-US009: (3 puntos) |
+| Sum of story points             | 18 
 
 
-<div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
+<div id='5.2.3.2.'><h4> 5.2.3.2. Sprint Backlog 3.</h4></div>
+
+El objetivo principal de este Sprint es mejorar la experiencia del usuario en la plataforma, implementando y optimizando funcionalidades clave como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. Además, se busca asegurar que los usuarios reciban alertas y notificaciones oportunas para mantener el control del inventario y mejorar la usabilidad de la interfaz de la aplicación.
+
+**TRELLO**
+
+
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | |
+| US02     | Llamada a la acción (Call to Action) | T01 | Diseñar la interfaz de la landing page | Crear una interfaz atractiva que incluya un botón de llamada a la acción visible y accesible en la landing page | 3 horas | John Arevalo | Done |
+|          |          | T02 | Configurar la funcionalidad de redirección | Implementar la funcionalidad para que el botón de llamada a la acción redirija a la página de registro | 2 horas | John Arevalo | Done |
+|          |          | T03 | Definir contenido de la llamada a la acción | Definir el texto y estilo que invite a los usuarios a registrarse o probar la plataforma | 1 hora | John Arevalo | Done |
+| US11     | Vista en la Barra Superior para Configuración | T01 | Definir elementos de la barra superior | Especificar los elementos de configuración que estarán en la barra superior para acceso rápido | 2 horas | Valentino Sandoval | Done |
+|          |          | T02 | Implementar navegación a la vista de configuración | Añadir la navegación desde la barra superior a la sección de configuración de cuenta | 3 horas | Valentino Sandoval | Done |
+|          |          | T03 | Diseñar la interfaz de la barra superior | Diseñar y estilizar la barra superior para alinearse con el diseño general de la aplicación | 2 horas | Valentino Sandoval | Done |
+| US13     | Creación de Cuentas | T01 | Implementar la lógica de creación de cuenta | Desarrollar la lógica para permitir a los usuarios crear cuentas en la aplicación | 4 horas | Diego Cabrera | Done |
+|          |          | T02 | Definir campos necesarios para la creación de cuenta | Especificar los campos requeridos para el proceso de creación de cuentas, como nombre, email y contraseña | 2 horas | Diego Cabrera | Done |
+|          |          | T03 | Diseñar la interfaz de creación de cuenta | Crear una interfaz amigable que permita al usuario introducir sus datos de registro de manera clara | 3 horas | Diego Cabrera | Done |
+|          |          | T04 | Configurar confirmación de creación | Implementar una confirmación visual y/o mensaje de éxito después de que se complete la creación de cuenta | 2 horas | Diego Cabrera | Done |
+| US16     | Filtros para Ver Inventario por Almacén | T01 | Definir criterios de filtrado | Establecer los criterios de filtrado que los usuarios podrán aplicar, como tipo de tela, ubicación o categoría | 2 horas | Valentino Sandoval | Done |
+|          |          | T02 | Implementar lógica de filtrado | Desarrollar la funcionalidad para aplicar los filtros en la visualización del inventario | 4 horas | Valentino Sandoval | Done |
+|          |          | T03 | Diseñar la interfaz de usuario para filtros | Crear una interfaz para que los usuarios seleccionen los filtros de manera intuitiva | 3 horas | Valentino Sandoval | Done |
+|          |          | T04 | Actualizar la vista del inventario | Adaptar la vista del inventario para reflejar los resultados después de aplicar los filtros | 2 horas | Valentino Sandoval | Done |
+| US15     | Registrar Categoría de Tela | T01 | Implementar la lógica de registro de categoría | Desarrollar la funcionalidad para que los usuarios puedan registrar una nueva categoría de tela en el sistema | 3 horas | John Arevalo | Done |
+|          |          | T02 | Definir campos necesarios para el registro de categoría | Especificar los campos necesarios como nombre de la categoría y descripción | 1 hora | John Arevalo | Done |
+|          |          | T03 | Configurar confirmación de registro | Implementar una confirmación visual que informe al usuario del registro exitoso de la categoría | 1 hora | John Arevalo | Done |
+|          |          | T04 | Diseñar la interfaz de registro de categoría | Crear una interfaz donde el usuario pueda registrar categorías de tela de manera clara y ordenada | 3 horas | John Arevalo | Done |
+| US19     | Notificación de la Cantidad de Tela en el Inventario | T01 | Diseñar alerta de error | Crear una alerta visual para informar al usuario en caso de error o bajo stock | 2 horas | Diego Cabrera | Done |
+|          |          | T02 | Implementar lógica de detección de bajo stock | Desarrollar la funcionalidad para detectar automáticamente cuando la cantidad de tela cae por debajo del umbral establecido | 3 horas | Diego Cabrera | Done |
+|          |          | T03 | Diseñar alerta automática | Configurar una notificación visual o alerta automática en caso de bajo stock | 2 horas | Diego Cabrera | Done |
+|          |          | T04 | Definir umbral de bajo stock | Establecer el valor mínimo de cantidad de tela que activará la alerta de bajo stock | 1 hora | Diego Cabrera | Done |
+|          |          | T05 | Realizar pruebas de manejo de errores | Llevar a cabo pruebas para garantizar que el sistema maneja adecuadamente los casos de bajo stock | 3 horas | Diego Cabrera | Done |
+
+<div id='5.2.3.3.'><h4> 5.2.3.3. Development Evidence for Sprint Review</h4></div>
+
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
+**Commits realizados en el repositorio de la Landing Page durante el sprint 3:**
+
+<div id='5.2.3.4.'><h4> 5.2.3.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+<div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review</h4></div>
+
+<div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+<div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+<div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint</h4></div>
+
+
+
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+<div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 <div id='6.'><h2>Conclusiones</h2></div>
 
