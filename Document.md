@@ -2576,4 +2576,6 @@ Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view
 
 Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
 
-Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN)
+Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Ept9KBs8WehDtYQP-Ug88bcBkNy9DKL9T8Aj2k8JdxlJhQ?e=gSgmxe](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Ept9KBs8WehDtYQP-Ug88bcBkNy9DKL9T8Aj2k8JdxlJhQ?e=gSgmxe)
+
+Enlace para el vídeo about the team: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN)
