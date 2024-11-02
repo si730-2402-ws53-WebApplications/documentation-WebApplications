@@ -2244,8 +2244,8 @@ Para poder realizar la sección del Sprint Se decidió usar la plataforma de Fig
 
 - Para podre entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
 
-<img src="resources/">
-<img src="resources/">
+<img src="resources/figmaIngreso1.png">
+<img src="resources/figmaIngreso2.png">
 
 En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
 
@@ -2576,4 +2576,4 @@ Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view
 
 Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
 
-Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF)
+Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN)
