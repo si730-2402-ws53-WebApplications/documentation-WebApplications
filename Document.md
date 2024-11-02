@@ -2336,12 +2336,19 @@ UX Heuristics & Principles Evaluation
 Usability – Inclusive Design – Information Architecture
 
 CARRERA : Ingeniería de Software
+
 CURSO : Aplicaciones Web
+
 SECCIÓN : WS53
+
 PROFESORES : Todos
+
 AUDITOR : WeaveGuard
+
 CLIENTE(S) : WeaveGuard
+
 SITE o APP a evaluar : TelaSecure
+
 ---
 TAREAS A EVALUAR: Para el alcance de esta entrega, se realizó la revisión de las siguientes tareas:
 
