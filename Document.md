@@ -1947,25 +1947,27 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | US30 | Informes periódicos de detección de plagas | TA008 |Generar reportes detallados sobre el estado del inventario y las condiciones ambientales |Generación de reporte de inventario y generación de reporte de condiciones ambientales| 4 horas | Diego Cabrera| InProcess |
 
 
-<div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
+<div id='5.2.2.3.'><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
 
-Tabla de commits del frontend
+### Tabla de commits del frontend
 
-| Repository | Branch | CommitId | Commit message | Commit message body | Commited on |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | master | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics. | feat: update fabrics. | 02/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | master | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: v-if on enviroDevices and climateSensors | fix: v-if on enviroDevices and climateSensors | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | master | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted | fix: services and entities deleted | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | master | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: fixed dbjson and temperature component | fix: fixed dbjson and temperature component | 02/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(temperature): fixed the temperature component. | feat(temperature): fixed the temperature component. | 31/10/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 92179279efbf603a066004b84962be4df3b19ba7 | fix: facilities connection | fix: facilities connection | 31/10/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: fixed routes | fix: fixed routes | 31/10/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted | fix: services and entities deleted | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fixed the graphic | feat(reports): fixed the graphic | 02/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | 24/10/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics | feat: add fabrics | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | e323578c35e488aa061173f8e1435d07980be68c | feat: add tables in db.json | feat: add tables in db.json | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: add Storeroom entity, service and change | feat: add Storeroom entity, service and change | 01/11/2024 |
-| https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | develop | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: added the report section | feat: added the report section | 24/10/2024 |
+| Repository                                                                                     | Branch      | CommitId                             | Commit message                                         | Commit message body                                         | Committed on |
+|------------------------------------------------------------------------------------------------|-------------|--------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|--------------|
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics.                                  | feat: update fabrics.                                       | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: v-if on enviroDevices and climateSensors          | fix: v-if on enviroDevices and climateSensors               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: fixed dbjson and temperature component            | fix: fixed dbjson and temperature component                | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(temperature): fixed the temperature component.    | feat(temperature): fixed the temperature component.        | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 92179279efbf603a066004b84962be4df3b19ba7 | fix: facilities connection                             | fix: facilities connection                                 | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: fixed routes                                      | fix: fixed routes                                          | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fixed the graphic                       | feat(reports): fixed the graphic                           | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | 24/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics                                     | feat: add fabrics                                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e323578c35e488aa061173f8e1435d07980be68c | feat: add tables in db.json                            | feat: add tables in db.json                               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: add Storeroom entity, service and change         | feat: add Storeroom entity, service and change             | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: added the report section                         | feat: added the report section                             | 24/10/2024   |
+
 
 <div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
 
@@ -2135,7 +2137,7 @@ Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fab
 |-|-|-|-|-|-|
 | Storerooms |POST | /api/v1/storerooms | Create Storeroom| Create a new storeroom.| CreateStoreroom |
 | Storerooms |GET | /api/v1/storerooms | Get All Storerooms| Get all storerooms | GetAllStorerooms |
-| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.GetStoreroomById |
+| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.| GetStoreroomById |
 
 ### ClimateSensorController
 
@@ -2156,7 +2158,18 @@ Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fab
 
 ![Ejemplo de Imagen](resources/TB3/back.jpeg)
 
-![Ejemplo de Imagen](resources/TB3/back2.jpeg)
+![swagger](resources/TB3/swagger1.png)
+![swagger](resources/TB3/swagger2.png)
+![swagger](resources/TB3/swagger3.png)
+![swagger](resources/TB3/swagger4.png)
+![swagger](resources/TB3/swagger5.png)
+![swagger](resources/TB3/swagger6.png)
+![swagger](resources/TB3/swagger7.png)
+![swagger](resources/TB3/swagger8.png)
+![swagger](resources/TB3/swagger9.png)
+![swagger](resources/TB3/swagger10.png)
+![swagger](resources/TB3/swagger11.png)
+![swagger](resources/TB3/swagger12.png)
 
 
 <div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review</h4></div>
