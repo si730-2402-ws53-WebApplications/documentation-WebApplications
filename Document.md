@@ -2061,6 +2061,16 @@ BACKEND-------------
 
 <div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review</h4></div>
 
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+
+**Frontend**
 FRONTEND DEPLOYADO --------------
 
 <div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint</h4></div>
@@ -2111,7 +2121,70 @@ COMMITS:
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+
+
+**PREGUNTAS**
+
+## Preguntas para el Segmento Distribuidor de Tela
+Gestión de Inventario de Telas
+
+1. ¿Fue fácil para ti registrar nuevas telas en el sistema? ¿Por qué?
+
+2. Describe tu experiencia al buscar telas en el inventario. ¿Fue intuitivo?
+
+3. ¿Tuviste dificultades al editar o eliminar telas ya registradas? ¿Cómo mejorarías este proceso?
+4. ¿Te resultó útil recibir notificaciones sobre el nivel de stock de tus telas? ¿Por qué?
+
+**Visualización de Servicios**
+
+1. ¿Cómo describirías la claridad de la visualización de tus servicios en la plataforma?
+
+2. ¿Cómo fue el proceso de actualización de la información de tus telas? ¿Sencillo o complicado?
+
+3. ¿Qué funcionalidades valoras más al gestionar tus servicios en comparación con otras plataformas que utilizas?
+
+
+
+## Preguntas para el Segmento Empresas de Confección Textil
+
+**Acceso a Materiales**
+
+1. ¿Cómo calificarías la facilidad para encontrar y comparar diferentes tipos de telas en la plataforma?
+
+2. ¿Hubo algún momento en que te sentiste perdido al navegar por el catálogo de telas? ¿Qué podrías sugerir para mejorar la navegación?
+
+3. ¿Qué aspectos de la plataforma te ayudaron a asegurarte de que los materiales seleccionados cumplieran con tus estándares de calidad?
+
+4. Al visualizar la lista de almacenes y sus sensores, ¿fue fácil obtener una visión general de tu infraestructura de inventario? ¿Qué información adicional te gustaría ver?
+
+
 <div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+
+Objetivo de la Entrevista
+El propósito de la entrevista es validar la usabilidad y efectividad de la landing page y la aplicación para los grupos de usuarios (distribuidores de tela y empresas de confección textil), garantizando que los flujos de usuario sean intuitivos y satisfactorios.
+
+## Elementos de Validación
+
+**Landing Page:** Analizar la claridad del mensaje, la efectividad de las llamadas a la acción (CTA), la navegación y el diseño general.
+
+**Aplicación:** Guiar a los usuarios a través de los flujos principales, incluyendo la gestión de inventario, la gestión ambiental y la administración de almacenes.
+
+### Para el Segmento de Distribuidores de Tela:
+
+**Navegación en la Landing Page:** Evaluar la experiencia al buscar beneficios, preguntas frecuentes y acceso a la aplicación.
+
+**Proceso de Registro:** Analizar la facilidad con la que los usuarios pueden registrarse y acceder a la aplicación.
+
+**Gestión de Inventario:** Observar cómo los distribuidores registran, editan y eliminan telas del inventario.
+
+### Para el Segmento de Empresas de Confección Textil
+
+**Gestión de Cuentas:** Investigar cómo las empresas editan su perfil y servicios.
+
+**Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios relacionados con la confección.
+
+**Recepción de Feedback:** Examinar cómo manejan las reseñas y comentarios de sus clientes
+
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
 <div id='6.'><h2>Conclusiones</h2></div>
