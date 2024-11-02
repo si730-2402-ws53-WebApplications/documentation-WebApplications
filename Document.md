@@ -2119,7 +2119,40 @@ En este apartado mostraremos el despliegue de la ultima version web application 
 
 <div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review</h4></div>
 
-BACKEND-------------
+Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fabric Controller, Storeroom Controller, EnviroDevice Controller, ClimateSensor Controller). Cada controller tiene 3 endpoints (GetAll, GetById, Create). Además se empleó swagger para hacer las pruebas a los endpoints.
+
+### FabricController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+|Fabrics | POST| /api/v1/fabrics | Create a new fabric| Create a new fabric|CreateFabric |
+|Fabrics | GET| /api/v1/fabrics{fabricId}| Get fabric by id| Get fabric by id|GetFabricById |
+|Fabrics | GET| /api/v1/fabrics| Get all fabrics|Get all fabrics|GetAllFabrics |
+
+### StoreroomController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| Storerooms |POST | /api/v1/storerooms | Create Storeroom| Create a new storeroom.| CreateStoreroom |
+| Storerooms |GET | /api/v1/storerooms | Get All Storerooms| Get all storerooms | GetAllStorerooms |
+| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.GetStoreroomById |
+
+### ClimateSensorController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| ClimateSensors | POST| /api/v1/climate-sensors|Create climate sensor |Create a new climate sensor |CreateClimateSensor |
+| ClimateSensors | GET| /api/v1/climate-sensors{climateSensorId}|Get climate sensor by id |Get a climate sensor by its unique identifier |GetClimateSensorById |
+| ClimateSensors | GET| /api/v1/climate-sensors|Get all climate sensors |Get all climate sensors |GetAllClimateSensors |
+
+### EnviroDeviceController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| EnviroDevices | POST | /api/v1/enviro-devices| Create enviro device| Create a new enviro device|CreateEnviroDevice |
+| EnviroDevices | GET | /api/v1/enviro-devices| Get all enviro devices| Get all enviro devices |GetAllEnviroDevices |
+| EnviroDevices | GET | /api/v1/enviro-devices{enviroDeviceId}| Get enviro device by id| Get enviro device by its unique id |GetEnviroDeviceById |
+
 
 ![Ejemplo de Imagen](resources/TB3/back.jpeg)
 
