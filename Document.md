@@ -18,10 +18,8 @@
 
 |           Nombre            | Código de alumno |
 | :-------------------------: | :--------------: |
-|   Diego Rolin Acuña Tomas   |    U202221436    |
 | Diego Ivan Cabrera Buitron  |    U20211B293    |
 | John Telesforo Arevalo Meza |    U202117377    |
-|    Godofredo Quispe Tipo    |    U202120772    |
 |  Valentino Sandoval Paiva   |    U20211A962    |
 
 ## <center>Agosto 2024</center>
@@ -2041,7 +2039,11 @@ Link: https://si730-2402-ws53-webapplications.github.io/weaveguard-frontend/
 
 <div id='5.2.3.'><h3> 5.2.3. Sprint 3</h3></div>
 
+Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de Waveguard, además de mejorar el FrontEnd. Este sprint fue fundamental para implementar las primeras funcionalidades del BackEnd.
+
 <div id='5.2.3.1.'><h4> 5.2.3.1. Sprint Planning 3</h4></div>
+
+En este Sprint 3, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
 
 | Sprint #                        | Sprint 3                                                                                                                                       |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2055,7 +2057,7 @@ Link: https://si730-2402-ws53-webapplications.github.io/weaveguard-frontend/
 | Sprint n – 2 Retrospective Summary                   | Se notó una mejora en la comunicación y colaboración entre los miembros, lo cual facilitó el avance en las tareas críticas. Sin embargo, se identificaron oportunidades de optimización en algunos flujos de trabajo para reducir tiempos y mejorar la organización en el manejo de tareas.  |
 | Sprint Goal & User Stories       |
  Sprint 3 Goal                    | Nuestro enfoque es que los usuarios al visitar la nueva versión de la landing page, obtengan información clara y precisa sobre el producto o servicio, comprendan sus beneficios y características, y se sientan motivados a realizar una acción específica, como registrarse, comprar, descargar un recurso o ponerse en contacto con el equipo de ventas. Además, se desarrollará una nueva versión del frontend de la aplicación web y se entregará la primera versión del backend, asegurando una experiencia de usuario fluida y un soporte adecuado para las funcionalidades implementadas. |
-| Sprint 2 Velocity                | El velocity establecido para el Sprint 2 es de 18 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US002 (4 puntos), <br>-US011 (5 puntos), <br>-US013 (5 puntos), <br>-US015 (3 puntos), <br>-US016 (3 puntos), <br>-US019 (3 puntos) |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 3 es de 23 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US002 (4 puntos), <br>-US011 (5 puntos), <br>-US013 (5 puntos), <br>-US015 (3 puntos), <br>-US016 (3 puntos), <br>-US019 (3 puntos) |
 | Sum of story points             | 23 |
 
 
@@ -2156,6 +2158,8 @@ El objetivo principal de este Sprint es mejorar la experiencia del usuario en la
 | si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 6e41532   | feature: added US16 gherkin    | feature: added US16 gherkin | 01/11/2024           |
 | si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 6e41532   | feature: added US19 gherkin    | feature: added US19 gherkin | 01/11/2024           |
 
+Link del repositorio del testing: https://github.com/si730-2402-ws53-WebApplications/Testing/tree/feat/tb2
+
 <div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review</h4></div>
 
 Acontinuación se entrega el enlace a la landing page actualizada: https://si730-2402-ws53-webapplications.github.io/landing-page/
@@ -2168,26 +2172,46 @@ Acontinuación se entrega el enlace a la landing page actualizada: https://si730
 
 ![Ejemplo de Imagen](resources/TB3/landing4.jpeg)
 
+* INICIO DE SESIÓN 
+
+![Ejemplo de Imagen](resources\TB2\lpIni.png)
+
+* REGISTRO DE USUARIO
+
 ![Ejemplo de Imagen](resources/TB3/landing5.jpeg)
 
 
 ## FRONTEND
-En este apartado mostraremos el despliegue de la ultima version web application de TelaSecure: LINK FRONTEND DESPLEGADO
+En este apartado mostraremos el despliegue de la ultima version web application de TelaSecure
+Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
+
+* SIDEBAR
 
 ![Ejemplo de Imagen](resources/TB3/front1.jpeg)
 
-![Ejemplo de Imagen](resources/TB3/front3.jpeg)
+* INVENTORY - BOUNDED CONTEXT
 
-![Ejemplo de Imagen](resources/TB3/front2.jpeg)
+![Ejemplo de Imagen](resources/TB2/inventory.png)
+
+![Ejemplo de Imagen](resources/TB2/inventory2.png)
+
+* ENVIRONMENT - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources\TB2\ENVI1.png)
+
+* MAINTENANCE - BOUNDED CONTEXT
 
 ![Ejemplo de Imagen](resources/TB3/front4.jpeg)
 
-
+Video About-the-Product: 
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM
 
 
 <div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review</h4></div>
 
 Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fabric Controller, Storeroom Controller, EnviroDevice Controller, ClimateSensor Controller). Cada controller tiene 3 endpoints (GetAll, GetById, Create). Además se empleó swagger para hacer las pruebas a los endpoints.
+
+Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
 
 ### FabricController
 
@@ -2225,16 +2249,27 @@ Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fab
 ![Ejemplo de Imagen](resources/TB3/back.jpeg)
 
 ![swagger](resources/TB3/swagger1.png)
+
 ![swagger](resources/TB3/swagger2.png)
+
 ![swagger](resources/TB3/swagger3.png)
+
 ![swagger](resources/TB3/swagger4.png)
+
 ![swagger](resources/TB3/swagger5.png)
+
 ![swagger](resources/TB3/swagger6.png)
+
 ![swagger](resources/TB3/swagger7.png)
+
 ![swagger](resources/TB3/swagger8.png)
+
 ![swagger](resources/TB3/swagger9.png)
+
 ![swagger](resources/TB3/swagger10.png)
+
 ![swagger](resources/TB3/swagger11.png)
+
 ![swagger](resources/TB3/swagger12.png)
 
 
@@ -2242,9 +2277,10 @@ Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fab
 
 Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
 
-- Para podre entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
 
 <img src="resources/figmaIngreso1.png">
+
 <img src="resources/figmaIngreso2.png">
 
 En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
@@ -2267,7 +2303,7 @@ Pasados unos minutos se generará el link para acceder a la landing page.
 
 Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
 
-Finalmente nos dará un link directo a la Landing page desplegada.
+Finalmente nos dará un link directo a la Landing page desplegada: https://si730-2402-ws53-webapplications.github.io/landing-page/
 
 **Frontend**
 
@@ -2275,7 +2311,7 @@ Finalmente nos dará un link directo a la Landing page desplegada.
 
 ![Ejemplo de Imagen](resources/deployFrontend1.png)
 
-[https://weaveguard-frontend.vercel.app/management](https://weaveguard-frontend.vercel.app/management)
+LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
 
 
 <div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint</h4></div>
@@ -2329,10 +2365,16 @@ COMMITS:
 
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que es facil de usar? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
 <div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
 
 
-Objetivo de la Entrevista
+Objetivo de la Entrevista:
+
 El propósito de la entrevista es validar la usabilidad y efectividad de la landing page y la aplicación para los grupos de usuarios (distribuidores de tela y empresas de confección textil), garantizando que los flujos de usuario sean intuitivos y satisfactorios.
 
 ## Elementos de Validación
