@@ -2174,7 +2174,7 @@ Acontinuación se entrega el enlace a la landing page actualizada: https://si730
 
 * INICIO DE SESIÓN 
 
-![Ejemplo de Imagen](resources\TB2\lpIni.png)
+![Ejemplo de Imagen](resources/TB2/lpIni.png)
 
 * REGISTRO DE USUARIO
 
@@ -2197,7 +2197,7 @@ Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
 
 * ENVIRONMENT - BOUNDED CONTEXT
 
-![Ejemplo de Imagen](resources\TB2\ENVI1.png)
+![Ejemplo de Imagen](resources/TB2/ENVI1.png)
 
 * MAINTENANCE - BOUNDED CONTEXT
 
