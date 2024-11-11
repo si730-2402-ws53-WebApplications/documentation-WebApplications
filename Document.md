@@ -2669,6 +2669,16 @@ El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desaf
 
 A lo largo del proyecto, el grupo adquirió una valiosa experiencia en metodologías de desarrollo web, gestión de proyectos a través de plataformas colaborativas como GitHub y diseño centrado en el usuario. Para proyectos futuros, se seguirá utilizando herramientas de gestión colaborativa, manteniendo una comunicación constante entre los miembros del equipo.
 
+Reducción de Pérdidas y Optimización de Recursos: TelaSecure permite un monitoreo preciso de factores críticos como temperatura y humedad en los almacenes, lo cual reduce las pérdidas materiales debido a condiciones adversas. Esto, a su vez, optimiza los recursos de la empresa, ya que reduce los costos asociados con reposición de materiales y desperdicios.
+
+Incremento en la Eficiencia Operativa: La automatización de procesos, como la gestión del inventario y el control ambiental, libera tiempo para los empleados, quienes pueden dedicarse a tareas más estratégicas. Esto mejora la eficiencia operativa y permite una asignación más efectiva de los recursos humanos.
+
+Mejora en la Toma de Decisiones: TelaSecure, al ofrecer datos en tiempo real, facilita la toma de decisiones informadas, permitiendo a los encargados de almacenes actuar rápidamente ante cualquier alteración en las condiciones de almacenamiento. Esto no solo minimiza riesgos, sino que también fortalece la capacidad de respuesta de la empresa frente a problemas.
+
+Fomento de la Sostenibilidad: Al reducir el desperdicio de materiales y optimizar los procesos de almacenamiento, TelaSecure contribuye a prácticas empresariales más sostenibles. Esta característica es especialmente relevante para empresas que desean implementar procesos más respetuosos con el medio ambiente.
+
+Mayor Satisfacción del Cliente: Al asegurar la calidad del producto almacenado, TelaSecure contribuye a una mejor experiencia del cliente final, lo cual fortalece la reputación de la empresa en el mercado y genera mayor fidelización.
+
 En conclusión, el entregable referente al proyecto fue una experiencia de aprendizaje significativa que nos permitió fortalecer habilidades tanto técnicas como blandas, a la hora de aprender a trabajar mejor en equipo, comunicarnos y aprender herramientas y tecnologias referentes al desarrollo backed, además de reforzae conceptos vistos en entregas anteriores, enfocadas a documentación, lado frontend y landing page. Por otro lado, el trabajo se enfocó en la aplicación de Domain Driven Design, lo cual ayuda a la mejor lectura del codigo y escalabilidad del mismo.
 
 <div id='7.'><h2>Bibliografía</h2></div>
@@ -2680,6 +2690,44 @@ Delta (2023). Problemas de calidad de los productos textiles: ¿cómo resolverlo
 Sociedad Nacional de Industrias (2024). Resultados encuesta de opinión industrial (EOI). [https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf](https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf)
 
 Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/](https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/)
+
+Hospodor, C., & Porto, C. (2021). *Vue.js 3 By Example: Build eight real-world applications from the ground up using Vue 3, Vuex, and Vue Router*. https://www.packtpub.com/product/vuejs-3-by-example/9781838826345
+
+Bonnin, H. (2020). *Vue.js 3 Cookbook: Discover actionable solutions for building modern web apps with the latest Vue features and TypeScript*. https://www.packtpub.com/product/vuejs-3-cookbook/9781838826222
+
+Kotsifas, E. (2021). *Full-Stack Web Development with Vue.js and Node: Build scalable and powerful web apps with modern web stack: MongoDB, Vue, Node, and Express*. https://www.packtpub.com/product/full-stack-web-development-with-vuejs-and-node/9781788831147
+
+Roig, P. (2021). *Getting Started with Firebase for Web Developers: A Comprehensive Guide to Integrating Google Firebase with Your Web App*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Brown, G., & Mullen, S. (2019). *Google Cloud Platform for Architects: Design and Manage Powerful Cloud Solutions*. https://www.packtpub.com/product/google-cloud-platform-for-architects/9781788833073
+
+Thomas, C. (2020). *Firebase Cookbook: Over 70 recipes for building high-quality web and mobile applications*. https://www.packtpub.com/product/firebase-cookbook/9781788292399
+
+Date, C. J. (2019). *Database Design and Relational Theory: Normal Forms and All That Jazz* (2nd ed.). https://link.springer.com/book/10.1007/978-1-4842-5540-7
+
+Fowler, M. (2016). *NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence*. https://www.pearson.com/en-us/subject-catalog/p/nosql-distilled-a-brief-guide-to-the-emerging-world-of-polyglot-persistence/P200000009587/9780133036121
+
+Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+1Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Disponible también en línea de forma gratuita. https://git-scm.com/book/en/v2
+
+Bell, J. (2018). *GitLab Quick Start Guide: Build a DevOps culture and collaborate effectively with GitLab for CI/CD*. https://www.packtpub.com/product/gitlab-quick-start-guide/9781788837613
+
+Avelino, M. (2019). *GitHub Essentials: Become a Git and GitHub expert with this fast-paced guide*. https://www.packtpub.com/product/github-essentials/9781789538502
+
+Scott, D., & Farrelly, M. (2021). *UI is Communication: How to Design Intuitive, User Centered Interfaces by Focusing on Effective Communication*. https://www.elsevier.com/books/ui-is-communication/scott/978-0-12-396980-8
+
+Henke, R. (2020). *UX Design 2020: Complete Beginner's Guide to Become an Effective UX/UI Designer*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Kang, M. (2018). *Figma for UX/UI Design: The Comprehensive Guide*. https://www.amazon.com/dp/B07KHL2J5Y
+
+Palepu, V. (2021). *Hands-On Test-Driven Development with JavaScript: A practical guide to TDD, automated testing, and continuous integration*. https://www.packtpub.com/product/hands-on-test-driven-development-with-javascript/9781838820213
+
+Hendrickson, E. (2017). *Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing*. https://pragprog.com/titles/ehxta/explore-it/
+
+Meszaros, G. (2007). *xUnit Test Patterns: Refactoring Test Code*. https://www.pearson.com/store/p/xunit-test-patterns/P100000009587
+
+
 
 <div id='8.'><h2>Anexos</h2></div>
 
