@@ -18,39 +18,120 @@
 
 |           Nombre            | Código de alumno |
 | :-------------------------: | :--------------: |
-|   Diego Rolin Acuña Tomas   |    U202221436    |
 | Diego Ivan Cabrera Buitron  |    U20211B293    |
 | John Telesforo Arevalo Meza |    U202117377    |
-|    Godofredo Quispe Tipo    |    U202120772    |
 |  Valentino Sandoval Paiva   |    U20211A962    |
 
 ## <center>Agosto 2024</center>
 
 ## Registro de versiones del informe
 
+**TB1**
+
 | Versión | Fecha    | Autor              | Descripción de la modificación                          |
 | ------- | -------- | ------------------ | ------------------------------------------------------- |
-| 1       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
-| 1       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
-| 1       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
-| 1       | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
-| 1       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
-| 1       | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+| TB1       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
+| TB1       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
+| TB1       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
+| TB1      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
+| TB1       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
+| TB1      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+
+**TP**
+
+| Versión | Fecha    | Autor              | Descripción de la modificación                          |
+| ------- | -------- | ------------------ | ------------------------------------------------------- |
+| TP       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
+| TP       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
+| TP       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
+| TP      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
+| TP       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
+| TP      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+
+**TB2**
+
+| Versión | Fecha    | Autor              | Descripción de la modificación                          |
+| ------- | -------- | ------------------ | ------------------------------------------------------- |
+| TB2       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
+| TB2       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
+| TB2       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
+| TB2      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
+| TB2       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
+| TB2      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+
+**TF**
+
+| Versión | Fecha    | Autor              | Descripción de la modificación                          |
+| ------- | -------- | ------------------ | ------------------------------------------------------- |
+| TF       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
+| TF       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
+| TF       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
+| TF      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
+| TF       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
+| TF      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+
 
 ## Project Report Collaboration Insights
 
-URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications]
+|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| :-----------------------------------: | :-----------------------------------------------: |
+| https://github.com/si730-2402-ws53-WebApplications | https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications |
 
-**TB1**
-|Integrante|Tareas Asignadas|
+
+| URL del repositorio del backend | URL del repositorio del Frontend| URL del repositorio de la landing page |
+|  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
+| https://github.com/si730-2402-ws53-WebApplications/telasecure-platform | https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | https://github.com/si730-2402-ws53-WebApplications/landing-page |
+
+
+TB2: Se han realizado todas las tareas asignadas para la entrega del Tb2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/si730-2402-ws53-WebApplications. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/si730-2402-ws53-WebApplications/landing-page . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. FRONTEND: https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend
+
+*Vista de commits: REPORTE TF:*  
+
+![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 
+    * John Arevalo Meza: 
+    * Diego Cabrera: 
+
+
+*Vista de commits: REPORTE TB2:*  
+
+![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 
+    * John Arevalo Meza: 
+    * Diego Cabrera: 
+
+
+TB1:<br>
+|Integrante|Tarea Asignada|
 |-|-|
-|Diego Rolin Acuña Tomas|Landing Page, Service & Applications Implementation|
-|Diego Ivan Cabrera Buitron|Lean UX Hypothesis. Estrategias y tácticas frente a competidores. Software Object-Oriented Design|
-|John Telesforo Arevalo Meza|Landing Pade UI Design. Web Aplication UX/UI Design. Style Guidelines|  
-|Godofredo Quispe Tipo| Lean UX Canvas. Segmentos Objetivos. User Person. User Journey Mapping|
-|Valentino Sandoval Paiva| Software Configuration Management. Information Architecture. Impact Mapping|
+|Sandoval Paiva Valentino|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores,Estrategias y tácticas frente a competidores,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|Sandoval Paiva Valentino|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
+| Diego Rolin Acuña Tomas | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Arévalo Meza John | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+| Cabrera Buitron Diego Cabrera | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
-**TB1 Github**
+**TP:**<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Cabrea Buitron Diego Ivan|Sprint Planning 2: Planificación de las tareas y objetivos para el segundo sprint, asegurando que el equipo tenga claro qué se debe priorizar.<br> Sprint Backlog 2: Organización y refinamiento del backlog del sprint, detallando las historias de usuario que se trabajarán en este ciclo.|
+|Sandoval Paiva Valentino|Testing Suite Evidence for Sprint Review: Crear y documentar los resultados de las pruebas realizadas durante el sprint, mostrando la cobertura de tests y validación del software.<br>Services Documentation Evidence for Sprint Review: Documentar los servicios implementados o modificados, proporcionando evidencia clara de su funcionamiento y detalles técnicos.|
+| Arévalo Meza John | Team Collaboration Insights during Sprint: Recopilar y presentar información sobre la colaboración del equipo durante el sprint, destacando los procesos de comunicación, desafíos y cómo se superaron. |
+
+TB2:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Cabrera Buitron Diego Ivan| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context  en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 3, sprint backlog 3, video about the product|
+|Sandoval Paiva Valentino| Desarrollo de backend para  bounded context, desarrollo de nueva version para meeting bounded context forntend, Sprint backlog 3, diseño de entrevistas, registro de entrevistas, testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
+| Arévalo Meza John | Desarrollo de backend para  bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
+
+
+
 
 ## Contenido
 
@@ -139,6 +220,15 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint](#5.2.2.8.)<br>
+   5.2.3. [Sprint 3](#5.2.3.)<br>
+   5.2.3.1. [Sprint Planning 3](#5.2.3.1.)<br>
+   5.2.3.2. [Sprint Backlog 3](#5.2.3.2.)<br>
+   5.2.3.3. [Development Evidence for Sprint Review](#5.2.3.3.)<br>
+   5.2.3.4. [Testing Suite Evidence for Sprint Review](#5.2.3.4.)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review](#5.2.3.5.)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
@@ -155,9 +245,9 @@ URL de la organización del proyecto: [https://github.com/si730-2402-ws53-WebApp
 Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | **Diego Rolin Acuña Tomas**<br> TB1: Desarrollando el documento, me pareció más importante comprender el problema que nuestro proyecto soluciona. Investigando para el Solution Profile investigue en páginas confiables las consecuencias de este problema y como no permitir sus causas, esto me ayudo a ser una persona activa en las decisiones sobre la investigación de nuestros posibles clientes. En conjunto decidimos cuales serian nuestro Segmento Objetivo y cuales serian los User Story que nuestros clientes realmente valorarían.<br>TP:<br> -Todos los miembros de nuestro equipo fueron muy activos en las reuniones en Discord, todos dijeron sus opiniones y fueron activos a la votación que ocurría cada que teníamos una duda sobre como continuar.<br>-Cada vez que nos retrasábamos en algún aspecto, no buscábamos culpables, éramos conscientes que era un error como equipo y todos debían trabajan en conjunto para solucionarlo.<br>-Nuestro equipo ha comprendido que el trabajo es una responsabilidad compartida, no hay un solo culpable.<br>-Debemos esforzarnos para crear un ambiente sereno y abierto a las dudas, pues si nuestros compañeros no se abren no podremos solucionar los problemas a tiempo y completar el trabajo.  <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos.<br>TP:<br>Desarrollé el componente de Invenotry Management en llamadas colaborativas con el grupo para coordinar correctamente su creación.<br>-Apoyé en la realización del Sprint II mediante llamadas en Discord para evitar la desorganización. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas.<br>TP: <br>Fomenté un ambiente de trabajo colaborativo donde todos participaron activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. Esto nos ayudó a cumplir los objetivos y entregar todo a tiempo, desde el desarrollo hasta el despliegue sin problemas. **Godofredo Quispe Tipo**<br> **TB1:** La colaboración con los miembros del equipo fue clave no solo para completar mis propias tareas, sino también para asegurar el progreso general del equipo. Coordiné los puntos críticos en los que era necesario trabajar en conjunto, revisando los avances y comunicando oportunamente cualquier ajuste o mejora que debiera implementarse. Esta coordinación permitió optimizar el flujo de trabajo y mantener la calidad en cada etapa del proyecto. Para facilitar la comunicación, utilizamos dos canales principales: un chat grupal y llamadas por Discord. Estos medios resultaron esenciales para mantener una comunicación fluida y en tiempo real, permitiendo que todos los miembros estuvieran al tanto de los avances y que las decisiones se tomaran de manera rápida y eficiente. La combinación de estos canales aseguró una gestión dinámica de las tareas y permitió resolver problemas de forma ágil, favoreciendo así el cumplimiento de los objetivos. **TP:**<br> <li>Participe en una reunión para solventar y mejorar el documento.</li> <li>Participe en la reunion donde se comenzo a realizar los cambios</li> <li>Participe en la reunion donde se quedaron a ver los avances del frontend</li>**Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva.TP:<br>Trabajé con mi equipo para proporcionar liderazgo colaborativo, gestionando de manera efectiva la planificación y ejecución del sprint. Utilizamos un enfoque ágil para definir y priorizar tareas en el Sprint Backlog, asegurando alineación y asignación en el Sprint Planning. Mantuvimos una comunicación constante que permitió una ejecución fluida y la entrega de evidencias de desarrollo, pruebas, despliegue y documentación de servicios. La colaboración mejoró notablemente gracias a la implementación de un bounded context que organizó nuestras estrategias e integró eficientemente los servicios de software. | Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto.<br>Para el presente TP se realizó de todo lo relacionado al sprint II, teniendo ciertos inconvenientes, pero cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Diego Rolin Acuña Tomas**<br> TB1: Unos días después de reunirnos hicimos una reunión virtual para separarnos tareas y objetivos que cumpliríamos en esa semana. Por supuesto que también creamos reuniones para solución dudas y apoyar cuando uno terminaba sus responsabilidades.<br>TP: <br>-Nuestro equipo tuvo muchas reuniones para separar tareas a cada miembro del equipo Todos tuvieron sus oportunidades de opinar y dar sus propias versiones del trabajo, sin embargo, la elección fue por mayoría de opiniones. Pero nadie se quejó, entendíamos que a veces tenemos que ceder para seguir avanzando.<br>-Hubieron muchos mensajes para motivar a compartir sus dudas y problemas para solucionarlo como equipo.<br>-Cuando decidimos o tenemos alguna duda que nadie del equipo sabe, todos pueden decir sus ideas. <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización.<br>TP:<br>-Las reuniones realizadas en llamadas de Discord permitieron que desarrolle de manera ordenada el component de Inventory Management<br>La designación de tareas realizadas en Trello permitieron organizar el desarrollo del informe y la mejora de este mismo. <br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez, planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos.<br>TP:<br>Fomenté un ambiente de trabajo colaborativo donde todos participamos activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. <br>**Godofredo Quispe Tipo**<br> TB1: A lo largo del proyecto, mantuve una actitud proactiva, tomando la iniciativa en la coordinación de tareas clave y promoviendo la colaboración dentro del equipo. Siempre estuve dispuesto a escuchar las ideas y opiniones de mis compañeros, lo que fomentó un ambiente abierto y enriquecedor. Ante las críticas constructivas, me encargué de analizarlas cuidadosamente y proponer soluciones viables, lo que permitió mejorar continuamente el proyecto. Para garantizar la cooperación y participación efectiva de todos, promoví una integración fluida, revisando avances, ajustando tareas cuando fue necesario, y asegurando una comunicación constante mediante el uso de canales como el chat grupal y las llamadas por Discord.<br>**TP:**<br> <li>Me encargue de brindar los materiales necesarios para la realizacion de las correcciones, la cual se mando por el grupo de WhatsApp.</li> <li>Me encargue de verificacion de lo cumplido del capitulo 1 la cual se trabajo de forma conjunta en un docs compartido para visualizar los progresos.</li> **Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva.<br>TP:<br>Para esta entrega fomenté un entorno colaborativo e inclusivo, asegurando que todos los miembros del equipo participaran activamente en la planificación y ejecución de tareas. Establecimos metas claras y compartidas desde el Sprint Planning, y dividimos el trabajo de manera equitativa en el Sprint Backlog, asignando responsabilidades según las fortalezas individuales. A lo largo del sprint, promoví una comunicación abierta y fluida, lo que nos permitió cumplir con los objetivos planteados, entregar evidencias de desarrollo, pruebas, y desplegar los servicios con éxito. | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br>Para el presente TP se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea. |
+| -- | ----- | ---- |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos.<br>TP:<br>Desarrollé el componente de Invenotry Management en llamadas colaborativas con el grupo para coordinar correctamente su creación.<br>-Apoyé en la realización del Sprint II mediante llamadas en Discord para evitar la desorganización.<br>TB2: Para este enregable, continué promoviendo un liderazgo compartido con el team leader facilitando y promoviendo la toma de decisiones. He colaborado con mis compañeros para garantizar una comunicación efectiva y una distribución igualitaria de responsabilidades, lo que ha fortalecido la cohesión y la eficacia del grupo. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas.<br>TP: <br>Fomenté un ambiente de trabajo colaborativo donde todos participaron activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. Esto nos ayudó a cumplir los objetivos y entregar todo a tiempo, desde el desarrollo hasta el despliegue sin problemas.<br>TB2: Al trabajar en el backed del proyecto ayudé a los demás miembros del equipo al brindar las estructura del proyecto y los diferentes aggregates, junto con todo lo que conllevan (controllers, repositories, models, endpoints, etc). Además de apoyar con la corrección de secciones del fronted, landing page y documentación. <br> **Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva.TP:<br>Trabajé con mi equipo para proporcionar liderazgo colaborativo, gestionando de manera efectiva la planificación y ejecución del sprint. Utilizamos un enfoque ágil para definir y priorizar tareas en el Sprint Backlog, asegurando alineación y asignación en el Sprint Planning. Mantuvimos una comunicación constante que permitió una ejecución fluida y la entrega de evidencias de desarrollo, pruebas, despliegue y documentación de servicios. La colaboración mejoró notablemente gracias a la implementación de un bounded context que organizó nuestras estrategias e integró eficientemente los servicios de software. <br> TB2: Como líder de grupo, organicé y facilité reuniones tanto virtuales como presenciales para coordinar el trabajo en equipo de manera efectiva. Fomenté un entorno colaborativo, incentivando a los miembros a plantear preguntas y compartir ideas. Establecí normas claras de comunicación y una jerarquía basada en la división de responsabilidades y áreas de enfoque. Además, asigné tareas específicas a cada integrante según sus habilidades y fortalezas, lo que ayudó a optimizar el flujo de trabajo y a garantizar que cada miembro contribuyera de manera significativa. A través de evaluaciones regulares del progreso, promoví la mejora continua y la resolución proactiva de cualquier obstáculo en el proyecto.| Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto.<br>Para el presente TP se realizó de todo lo relacionado al sprint II, teniendo ciertos inconvenientes, pero cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. <br> Para la presente TB2 se llevó a cabo todo lo relacionado con el Sprint III, enfrentando algunos inconvenientes, pero cada integrante contribuyó de manera cooperativa y coordinada con el resto del equipo, demostrando un trabajo conjunto efectivo; se implementaron mejoras y actualizaciones significativas, incluyendo la optimización de las user stories, el desarrollo de la landing page, la actualización del frontend y la creación de la primera versión del backend.|
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización.<br>TP:<br>-Las reuniones realizadas en llamadas de Discord permitieron que desarrolle de manera ordenada el component de Inventory Management<br>La designación de tareas realizadas en Trello permitieron organizar el desarrollo del informe y la mejora de este mismo. <br>TB2: <br> Durante la realización de este sprint se creo el repositorio de weaveguard-platform y se agregó los bounded context de manera eficiente mediante reuniones de llamada en Discord. <br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez, planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos.<br>TP:<br>Fomenté un ambiente de trabajo colaborativo donde todos participamos activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. <br> TB2:<br> A lo largo del sprint cree el repositorio para el service de la plataforma, incluyendo la estructura y los principales aggregates de los diferentes bounded context, además de colaborar activamente en las reuniones realizadas para avanzar el proyecto. Por otro lado, ayude al grupo mejorarando secciones en el frontend de la aplicacion. <br>**Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva.<br>TP:<br>Para esta entrega fomenté un entorno colaborativo e inclusivo, asegurando que todos los miembros del equipo participaran activamente en la planificación y ejecución de tareas. Establecimos metas claras y compartidas desde el Sprint Planning, y dividimos el trabajo de manera equitativa en el Sprint Backlog, asignando responsabilidades según las fortalezas individuales. A lo largo del sprint, promoví una comunicación abierta y fluida, lo que nos permitió cumplir con los objetivos planteados, entregar evidencias de desarrollo, pruebas, y desplegar los servicios con éxito.<br> TB2: Configuré un servidor de comunicación para el equipo donde fijé mensajes importantes y mantuve toda la información esencial sobre las asignaciones de tareas accesible para todos. Para la organización del trabajo, implementé un sistema visual en nuestro tablero de gestión (como Trello), usando códigos de colores para clasificar y priorizar tareas según su urgencia y tipo, lo que facilitó la comprensión del flujo de trabajo. Me aseguré de distribuir las responsabilidades de manera equilibrada, tomando en cuenta tanto las habilidades individuales como la disponibilidad de cada miembro. Además, organicé reuniones periódicas para revisar el progreso y resolver dudas, e incluí recordatorios automáticos para que todos estuvieran al tanto de sus tareas y plazos, fomentando así una dinámica de trabajo fluida y colaborativa. | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br>Para el presente TP se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br> Para el presente TB2, se organizaron y desarrollaron múltiples sesiones de trabajo colaborativo, enfocadas en la coordinación efectiva de las tareas asignadas. Estas sesiones permitieron un intercambio constante de ideas y soluciones, lo que facilitó el avance en cada una de las actividades de forma estructurada y eficiente. Además, se promovió un ambiente de colaboración activa, donde cada integrante pudo aportar sus conocimientos y habilidades, asegurando que todas las tareas se realizaran de manera óptima y en los tiempos establecidos. Este enfoque colaborativo fue clave para lograr un progreso significativo en el desarrollo del proyecto y cumplir con los objetivos del equipo de manera satisfactoria. |
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
@@ -174,8 +264,7 @@ Vision: Como vision, apuntamos a ser la empresa mas conocida y confiable en el d
 | Integrante                                           | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="resources/diego.png">                      | **Diego Ivan Cabrera Buitron** <br> Mi nombre es **Diego Cabrera**, estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Al culminar mi carrera quiero especializarme en el sector de la ciberseguridad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| <img src="resources/foto-diego.jpeg">                | **Diego Rolin Acuña Tomas** <br> Soy Diego Rolin Acuña Tomas, tengo 22 años y estoy cursando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Desde una temprana edad me han fascinado las computadoras y como se mostraban en las películas los expertos en informática. Hoy en día entiendo la importancia de mi disciplina en el mundo y quisiera ser parte de las ventajas que pueden proveer los conocimientos en el campo de la informática y la ciencia de la computación. He llevado cursos para aprender lenguajes como Python, C++ y MATLAB, aprendiendo patrones de algoritmo para mi vida profesional. También conozco los tipos de base de datos, aprendí SQL server para las bases de datos relacional y mongo DB para bases de datos no relaciones. Quiero seguir mejorando mis habilidades y especializarme en DataScience y Gestión de proyectos.                                                                                                                                                                                                               |
-| <img src="resources/foto-godofredo.jpg">             | **Godofredo Quispe Tipo** <br> Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.<br><br>Además, poseo un profundo conocimiento en el ámbito de la comunicación de redes, lo que me ha permitido comprender los complejos mecanismos detrás de la interconexión de sistemas y dispositivos. Mi formación en ciencia de datos, con un enfoque en Python, ha sido un pilar fundamental en mi desarrollo profesional, permitiéndome trabajar con grandes volúmenes de datos y obtener valiosos insights. Asimismo, cuento con experiencia en el manejo de Matlab, una herramienta clave en diversos proyectos de análisis y simulación. |
+| 
 | <img width="800" src="resources/foto-valentino.jpg"> | **Valentino Sandoval Paiva** <br> Soy Valentino Sandoval, tengo 20 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | <img width="800" src="resources/foto-john.jpg">      | **John Arévalo Meza** <br> Soy John Arévalo y estoy cursando la carrera de Ingeniería de Software, me considero una persona responsable y perseverante. Tengo conocimiento en lenguajes de programación como python y c++, y bases de datos como SQLServer y MongoDB.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
@@ -561,7 +650,7 @@ Miguel, un adulto de 30 años, es Responsable de Almacén de textiles y represen
 | Inicio del video                                                                                                                                                                                                                                         | 00:00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Fin del video                                                                                                                                                                                                                                            | 08:28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |Link del video:                                                                                                                                                                                                                                           | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWW8tkL1UxpIs8ShXXuC33IBAeP6mHzhpoi_LS3HFE1aKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xPyhgt]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279705861370941502/image.png?ex=66d56a75&is=66d418f5&hm=5442f2676b52e4d5cb9597d8ad00b4c3eb4331cbac10f69bf79d1df6c3e97b56&=&format=webp&quality=lossless&width=835&height=248" /> | Como primer entrevistado, tenemos a Juan, encargado de gestionar el inventario de telas en su empresa, utiliza dispositivos android y generalemnte usa el buscador de Google Chrome, describe su rol como responsable de mantener el inventario en condiciones óptimas, coordinando el almacenamiento y supervisando la calidad. Destaca la importancia de controlar factores ambientales como temperatura, humedad y plagas para preservar la calidad de las telas. Enfrenta desafíos relacionados con la fluctuación ambiental y la gestión de plagas. La falta de control adecuado ha llevado a problemas como la degradación de telas y retrasos en la producción. María usa sistemas tecnológicos para el monitoreo y gestión del inventario, pero busca mejoras en integración y alertas en tiempo real. Valora la automatización por su precisión y eficiencia y anticipa una mayor automatización en el futuro, con tecnologías avanzadas como IA y IoT. La adopción de nuevas tecnologías se basa en la integración con sistemas existentes, escalabilidad y soporte técnico. También se preocupa por la integración con los sistemas actuales y la capacitación del personal. Está abierta a colaborar con proveedores para mejorar las plataformas tecnológicas según las necesidades de la empresa.                                       |
+| <img src="resources/TB1/JUAN.png" /> | Como primer entrevistado, tenemos a Juan, encargado de gestionar el inventario de telas en su empresa, utiliza dispositivos android y generalemnte usa el buscador de Google Chrome, describe su rol como responsable de mantener el inventario en condiciones óptimas, coordinando el almacenamiento y supervisando la calidad. Destaca la importancia de controlar factores ambientales como temperatura, humedad y plagas para preservar la calidad de las telas. Enfrenta desafíos relacionados con la fluctuación ambiental y la gestión de plagas. La falta de control adecuado ha llevado a problemas como la degradación de telas y retrasos en la producción. María usa sistemas tecnológicos para el monitoreo y gestión del inventario, pero busca mejoras en integración y alertas en tiempo real. Valora la automatización por su precisión y eficiencia y anticipa una mayor automatización en el futuro, con tecnologías avanzadas como IA y IoT. La adopción de nuevas tecnologías se basa en la integración con sistemas existentes, escalabilidad y soporte técnico. También se preocupa por la integración con los sistemas actuales y la capacitación del personal. Está abierta a colaborar con proveedores para mejorar las plataformas tecnológicas según las necesidades de la empresa.                                       |
 | **Nombre entrevistado**                                                                                                                                                                                                                                  | **Natalie Casas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Edad                                                                                                                                                                                                                                                     | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Profesión                                                                                                                                                                                                                                                | Administración y Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -577,7 +666,7 @@ Miguel, un adulto de 30 años, es Responsable de Almacén de textiles y represen
 | Inicio del video                                                                                                                                                                                                                                         | 17:40                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Fin del video                                                                                                                                                                                                                                            | 22:51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |Link del video:                                                                                                                                                                                                                                           | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWW8tkL1UxpIs8ShXXuC33IBAeP6mHzhpoi_LS3HFE1aKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xPyhgt]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279706094083510333/image.png?ex=66d56aac&is=66d4192c&hm=d150930430c996de3e74013c6b1bb1206883b6ddcf85c103f2bc958be6e41ee4&=&format=webp&quality=lossless&width=835&height=289" /> | Como último entrevistado tenemos a Matías; es gerente del almacén de su empresa de confección y supervisa el almacenamiento de telas para garantizar que su calidad esté garantizada y que haya existencias siempre disponibles para la producción, nos comenta que es muy fan de los dispositivos android y que su buscador favorito es Google Chrome. Prioriza la importancia de controlar factores como la temperatura, la humedad y las plagas, ya que pueden afectar negativamente a los materiales. Enfrenta el desafío de monitorear continuamente las condiciones del almacén y lidiar con problemas imprevistos como alta humedad o plagas de insectos. Por falta de una supervisión adecuada, sufrió pérdidas que afectaron la producción y la economía. Matías utiliza tecnología para la gestión de inventario, pero buscaba una mejor integración y acceso a alertas instantáneas. Él cree que la automatización es clave para reducir errores y mejorar la eficiencia, y espera que la gestión de inventario esté más automatizada en el futuro. Al adoptar nuevas tecnologías, se centra en la facilidad de integración, la personalización y la rentabilidad, con especial atención a la capacitación del personal. Está dispuesto a trabajar con proveedores para personalizar las herramientas tecnológicas que satisfagan las necesidades de su negocio. |
+| <img src="resources/TB1/ENTRE.png" /> | Como último entrevistado tenemos a Matías; es gerente del almacén de su empresa de confección y supervisa el almacenamiento de telas para garantizar que su calidad esté garantizada y que haya existencias siempre disponibles para la producción, nos comenta que es muy fan de los dispositivos android y que su buscador favorito es Google Chrome. Prioriza la importancia de controlar factores como la temperatura, la humedad y las plagas, ya que pueden afectar negativamente a los materiales. Enfrenta el desafío de monitorear continuamente las condiciones del almacén y lidiar con problemas imprevistos como alta humedad o plagas de insectos. Por falta de una supervisión adecuada, sufrió pérdidas que afectaron la producción y la economía. Matías utiliza tecnología para la gestión de inventario, pero buscaba una mejor integración y acceso a alertas instantáneas. Él cree que la automatización es clave para reducir errores y mejorar la eficiencia, y espera que la gestión de inventario esté más automatizada en el futuro. Al adoptar nuevas tecnologías, se centra en la facilidad de integración, la personalización y la rentabilidad, con especial atención a la capacitación del personal. Está dispuesto a trabajar con proveedores para personalizar las herramientas tecnológicas que satisfagan las necesidades de su negocio. |
 | Duración de todas las entrevistas: 22:51                                                                                                                                                                                                                 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWW8tkL1UxpIs8ShXXuC33IBAeP6mHzhpoi_LS3HFE1aKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xPyhgt]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 **Segmento 2:** Distribuidores de telas.
@@ -590,7 +679,7 @@ Miguel, un adulto de 30 años, es Responsable de Almacén de textiles y represen
 | Inicio del video                                                                                                                                                                                                                                                                         | 00:00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Fin del video                                                                                                                                                                                                                                                                            | 12:37                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |Link del video:                                                                                                                                                                                                                                                                           | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Ea-8go80rp1EtXvLEj-WppEBJ3TX6tNq39jQvw2_MuTWYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sHlXUM]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279671082315419730/Captura_de_pantalla_2024-09-01_001456.png?ex=66d54a11&is=66d3f891&hm=608a732d8a36da872819e5005e9f29ef80f62ad6c285680c0303da13f4862dbc&=&format=webp&quality=lossless&width=550&height=265" /> | Owen forma parte de una empresa que se especializa en la distribución de telas, incluyendo algodón, poliéster, lino y telas especiales, que luego se transforman en productos como ropa y muebles, nos comenta que ha dejado de utilizar dispositivos iOS y ha migrado a los dispositivos android, lo mismo con el buscador que migró de Safari a Google Chrome. El proceso de distribución incluye la recepción de pedidos, selección y empaque, y transporte, donde es crucial mantener la temperatura adecuada para evitar la degradación de las telas. Anteriormente, la empresa enfrentó problemas con el almacenamiento inadecuado, lo que resultó en pérdidas económicas, por lo que ahora implementan medidas estrictas para mantener las condiciones óptimas.<br>Owen destaca la importancia de la calidad para sus clientes y usa herramientas como controladores de humedad y software de monitoreo continuo para garantizarla. Están interesados en proyectos que permitan gestionar y monitorear en tiempo real el ambiente del almacén y planean implementar IoT para mejorar la eficiencia y minimizar errores. También están preocupados por la seguridad contra incendios y están dispuestos a colaborar con otras empresas para adaptar nuevas soluciones a sus necesidades. |
+| <img src="resources/TB1/OWEN.png" /> | Owen forma parte de una empresa que se especializa en la distribución de telas, incluyendo algodón, poliéster, lino y telas especiales, que luego se transforman en productos como ropa y muebles, nos comenta que ha dejado de utilizar dispositivos iOS y ha migrado a los dispositivos android, lo mismo con el buscador que migró de Safari a Google Chrome. El proceso de distribución incluye la recepción de pedidos, selección y empaque, y transporte, donde es crucial mantener la temperatura adecuada para evitar la degradación de las telas. Anteriormente, la empresa enfrentó problemas con el almacenamiento inadecuado, lo que resultó en pérdidas económicas, por lo que ahora implementan medidas estrictas para mantener las condiciones óptimas.<br>Owen destaca la importancia de la calidad para sus clientes y usa herramientas como controladores de humedad y software de monitoreo continuo para garantizarla. Están interesados en proyectos que permitan gestionar y monitorear en tiempo real el ambiente del almacén y planean implementar IoT para mejorar la eficiencia y minimizar errores. También están preocupados por la seguridad contra incendios y están dispuestos a colaborar con otras empresas para adaptar nuevas soluciones a sus necesidades. |
 | **Nombre entrevistado**                                                                                                                                                                                                                                                                  | **Giovanna Arteaga Ayala**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Edad                                                                                                                                                                                                                                                                                     | 53 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Profesión                                                                                                                                                                                                                                                                                | Administracion de empresas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -606,7 +695,7 @@ Miguel, un adulto de 30 años, es Responsable de Almacén de textiles y represen
 | Inicio del video                                                                                                                                                                                                                                                                         | 22:35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Fin del video                                                                                                                                                                                                                                                                            | 27:02                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |Link del video:                                                                                                                                                                                                                                                                           | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Ea-8go80rp1EtXvLEj-WppEBJ3TX6tNq39jQvw2_MuTWYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sHlXUM]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| <img src="https://media.discordapp.net/attachments/1275939655635959848/1279708003075096608/image.png?ex=66d56c73&is=66d41af3&hm=df51a9d1ae9f6d828156aa8aae50f7dd092c4c4953b518ce08f06d8ca9b811b6&=&format=webp&quality=lossless&width=550&height=222" />                                 | Paco gestiona la distribución de tejidos como algodón, lino, poliéster, seda y lana, asegurando la calidad desde la recepción hasta la entrega a los clientes, también nos comenta que utiliza dispositivos android y que su buscador por preferencia es Chrome. Se enfrenta a problemas como el control de la humedad y el calor para evitar daños durante el almacenamiento y el envío de telas ya que estos problemas han dañado la reputación de la empresa. Consciente de las altas expectativas de sus clientes, Paco utiliza sensores para monitorizar el medio ambiente y busca soluciones tecnológicas avanzadas para mejorar la gestión de inventarios y el control de las condiciones ambientales. Espera mayores niveles de automatización en el futuro y apreciaría trabajar con proveedores que puedan brindarle soluciones personalizadas y seguras basadas en las necesidades específicas de su empresa.                                                                                                                                                                                                                                                                                                           |
+| <img src="resources/TB1/ENTRE2.png" />                                 | Paco gestiona la distribución de tejidos como algodón, lino, poliéster, seda y lana, asegurando la calidad desde la recepción hasta la entrega a los clientes, también nos comenta que utiliza dispositivos android y que su buscador por preferencia es Chrome. Se enfrenta a problemas como el control de la humedad y el calor para evitar daños durante el almacenamiento y el envío de telas ya que estos problemas han dañado la reputación de la empresa. Consciente de las altas expectativas de sus clientes, Paco utiliza sensores para monitorizar el medio ambiente y busca soluciones tecnológicas avanzadas para mejorar la gestión de inventarios y el control de las condiciones ambientales. Espera mayores niveles de automatización en el futuro y apreciaría trabajar con proveedores que puedan brindarle soluciones personalizadas y seguras basadas en las necesidades específicas de su empresa.                                                                                                                                                                                                                                                                                                           |
 | Duración de todas las entrevistas: 27:02                                                                                                                                                                                                                                                 | URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/Ea-8go80rp1EtXvLEj-WppEBJ3TX6tNq39jQvw2_MuTWYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sHlXUM]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas</h4></div>
@@ -762,71 +851,163 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 <div id='3.2.'><h3> 3.2. User Stories</h3></div>
 
-|**Epic ID**|**Título**|**Descripción**|
-|-|-|-|
-|EP001|Gestión de Inventarios de Telas|Como usuario de la aplicación (cliente o empresa), quiero gestionar el inventario de telas para mantener un control actualizado y preciso de las existencias.|
-|EP002|Monitoreo de Condiciones Ambientales|Como usuario, quiero monitorear en tiempo real las condiciones ambientales (como temperatura y humedad) de los almacenes, para asegurarse de que las telas estén en un ambiente óptimo.|
-|EP003|Control y Detección de Plagas|Como usuario, quiero detectar y recibir alertas tempranas sobre la presencia de plagas en los almacenes, para proteger la integridad de las telas almacenadas.|
-|EP004|Reportes y Análisis de Inventarios|Como usuario, quiero generar reportes detallados sobre el estado del inventario y las condiciones ambientales, para tomar decisiones informadas sobre la gestión de las telas.|
-|EP005|Integración con Sistemas Externos|Como empresa, deseo integrar la plataforma con otros sistemas de gestión (como pedidos y producción) para optimizar la cadena de suministro y la logística.|
-|EP006|Automatización de Procesos|Como usuario, quiero automatizar tareas recurrentes en la gestión de inventarios y condiciones ambientales, para mejorar la eficiencia y reducir el margen de error.|
-|EP007|Configuración de Parámetros de Alerta|Como usuario, quiero configurar los parámetros de alerta de temperatura, humedad y plagas, para recibir notificaciones personalizadas según las necesidades específicas de mi almacén.|
-|EP008|Personalización de la Interfaz|Como usuario, quiero personalizar la interfaz de la plataforma según mis preferencias, para mejorar mi experiencia de uso y productividad.|
-|EP009|Gestión de Accesos y Seguridad|Como administrador, quiero gestionar los accesos y permisos de los usuarios en la plataforma, para garantizar la seguridad y confidencialidad de los datos.|
-|EP010|Mantenimiento de la Plataforma|Como usuario, quiero recibir actualizaciones y notificaciones sobre el mantenimiento de la plataforma, para asegurarme de que el sistema esté siempre funcionando de manera óptima.|
-|EP011|Validación y Pruebas de Calidad|Como empresa, quiero realizar pruebas de calidad y validación de las funcionalidades de la plataforma, para asegurarme de que cumple con los estándares y expectativas.|
-|EP012|Experiencia en la Landing Page|Como equipo de desarrollo, queremos mejorar la experiencia de los usuarios tanto en la landing page como dentro de la plataforma, implementando funcionalidades que faciliten la navegación, el acceso a la información relevante y la gestión de cuentas, para aumentar el compromiso y satisfacción de los usuarios con la plataforma.|
+**EPICS**
+| Epic ID | Título                                   | Descripción                                                                                           |
+|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| EP001   | Experiencia en la Landing Page          | Como visitante, quiero que la landing page me brinde una experiencia clara y atractiva para facilitar mi registro y acceso a la plataforma. |
+| EP002   | Interfaz de Usuario                      | Como usuario de la aplicación, quiero que la interfaz sea intuitiva y funcional, para poder navegar fácilmente por las diferentes secciones. |
+| EP003   | Gestión de Inventario                   | Como usuario de la aplicación (cliente o empresa), quiero gestionar el inventario de telas para mantener un control actualizado y preciso de las existencias. |
+| EP004   | Gestión Ambiental                        | Como encargado de almacén, quiero contar con herramientas para monitorear y gestionar las condiciones ambientales, asegurando la integridad de las telas. |
+| EP005   | Gestión de Almacenes                        | Como usuario de la aplicación, quiero contar con herramientas  para gestionar mis almacenes de telas, asegurando la integridad y calidad de los materiales a través de la asignación de sensores y sistemas de monitoreo. |
+| EP006   | Gestión de Reportes | Como encargado de almacén, quiero poder generar y monitorear reportes periódicos y detallados sobre diversos aspectos del inventario, condiciones ambientales, y detección de plagas, para mantener un control eficiente y realizar acciones correctivas basadas en datos. |
+| EP07       | Desarrollo de las funcionalidades de la aplicación | Como equipo de desarrollo, queremos optimizar la generación de reportes y la visualización de datos en la plataforma, implementando funcionalidades que permitan a los usuarios crear reportes personalizados, visualizar datos ambientales en gráficos y gestionar información sobre plagas y almacenes.|
 
-<div id='3.2.1'><h3> 3.2.1 User Stories - Usuarios</h3></div>
+<div id='3.2.1'><h3> 3.2.1 User Stories </h3></div>
 
-| **ID** | **Título**                                              | **Descripción**                                                                                                                                                     | **Escenarios (Gherkin)**                                                                                                                                                                                                                                                                                                                                                                                                                               | **EpicID**                                    |
-| ------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
-| US001  | Registro de Telas en el inventario. | Como usuario, quiero poder registrar nuevas telas en el inventario, proporcionando detalles como tipo de tela, cantidad y ubicación en el almacén. | **Escenario 1: Registro de tela exitoso.**<br> Dado que el distribuidor se encuentra en la sección de inventario, <br>Cuando ingresa los datos correctamente de una nueva tela,<br>Entonces el sistema registra la tela exitosamente.<br><br>**Escenario 2: Error en el registro de tela.**<br>Dado que el usuario se encuentra en la sección de inventario,<br>Cuando ingresa los datos parcialmente incompletos,<br>Entonces el sistema le notifica que debe colocar los datos correctamente<br>Y no lo deja continuar.| EP001 - Gestión de Inventarios de Telas |
-| US002  | Actualización de la Cantidad de Telas | Como usuario, quiero poder actualizar la cantidad de telas en el inventario después de realizar una venta o recibir un nuevo lote. | **Escenario 1: Actualización exitosa**<br>Dado que el usuario se encuentra en la sección de inventario,<br>Cuando selecciona una tela y actualiza la cantidad del producto,<br>Entonces la nueva cantidad es reflejada correctamente.<br><br>**Escenario 2: Error en la actualización de la cantidad**<br>Dado que el usuario se encuentra en la sección de inventario,<br>Cuando el usuario intenta actualizar su producto usando caracteres incorrectos,<br>Entonces recibe una adveterncia de que ha usado caracteres incorrectos. | EP001 - Gestión de Inventarios de Telas       |
-| US003  | Configuración de Alertas de Temperatura   | Como usuario, quiero configurar alertas de temperatura para recibir notificaciones cuando los niveles estén fuera del rango óptimo. | **Escenario 1: Configuración exitosa de alertas**<br>Dado que el usuario se encuentra en la sección de alertas de temperatura,<br>Cuando selecciona el rango deseado y guarda los cambios,<br>Entonces la alerta queda configurada exitosamente.<br><br>**Escenario 2: Error en la configuración de alertas**<br>Dado que el usuario se encuentra en la sección de alertas de temperatura,<br>Cuando realiza los cambios deseados y no los guarda,<br>Entonces recibe un mensaje del sistema indicándole que debe guardar los cambios. | EP002 - Monitoreo de Condiciones Ambientales  |
-| US004  | Visualización en Tiempo Real de Condiciones Ambientales | Como usuario, quiero visualizar en tiempo real la temperatura y la humedad del almacén. | **Escenario 1: Visualización exitosa**<br>Dado que el usuario está en el dashboard de monitoreo,<br>Cuando abre la pestaña de condiciones ambientales,<br>Entonces ve los datos de temperatura y humedad en tiempo real.<br><br>**Escenario 2: Error en la visualización de condiciones**<br>Dado que hay un fallo en el sistema,<br>Cuando intenta visualizar los datos,<br>Entonces no se muestran correctamente. | EP002 - Monitoreo de Condiciones Ambientales |
-| US005  | Alerta de Presencia de Plagas | Como usuario, quiero recibir una notificación inmediata si se detectan plagas en el almacén. | **Escenario 1: Notificación exitosa de plagas**<br>Dado que el sistema detecta la presencia de plagas,<br>Cuando el análisis de validación es correcto,<br>Entonces el usuario recibe una notificación inmediata.<br><br>**Escenario 2: Alarma de posibles plagas**<br>Dado que el sistema detecta una posible plaga,<br>Cuando el análisis de validación es parcialmente correcto,<br>Entonces el usuario recibe una alarma de posibles plagas.| EP003 - Control y Detección de Plagas |
-| US006  | Historial de Detección de Plagas | Como usuario, quiero acceder al historial de detección de plagas en el almacén. | **Escenario 1: Acceso exitoso al historial**<br>Dado que el usuario está en el módulo de control de plagas,<br>Cuando selecciona el historial de detección de plagas,<br>Entonces puede visualizar los registros correctamente.<br><br>**Escenario 2: Historial de plagas vacío**<br>Dado que el usuario está por primera vez en el módulo de control de plagas,<br>Cuando selecciona el historial de detección de plagas,<br>Entonces recibe un mensaje de "No se ha detectado plagas". | EP003 - Control y Detección de Plagas |
-| US007  | Conocer a TelaSecure | Como visitante que se encuentra en la landing page, quiero conocer al equipo para obtener información. | **Escenario 1: Contacto exitoso**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando rellena el formulario de registro correctamente,<br>Entonces accederá al apartado donde está el equipo de TelaSecure.<br><br>**Escenario 2: Contacto fallido**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando rellena el formulario de registro incorrectamente,<br>Entonces recibirá un mensaje de "Formulario incompleto" <br> Y no visualizara al equipo de TelaSecure. | EP012 - Experiencia en la Landing Page |
-| US008  | Registrar tipo de tela | Como usuario, quiero registrar el tipo de telas que manejo en el almacén. | **Escenario 1: Registro exitoso de tipo de tela**<br>Dado que el usuario ingresa un nuevo tipo de tela,<br>Cuando guarda los detalles correctamente,<br>Entonces el sistema almacena el tipo de tela exitosamente.<br><br>**Escenario 2: Registro rechazado**<br>Dado que el usuario ingresa un nuevo tipo de tela,<br>Cuando intenta guardarl los detalles de manera incompleta,<br>Entonces recibe un mensaje de error. | EP001 - Gestión de Inventarios de Telas  |
-| US009  | Agregado de áreas del almacén  | Como usuario, quiero agregar áreas del almacén. | **Escenario 1: Agregado exitoso de áreas**<br>Dado que el usuario quiere agregar una nueva área,<br>Cuando ingresa los detalles necesarios correctamente,<br>Entonces la nueva área se registra correctamente.<br><br>**Escenario 2: Agregado fallido**<br>Dado que el usuario quiere agregar una nueva área,<br>Cuando ingresa los detalles necesarios incompletos,<br>Entonces recibe un mensaje de error.  | EP001 - Gestión de Inventarios de Telas  |
-| US010  | Gestión de entrada y salida de pedidos de tela del inventario | Como usuario, quiero gestionar la entrada y salida de pedidos de telas de mi inventario. | **Escenario 1: Pedido exitoso**<br>Dado que el usuario ingresa un nuevo pedido de telas,<br>Cuando completa el formulario de pedido correctamente,<br>Entonces el sistema procesa el pedido exitosamente.<br><br>**Escenario 2: Pedido fallido**<br>Dado que el usuario ingresa un nuevo pedido de telas,<br>Cuando completa el formulario de pedido parcialmente completo,<br>Entonces el sistema notifica al usuario que los datos no están completos. | EP001 - Gestión de Inventarios de Telas |
-| US011  | Notificaciones de umbrales de temperatura o humedad | Como encargado de almacén, quiero recibir notificaciones cuando se superen los umbrales de temperatura o humedad. | **Escenario 1: Notificación exitosa**<br>Dado que se supera el umbral configurado de temperatura o humedad,<br>Cuando se confirman las validaciones correspondientes,<br>Entonces el encargado recibe la notificación inmediatamente.<br><br>**Escenario 2: Notificación parcialmente exitosa**<br>Dado que se supera parcialmente el umbral configurado de temperatura o humedad,<br>Cuando se confirman las validaciones correspondientes,<br>Entonces el encargado recibe una notificación de posible superación del umbral establecido. | EP007 - Configuración de Parámetros de Alerta |
-| US012  | Seguimiento del historial de movimientos de tela  | Como encargado de almacén, quiero realizar un seguimiento del historial de movimientos de cada rollo de tela. | **Escenario 1: Seguimiento exitoso**<br>Dado que el encargado se encuentra en el historial de movimientos de tela,<br>Cuando consulta el historial de un rollo específico,<br>Entonces los movimientos se muestran correctamente.<br><br>**Escenario 2: No hay historial de movimientos de tela**<br>Dado que el encargado se encuentra por primera vez en el historial de movimientos de tela,<br>Cuando intenta consultar el historial,<br>Entonces no se muestran datos registrados. | EP001 - Gestión de Inventarios de Telas       |
-| US013  | Configuración de Parámetros de Alerta para Temperatura  | Como encargado de almacén, quiero configurar los parámetros de alerta para la temperatura. | **Escenario 1: Configuración exitosa**<br>Dado que el encargado quiere establecer los umbrales de temperatura,<br>Cuando ingresa los valores y los guarda correctamente,<br>Entonces el sistema almacena los umbrales correctamente.<br><br>**Escenario 2: Error en la configuración**<br>Dado que el encargado quiere establecer los umbrales de temperatura,<br>Cuando ingresa los valores y no los guarda correctamente,<br>Entonces recibe un mensaje de advertencia señalando que los datos no son correctos. | EP007 - Configuración de Parámetros de Alerta |
-| US014  | Configuración de Parámetros de Alerta para Humedad | Como encargado de almacén, quiero configurar los parámetros de alerta para la humedad. | **Escenario 1: Configuración exitosa**<br>Dado que el encargado necesita configurar los umbrales de humedad,<br>Cuando ingresa los valores deseados correctamente,<br>Entonces el sistema almacena la configuración correctamente.<br><br>**Escenario 2: Error en la configuración**<br>Dado que el encargado necesita configurar los umbrales de humedad,<br>Cuando ingresa los valores parcialmente,<br>Entonces recibe un mensaje de error señalando que los valores no son correctos. | EP007 - Configuración de Parámetros de Alerta |
-| US015  | Alerta de mantenimiento del almacén  | Como encargado de almacén, quiero recibir alertas sobre los mantenimientos programados en el almacén.  | **Escenario 1: Alerta de mantenimiento exitosa**<br>Dado que se acerca una fecha programada de mantenimiento,<br>Cuando se alcanza el umbral de tiempo definido,<br>Entonces el encargado recibe una notificación.<br><br>**Escenario 2: Error en la recepción de alerta**<br>Dado que el sistema falla en emitir la alerta,<br>Cuando se alcanza la fecha de mantenimiento,<br>Entonces el encargado no recibe notificación. | EP004 - Mantenimiento de Almacén              |
-| US016  | Link a redes sociales  | Como visitante que se encuentra en la landing page, quiero poder tener un acceso rápido a las redes sociales del proyecto. | **Escenario 1: Redirección a Facebook**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando selecciona el ícono de Facebook,<br>Entonces es redirigido a la página oficial del proyecto en Facebook.<br><br>**Escenario 2: Redirección a X (Twitter)**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando selecciona el ícono de X,<br>Entonces es redirigido al perfil oficial en X. | EP012 - Experiencia en la Landing Page  |
-| US017  | Links de redirección a secciones  | Como visitante que se encuentra en la landing page, quiero poder ir directamente a cada sección a través de la barra de navegación. | **Escenario 1: Redirección a la sección "Beneficios"**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando se dirige a la sección de "Beneficios" en la barra de navegación,<br>Entonces es llevado a la sección de beneficios.<br><br>**Escenario 2: Redirección a la sección "Descripción General"**<br>Dado que el visitante se encuentra en la landing page,<br>Cuando se dirige a la sección de "Descripción General" en la barra de navegación,<br>Entonces es llevado a la sección correspondiente. | EP012 - Experiencia en la Landing Page  |
-| US018  | Landing Page Responsive | Como visitante, quiero poder acceder a la landing page desde cualquier dispositivo y que esta se adecue al mismo. | **Escenario 1: Adecuación exitosa en smartphones**<br>Dado que el visitante está accediendo desde un teléfono móvil,<br>Cuando carga la landing page,<br>Entonces la página se adapta correctamente al tamaño de pantalla.<br><br>**Adecuación exitosa en tabletas**<br>Dado que el usuario accede desde una tableta,<br>Cuando carga la landing page,<br>Entonces la página se muestra correctamente. | EP012 - Experiencia en la Landing Page        |
-| US019  | Registro de datos en la landing page | Como vistante que se encuentra en la landing page, quiero registrar mis datos | **Escenario 1: Registro de datos exitoso**<br>Dado que el visitante está en la landing page,<br>Cuando navega hacia la sección "Registrarme"<br>Y registra sus datos correctamente,<br>Entonces recibe un mensaje de que se ha registrados exitosamente.<br><br>**Escenario 2: Registro de datos incompleto**<br>Dado que el visitante está en la landing page,<br>Cuando navega hacia la sección "Registrarme"<br>Y no registra sus datos completos,<br>Entonces recibe un mensaje de error indicando que los datos a registrar no están completos.  | EP012 - Experiencia en la Landing Page |
-| US020  | Cambiar de cuenta | Como usuario de la plataforma, quiero poder agregar otra cuenta y acceder rápidamente a la misma. | **Escenario 1: Cambio exitoso de cuenta**<br>Dado que el usuario tiene varias cuentas registradas,<br>Cuando indica sus credenciales en el inicio de sesión en una cuenta distinta,<br>Entonces el sistema realiza el cambio exitosamente.<br><br>**Escenario 2: Error en el cambio de cuenta**<br>Dado que el usuario tiene varias cuentas registradas,<br>Cuando indica sus credenciales incorrectamente en el inicia sesión en una cuenta distinta,<br>Entonces el usuario recibe un mensaje de error en las credenciales. | EP012 - Experiencia en la Landing Page |
-| US021  | Notificaciones a correo y celular vinculado  | Como usuario de la plataforma, quiero que las notificaciones me lleguen tanto al correo, como a un número de celular vinculado. | **Escenario 1: Notificación exitosa a correo y celular**<br>Dado que el usuario ha registrado un número de celular,<br>Cuando ocurre una notificación importante,<br>Entonces recibe la alerta tanto por correo como por celular.<br><br>**Escenario 2: Error en la recepción de notificaciones**<br>Dado que el usuario no ha registrado un número de celular,<br>Cuando ocurre un evento de notificación,<br>Entonces no recibe notificación a su celular y sólo a su correo registrado.| EP012 - Experiencia en la Landing Page  |
-| US022  | Notificación de la cantidad de tela en el inventario | Como usuario, quiero recibir notificaciones cuando el nivel de inventario de una tela específica esté bajo. | **Escenario 1: Notifiación automática de bajo inventario**<br>Dado que el nivel de stock de una tela está por debajo del mínimo definido,<br>Cuando el sistema detecta que el stock es menor al umbral establecido,<br>Entonces el sistema envía una notificación al usuario.<br><br>**Escenario 2: Configuración de alertas de bajo inventario**<br>Dado que el usuario quiere configurar el nivel de alerta de bajo inventario,<br>Dado que el usuario quiere configurar el nivel de alerta de bajo inventario,<br>Entonces el sistema guarda los nuevos valores. | EP001 - Gestión de Inventarios de Telas |
-| US023 | Generación de reportes de estado | Como distribuidor de telas, quiero generar reportes detallados sobre el estado del inventario y las condiciones ambientales | **Escenario 1: Generación de reporte de inventario**<br>Dado que el distribuidor selecciona el rango de fechas para el reporte,<br>Cuando el sistema genera el informe,<br>Entonces el distribuidor recibe un documento detallado con el estado de las existencias.<br><br>**Escenario 2: Generación de reporte de condiciones ambientales**<br>Dado que el sistema monitorea temperatura y humedad,<br>Cuando el distribuidor solicita un informe indicando el periodo a conocer,<br>Entonces se genera un reporte que muestra las variaciones en las condiciones ambientales durante el periodo seleccionado. | EP004 - Reportes y Análisis de Inventarios |
-| US024 | Automatizar tareas recurrentes | Como distribuidor de telas, quiero automatizar tareas recurrentes en la gestión de inventarios y condiciones ambientales | **Escenario 1: Automatización de reposición de stock**<br>Dado que el nivel de inventario de una tela baja al mínimo,<br>Cuando el sistema detecta esta situación,<br>Entonces se genera automáticamente una orden de reabastecimiento.<br><br>**Escenario 2: Automatización de alertas ambientales**<br>Dado que la temperatura excede los parámetros establecidos,<br>Cuando el sistema detecta esta anomalía,<br>Entonces se activa un sistema de control automático de temperatura<br>Y se envía una notificación. | EP006 - Automatización de Procesos |
-| US025 | Configurar los parámetros de alerta | Como distribuidor de telas, quiero configurar los parámetros de alerta de temperatura, humedad y plagas | **Escenario 1: Configuración de alertas de temperatura y humedad**<br>Dado que el distribuidor ajusta los límites de temperatura y humedad,<br>Cuando el sistema detecta valores fuera del rango establecido,<br>Entonces el distribuidor recibe una alerta con la información detallada.<br><br>**Escenario 2: Configuración de alertas de plagas**<br>Dado que el distribuidor ajusta los umbrales de detección de plagas,<br>Cuando se detecta una cantidad inusual de plagas,<br>Entonces se envía una alerta personalizada al distribuidor.| EP007 - Configuración de Parámetros de Alerta |
-| US026 | Gestión de accessos | Como distribuidor de telas, quiero gestionar los accesos y permisos de los usuarios en la plataforma | **Escenario 1: Asignación de roles a los empleados**<br>Dado que el distribuidor tiene nuevos empleados,<br>Cuando asigna roles específicos,<br>Entonces el sistema actualiza los permisos y accesos de cada usuario.<br><br>**Escenario 2: Restricción de acceso tras varios intentos fallidos**<br>Dado que un usuario intenta acceder a la plataforma con múltiples fallos,<br>Cuando se supera el número máximo de intentos,<br>Entonces el sistema bloquea temporalmente la cuenta y notifica al administrador. | EP009 - Gestión de Accesos y Seguridad |
-| US027 | Notifiaciones de mantenimiento | Como usuario, quiero recibir actualizaciones y notificaciones sobre el mantenimiento de la plataforma | **Escenario 1: Notificación de mantenimiento planificado**<br>Dado que se ha programado mantenimiento en el sistema,<br>Cuando se acerca la fecha del mantenimiento,<br>Entonces el distribuidor recibe una notificación con el horario y la duración del mantenimiento.<br><br>**Escenario 2: Mantenimiento de emergencia**<br>Dado que ocurre un fallo inesperado en el sistema,<br>Cuando el sistema necesita mantenimiento urgente,<br>Entonces el distribuidor recibe una alerta indicando la causa del problema y el tiempo estimado de resolución. | EP010 - Mantenimiento de la Plataforma |
-| US028 | Monitoreo de zona específicas | Como encargado, quiero monitorear la temperatura y humedad en zonas específicas del almacén | **Escenario 1: Monitoreo de una zona específica del almacén**<br>Dado que el encargado tiene telas delicadas almacenadas en una zona particular,<br>Cuando el sistema detecta un aumento de temperatura en esa zona,<br>Entonces se envía una alerta inmediata para que se tomen medidas correctivas.<br><br>**Escenario 2: Verificación del historial de condiciones ambientales**<br>Dado que el encargado necesita revisar cómo han fluctuado las condiciones ambientales en los últimos 30 días,<br>Cuando solicita un informe detallado del historial de temperatura y humedad,<br>Entonces el sistema genera un informe que muestra los datos con gráficos y resúmenes diarios. | EP002 - Monitoreo de Condiciones Ambientales |
-| US029 | Parámetros para tipos de telas | Como encargadot, quiero configurar diferentes parámetros de monitoreo para distintos tipos de telas | **Escenario 1: Configuración de umbrales personalizados para tipos de tela**<br>Dado que el encargado almacena diferentes tipos de telas con distintos requisitos de conservación,<br>Cuando ajusta los umbrales de temperatura y humedad para cada categoría de tela,<br>Entonces el sistema monitorea y genera alertas de manera específica para cada tipo de tela según su configuración.<br><br>**Escenario 2: Notificación de superación de umbrales en tela específica**<br>Dado que el sistema detecta que la humedad ha superado el umbral configurado para telas de seda,<br>Cuando la condición persiste durante más de 10 minutos,<br>Entonces el sistema envía una alerta específica al encargado y recomienda acciones preventivas. | EP002 - Monitoreo de Condiciones Ambientales |
-| US030 | Informes periódicos de detección de plagas | Como encargado, quiero recibir informes periódicos sobre la actividad de detección de plagas | **Escenario 1: Generación automática de informes de plagas cada semana**<br>Dado que el encargado necesita evaluar las condiciones del almacén,<br>Cuando solicita un informe semanal,<br>Entonces el sistema genera automáticamente un reporte con las detecciones registradas y las acciones tomadas.<br><br>**Escenario 2: Ausencia de actividad de plagas en el informe**<br>Dado que no se ha detectado actividad de plagas durante la última semana,<br>Cuando el sistema genera el informe,<br>Entonces se notifica al distribuidor que no ha habido detecciones y que el almacén está libre de riesgos por plagas. | EP003 - Control y Detección de Plagas |
+
+## User Stories - Usuarios
+
+| ID     | Título                                | Descripción                                                                                   | Escenarios (Gherkin)                                                                                                                                                                                                                                                                                         | EpicID |
+|--------|----------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| US001  | Mostrar beneficios de la plataforma    | Como visitante, quiero ver una sección de beneficios claros en la landing page para entender las ventajas de usar la plataforma.  | **Escenario 1**: Mostrar beneficios. Dado que el visitante está en la landing page, Cuando carga la página, Entonces se muestran claramente los beneficios de la plataforma. **Escenario 2**: Ocultar beneficios. Dado que el visitante está en la landing page, Cuando hace scroll hasta el final, Entonces la sección de beneficios deja de ser visible. | EP01   |
+| US002  | Llamada a la acción (Call to Action)   | Como visitante, quiero una llamada a la acción clara en la landing page que me invite a registrarme o probar la plataforma para iniciar el uso rápidamente. | **Escenario 1**: Llamada a la acción visible. Dado que el visitante está en la landing page, Cuando carga la página, Entonces se muestra una llamada a la acción clara para registrarse o probar la plataforma. **Escenario 2**: Llamada a la acción no visible. Dado que el visitante está en la landing page, Cuando hace scroll hasta el final, Entonces la llamada a la acción permanece visible y accesible en todo momento. | EP01   |
+| US003  | Sección de preguntas frecuentes (FAQ)  | Como visitante, quiero una sección de preguntas frecuentes en la landing page para resolver dudas comunes sobre el uso de la plataforma. | **Escenario 1**: Preguntas frecuentes visibles. Dado que el visitante está en la landing page, Cuando desplaza la página hacia la sección FAQ, Entonces se muestran las preguntas frecuentes de manera clara y organizada. **Escenario 2**: Búsqueda en preguntas frecuentes. Dado que el visitante está en la landing page, Cuando busca una palabra clave en el buscador de FAQ, Entonces se filtran las preguntas frecuentes relacionadas con el término. | EP01   |
+| US004  | Acceso rápido desde la landing page    | Como usuario recurrente, quiero poder acceder rápidamente a la aplicación desde la landing page para utilizarla sin demoras.       | **Escenario 1**: Acceso rápido disponible. Dado que el usuario recurrente está en la landing page, Cuando quiere acceder a la aplicación, Entonces puede hacerlo mediante un botón de acceso rápido visible en la página. **Escenario 2**: Acceso rápido no disponible. Dado que el usuario recurrente está en la landing page, Cuando el botón de acceso rápido no carga correctamente, Entonces el sistema muestra una opción alternativa de acceso en el pie de página. | EP01   |
+| US005  | Landing Page Responsive                | Como visitante, quiero poder acceder a la landing page desde cualquier dispositivo y que esta se adecue al mismo.                   | **Escenario 1**: Adaptación a dispositivos. Dado que el visitante está accediendo desde un dispositivo móvil o tablet, Cuando carga la landing page, Entonces la página se adapta al tamaño del dispositivo de manera óptima. **Escenario 2**: Fallo en adaptación. Dado que el visitante está accediendo desde un dispositivo móvil, Cuando la página no se adapta correctamente, Entonces el sistema muestra una advertencia y permite recargar la página para corregir el problema. | EP01   |
+| US006  | Links de redirección a secciones       | Como visitante que se encuentra en la landing page, quiero poder ir directamente a cada sección a través de la barra de navegación. | **Escenario 1**: Navegación entre secciones. Dado que el visitante está en la landing page, Cuando hace clic en una sección del menú de navegación, Entonces la página lo redirige a la sección seleccionada de manera suave.                                                                                 | EP01   |
+| US007  | Conocer a TelaSecure                   | Como visitante que se encuentra en la landing page, quiero conocer al equipo para obtener información.                             | **Escenario 1**: Conocer al equipo. Dado que el visitante está en la landing page, Cuando desplaza hacia la sección "Conócenos", Entonces se muestra la información sobre el equipo de TelaSecure. **Escenario 2**: Información del equipo no cargada. Dado que el visitante está en la landing page, Cuando la sección "Conócenos" no carga correctamente, Entonces el sistema muestra un mensaje de error y un botón para recargar la sección. | EP01   |
+| US008  | Link a redes sociales                  | Como visitante que se encuentra en la landing page, quiero poder tener un acceso rápido a las redes sociales del proyecto.          | **Escenario 1**: Acceso a redes sociales. Dado que el visitante está en la landing page, Cuando hace clic en un ícono de redes sociales, Entonces es redirigido a la red social correspondiente en una nueva pestaña. **Escenario 2**: Error en redirección a redes sociales. Dado que el visitante está en la landing page, Cuando hace clic en un ícono de redes sociales y hay un problema de conexión, Entonces el sistema muestra un mensaje de error temporal. | EP01   |
+| US009  | Menú Lateral                           | Como usuario de la aplicación, quiero contar con un menú lateral para poder acceder a las secciones de manera sencilla.            | **Escenario 1**: Menú lateral visible. Dado que el usuario está en la aplicación, Cuando accede a la aplicación, Entonces puede ver un menú lateral con las secciones disponibles. **Escenario 2**: Error al cargar menú lateral. Dado que el usuario está en la aplicación, Cuando el menú lateral no carga correctamente, Entonces se muestra un mensaje de error y se permite actualizar la página. | EP02   |
+| US010  | Ocultar y Mostrar Menú Lateral         | Como usuario de la aplicación, quiero poder esconder y aparecer el menú lateral para poder visualizar el contenido de las secciones de manera más grande. | **Escenario 1**: Mostrar/Ocultar menú. Dado que el usuario está en la aplicación, Cuando hace clic en el botón de mostrar/ocultar menú, Entonces el menú lateral aparece o desaparece según su elección.                                                                                                    | EP02   |
+| US011  | Vista en la Barra Superior para Configuración | Como usuario, quiero contar con una vista ubicada en la barra superior para poder configurar mi cuenta.                              | **Escenario 1**: Acceso a configuración. Dado que el usuario está en la aplicación, Cuando quiere cambiar la configuración de su cuenta, Entonces puede acceder a la vista de configuración desde la barra superior.                                                                                         | EP02   |
+| US012  | Inicio de Sesión Sencillo              | Como usuario, quiero poder iniciar sesión de manera sencilla en la aplicación.                                                     | **Escenario 1**: Inicio de sesión exitoso. Dado que el usuario está en la pantalla de inicio de sesión, Cuando introduce sus credenciales correctas, Entonces el sistema lo redirige a la página principal de la aplicación. **Escenario 2**: Error en inicio de sesión. Dado que el usuario está en la pantalla de inicio de sesión, Cuando introduce credenciales incorrectas, Entonces el sistema muestra un mensaje de error. | EP02   |
+| US013  | Creación de Cuentas                    | Como usuario, quiero poder crear varias cuentas en la aplicación para gestionar diferentes perfiles según mis necesidades.          | **Escenario 1**: Creación de cuenta exitosa. Dado que el usuario quiere crear una cuenta, Cuando ingresa la información requerida, Entonces la cuenta se crea exitosamente. **Escenario 2**: Error en creación de cuenta. Dado que el usuario quiere crear una cuenta, Cuando no completa toda la información requerida, Entonces el sistema le muestra un mensaje de error y no permite continuar. | EP02   |
+| US014  | Registro de Telas en el Inventario     | Como usuario, quiero poder registrar nuevas telas en el inventario, proporcionando detalles como tipo de tela, cantidad y ubicación en el almacén. | **Escenario 1**: Registro de tela exitoso. Dado que el distribuidor se encuentra en la sección de inventario, Cuando ingresa los datos correctamente de una nueva tela, Entonces el sistema registra la tela exitosamente. **Escenario 2**: Error en el registro de tela. Dado que el usuario se encuentra en la sección de inventario, Cuando ingresa los datos parcialmente incompletos, Entonces el sistema le notifica que debe colocar los datos correctamente y no lo deja continuar. | EP03   |
+| US015  | Registrar Categoría de Tela            | Como usuario, quiero registrar la categoría de telas que manejo en el almacén.                                                    | **Escenario 1**: Registro de categoría exitoso. Dado que el usuario está en la sección de inventario, Cuando ingresa una nueva categoría, Entonces esta se registra correctamente. **Escenario 2**: Error en el registro de categoría. Dado que el usuario está en la sección de inventario, Cuando no completa la información requerida para registrar una categoría, Entonces el sistema no permite continuar y muestra un mensaje de error. | EP03   |
+| US016  | Filtros para Ver Inventario por Almacén | Como usuario, quiero poder aplicar filtros para ver el inventario por almacén, para gestionar y revisar más eficientemente los productos disponibles en cada ubicación. | **Escenario 1**: Aplicar filtros correctamente. Dado que el usuario está en la sección de inventario, Cuando aplica un filtro por almacén, Entonces se muestra la lista de productos correspondiente a ese almacén. **Escenario 2**: Error en aplicar filtros. Dado que el usuario está en la sección de inventario, Cuando selecciona un filtro que no se aplica correctamente, Entonces el sistema muestra un mensaje de error y permite intentar nuevamente. | EP03   |
+| US017  | Edición de Telas del Inventario        | Como usuario, quiero poder editar telas ya creadas en el inventario.                                                             | **Escenario 1**: Edición exitosa de tela. Dado que el usuario está en la sección de inventario, Cuando selecciona una tela para editar y modifica los detalles, Entonces el sistema guarda los cambios correctamente. **Escenario 2**: Error al editar tela. Dado que el usuario está en la sección de inventario, Cuando no ingresa los datos correctos para editar la tela, Entonces el sistema muestra un mensaje de error y no guarda los cambios. | EP03   |
+| US018  | Eliminación de Telas del Inventario    | Como usuario, quiero eliminar telas deseadas del inventario.                                                                     | **Escenario 1**: Eliminación exitosa de tela. Dado que el usuario está en la sección de inventario, Cuando selecciona una tela para eliminar, Entonces el sistema la elimina correctamente del inventario. **Escenario 2**: Error en eliminación de tela. Dado que el usuario está en la sección de inventario, Cuando el sistema no permite eliminar la tela, Entonces muestra un mensaje de error. | EP03   |
+| US019  | Notificación de la Cantidad de Tela en el Inventario | Como usuario, quiero recibir notificaciones sobre la cantidad de tela en el inventario.                                             | **Escenario 1**: Notificación por bajo stock. Dado que el usuario está gestionando el inventario, Cuando el nivel de stock de una tela es bajo, Entonces el sistema envía una notificación automática. **Escenario 2**: Error en notificaciones. Dado que el usuario está gestionando el inventario, Cuando el sistema falla al enviar notificaciones, Entonces muestra una alerta sobre el error. | EP03   |
+| US020  | Configuración de Alertas de Temperatura | Como usuario, quiero configurar alertas de temperatura para recibir notificaciones cuando los niveles estén fuera del rango óptimo. | **Escenario 1**: Configuración exitosa de alertas de temperatura. Dado que el usuario está en la sección de gestión ambiental, Cuando configura las alertas de temperatura, Entonces el sistema guarda la configuración correctamente. **Escenario 2**: Error al configurar alertas de temperatura. Dado que el usuario está en la sección de gestión ambiental, Cuando no completa correctamente los parámetros de alerta, Entonces el sistema muestra un mensaje de error y no permite continuar. | EP04   |
+| US021  | Visualización en Tiempo Real de Temperatura | Como usuario, quiero visualizar en tiempo real la temperatura de un almacén mediante los termómetros registrados.                   | **Escenario 1**: Visualización exitosa de temperatura. Dado que el usuario está en la sección de monitoreo, Cuando abre la vista de temperatura, Entonces los datos en tiempo real se muestran correctamente. **Escenario 2**: Error en la visualización de temperatura. Dado que el usuario está en la sección de monitoreo, Cuando los datos no se muestran correctamente, Entonces el sistema muestra un mensaje de error y permite intentar cargar nuevamente los datos. | EP04   |
+| US022  | Visualización en Tiempo Real de Humedad | Como usuario, quiero visualizar en tiempo real la humedad de un almacén mediante los higrómetros registrados.                      | **Escenario 1**: Visualización exitosa de humedad. Dado que el usuario está en la sección de monitoreo, Cuando abre la vista de humedad, Entonces los datos en tiempo real se muestran correctamente. **Escenario 2**: Error en la visualización de humedad. Dado que el usuario está en la sección de monitoreo, Cuando los datos no se muestran correctamente, Entonces el sistema muestra un mensaje de error y permite intentar cargar nuevamente los datos. | EP04   |
+| US023  | Configuración de Parámetros de Alerta para Humedad | Como encargado de almacén, quiero configurar los parámetros de alerta para la humedad.                                              | **Escenario 1**: Configuración exitosa de alertas de humedad. Dado que el encargado de almacén está en la sección de gestión ambiental, Cuando configura las alertas de humedad, Entonces el sistema guarda la configuración correctamente. **Escenario 2**: Error al configurar alertas de humedad. Dado que el encargado de almacén está en la sección de gestión ambiental, Cuando no completa correctamente los parámetros de alerta, Entonces el sistema muestra un mensaje de error y no permite continuar. | EP04   |
+| US024  | Monitoreo de Zonas Específicas         | Como encargado, quiero monitorear la temperatura y humedad en zonas específicas del almacén.                                      | **Escenario 1**: Monitoreo exitoso de zonas. Dado que el encargado de almacén está en la sección de monitoreo, Cuando selecciona una zona específica, Entonces el sistema muestra los datos de temperatura y humedad de esa zona en tiempo real. **Escenario 2**: Error en monitoreo de zonas. Dado que el encargado de almacén está en la sección de monitoreo, Cuando los datos no se muestran correctamente para una zona específica, Entonces el sistema muestra un mensaje de error y permite reintentar la visualización. | EP04   |
+| US025  | Modificación de Temperatura            | Como encargado, quiero poder modificar la temperatura de un almacén a través de calentadores desde la misma aplicación.            | **Escenario 1**: Modificación exitosa de temperatura. Dado que el encargado está en la sección de gestión ambiental, Cuando ajusta la temperatura desde la aplicación, Entonces los calentadores se activan o desactivan según el ajuste realizado. **Escenario 2**: Error en modificación de temperatura. Dado que el encargado está en la sección de gestión ambiental, Cuando la temperatura no se ajusta correctamente, Entonces el sistema muestra un mensaje de error y permite reintentar la acción. | EP04   |
+| US026  | Modificación de Humedad                | Como encargado, quiero poder modificar la humedad de un almacén a través de humidificadores desde la misma aplicación.             | **Escenario 1**: Modificación exitosa de humedad. Dado que el encargado está en la sección de gestión ambiental, Cuando ajusta la humedad desde la aplicación, Entonces los humidificadores se activan o desactivan según el ajuste realizado. **Escenario 2**: Error en modificación de humedad. Dado que el encargado está en la sección de gestión ambiental, Cuando la humedad no se ajusta correctamente, Entonces el sistema muestra un mensaje de error y permite reintentar la acción. | EP04   |
+| US027  | Registrar un almacén    | Como usuario de la aplicación, quiero poder agregar un nuevo almacén, para que pueda gestionar los sensores de ese almacén.    | **Escenario 1**: Registro exitoso de un nuevo almacén. Dado que el usuario puede utilizar la función de administración de almacenes, Cuando introduces todos los datos necesarios (nombre del almacén, localización, tipo de telas a guardar, etc.) y pulsar el botón "Registrar", Entonces el sistema tiene que almacenar los datos del nuevo almacén y mostrar un mensaje de éxito, señalando que el almacén ha sido correctamente registrado.  **Escenario 2**: Registro de un almacén con datos incompletos. Dado que el usuario trata de registrar un nuevo almacén sin completar todos los campos requeridos, Cuando pulsa el botón "Registrar", Entonces el sistema debe presentar un mensaje de error señalando que no se completaron correctamente los datos del almacén. | EP05   |
+| US028  | Quitar un almacén registrado    | Como usuario de la aplicación, quiero poder eliminar un almacén existente, para que pueda mantener mi lista de almacenes actualizada.    | **Escenario 1**: Eliminación exitosa de un almacén. Dado que el usuario puede acceder a la lista de almacenes que se han registrado y ha elegido un almacén actual para eliminar, Cuando el usuario pulsa el botón "Eliminar" y valida el acto, Entonces el sistema tiene que eliminar el almacén de la lista.   **Escenario 2**: Cancelación de la eliminación de un almacén. Dado que el usuario puede acceder a la lista de almacenes que se han registrado y ha elegido un almacén actual para eliminar, Cuando pulsa el botón "Eliminar" y optar por anular la acción, Entonces el sistema tiene que tener el almacén en la lista. | EP05    |
+| US029  | Registrar un sensor de un almacén    | Como usuario, poder agregar sensores a un almacén, para que pueda monitorear condiciones específicas (temperatura, humedad, etc.) del inventario.    | **Escenario 1**:Registro exitoso de un sensor. Dado que el usuario puede utilizar la funcionalidad de administración de sensores en un almacén y ha elegido un depósito ya existente para incorporar un sensor, Cuando introduce la información del sensor (tipo, localización, límites de temperatura y humedad, etc.) y pulsar el botón "Registrar", Entonces el sistema tiene que almacenar y mostrar los datos del nuevo sensor. **Escenario 2**: Registro de un sensor con datos incompletos. Dado que el usuario trata de registrar un sensor nuevo sin completar todos los campos necesarios, Cuando haces clic en el botón "Registrar", Entonces el sistema debe presentar un mensaje de error que señale la ausencia de los datos requeridos.    | EP05   |
+| US030  | Eliminar la conexión a un sensor de un almacén    | Como usuario, quiero poder eliminar sensores de un almacén, para que pueda gestionar adecuadamente los sensores en uso.    | **Escenario 1**: Eliminación exitosa de un sensor. Dado que el usuario puede acceder a la lista de sensores vinculados a un depósito y ha elegido un sensor actual que busca suprimir, Cuando el usuario pulsa el botón "Deshacer", Entonces el sistema tiene que suprimir el sensor de la lista de sensores en el almacén. | EP05   |
+| US031  |    Visualizar Almacenes y Sensores    | Como usuario, poder visualizar la lista de almacenes y sus sensores que pueda tener una visión general de la infraestructura de inventario.    | **Escenario 1**: Visualización exitosa de almacenes y sus sensores. Dado que el usuario puede acceder a la característica de visualización de almacenes y sensores, Cuando el usuario visita la sección de "Almacenes", Entonces el sistema debe presentar una lista de todos los almacenes que se han registrado y para cada depósito, debe exhibir el listado de sensores relacionados. **Escenario 2**: Almacén sin sensores. Dado que el usuario puede acceder a la característica de visualización de almacenes y sensores, Cuando el usuario accede a la sección "Almacenes" y elige un almacén que carece de sensores relacionados, Entonces el sistema debe presentar los datos del almacén y señalar que en ese almacén no se registraron sensores. | EP05   |
+| US032 | Generación de reportes de estado | Como encargado, quiero generar reportes detallados sobre el estado del inventario y las condiciones ambientales | **Escenario 1**: Generación de reporte de inventario Dado que el encargado selecciona el rango de fechas para el reporte, Cuando el sistema genera el informe, Entonces el encargado recibe un documento detallado con el estado de las existencias. **Escenario 2**: Generación de reporte de condiciones ambientales Dado que el sistema monitorea temperatura y humedad, Cuando el encargado solicita un informe indicando el periodo a conocer, Entonces se genera un reporte que muestra las variaciones en las condiciones ambientales durante el periodo seleccionado. | EP06 |
+| US033 | Monitoreo de zona específicas | Como encargado, quiero monitorear la temperatura y humedad en zonas específicas del almacén | **Escenario 1**: Monitoreo de una zona específica del almacén Dado que el encargado tiene telas delicadas almacenadas en una zona particular, Cuando el sistema detecta un aumento de temperatura en esa zona, Entonces se envía una alerta inmediata para que se tomen medidas correctivas. **Escenario 2**: Verificación del historial de condiciones ambientales Dado que el encargado necesita revisar cómo han fluctuado las condiciones ambientales en los últimos 30 días, Cuando solicita un informe detallado del historial de temperatura y humedad, Entonces el sistema genera un informe que muestra los datos con gráficos y resúmenes diarios. | EP06 |
+| US034 | Seguimiento del historial de movimientos de tela | Como encargado de almacén, quiero realizar un seguimiento del historial de movimientos de cada rollo de tela. | **Escenario 1**: Seguimiento exitoso Dado que el encargado se encuentra en el historial de movimientos de tela, Cuando consulta el historial de un rollo específico, Entonces los movimientos se muestran correctamente. **Escenario 2**: No hay historial de movimientos de tela Dado que el encargado se encuentra por primera vez en el historial de movimientos de tela, Cuando intenta consultar el historial, Entonces no se muestran datos registrados. | EP06 |
+| US035 | Informes periódicos de detección de plagas | Como encargado, quiero recibir informes periódicos sobre la actividad de detección de plagas. | **Escenario 1**: Generación automática de informes de plagas cada semana Dado que el encargado necesita evaluar las condiciones del almacén, Cuando solicita un informe semanal, Entonces el sistema genera automáticamente un reporte con las detecciones registradas y las acciones tomadas. **Escenario 2**: Ausencia de actividad de plagas en el informe Dado que no se ha detectado actividad de plagas durante la última semana, Cuando el sistema genera el informe, Entonces se notifica al distribuidor que no ha habido detecciones y que el almacén está libre de riesgos por plagas. | EP06 |
+| US036 | Historial de Detección de Plagas | Como usuario, quiero acceder al historial de detección de plagas en el almacén. | **Escenario 1**: Acceso exitoso al historial Dado que el usuario está en el módulo de control de plagas, Cuando selecciona el historial de detección de plagas, Entonces puede visualizar los registros correctamente. **Escenario 2**: Historial de plagas vacío Dado que el usuario está por primera vez en el módulo de control de plagas, Cuando selecciona el historial de detección de plagas, Entonces recibe un mensaje de "No se ha detectado plagas". | EP06 |
 
 <div id='3.2.2'><h3> 3.2.2 Technical Stories </h3></div>
 
 | ID     | Título                                              | Descripción                                                                                                                                                                                                                                                                                        | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                               | EpicID |
 |--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| TS001  | Implementar API REST para gestión de inventario de telas | Como developer, necesito implementar un endpoint RESTful que permita a los usuarios gestionar el inventario de telas. Este endpoint debe permitir la creación, actualización y eliminación de registros de inventario, así como la consulta de detalles de las telas.                             | **Escenario 1: Creación exitosa del inventario**<br>Dado que se envía una solicitud POST con datos válidos de la tela,<br>Cuando se recibe la solicitud,<br>Entonces se debe crear un nuevo registro de inventario y devolver un código 201.<br><br>**Escenario 2: Consulta del inventario**<br>Dado que se envía una solicitud GET,<br>Cuando se recibe la solicitud,<br>Entonces se deben devolver todos los registros de telas con un código 200. | EP001  |
-| TS002  | Implementar API REST para monitoreo de condiciones ambientales | Como developer, necesito implementar un servicio RESTful que monitoree las condiciones ambientales de los almacenes, obteniendo datos de sensores conectados. Debe proporcionar endpoints para consultar temperatura y humedad en tiempo real.                                                   | **Escenario 1: Lectura de condiciones ambientales**<br>Dado que se envía una solicitud GET a `/api/environment`,<br>Cuando se recibe la solicitud,<br>Entonces se deben devolver los datos de temperatura y humedad con un código 200.<br><br>**Escenario 2: Alerta por fuera de rango**<br>Dado que las condiciones ambientales superan un umbral configurado,<br>Entonces se debe enviar una notificación al usuario.                        | EP002  |
-| TS003  | API para control y detección de plagas en almacenes       | Como developer, necesito implementar un servicio API RESTful que permita el control de plagas en los almacenes. Este servicio debe enviar notificaciones automáticas cuando se detectan plagas, usando datos proporcionados por dispositivos IoT conectados.                                    | **Escenario 1: Alerta de plagas detectada**<br>Dado que se recibe una alerta de un dispositivo IoT,<br>Cuando se detecta una actividad inusual,<br>Entonces se debe enviar una notificación al usuario con un código 200 y registrar el evento en el sistema.<br><br>**Escenario 2: Consulta de histórico de plagas**<br>Dado que se envía una solicitud GET,<br>Cuando se recibe la solicitud,<br>Entonces se deben devolver los registros históricos. | EP003  |
-| TS004  | Implementar API REST para generación de reportes de inventario | Como developer, debo implementar un endpoint que permita a los usuarios generar reportes detallados sobre el estado del inventario, incluyendo detalles sobre las telas, condiciones ambientales y actividad de plagas. El endpoint debe soportar formatos como PDF y CSV para la exportación.     | **Escenario 1: Generación exitosa de reporte**<br>Dado que se envía una solicitud GET para generar un reporte,<br>Cuando se procesa la solicitud,<br>Entonces se debe generar el reporte en el formato solicitado y devolver un código 200.<br><br>**Escenario 2: Error en generación del reporte**<br>Dado que se envía una solicitud GET con parámetros incorrectos,<br>Entonces se debe retornar un código 400 con un mensaje de error. | EP004  |
-| TS005  | API REST para integración con sistemas externos            | Como developer, debo implementar servicios RESTful que permitan la integración con otros sistemas de gestión (ERP, sistemas de pedidos), utilizando webhooks o API endpoints para sincronizar inventarios y procesos logísticos automáticamente.                                                 | **Escenario 1: Integración exitosa con ERP**<br>Dado que se envía una solicitud POST desde el sistema externo,<br>Cuando se recibe la solicitud de actualización de inventario,<br>Entonces se deben sincronizar los datos y devolver un código 200.<br><br>**Escenario 2: Fallo en la integración**<br>Dado que el sistema externo envía una solicitud inválida,<br>Entonces el API debe devolver un código 400 con detalles del error. | EP005  |
-| TS006  | Implementar lógica automatizada para gestión de inventarios | Como developer, debo crear servicios que permitan la automatización de tareas como el reabastecimiento de inventarios o el envío de alertas cuando los niveles de stock de telas caen por debajo de un umbral predefinido, usando reglas definidas en el sistema.                                  | **Escenario 1: Reabastecimiento automático**<br>Dado que los niveles de stock bajan de un límite,<br>Cuando se cumple la regla de reabastecimiento,<br>Entonces se debe generar una orden automática y notificar al proveedor.<br><br>**Escenario 2: Notificación de stock bajo**<br>Dado que el stock es inferior al umbral,<br>Entonces se debe notificar al usuario de la baja disponibilidad con un código 200.              | EP006  |
-| TS007  | Configuración de parámetros de alerta a través de la API   | Como developer, debo crear endpoints que permitan a los usuarios configurar los umbrales de alerta para temperatura, humedad y detección de plagas. Estas configuraciones deben persistir y estar disponibles para modificar cuando sea necesario.                                                 | **Escenario 1: Configuración exitosa de umbrales**<br>Dado que se envía una solicitud POST con umbrales válidos,<br>Cuando se procesa la solicitud,<br>Entonces se deben guardar las configuraciones y retornar un código 200.<br><br>**Escenario 2: Consulta de configuración de umbrales**<br>Dado que se envía una solicitud GET,<br>Cuando se recibe la solicitud,<br>Entonces se deben devolver los umbrales configurados actuales.   | EP007  |
-| TS008  | API REST para personalización de la interfaz               | Como developer, necesito implementar endpoints que permitan a los usuarios personalizar la interfaz de la plataforma, incluyendo temas de color, disposición de widgets, y preferencias de visualización, almacenando estas configuraciones por usuario.                                          | **Escenario 1: Personalización exitosa**<br>Dado que se envía una solicitud POST con configuraciones válidas,<br>Cuando se procesa la solicitud,<br>Entonces se deben aplicar los cambios en la interfaz y devolver un código 200.<br><br>**Escenario 2: Consulta de personalización**<br>Dado que se envía una solicitud GET,<br>Cuando se recibe la solicitud,<br>Entonces se deben devolver las configuraciones actuales del usuario. | EP008  |
-| TS009  | Implementar API de gestión de accesos y seguridad          | Como developer, necesito implementar un sistema de gestión de usuarios y roles a través de APIs RESTful, que permita a los administradores asignar roles y gestionar permisos. Se deben garantizar buenas prácticas de seguridad, como la autenticación JWT.                                        | **Escenario 1: Asignación de roles exitosa**<br>Dado que se envía una solicitud POST con datos de usuario y rol,<br>Cuando se procesa la solicitud,<br>Entonces se debe asignar el rol y devolver un código 200.<br><br>**Escenario 2: Validación de permisos de usuario**<br>Dado que se realiza una solicitud a un recurso protegido,<br>Entonces se debe validar el token JWT y verificar los permisos antes de conceder acceso. | EP009  |
-| TS010  | API para monitoreo de actualizaciones y mantenimiento      | Como developer, debo crear endpoints que permitan a los usuarios recibir notificaciones automáticas sobre mantenimientos programados y actualizaciones del sistema, integrando la API con servicios de notificación en tiempo real.                                                             | **Escenario 1: Notificación de mantenimiento**<br>Dado que se envía una solicitud POST para programar una actualización,<br>Cuando se agenda el mantenimiento,<br>Entonces se debe notificar a los usuarios con un código 200.<br><br>**Escenario 2: Consulta de estado de mantenimiento**<br>Dado que se envía una solicitud GET,<br>Cuando se procesa la solicitud,<br>Entonces se debe devolver el estado actual del sistema y la fecha de mantenimiento.  | EP010  |
+| TS001  | Implementar API REST para generación de reportes personalizables | Como developer, necesito implementar un endpoint RESTful que permita a los usuarios generar reportes personalizados basados en los criterios de fecha, tipo de reporte, y área específica. Este endpoint debe soportar filtros avanzados y responder con la información en formato JSON.       | - **Escenario 1:** Generación de reporte exitoso <br>   **Dado** que se envía una solicitud GET con criterios de filtro válidos, <br>   **Cuando** el backend procesa la solicitud, <br>   **Entonces** se debe devolver el reporte filtrado en formato JSON con un código 200. <br> - **Escenario 2:** Filtro inválido en generación de reporte <br>   **Dado** que se envía una solicitud GET con parámetros incorrectos, <br>   **Entonces** se debe devolver un código 400 con un mensaje de error. | EP07   |
+| TS002 | Implementar endpoint para generación de gráficos en reportes ambientales | Como developer, necesito crear un endpoint que genere gráficos de temperatura y humedad en reportes ambientales, facilitando la visualización de datos históricos. | - Escenario 1: Generación de gráfico exitoso <br> Dado que se envía una solicitud GET para generar un reporte ambiental, <br> Cuando el backend recibe los datos y los procesa, <br> Entonces debe responder con un gráfico de línea en JSON que muestre las tendencias de temperatura y humedad. <br> - Escenario 2: Error en la generación de gráfico <br> Dado que faltan datos para el gráfico, <br> Entonces el backend debe devolver un mensaje de error con código 400. | EP07 |
+| TS003 | Configuración de API para almacenamiento de datos históricos de plagas | Como developer, necesito configurar un endpoint que permita almacenar el historial de detección de plagas, incluyendo fecha, ubicación, tipo de plaga, y medidas correctivas. | - Escenario 1: Registro exitoso de plaga detectada <br> Dado que se detecta una plaga y se envían los datos correspondientes, <br> Cuando se envía una solicitud POST, <br> Entonces el backend debe almacenar un registro detallado y devolver un código 201. <br> - Escenario 2: Consulta de historial de plagas <br> Dado que se envía una solicitud GET para consultar el historial, <br> Entonces el backend debe devolver los registros históricos en JSON con un código 200. | EP07 |
+| TS004 | Endpoint para mostrar beneficios de la plataforma en la landing page | Como developer, necesito crear un endpoint que proporcione los beneficios de la plataforma para mostrarlos en la landing page. | - Escenario 1: Respuesta exitosa con beneficios <br> Dado que el frontend solicita los beneficios, <br> Cuando se envía una solicitud GET, <br> Entonces el backend debe responder con los beneficios en formato JSON y un código 200. <br> - Escenario 2: Beneficios destacados por relevancia <br> Dado que hay múltiples beneficios, <br> Cuando se envía una solicitud GET, <br> Entonces el backend debe ordenar los beneficios más relevantes en la parte superior de la respuesta. | EP07 |
+| TS005 | Implementar API para llamada a la acción en la landing page | Como developer, necesito crear un endpoint que proporcione la información de la llamada a la acción (CTA) en la landing page, invitando al usuario a registrarse o probar la plataforma. | - Escenario 1: Visualización de la CTA exitosa <br> Dado que se solicita la CTA, <br> Cuando se envía una solicitud GET, <br> Entonces el backend responde con los datos de la CTA en JSON y un código 200. <br> - Escenario 2: Cambios en la CTA según interacción <br> Dado que la CTA tiene estados interactivos, <br> Cuando el backend recibe una solicitud de actualización, <br> Entonces debe responder con el estado actualizado en JSON. | EP07 |
+| TS006 | Crear API para menú lateral navegable | Como developer, necesito implementar un endpoint que proporcione las opciones de navegación para un menú lateral dinámico en la aplicación. | - Escenario 1: Visualización exitosa del menú lateral <br> Dado que el usuario solicita el menú lateral, <br> Cuando se envía una solicitud GET, <br> Entonces el backend responde con las opciones de navegación en JSON y un código 200. <br> - Escenario 2: Apertura y cierre del menú lateral <br> Dado que el usuario solicita actualizar el estado del menú, <br> Cuando se envía una solicitud POST, <br> Entonces el backend debe responder confirmando el cambio. | EP07 |
+| TS007 | API para configuración de la cuenta del usuario | Como developer, necesito implementar un endpoint para la configuración de la cuenta del usuario, permitiendo modificar su información. | - Escenario 1: Acceso a configuración de cuenta <br> Dado que el usuario desea modificar su configuración, <br> Cuando envía una solicitud GET, <br> Entonces el backend responde con los datos de configuración actuales en JSON. <br> - Escenario 2: Guardado exitoso de configuración <br> Dado que el usuario envía modificaciones en su configuración, <br> Cuando envía una solicitud PUT, <br> Entonces el backend guarda los cambios y devuelve un mensaje de éxito. | EP07 |
+| TS008 | Crear API para registro de telas en el inventario | Como developer, necesito implementar un endpoint que permita registrar nuevas telas en el inventario. | - Escenario 1: Registro exitoso de tela <br> Dado que el usuario proporciona todos los detalles necesarios, <br> Cuando envía una solicitud POST, <br> Entonces el backend crea un nuevo registro de tela y devuelve un código 201. <br> - Escenario 2: Validación de datos incompletos <br> Dado que el usuario omite detalles importantes, <br> Entonces el backend debe devolver un código de error 400 con un mensaje adecuado. | EP07 |
+| TS009 | API para aplicar filtros de inventario por almacén | Como developer, necesito crear un endpoint que permita aplicar filtros al inventario por almacén específico. | - Escenario 1: Filtros aplicados correctamente <br> Dado que el usuario desea ver el inventario de un almacén específico, <br> Cuando envía una solicitud GET con filtros, <br> Entonces el backend responde con los productos de ese almacén en JSON. <br> - Escenario 2: Sin filtros aplica todo el inventario <br> Dado que el usuario no aplica filtros, <br> Entonces el backend devuelve todo el inventario. | EP07 |
+| TS010 | Endpoint para configurar alertas de temperatura y humedad | Como developer, necesito implementar un servicio que permita configurar alertas de temperatura y humedad. | - Escenario 1: Configuración exitosa de alertas <br> Dado que el usuario establece parámetros válidos, <br> Cuando envía una solicitud POST, <br> Entonces el backend guarda la configuración y devuelve un código 201. <br> - Escenario 2: Validación de parámetros incorrectos <br> Dado que el usuario ingresa parámetros inválidos, <br> Entonces el backend devuelve un mensaje de error 400. | EP07 |
+| TS011 | Implementar API para monitoreo en tiempo real de temperatura y humedad | Como developer, necesito crear un endpoint que permita la visualización en tiempo real de datos de temperatura y humedad para un almacén específico. | - Escenario 1: Monitoreo en tiempo real exitoso <br> Dado que el usuario solicita datos en tiempo real, <br> Cuando envía una solicitud GET, <br> Entonces el backend responde con los datos actualizados. <br> - Escenario 2: Manejo de desconexiones <br> Dado que se pierde la conexión, <br> Entonces el backend envía un mensaje de error y reintenta automáticamente. | EP07 |
+| TS012 | Crear API para registro de almacenes y sensores | Como developer, necesito implementar un endpoint que permita registrar almacenes y sus sensores asociados. | - Escenario 1: Registro exitoso de almacén y sensor <br> Dado que el usuario proporciona todos los datos necesarios, <br> Cuando envía una solicitud POST, <br> Entonces el backend registra el almacén con el sensor y devuelve un código 201. <br> - Escenario 2: Validación de datos incompletos <br> Dado que el usuario omite datos requeridos, <br> Entonces el backend devuelve un código 400 con un mensaje de error. | EP07 |
+| TS013 | Endpoint para visualización de almacenes y sensores | Como developer, necesito crear un endpoint que permita visualizar todos los almacenes y sus sensores registrados. | - Escenario 1: Visualización exitosa de almacenes y sensores <br> Dado que el usuario accede a la sección de almacenes, <br> Cuando envía una solicitud GET, <br> Entonces el backend devuelve la lista en JSON. <br> - Escenario 2: Ordenar almacenes por nombre <br> Dado que el usuario solicita orden alfabético, <br> Entonces el backend devuelve la lista ordenada por nombre. | EP07 |
 
+
+
+# Epic 01: Experiencia en la Landing Page
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US001    | Mostrar beneficios de la plataforma       |
+| US002    | Llamada a la acción (Call to Action)     |
+| US003    | Sección de preguntas frecuentes (FAQ)     |
+| US004    | Acceso rápido desde la landing page       |
+| US005    | Landing Page Responsive                   |
+| US006    | Links de redirección a secciones         |
+| US007    | Conocer a TelaSecure                      |
+| US008    | Link a redes sociales                     |
+
+# Epic 02: Interfaz de Usuario
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US09     | Menú Lateral                             |
+| US10     | Ocultar y Mostrar Menú Lateral           |
+| US11     | Vista en la Barra Superior para Configuración |
+| US12     | Inicio de Sesión Sencillo                |
+| US13     | Creación de Cuentas                      |
+
+# Epic 03: Gestión de Inventario
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US14     | Registro de Telas en el Inventario       |
+| US15     | Registrar Categoría de Tela               |
+| US16     | Filtros para Ver Inventario por Almacén   |
+| US17     | Edición de Telas del Inventario          |
+| US18     | Eliminación de Telas del Inventario      |
+| US19     | Notificación de la Cantidad de Tela      |
+
+# Epic 04: Gestión Ambiental
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US20     | Configuración de Alertas de Temperatura   |
+| US21     | Visualización en Tiempo Real de Temperatura|
+| US22     | Visualización en Tiempo Real de Humedad   |
+| US23     | Configuración de Parámetros de Alerta para Humedad |
+| US24     | Monitoreo de Zonas Específicas           |
+| US25     | Modificación de Temperatura               |
+| US26     | Modificación de Humedad                   |
+
+# Epic 05: Gestión de Almacenes
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US27    |  Registrar un almacén  |
+| US28    |  Quitar un almacén registrado  |
+| US29    |    Registrar un sensor de un almacén   |
+| US30    |  Eliminar la conexión a un sensor de un almacén    |
+| US31    |  Visualizar Almacenes y Sensores  |
+
+# Epic 06: Gestión de reportes
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| US032     | Generación de reportes de estado        |
+| US033     | Monitoreo de zona específicas           |
+| US034     | Seguimiento del historial de movimientos de tela |
+| US035     | Informes periódicos de detección de plagas |
+| US036     | Historial de Detección de Plagas         |
+
+# Epic 07: Desarrollo de las funcionalidades de la aplicación
+
+| Story ID | Título                                   |
+|----------|-------------------------------------------|
+| TS001     | Implementar API REST para generación de reportes personalizables|
+| TS002     | Implementar visualización de datos en gráficos para reportes ambientales|
+| TS003     | Configuración del almacenamiento de datos históricos de plagas   |
+| TS004     | Implementar Sección de Beneficios en la Landing Page|
+| TS005     | Crear Llamada a la Acción en la Landing Page  |
+| TS006     |Implementar Menú Lateral Navegable|
+|TS007|Crear Vista de Configuración en la Barra Superior|
+|TS008|Crear API para Registro de Telas en el Inventario|
+|TS009|Implementar Filtros para Visualización de Inventario por Almacén |
+|TS010|API para Configuración de Alertas de Temperatura y Humedad|
+|TS011|Monitoreo en Tiempo Real de Temperatura y Humedad|
+|TS012|Crear API para Registrar Almacenes y Sensores|
+|TS013|Implementar Visualización de Almacenes y Sensores |
 
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
@@ -836,39 +1017,28 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 <div id='3.4'><h3> 3.4. Product Backlog. </h3></div>
 
+| Prioridad | ID      | Descripción                                                                                                             | Tipo              | Story Points (SP) |
+|-----------|---------|-------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------|
+| 1         | TS001   | Implementar API REST para generar reportes personalizados en formato JSON.                                              | Technical Story   | 3                  |
+| 2         | TS010   | Crear API para configuración de alertas de temperatura y humedad.                                                       | Technical Story   | 4                  |
+| 3         | US001   | Mostrar beneficios de la plataforma en la landing page para facilitar el registro.                                      | User Story        | 3                  |
+| 4         | TS002   | Crear gráficos para reportes ambientales que muestren tendencias de temperatura y humedad.                              | Technical Story   | 4                  |
+| 5         | TS006   | Desarrollar un menú lateral navegable en la aplicación.                                                                 | Technical Story   | 3                  |
+| 6         | US002   | Implementar una llamada a la acción (Call to Action) para registro rápido en la landing page.                           | User Story        | 2                  |
+| 7         | US004   | Habilitar acceso rápido desde la landing page para usuarios recurrentes.                                                | User Story        | 5                  |
+| 8         | US005   | Asegurar que la landing page sea responsive en distintos dispositivos.                                                  | User Story        | 5                  |
+| 9         | TS011   | Visualizar datos de temperatura y humedad en tiempo real en almacenes.                                                  | Technical Story   | 5                  |
+| 10        | US012   | Crear un sistema sencillo de inicio de sesión.                                                                          | User Story        | 3                  |
+| 11        | US013   | Permitir la creación de cuentas múltiples para gestión de perfiles.                                                     | User Story        | 5                  |
+| 12        | US014   | Registrar nuevas telas en el inventario con detalles de tipo, cantidad y ubicación.                                     | User Story        | 3                  |
+| 13        | US020   | Configurar alertas de temperatura en la sección de gestión ambiental.                                                   | User Story        | 3                  |
+| 14        | US021   | Visualizar la temperatura en tiempo real en los almacenes.                                                              | User Story        | 5                  |
+| 15        | US027   | Registrar nuevos almacenes para gestionar sensores y condiciones ambientales.                                           | User Story        | 3                  |
+| 16        | TS004   | Crear una sección en la landing page para mostrar los beneficios de la plataforma.                                      | Technical Story   | 2                  |
+| 17        | TS005   | Implementar una llamada a la acción (CTA) en la landing page.                                                           | Technical Story   | 2                  |
+| 18        | TS012   | Implementar API para registrar almacenes y sus sensores asociados.                                                      | Technical Story   | 3                  |
+| 19        | TS013   | Desarrollar vista para visualizar almacenes y sensores registrados.                                                     | Technical Story   | 3                  |
 
-| Prioridad | User Story ID | Descripción                                                                                                           | Story Points (SP) |
-|-----------|----------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|
-| 1         | **US001**       | Registro de nuevas telas en el inventario con detalles de tipo, cantidad y ubicación.                                  | **3**             |
-| 2         | **US002**       | Actualización de la cantidad de telas en el inventario tras ventas o nuevos lotes.                                     | **2**             |
-| 3         | **US010**       | Gestión de entrada y salida de pedidos de tela del inventario.                                                         | **5**             |
-| 4         | **US003**       | Configuración de alertas de temperatura para recibir notificaciones cuando se excedan los niveles óptimos.             | **3**             |
-| 5         | **US022**       | Notificaciones cuando el nivel de inventario de una tela específica esté bajo.                                         | **3**             |
-| 6         | **US008**       | Registrar el tipo de telas que se manejan en el almacén.                                                              | **2**             |
-| 7         | **US004**       | Visualización en tiempo real de la temperatura y la humedad en el almacén.                                             | **5**             |
-| 8         | **US005**       | Notificación inmediata de presencia de plagas en el almacén.                                                           | **5**             |
-| 9         | **US023**       | Generación de reportes detallados sobre el estado del inventario y las condiciones ambientales.                        | **8**             |
-| 10        | **US024**       | Automatizar tareas recurrentes en la gestión de inventarios y condiciones ambientales.                                 | **8**             |
-| 11        | **US011**       | Notificaciones cuando se superan los umbrales de temperatura o humedad.                                                | **5**             |
-| 12        | **US012**       | Seguimiento del historial de movimientos de cada rollo de tela.                                                       | **4**             |
-| 13        | **US006**       | Acceso al historial de detección de plagas en el almacén.                                                              | **3**             |
-| 14        | **US007**       | Conocer al equipo de TelaSecure desde la landing page.                                                                 | **1**             |
-| 15        | **US015**       | Recibir alertas sobre los mantenimientos programados en el almacén.                                                    | **2**             |
-| 16        | **US009**       | Agregar nuevas áreas del almacén.                                                                                     | **3**             |
-| 17        | **US025**       | Configurar parámetros de alerta para temperatura, humedad y plagas.                                                    | **5**             |
-| 18        | **US013**       | Configuración de parámetros de alerta para temperatura.                                                                | **3**             |
-| 19        | **US014**       | Configuración de parámetros de alerta para humedad.                                                                    | **3**             |
-| 20        | **US030**       | Recibir informes periódicos sobre la actividad de detección de plagas.                                                 | **4**             |
-| 21        | **US021**       | Recibir notificaciones tanto en correo como en celular vinculado.                                                      | **3**             |
-| 22        | **US016**       | Tener acceso rápido a las redes sociales del proyecto desde la landing page.                                            | **1**             |
-| 23        | **US017**       | Navegar entre secciones de la landing page a través de la barra de navegación.                                          | **2**             |
-| 24        | **US018**       | Acceder a la landing page desde cualquier dispositivo (responsiva).                                                    | **3**             |
-| 25        | **US019**       | Registro de datos en la landing page.                                                                                  | **2**             |
-| 26        | **US020**       | Cambiar entre varias cuentas de usuario en la plataforma.                                                             | **5**             |
-| 27        | **US026**       | Gestión de accesos y permisos de usuarios en la plataforma.                                                            | **8**             |
-| 28        | **US027**       | Recibir notificaciones y actualizaciones sobre el mantenimiento de la plataforma.                                      | **3**             |
-| 29        | **US028**       | Monitoreo de temperatura y humedad en zonas específicas del almacén.                                                   | **4**             |
-| 30        | **US029**       | Configurar diferentes parámetros de monitoreo para distintos tipos de telas.                                           | **5**             |
 
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
@@ -1635,7 +1805,6 @@ Monitoreo: Usamos herramientas de monitoreo para rastrear cambios y recibir aler
 
 En nuestro primer sprint backlog, nuestro objetivo fue completar las user stories de la EP012, experiencia en la landing page. La herramienta que utilizamos para monitorear y dividir las tareas pendientes fue Trello. Al crear un tablero del cual cada miembro del equipo tiene acceso, se facilitó la gestión de las tareas para cada miembro. Completamos las que consideramos las user stories con más valor en una landing page, pues nuestra intención era crearlo lo más completo posible enfocándonos en diseñarlo para que sea intuitivo, libre de elementos innecesarios y consistente para el usuario. Esperamos completar todos los user stories en su totalidad en el próximo sprint.
 
-<img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282018244684677280/image.png?ex=66ddd408&is=66dc8288&hm=200459fe598e1f746fe86e8fd8ba29686e39d7f782c10240e3ba723413c0dbe6&">
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -1824,15 +1993,7 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 
 <img src="https://cdn.discordapp.com/attachments/1275939655635959848/1282073605462691941/image.png?ex=66de0797&is=66dcb617&hm=1ec76bf59132179028ca31318be012b7aecee695e45d325f3a6b626bb0768e78&">
 
-5.2.2. Sprint 2
-5.2.2.1. Sprint Planning 2.
-5.2.2.2. Sprint Backlog 2.
-5.2.2.3. Development Evidence for Sprint Review.
-5.2.2.4. Testing Suite Evidence for Sprint Review.
-5.2.2.5. Execution Evidence for Sprint Review.
-5.2.2.6. Services Documentation Evidence for Sprint Review.
-5.2.2.7. Software Deployment Evidence for Sprint Review.
-5.2.2.8. Team Collaboration Insights during Sprint
+
 
 <div id='5.2.2.'><h3> 5.2.2. Sprint 2</h3></div>
 <div id='5.2.2.1.'><h4> 5.2.2.1. Sprint Planning 2</h4></div>
@@ -1866,8 +2027,31 @@ Una tabla con nuestros usernames para asegurar la visibilidad el progreso de cad
 | US30 | Informes periódicos de detección de plagas | TA008 |Generar reportes detallados sobre el estado del inventario y las condiciones ambientales |Generación de reporte de inventario y generación de reporte de condiciones ambientales| 4 horas | Diego Cabrera| InProcess |
 
 
-<div id='5.2.2.3.'><h4> 5.2.2.3. Development Evidence for Sprint Review</h4></div>
+<div id='5.2.2.3.'><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
+
+### Tabla de commits del frontend
+
+| Repository                                                                                     | Branch      | CommitId                             | Commit message                                         | Commit message body                                         | Committed on |
+|------------------------------------------------------------------------------------------------|-------------|--------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|--------------|
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics.                                  | feat: update fabrics.                                       | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: v-if on enviroDevices and climateSensors          | fix: v-if on enviroDevices and climateSensors               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: fixed dbjson and temperature component            | fix: fixed dbjson and temperature component                | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(temperature): fixed the temperature component.    | feat(temperature): fixed the temperature component.        | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 92179279efbf603a066004b84962be4df3b19ba7 | fix: facilities connection                             | fix: facilities connection                                 | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: fixed routes                                      | fix: fixed routes                                          | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fixed the graphic                       | feat(reports): fixed the graphic                           | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | 24/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics                                     | feat: add fabrics                                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e323578c35e488aa061173f8e1435d07980be68c | feat: add tables in db.json                            | feat: add tables in db.json                               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: add Storeroom entity, service and change         | feat: add Storeroom entity, service and change             | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: added the report section                         | feat: added the report section                             | 24/10/2024   |
+
+
 <div id='5.2.2.4.'><h4> 5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+Considerando el alcance que tiene este sprint, no se realizaron las pruebas mencionadas.
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
@@ -1907,20 +2091,585 @@ Link: https://si730-2402-ws53-webapplications.github.io/weaveguard-frontend/
 
 <div id='5.2.2.8.'><h4> 5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
 
+<div id='5.2.3.'><h3> 5.2.3. Sprint 3</h3></div>
+
+Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de Waveguard, además de mejorar el FrontEnd. Este sprint fue fundamental para implementar las primeras funcionalidades del BackEnd.
+
+<div id='5.2.3.1.'><h4> 5.2.3.1. Sprint Planning 3</h4></div>
+
+En este Sprint 3, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+| Sprint #                        | Sprint 3                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 3                                                                                                                                       |
+| Date                            | 25/10/2024                                                                                                                                    |
+| Time                             | 12:00 AM                                                                                                                                       |
+| Location                            | Discord (Reunión virtual)                                                                                                                      |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
+| Attendees (to planning meeting) | Diego Rolin Acuña Tomas, Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva           |
+| Sprint n – 3 Review Summary                    | Logramos completar el primer despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo  la visualización de datos y la funcionalidad principal de gestión de inventarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas.|
+| Sprint n – 2 Retrospective Summary                   | Se notó una mejora en la comunicación y colaboración entre los miembros, lo cual facilitó el avance en las tareas críticas. Sin embargo, se identificaron oportunidades de optimización en algunos flujos de trabajo para reducir tiempos y mejorar la organización en el manejo de tareas.  |
+| Sprint Goal & User Stories       |
+ Sprint 3 Goal                    | Nuestro enfoque es que los usuarios al visitar la nueva versión de la landing page, obtengan información clara y precisa sobre el producto o servicio, comprendan sus beneficios y características, y se sientan motivados a realizar una acción específica, como registrarse, comprar, descargar un recurso o ponerse en contacto con el equipo de ventas. Además, se desarrollará una nueva versión del frontend de la aplicación web y se entregará la primera versión del backend, asegurando una experiencia de usuario fluida y un soporte adecuado para las funcionalidades implementadas. |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 3 es de 23 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US002 (4 puntos), <br>-US011 (5 puntos), <br>-US013 (5 puntos), <br>-US015 (3 puntos), <br>-US016 (3 puntos), <br>-US019 (3 puntos) |
+| Sum of story points             | 23 |
+
+
+
+<div id='5.2.3.2.'><h4> 5.2.3.2. Sprint Backlog 3.</h4></div>
+
+El objetivo principal de este Sprint es mejorar la experiencia del usuario en la plataforma, implementando y optimizando funcionalidades clave como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. Además, se busca asegurar que los usuarios reciban alertas y notificaciones oportunas para mantener el control del inventario y mejorar la usabilidad de la interfaz de la aplicación.
+
+![Ejemplo de Imagen](resources/TB3/trello.jpeg)
+
+
+**LINK DE TRELLO**
+ https://trello.com/invite/b/6711da4a3be5a9e0a087dcb2/ATTIfa46c9cd21d7ee35af8d9786c7e68db0952A556A/sprint-backlog-3
+
+
+
+
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | |
+| US02     | Llamada a la acción (Call to Action) | T01 | Diseñar la interfaz de la landing page | Crear una interfaz atractiva que incluya un botón de llamada a la acción visible y accesible en la landing page | 3 horas | John Arevalo | Done |
+|          |          | T02 | Configurar la funcionalidad de redirección | Implementar la funcionalidad para que el botón de llamada a la acción redirija a la página de registro | 2 horas | John Arevalo | Done |
+|          |          | T03 | Definir contenido de la llamada a la acción | Definir el texto y estilo que invite a los usuarios a registrarse o probar la plataforma | 1 hora | John Arevalo | Done |
+| US11     | Vista en la Barra Superior para Configuración | T01 | Definir elementos de la barra superior | Especificar los elementos de configuración que estarán en la barra superior para acceso rápido | 2 horas | Valentino Sandoval | Done |
+|          |          | T02 | Implementar navegación a la vista de configuración | Añadir la navegación desde la barra superior a la sección de configuración de cuenta | 3 horas | Valentino Sandoval | Done |
+|          |          | T03 | Diseñar la interfaz de la barra superior | Diseñar y estilizar la barra superior para alinearse con el diseño general de la aplicación | 2 horas | Valentino Sandoval | Done |
+| US13     | Creación de Cuentas | T01 | Implementar la lógica de creación de cuenta | Desarrollar la lógica para permitir a los usuarios crear cuentas en la aplicación | 4 horas | Diego Cabrera | Done |
+|          |          | T02 | Definir campos necesarios para la creación de cuenta | Especificar los campos requeridos para el proceso de creación de cuentas, como nombre, email y contraseña | 2 horas | Diego Cabrera | Done |
+|          |          | T03 | Diseñar la interfaz de creación de cuenta | Crear una interfaz amigable que permita al usuario introducir sus datos de registro de manera clara | 3 horas | Diego Cabrera | Done |
+|          |          | T04 | Configurar confirmación de creación | Implementar una confirmación visual y/o mensaje de éxito después de que se complete la creación de cuenta | 2 horas | Diego Cabrera | Done |
+| US16     | Filtros para Ver Inventario por Almacén | T01 | Definir criterios de filtrado | Establecer los criterios de filtrado que los usuarios podrán aplicar, como tipo de tela, ubicación o categoría | 2 horas | Valentino Sandoval | Done |
+|          |          | T02 | Implementar lógica de filtrado | Desarrollar la funcionalidad para aplicar los filtros en la visualización del inventario | 4 horas | Valentino Sandoval | Done |
+|          |          | T03 | Diseñar la interfaz de usuario para filtros | Crear una interfaz para que los usuarios seleccionen los filtros de manera intuitiva | 3 horas | Valentino Sandoval | Done |
+|          |          | T04 | Actualizar la vista del inventario | Adaptar la vista del inventario para reflejar los resultados después de aplicar los filtros | 2 horas | Valentino Sandoval | Done |
+| US15     | Registrar Categoría de Tela | T01 | Implementar la lógica de registro de categoría | Desarrollar la funcionalidad para que los usuarios puedan registrar una nueva categoría de tela en el sistema | 3 horas | John Arevalo | Done |
+|          |          | T02 | Definir campos necesarios para el registro de categoría | Especificar los campos necesarios como nombre de la categoría y descripción | 1 hora | John Arevalo | Done |
+|          |          | T03 | Configurar confirmación de registro | Implementar una confirmación visual que informe al usuario del registro exitoso de la categoría | 1 hora | John Arevalo | Done |
+|          |          | T04 | Diseñar la interfaz de registro de categoría | Crear una interfaz donde el usuario pueda registrar categorías de tela de manera clara y ordenada | 3 horas | John Arevalo | Done |
+| US19     | Notificación de la Cantidad de Tela en el Inventario | T01 | Diseñar alerta de error | Crear una alerta visual para informar al usuario en caso de error o bajo stock | 2 horas | Diego Cabrera | Done |
+|          |          | T02 | Implementar lógica de detección de bajo stock | Desarrollar la funcionalidad para detectar automáticamente cuando la cantidad de tela cae por debajo del umbral establecido | 3 horas | Diego Cabrera | Done |
+|          |          | T03 | Diseñar alerta automática | Configurar una notificación visual o alerta automática en caso de bajo stock | 2 horas | Diego Cabrera | Done |
+|          |          | T04 | Definir umbral de bajo stock | Establecer el valor mínimo de cantidad de tela que activará la alerta de bajo stock | 1 hora | Diego Cabrera | Done |
+|          |          | T05 | Realizar pruebas de manejo de errores | Llevar a cabo pruebas para garantizar que el sistema maneja adecuadamente los casos de bajo stock | 3 horas | Diego Cabrera | Done | 
+| TS001    | Implementar API REST para generación de reportes personalizables | T01 | Implementar endpoint GET para generación de reportes | Desarrollar el endpoint que permite a los usuarios solicitar reportes personalizados. | 4 horas | Jhon Arevalo | Done |
+|          |          | T02 | Crear pruebas unitarias para el endpoint | Escribir pruebas unitarias que verifiquen la funcionalidad del endpoint de reportes. | 2 horas | Valentino Sandoval | Done |
+| TS008    | Crear API para registro de telas en el inventario | T01 | Implementar endpoint POST para registrar telas | Desarrollar el endpoint que permite registrar nuevas telas en el sistema. | 3 horas | Diego Cabrera | In Process |
+|          |          | T02 | Validar datos de entrada para el registro | Implementar validaciones para asegurar que todos los campos necesarios sean proporcionados. | 1 hora | Jhon Arevalo | Done |
+| TS012    | Crear API para registro de almacenes y sensores | T01 | Implementar endpoint POST para registrar almacenes | Desarrollar el endpoint que permite registrar almacenes en el sistema. | 3 horas | Jhon Arevalo | Done |
+|          |          | T02 | Configurar validaciones para sensores asociados | Implementar validaciones para asegurar que los sensores estén correctamente vinculados a los almacenes. | 2 horas | Valentino Sandoval | Done |
+| TS013    | Endpoint para visualización de almacenes y sensores | T01 | Implementar endpoint GET para visualizar almacenes | Desarrollar el endpoint que permite recuperar la lista de almacenes registrados. | 2 horas | Diego Cabrera | Done |
+|          |          | T02 | Agregar opción de ordenamiento en la respuesta | Implementar la lógica que permite ordenar los almacenes por nombre en la respuesta del endpoint. | 2 hora | Diego Cabrera | Done |
+
+<div id='5.2.3.3.'><h4> 5.2.3.3. Development Evidence for Sprint Review</h4></div>
+
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
+
+### Tabla de commits del frontend
+
+| Repository                                                                                     | Branch      | CommitId                             | Commit message                                         | Commit message body                                         | Committed on |
+|------------------------------------------------------------------------------------------------|-------------|--------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|--------------|
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics.                                  | feat: update fabrics.                                       | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: v-if on enviroDevices and climateSensors          | fix: v-if on enviroDevices and climateSensors               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | master      | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: fixed dbjson and temperature component            | fix: fixed dbjson and temperature component                | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(temperature): fixed the temperature component.    | feat(temperature): fixed the temperature component.        | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 92179279efbf603a066004b84962be4df3b19ba7 | fix: facilities connection                             | fix: facilities connection                                 | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: fixed routes                                      | fix: fixed routes                                          | 31/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                     | fix: services and entities deleted                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fixed the graphic                       | feat(reports): fixed the graphic                           | 02/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | 24/10/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics                                     | feat: add fabrics                                         | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e323578c35e488aa061173f8e1435d07980be68c | feat: add tables in db.json                            | feat: add tables in db.json                               | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: add Storeroom entity, service and change         | feat: add Storeroom entity, service and change             | 01/11/2024   |
+| [weaveguard-frontend](https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend)  | develop     | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: added the report section                         | feat: added the report section                             | 24/10/2024   |
+
+**Commits realizados en el repositorio de la Landing Page durante el sprint 3:**
+
+| Repository                                                                                     | Branch      | CommitId                             | Commit message                                         | Commit message body                                         | Committed on |
+|------------------------------------------------------------------------------------------------|-------------|--------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|--------------|
+| [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page) | develop     | db4c0a6a7d7e6a56d33fae99ea1fcaf08bdbdca9 | fix: fixed hero image url                              | fix: fixed hero image urlfabrics.                                       | 02/11/2024   |
+| [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page) | develop     | 828e67c076ac7cdc299177fbd1502120a98a7ba5 | feat: added faq section          | feat: added faq section               | 01/11/2024   |
+| [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page) | develop     | e842abd5cad34c22f2ec1643322efbd1517466f9 | fix: paths                    | fix: paths                        | 01/11/2024   |
+| [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page) | develop     | 8daeacde7ebc7af4e09f1042ceb7f56cb8848ca8 | fix: signup paths           | fix: signup paths                | 02/11/2024   |
+| [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page) | develop     | fd87e22361cf55782fd045f97c04a93e43ab11f1 | fix: login paths    | fix: login paths        | 31/10/2024   |
+
+
+
+<div id='5.2.3.4.'><h4> 5.2.3.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+| Repository                                 | Branch     | Commit Id | Commit Message                | Commit Message Body         | Committed on (Date) |
+|--------------------------------------------|------------|-----------|--------------------------------|-----------------------------|----------------------|
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 75c0c75   | Initial commit                 | Initial commit              | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 6548432   | feature: added US02 gherkin    | feature: added US02 gherkin | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | a19b6ac   | feature: added US11 gherkin    | feature: added US11 gherkin | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 29ca9f3   | feature: added US13 gherkin    | feature: added US13 gherkin | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 7fe8f1f   | feature: added US15 gherkin    | feature: added US15 gherkin | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 6e41532   | feature: added US16 gherkin    | feature: added US16 gherkin | 01/11/2024           |
+| si730-2402-ws53-WebApplications/Testing    | feature/tb2 | 6e41532   | feature: added US19 gherkin    | feature: added US19 gherkin | 01/11/2024           |
+
+Link del repositorio del testing: https://github.com/si730-2402-ws53-WebApplications/Testing/tree/feat/tb2
+
+<div id='5.2.3.5.'><h4> 5.2.3.5. Execution Evidence for Sprint Review</h4></div>
+
+Acontinuación se entrega el enlace a la landing page actualizada: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+![Ejemplo de Imagen](resources/TB3/landing2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landin2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing3.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing4.jpeg)
+
+* INICIO DE SESIÓN 
+
+![Ejemplo de Imagen](resources/TB2/lpIni.png)
+
+* REGISTRO DE USUARIO
+
+![Ejemplo de Imagen](resources/TB3/landing5.jpeg)
+
+* Video About-the-Product:  VIDEO ----------------------
+
+
+## FRONTEND
+En este apartado mostraremos el despliegue de la ultima version web application de TelaSecure
+Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
+
+* SIDEBAR
+
+![Ejemplo de Imagen](resources/TB3/front1.jpeg)
+
+* INVENTORY - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/inventory.png)
+
+![Ejemplo de Imagen](resources/TB2/inventory2.png)
+
+* ENVIRONMENT - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/ENVI1.png)
+
+* MAINTENANCE - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB3/front4.jpeg)
+
+Video About-the-Product: 
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM
+
+
+<div id='5.2.3.6.'><h4> 5.2.3.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fabric Controller, Storeroom Controller, EnviroDevice Controller, ClimateSensor Controller). Cada controller tiene 3 endpoints (GetAll, GetById, Create). Además se empleó swagger para hacer las pruebas a los endpoints.
+
+Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
+
+### FabricController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+|Fabrics | POST| /api/v1/fabrics | Create a new fabric| Create a new fabric|CreateFabric |
+|Fabrics | GET| /api/v1/fabrics{fabricId}| Get fabric by id| Get fabric by id|GetFabricById |
+|Fabrics | GET| /api/v1/fabrics| Get all fabrics|Get all fabrics|GetAllFabrics |
+
+### StoreroomController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| Storerooms |POST | /api/v1/storerooms | Create Storeroom| Create a new storeroom.| CreateStoreroom |
+| Storerooms |GET | /api/v1/storerooms | Get All Storerooms| Get all storerooms | GetAllStorerooms |
+| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.| GetStoreroomById |
+
+### ClimateSensorController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| ClimateSensors | POST| /api/v1/climate-sensors|Create climate sensor |Create a new climate sensor |CreateClimateSensor |
+| ClimateSensors | GET| /api/v1/climate-sensors{climateSensorId}|Get climate sensor by id |Get a climate sensor by its unique identifier |GetClimateSensorById |
+| ClimateSensors | GET| /api/v1/climate-sensors|Get all climate sensors |Get all climate sensors |GetAllClimateSensors |
+
+### EnviroDeviceController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| EnviroDevices | POST | /api/v1/enviro-devices| Create enviro device| Create a new enviro device|CreateEnviroDevice |
+| EnviroDevices | GET | /api/v1/enviro-devices| Get all enviro devices| Get all enviro devices |GetAllEnviroDevices |
+| EnviroDevices | GET | /api/v1/enviro-devices{enviroDeviceId}| Get enviro device by id| Get enviro device by its unique id |GetEnviroDeviceById |
+
+
+![Ejemplo de Imagen](resources/TB3/back.jpeg)
+
+![swagger](resources/TB3/swagger1.png)
+
+![swagger](resources/TB3/swagger2.png)
+
+![swagger](resources/TB3/swagger3.png)
+
+![swagger](resources/TB3/swagger4.png)
+
+![swagger](resources/TB3/swagger5.png)
+
+![swagger](resources/TB3/swagger6.png)
+
+![swagger](resources/TB3/swagger7.png)
+
+![swagger](resources/TB3/swagger8.png)
+
+![swagger](resources/TB3/swagger9.png)
+
+![swagger](resources/TB3/swagger10.png)
+
+![swagger](resources/TB3/swagger11.png)
+
+![swagger](resources/TB3/swagger12.png)
+
+
+<div id='5.2.3.7.'><h4> 5.2.3.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
+
+Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+
+<img src="resources/figmaIngreso1.png">
+
+<img src="resources/figmaIngreso2.png">
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Ejemplo de Imagen](resources/TB3/page1.jpeg)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](resources/TB3/page2.jpeg)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](resources/TB3/page3.jpeg)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+**Frontend**
+
+![Ejemplo de Imagen](resources/deployFrontend.png)
+
+![Ejemplo de Imagen](resources/deployFrontend1.png)
+
+LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
+
+
+<div id='5.2.3.8.'><h4> 5.2.3.8. Team Collaboration Insights during Sprint</h4></div>
+
+
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo
+Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+**Landing Page**: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun gran cambio significativo en las ultimas semanas.
+
+
+![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 2
+    * John Arevalo Meza: 6
+    * Diego Cabrera: 2
+
+
+**Aplicaciones Web**: Se trabajó en las mejoras del frontend, optimizando la experiencia del usuario y garantizando una navegación fluida.
+
+![Ejemplo de Imagen](resources/TB3/frontcommit1.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/frontcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 5
+    * John Arevalo Meza: 11
+    * Diego Cabrera: 4
+
+
+
+**Servicios Web**: Se implementaron los servicios backend necesarios, con un enfoque en la creación de endpoints RESTful que faciliten la gestión de datos.
+
+
+![Ejemplo de Imagen](resources/backendSprintCommits1.png)
+
+![Ejemplo de Imagen](resources/backendSprintCommits.png)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 2
+    * John Arevalo Meza: 9
+    * Diego Cabrera: 4
+
+
+<div id='5.2.4.'><h3> 5.2.4. Sprint 4</h3></div>
+<div id='5.2.4.1.'><h4>5.2.4.1. Sprint Planning 4</h4></div>
+<div id='5.2.4.2.'><h4>5.2.4.2. Sprint Backlog 4</h4></div>
+<div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
+<div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
+<div id='5.2.4.5.'><h4>5.2.4.5. Execution Evidence for Sprint Review</h4></div>
+<div id='5.2.4.6.'><h4>5.2.4.6. Services Documentation Evidence for Sprint Review</h4></div>
+<div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
+<div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint</h4></div>
+
+
+<div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+Preguntas principales: ¿Se te hace facil encontrar lo que buscas? ¿Siente que es facil de usar? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+<div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
+
+
+Objetivo de la Entrevista:
+
+El propósito de la entrevista es validar la usabilidad y efectividad de la landing page y la aplicación para los grupos de usuarios (distribuidores de tela y empresas de confección textil), garantizando que los flujos de usuario sean intuitivos y satisfactorios.
+
+## Elementos de Validación
+
+**Landing Page:** Analizar la claridad del mensaje, la efectividad de las llamadas a la acción (CTA), la navegación y el diseño general.
+
+**Aplicación:** Guiar a los usuarios a través de los flujos principales, incluyendo la gestión de inventario, la gestión ambiental y la administración de almacenes.
+
+### Para el Segmento de Distribuidores de Tela:
+
+**Navegación en la Landing Page:** Evaluar la experiencia al buscar beneficios, preguntas frecuentes y acceso a la aplicación.
+
+**Proceso de Registro:** Analizar la facilidad con la que los usuarios pueden registrarse y acceder a la aplicación.
+
+**Gestión de Inventario:** Observar cómo los distribuidores registran, editan y eliminan telas del inventario.
+
+### Para el Segmento de Empresas de Confección Textil
+
+**Gestión de Cuentas:** Investigar cómo las empresas editan su perfil y servicios.
+
+**Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios relacionados con la confección.
+
+**Recepción de Feedback:** Examinar cómo manejan las reseñas y comentarios de sus clientes
+
+
+
+**PREGUNTAS**
+
+## Preguntas para el Segmento Distribuidor de Tela
+Gestión de Inventario de Telas
+
+1. ¿Fue fácil para ti registrar nuevas telas en el sistema? ¿Por qué?
+
+2. Describe tu experiencia al buscar telas en el inventario. ¿Fue intuitivo?
+
+3. ¿Tuviste dificultades al editar o eliminar telas ya registradas? ¿Cómo mejorarías este proceso?
+4. ¿Te resultó útil recibir notificaciones sobre el nivel de stock de tus telas? ¿Por qué?
+
+**Visualización de Servicios**
+
+1. ¿Cómo describirías la claridad de la visualización de tus servicios en la plataforma?
+
+2. ¿Cómo fue el proceso de actualización de la información de tus telas? ¿Sencillo o complicado?
+
+3. ¿Qué funcionalidades valoras más al gestionar tus servicios en comparación con otras plataformas que utilizas?
+
+
+
+## Preguntas para el Segmento Empresas de Confección Textil
+
+**Acceso a Materiales**
+
+1. ¿Cómo calificarías la facilidad para encontrar y comparar diferentes tipos de telas en la plataforma?
+
+2. ¿Hubo algún momento en que te sentiste perdido al navegar por el catálogo de telas? ¿Qué podrías sugerir para mejorar la navegación?
+
+3. ¿Qué aspectos de la plataforma te ayudaron a asegurarte de que los materiales seleccionados cumplieran con tus estándares de calidad?
+
+4. Al visualizar la lista de almacenes y sus sensores, ¿fue fácil obtener una visión general de tu infraestructura de inventario? ¿Qué información adicional te gustaría ver?
+
+
+<div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+
+**Segmento 1:** Encargados del inventario de empresas de confección.
+
+  
+| | | 
+|---|---|
+| **Nombre entrevistado** | **Juan Garces** |
+| Edad | 23 años |
+| Profesión | Reservado |
+| Departamento | San Martin de Porres, Perú |
+| Inicio del video | 00:00 |
+| Fin del video | 07:28 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
+|  | Como primer entrevistado, tenemos al Juan Garces, quien mencionó que encontrar y comparar diferentes tipos de telas en la plataforma le resultó algo complicado al principio, ya que había muchas opciones y no tenía claro cómo filtrar las telas específicas. Sugiere que contar con guías o un asistente de búsqueda le habría facilitado la navegación. En cuanto a la calidad, las descripciones y fotos le fueron útiles, pero le gustaría ver un sistema de clasificación. Respecto a la infraestructura de inventario, considera que un mapa interactivo y alertas de cambios ambientales mejorarían la claridad de la información. |
+| **Nombre entrevistado** | **Victor Hernandez** |
+| Edad | 23 años |
+| Profesión | Administración y Marketing |
+| Departamento | Los Olivos, Perú |
+| Inicio del video | 07:47 |
+| Fin del video | 16:34 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
+|  | El segundo entrevistado, Victor Hernandez, evaluó la facilidad de comparación de telas como "bastante fácil" gracias a su experiencia con los filtros, aunque desearía un comparador que presente las diferencias clave en una sola pantalla. En la navegación, no se sintió perdido, pero cree que un sistema de etiquetas personalizables sería beneficioso. Para garantizar la calidad, las especificaciones y etiquetas le resultaron útiles, aunque también sugiere añadir reseñas de usuarios y clasificaciones de resistencia. En la gestión de inventario, encuentra la vista clara, pero añadir gráficos históricos le ayudaría a prever escasez. |
+| **Nombre entrevistado** | **Matías Munives Santamaria** |
+| Edad | 23 años |
+| Profesión | Ingeniero de Sistemas |
+| Departamento | Lima, Perú |
+| Inicio del video | 16:40 |
+| Fin del video | 19:51 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
+|  | Finalmente, Matías Munives calificó la búsqueda y comparación de telas como muy fácil, especialmente con los filtros avanzados. No se sintió perdido en el catálogo, pero piensa que una búsqueda que sugiera combinaciones de productos podría optimizar la experiencia. Considera que las especificaciones detalladas son útiles, aunque incluir certificaciones de calidad sería un buen complemento. Respecto a la infraestructura, encuentra los gráficos y alertas muy útiles, y propone agregar pronósticos de consumo y estadísticas de rendimiento por almacén para una gestión más eficiente. |
+| Duración de todas las entrevistas: 19:51 | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
+
+**Segmento 2:** Distribuidores de telas
+  
+| | | 
+|---|---|
+| **Nombre entrevistado** | **Jorge Mendieta** |
+| Edad | 23 años |
+| Profesión | Reservado |
+| Departamento | Lima, Perú |
+| Inicio del video | 00:00 |
+| Fin del video | 10:13 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
+|  | Como primer entrevistado tenemos al Jorge Mendieta, quien nos comenta que registrar nuevas telas en el sistema le resultó complicado debido a la cantidad de campos y la falta de claridad sobre qué información debía incluir. Al buscar telas en el inventario, se sintió confundido con los filtros y comenta que, aunque un tutorial le fue útil, la navegación no le pareció del todo intuitiva. Además, menciona que tuvo dificultades para editar o eliminar registros, por lo que sugiere mejorar el proceso con botones más claros o un asistente. Respecto a las notificaciones de stock, las considera útiles para reabastecer, dado que no siempre está al tanto del inventario. También opina que la visualización de servicios en la plataforma podría ser más clara y que el proceso de actualización de la información de las telas le resultó complicado, proponiendo una ayuda paso a paso. Finalmente, valora las notificaciones de stock y la accesibilidad al inventario, aunque desearía que fuera tan intuitivo como otras plataformas que requieren menos pasos. |
+| **Nombre entrevistado** | **Manuel Quispe** |
+| Edad | 23 años |
+| Profesión | Reservado |
+| Departamento | Los Olivos, Perú |
+| Inicio del video | 10:20 |
+| Fin del video | 16:30 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
+|  | Nuestro segundo entrevistado Manuel Quispe nos comenta que registrar nuevas telas es "más o menos fácil" para él, aunque algunos detalles, como etiquetas específicas, a veces se le escapan, por lo que un proceso automatizado sería beneficioso. Al buscar telas, le resulta intuitivo, pero sugiere que la búsqueda autocompletaría los nombres o colores para facilitar el proceso. Aunque no tuvo grandes dificultades para editar o eliminar telas, cree que una opción de edición en masa sería conveniente para ahorrar tiempo. Las notificaciones de stock le resultan útiles para planificar compras y ofrecer alternativas cuando un producto se agota. En cuanto a la visualización de servicios, la considera clara, pero sugiere mejorar algunos íconos y etiquetas. El proceso de actualización de la información le parece sencillo en general, aunque cuando tiene muchos cambios, se vuelve tedioso, por lo que una opción de actualización múltiple sería útil. Destaca como funcionalidades valiosas las notificaciones automáticas de stock y los reportes de ventas. |
+| **Nombre entrevistado** | **Erick Cerna** |
+| Edad | 23 años |
+| Profesión | Ingeniero de Sistemas |
+| Departamento | Lima, Perú |
+| Inicio del video | 16:40 |
+| Fin del video | 19:58 |
+|Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
+|  | Finalmente Erick Cerna nos comenta que el registro de telas le resulta fácil y eficiente, aunque le gustaría contar con opciones avanzadas para clasificar o duplicar registros. La búsqueda en el inventario le parece intuitiva, pero sugiere integrar filtros dinámicos basados en la demanda. No tiene problemas al editar o eliminar telas, aunque opina que una función de edición masiva o plantillas específicas optimizarían el proceso. Las notificaciones de stock le permiten anticiparse a pedidos y gestionar su inventario, y considera que tener notificaciones personalizables sería ideal. La visualización de sus servicios le resulta clara y le permite gestionar eficientemente, aunque le gustaría contar con gráficas de tendencias para ajustar sus compras y ventas. Describe el proceso de actualización de información como muy sencillo, especialmente desde la app móvil, y propone una opción para preconfigurar actualizaciones por categoría. Valora los reportes de ventas, las notificaciones de stock en tiempo real y la integración con otros sistemas de gestión como ventajas destacadas frente a otras plataformas que utiliza. |
+| Duración de todas las entrevistas: 19:58 | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
 
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
-<div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
-<div id='5.3.1.'><h4> 5.3.1.Diseño de Entrevistas</h4></div>
-<div id='5.3.2.'><h4> 5.3.2.Registro de Entrevistas</h4></div>
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA : Ingeniería de Software
+
+CURSO : Aplicaciones Web
+
+SECCIÓN : WS53
+
+PROFESORES : Todos
+
+AUDITOR : WeaveGuard
+
+CLIENTE(S) : WeaveGuard
+
+SITE o APP a evaluar : TelaSecure
+
+---
+TAREAS A EVALUAR: Para el alcance de esta entrega, se realizó la revisión de las siguientes tareas:
+
+**Para el segmento Encargados**
+
+1. Navegación entre las funcionalidades de la aplicación: Evaluar la funcionalidad de navegar entre los servicios que ofrece nuestra aplicación, ya sea registrar telas como cambiar la temperatura.
+2. Actualización de la temperatura: Evaluar la funcionalidad y la facilidad de cambiar las temperaturas y la humedad de los sensores.
+3. Registro de almacenes: Evaluar la funcionalidad y la facilidad de registrar almacenes y sensores.
+
+**Para el segmento Distribuidores**
+
+1. Actualización de los inventarios: Evaluar la funcionalidad y la facilidad de actualizar y registrar las telas.
+2. Registro de las temperaturas: Evaluar la funcionalidad y la facilidad de visualizar el registro de temperaturas.
+
+ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                        |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente lanzamiento. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.          |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.      |
+
+TABLA DE RESUMEN: 
+
+| # | Problema                                                              | Escala de severidad | Heurística/Principio violado(a)                    |
+|---|-----------------------------------------------------------------------|---------------------|---------------------------------------------------|
+| 1 | No se actualiza las temperaturas de los almacenes | 3                   | Usability: Libertad y control del usuario          |
+| 2 | Se duplican las telas de los inventarios      | 1                   | Usability: Libertad y control del usuario            |
+| 3 | No se visualiza el historial de las temperaturas      | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 4 | No se visualiza los almacenes con sus sensores indicados  | 3                   | Inclusive Design: Proporciona experiencias comparables |
+| 5 | No se guarda correctamente las ID de los almacenes | 2                   | Usability: Libertad y control del usuario   |
+
+Descripción de Problemas
+
+Problema #1: 
+
+- Tarea Evaluada: Actualización de la temperatura.
+- Recomendación: Implementar una actualización automática o un botón de "Actualizar" visible para que el usuario pueda refrescar las temperaturas cuando lo necesite.
+
+Problema #2:
+
+- Tarea Evaluada: Duplicación de telas
+- Recomendación: Agregar una validación en el sistema para evitar duplicados al añadir telas y establece una notificación cuando una tela ya existe en el inventario.
+
+Problema #3:
+
+- Tarea Evaluada: Registro de las temperaturas
+- Recomendación: Añadir una sección de historial que muestre los cambios en la temperatura, con fechas y valores anteriores, para que el usuario pueda monitorear las variaciones.
+
+Problema #4:
+
+- Tarea Evaluada: Registro de almacenes 
+- Recomendación: Validar que cada almacén muestre claramente los sensores conectados y su estado. Considerar una representación visual o íconos para cada tipo de sensor.
+
+Problema #5: 
+
+- Tarea Evaluada: Registro de almacenes
+- Recomendación: Validar la lógica de guardado y asegurar de que cada almacén tenga un identificador único. Implementar mensajes de error si falla el guardado y opciones para reintentar.
+
+User Flows a Validar
+
+Para el Segmento Encargados:
+- Navegación entre funcionalidades de la aplicación: Evaluar la facilidad para encontrar y explorar los servicios de la aplicación, como el registro de telas y el ajuste de temperatura.
+- Actualización de la temperatura: Evaluar la funcionalidad y facilidad para cambiar los valores de temperatura y humedad de los sensores.
+- Registro de almacenes: Evaluar la facilidad para registrar nuevos almacenes y asignarles sensores de manera correcta.
+
+Para el Segmento Distribuidores:
+- Actualización de inventarios: Evaluar la funcionalidad y facilidad para actualizar y registrar telas en el inventario.
+- Registro de las temperaturas: Evaluar la facilidad para visualizar el historial de temperaturas registradas en los almacenes.
+
 <div id='5.4.'><h3> 5.4. Video About-the-Product</h3></div>
+
+En este video about the product te presentamos: TELASECURE, una solución innovadora para la gestión y cuidados de inventarios en el sector textil. Nuestro software ayuda a las empresas a monitorear las condiciones ambientales en sus almacenes, asegurando la calidad de las telas. Facilitamos el seguimiento de la temperatura, la ubicación y el historial de importaciones y exportaciones. TelaSecure no solo mejora la eficiencia, sino que también fomenta una cultura de responsabilidad en la gestión del inventario.
+
+[https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM)
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desafiante pero gratificante. El equipo demostró un alto nivel de compromiso, colaboración y capacidad para distribuir tareas de manera efectiva, logrando implementar características clave como la Landing Page, el analisis de competidores, los Mockups y el desarrollo de estrategias Lean UX orientadas a mejorar la experiencia del usuario.
 
 A lo largo del proyecto, el grupo adquirió una valiosa experiencia en metodologías de desarrollo web, gestión de proyectos a través de plataformas colaborativas como GitHub y diseño centrado en el usuario. Para proyectos futuros, se seguirá utilizando herramientas de gestión colaborativa, manteniendo una comunicación constante entre los miembros del equipo.
 
-En conclusión, este proyecto fue una experiencia de aprendizaje significativa que permitió al equipo fortalecer sus habilidades técnicas y de trabajo grupal. Las lecciones aprendidas y recomendaciones obtenidas servirán como base sólida para el desarrollo de futuros proyectos enfocados a la creación de soluciones web innovadoras y efectivas.
+En conclusión, el entregable referente al proyecto fue una experiencia de aprendizaje significativa que nos permitió fortalecer habilidades tanto técnicas como blandas, a la hora de aprender a trabajar mejor en equipo, comunicarnos y aprender herramientas y tecnologias referentes al desarrollo backed, además de reforzae conceptos vistos en entregas anteriores, enfocadas a documentación, lado frontend y landing page. Por otro lado, el trabajo se enfocó en la aplicación de Domain Driven Design, lo cual ayuda a la mejor lectura del codigo y escalabilidad del mismo.
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
@@ -1936,4 +2685,6 @@ Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view
 
 Enlace para acceder a la Landing Page: [https://github.com/si730-2402-ws53-WebApplications/landing-page](https://github.com/si730-2402-ws53-WebApplications/landing-page)
 
-Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EnS1Q07plUdFtIK7TBX1ImYBbD7b10GLxOWdIEykw9HgQw?e=fACZaF)
+Enlace para el vídeo de exposición: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Ept9KBs8WehDtYQP-Ug88bcBkNy9DKL9T8Aj2k8JdxlJhQ?e=gSgmxe](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Ept9KBs8WehDtYQP-Ug88bcBkNy9DKL9T8Aj2k8JdxlJhQ?e=gSgmxe)
+
+Enlace para el vídeo about the team: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EhQur_PSCP1IniMPGxOdwdABRawvWr_7MiAFQX_LZ-HBJw?e=0AiQPN)
