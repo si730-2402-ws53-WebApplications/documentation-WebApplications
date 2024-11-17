@@ -2419,8 +2419,140 @@ COMMITS:
 
 
 <div id='5.2.4.'><h3> 5.2.4. Sprint 4</h3></div>
+
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd y la conexion de este con el FrontEnd de Waveguard, además de realizar todas las mejoras correspondientes para este. Este sprint fue fundamental para implementar las ultimas versiones de nuestras aplicaciones.
+
 <div id='5.2.4.1.'><h4>5.2.4.1. Sprint Planning 4</h4></div>
+
+En este Sprint 3, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+| Sprint #                        | Sprint 4                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 4                                                                                                                                       |
+| Date                            |15/11/2024                                                                                                                                    |
+| Time                             | 19:00 AM                                                                                                                                       |
+| Location                            | Discord (Reunión virtual)                                                                                                                      |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
+| Attendees (to planning meeting) |Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva           |
+| Sprint n – 4 Review Summary                    | |
+| Sprint n – 4 Retrospective Summary                   |  |
+| Sprint Goal & User Stories       |
+ Sprint 3 Goal                    |  |
+| Sprint 2 Velocity                |  |
+| Sum of story points             |  |
+
+
 <div id='5.2.4.2.'><h4>5.2.4.2. Sprint Backlog 4</h4></div>
+
+El objetivo principal de este Sprint es optimizar la experiencia del usuario en la plataforma mediante la implementación y mejora de funcionalidades clave, como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. Además, se busca asegurar que los usuarios reciban alertas y notificaciones precisas para mantener el control del inventario y mejorar la usabilidad de la interfaz de la aplicación.
+
+En cuanto a la landing page, los usuarios, al visitar la versión final, experimentarán una interfaz visual y funcionalmente optimizada, con información clara y relevante sobre el producto o servicio, incentivándolos a realizar una acción específica, como registrarse, realizar una compra, descargar un recurso o contactar al equipo de ventas. Se completará la implementación final del frontend de la landing page, garantizando una interfaz responsiva y de alto rendimiento, así como la entrega de la versión final del backend, con todas las funcionalidades de soporte necesarias para asegurar la operatividad y la interacción efectiva con el usuario.
+
+![Ejemplo de Imagen](resources/TB3/trello.jpeg)
+
+
+**LINK DE TRELLO**
+ https://trello.com/invite/b/6711da4a3be5a9e0a087dcb2/ATTIfa46c9cd21d7ee35af8d9786c7e68db0952A556A/sprint-backlog-3
+
+
+
+
+| Sprint # | Sprint 4 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | |
+| **US001** | **Inicio de sesión de usuario** | **T01** | Diseñar formulario de inicio de sesión | Crear un formulario de inicio de sesión con campos de usuario y contraseña. | 2 | María Pérez | Done |
+| | | **T02** | Implementar lógica de autenticación | Desarrollar la funcionalidad para verificar credenciales de usuario. | 3 | Juan González | In Progress |
+| | | **T03** | Validar credenciales y mostrar mensajes de error | Añadir validaciones para credenciales incorrectas y mostrar mensajes de error. | 2 | Laura Sánchez | Done |
+| | | **T04** | Redireccionar al usuario al inicio tras autenticarse | Configurar redirección a la pantalla principal al iniciar sesión correctamente. | 1 | Pedro Ramírez | To Do |
+| | | **T05** | Implementar reCAPTCHA en el formulario | Añadir reCAPTCHA para proteger el formulario de inicio de sesión. | 2 | Laura Sánchez | To Do |
+| **US002** | **Cierre de sesión seguro** | **T01** | Diseñar botón de cierre de sesión | Crear un botón de cierre de sesión visible en la interfaz. | 1 | Laura Sánchez | Done |
+| | | **T02** | Implementar lógica de cierre de sesión | Desarrollar funcionalidad para cerrar la sesión y eliminar tokens de autenticación. | 2 | Juan González | Done |
+| | | **T03** | Redireccionar a la pantalla de inicio de sesión tras cerrar sesión | Configurar redirección al formulario de inicio de sesión tras cerrar sesión. | 1 | Pedro Ramírez | Done |
+| | | **T04** | Añadir opción para cerrar sesión desde el menú | Agregar un botón para cerrar sesión desde el menú de usuario. | 1 | María Pérez | Done |
+| **US003** | **Restablecimiento de contraseña** | **T01** | Diseñar formulario de restablecimiento de contraseña | Crear formulario de ingreso de correo electrónico para restablecimiento de contraseña. | 2 | María Pérez | Done |
+| | | **T02** | Implementar lógica de generación de enlace de restablecimiento | Desarrollar funcionalidad para generar y enviar el enlace de restablecimiento al correo del usuario. | 3 | Juan González | In Progress |
+| | | **T03** | Verificar enlace de restablecimiento y actualizar contraseña | Implementar lógica para verificar el enlace y permitir el cambio de contraseña. | 3 | Laura Sánchez | To Do |
+| | | **T04** | Notificar al usuario cuando se genera el enlace | Enviar correo de confirmación cuando el enlace de restablecimiento haya sido generado. | 1 | Pedro Ramírez | To Do |
+| **US004** | **Registro de nuevos usuarios** | **T01** | Diseñar formulario de registro de usuario | Crear un formulario de registro con campos necesarios (nombre, correo, contraseña). | 2 | María Pérez | Done |
+| | | **T02** | Implementar lógica de validación de datos | Desarrollar validaciones para campos obligatorios y contraseñas seguras. | 2 | Juan González | In Progress |
+| | | **T03** | Enviar correo de confirmación al nuevo usuario | Configurar funcionalidad para enviar correo de verificación tras el registro. | 2 | Laura Sánchez | To Do |
+| | | **T04** | Añadir validación de formato de correo electrónico | Verificar que el correo ingresado tenga un formato válido. | 1 | Pedro Ramírez | To Do |
+| **US005** | **Acceso restringido para usuarios no autenticados** | **T01** | Configurar redireccionamiento de rutas protegidas | Implementar redirección a inicio de sesión para usuarios no autenticados. | 1 | Pedro Ramírez | Done |
+| | | **T02** | Implementar middleware de autenticación | Crear middleware para verificar el estado de autenticación en rutas protegidas. | 2 | Juan González | Done |
+| | | **T03** | Mostrar mensaje de acceso restringido | Configurar un mensaje de advertencia si un usuario no autenticado intenta acceder a una ruta protegida. | 2 | Laura Sánchez | To Do |
+| **US006** | **Verificación de correo electrónico al registrarse** | **T01** | Diseñar plantilla de correo de verificación | Crear una plantilla de correo para verificación de cuenta. | 1 | Laura Sánchez | Done |
+| | | **T02** | Generar enlace de verificación | Desarrollar la lógica para generar un enlace de verificación único. | 2 | Juan González | In Progress |
+| | | **T03** | Actualizar estado de usuario tras verificación | Implementar lógica para marcar el usuario como verificado tras hacer clic en el enlace. | 2 | Pedro Ramírez | To Do |
+| | | **T04** | Enviar notificación de éxito al usuario | Enviar un mensaje de notificación confirmando la verificación de la cuenta. | 1 | María Pérez | To Do |
+| **US007** | **Autenticación multifactor (MFA)** | **T01** | Diseñar flujo de autenticación multifactor | Crear el flujo de usuario para activar y configurar la autenticación multifactor. | 3 | Laura Sánchez | To Do |
+| | | **T02** | Implementar envío de código de verificación | Desarrollar funcionalidad para enviar código de verificación al dispositivo del usuario. | 3 | Juan González | In Progress |
+| | | **T03** | Validar código de autenticación | Implementar la lógica para verificar el código de autenticación ingresado por el usuario. | 2 | Pedro Ramírez | To Do |
+| | | **T04** | Configurar opción para recordar dispositivo | Implementar la opción de recordar dispositivos para no requerir MFA en futuras sesiones. | 3 | Laura Sánchez | To Do |
+| **US008** | **Notificación de inicio de sesión desde dispositivos nuevos** | **T01** | Detectar inicio de sesión desde dispositivos desconocidos | Desarrollar lógica para detectar dispositivos desconocidos o ubicaciones nuevas. | 2 | Juan González | Done |
+| | | **T02** | Enviar notificación de inicio de sesión | Configurar el envío de notificación por correo ante detección de dispositivo desconocido. | 1 | Laura Sánchez | In Progress |
+| | | **T03** | Permitir la opción de confiar en el dispositivo | Agregar la funcionalidad de recordar el dispositivo como confiable. | 2 | Pedro Ramírez | To Do |
+| **US009** | **Gestión de roles y permisos** | **T01** | Diseñar interfaz para asignación de roles | Crear una interfaz de usuario para asignar roles y permisos a usuarios. | 3 | María Pérez | Done |
+| | | **T02** | Implementar lógica de permisos según rol | Desarrollar la lógica para controlar acceso según rol asignado. | 3 | Juan González | In Progress |
+| | | **T03** | Validar asignación de permisos | Verificar que los permisos asignados se apliquen correctamente al usuario. | 2 | Laura Sánchez | To Do |
+| **US010** | **Expiración automática de sesiones** | **T01** | Configurar temporizador de inactividad | Implementar un temporizador que detecte la inactividad del usuario. | 2 | Laura Sánchez | Done |
+| | | **T02** | Cerrar sesión automáticamente tras inactividad | Desarrollar lógica para cerrar sesión automáticamente tras alcanzar el tiempo de inactividad configurado. | 2 | Juan González | In Progress |
+| | | **T03** | Notificar al usuario antes de cerrar sesión | Enviar una advertencia al usuario 5 minutos antes de cerrar la sesión. | 2 | Pedro Ramírez | To Do |
+| **TS001** | **Endpoint para autenticación de usuarios con autenticación multifactor** | **TA001** | Implementar el endpoint "/api/iam/auth/multifactor" para autenticación multifactor | Crear un endpoint para autenticación multifactor. | 5 | Valentino Sandoval | Done |
+| | | **TA002** | Realizar pruebas de respuesta del endpoint para autenticación exitosa con multifactor | Realizar pruebas para verificar la autenticación exitosa con el endpoint multifactor. | 3 | Valentino Sandoval | Done |
+| | | **TA003** | Realizar pruebas de respuesta para fallo en autenticación por código incorrecto | Probar el comportamiento del endpoint al recibir un código incorrecto. | 3 | Valentino Sandoval | Done |
+| | | **TA004** | Crear y definir los aggregates para autenticación multifactor | Crear los aggregates necesarios para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA005** | Crear y definir resources y commands para autenticación multifactor | Crear y definir los recursos y comandos para autenticación multifactor. | 2 | Valentino Sandoval | Done |
+| | | **TA006** | Crear y definir queryservice para autenticación multifactor | Crear y definir el queryservice para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA007** | Crear e implementar commandserviceimpls para autenticación multifactor | Implementar el commandserviceimpl para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA008** | Crear e implementar queryserviceimpls para autenticación multifactor | Implementar el queryserviceimpl para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA009** | Crear controller para autenticación multifactor | Crear el controller para gestionar la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| TS002 | **Endpoint para restablecimiento de contraseñas** | TA010 | Implementar endpoint para solicitud de restablecimiento de contraseña | Implementar el endpoint "/api/iam/password-reset/request" para solicitud de restablecimiento de contraseña. | 5 | Valentino Sandoval | Done |
+|        |           | TA011 | Implementar endpoint para confirmar restablecimiento de contraseña | Implementar el endpoint "/api/iam/password-reset/confirm" para confirmar restablecimiento de contraseña. | 5 | Valentino Sandoval | Done |
+|        |           | TA012 | Realizar pruebas de respuesta para solicitud de restablecimiento | Realizar pruebas de respuesta del endpoint para solicitud de restablecimiento de contraseña. | 3 | Valentino Sandoval | Done |
+|        |           | TA013 | Realizar pruebas de respuesta para restablecimiento exitoso | Realizar pruebas de respuesta para restablecimiento de contraseña exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA014 | Crear aggregates para restablecimiento de contraseñas | Crear y definir los aggregates para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA015 | Crear y definir resources y commands | Crear y definir resources y commands para restablecimiento de contraseñas. | 2 | Valentino Sandoval | Done |
+|        |           | TA016 | Crear y definir queryservice | Crear y definir queryservice para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA017 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA018 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA019 | Crear controller para restablecimiento | Crear controller para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+| TS003 | **Endpoint para inicio de sesión** | TA020 | Implementar endpoint para inicio de sesión | Implementar el endpoint "/api/iam/auth/login" para inicio de sesión. | 5 | Valentino Sandoval | Done |
+|        |           | TA021 | Realizar pruebas de respuesta para inicio de sesión exitoso | Realizar pruebas de respuesta del endpoint para inicio de sesión exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA022 | Realizar pruebas de error en inicio de sesión | Realizar pruebas de respuesta para error en inicio de sesión por credenciales incorrectas. | 3 | Valentino Sandoval | Done |
+|        |           | TA023 | Crear aggregates para inicio de sesión | Crear y definir los aggregates para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA024 | Crear y definir resources y commands | Crear y definir resources y commands para inicio de sesión. | 2 | Valentino Sandoval | Done |
+|        |           | TA025 | Crear y definir queryservice | Crear y definir queryservice para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA026 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA027 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA028 | Crear controller para inicio de sesión | Crear controller para inicio de sesión. | 1 | Valentino Sandoval | Done |
+| TS004 | **Endpoint para cerrar sesión** | TA029 | Implementar endpoint para cierre de sesión | Implementar el endpoint "/api/iam/auth/logout" para cierre de sesión. | 5 | Valentino Sandoval | Done |
+|        |           | TA030 | Realizar pruebas de respuesta para cierre de sesión exitoso | Realizar pruebas de respuesta del endpoint para cierre de sesión exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA031 | Crear aggregates para cierre de sesión | Crear y definir los aggregates para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA032 | Crear y definir resources y commands | Crear y definir resources y commands para cierre de sesión. | 2 | Valentino Sandoval | Done |
+|        |           | TA033 | Crear y definir queryservice | Crear y definir queryservice para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA034 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA035 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA036 | Crear controller para cierre de sesión | Crear controller para cierre de sesión. | 1 | Valentino Sandoval | Done |
+| TS005 | **Restricción de acceso a la aplicación para usuarios no autenticados** | TA037 | Implementar restricción de acceso para usuarios no autenticados | Implementar la restricción de acceso para usuarios no autenticados en todos los endpoints. | 5 | Valentino Sandoval | Done |
+|        |           | TA038 | Realizar pruebas de respuesta para acceso restringido | Realizar pruebas de respuesta para acceso restringido para usuarios no autenticados. | 3 | Valentino Sandoval | Done |
+|        |           | TA039 | Crear aggregates para restricción de acceso | Crear y definir los aggregates para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA040 | Crear y definir resources y commands | Crear y definir resources y commands para la restricción de acceso. | 2 | Valentino Sandoval | Done |
+|        |           | TA041 | Crear y definir queryservice | Crear y definir queryservice para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA042 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA043 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA044 | Crear controller para restricción de acceso | Crear controller para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+| TS006 | **Endpoint para registro de nuevos usuarios** | TA045 | Implementar endpoint para registro de nuevos usuarios | Implementar el endpoint "/api/iam/auth/register" para registro de nuevos usuarios. | 5 | Valentino Sandoval | Done |
+|        |           | TA046 | Realizar pruebas de respuesta para registro de nuevos usuarios | Realizar pruebas de respuesta para el registro de nuevos usuarios. | 3 | Valentino Sandoval | Done |
+|        |           | TA047 | Crear aggregates para registro de usuarios | Crear y definir los aggregates para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA048 | Crear y definir resources y commands | Crear y definir resources y commands para registro de usuarios. | 2 | Valentino Sandoval | Done |
+|        |           | TA049 | Crear y definir queryservice | Crear y definir queryservice para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA050 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA051 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA052 | Crear controller para registro de usuarios | Crear controller para registro de usuarios. | 1 | Valentino Sandoval | Done |
+
+
+
 <div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
 <div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
 <div id='5.2.4.5.'><h4>5.2.4.5. Execution Evidence for Sprint Review</h4></div>
