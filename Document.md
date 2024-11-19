@@ -2434,10 +2434,10 @@ En este Sprint 3, durante la reunión de planificación, el equipo seleccionará
 | Location                            | Discord (Reunión virtual)                                                                                                                      |
 | Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
 | Attendees (to planning meeting) |Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva           |
-| Sprint n – 4 Review Summary                    | |
-| Sprint n – 4 Retrospective Summary                   |  |
+| Sprint n – 4 Review Summary                    | Logramos completar el  despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo la visualización de datos y la funcionalidad principal de gestión de inventarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario como el inicio de sesión y el registro de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas. |
+| Sprint n – 4 Retrospective Summary                   | Para este ultimo sprint se notó una gran mejora en la comunicación y colaboración entre los miembros del equipo, lo cual facilitó el avance en las tareas mas importantes. |
 | Sprint Goal & User Stories       |
- Sprint 3 Goal                    |  |
+ Sprint 3 Goal                    | Los usuarios, al visitar la versión final de la landing page, obtendrán una experiencia visual y funcional optimizada, con información clara y detallada sobre el producto o servicio, que los motive a realizar una acción específica como registrarse, comprar, descargar un recurso o contactar con el equipo de ventas. Además, se completará la implementación final del frontend de la landing page, garantizando una interfaz responsiva y de alto rendimiento, y se entregará la versión final del backend, con todas las funcionalidades de soporte necesarias para asegurar la correcta operatividad de la página y la interacción con el usuario. |
 | Sprint 2 Velocity                |  |
 | Sum of story points             |  |
 
@@ -2448,14 +2448,56 @@ El objetivo principal de este Sprint es optimizar la experiencia del usuario en 
 
 En cuanto a la landing page, los usuarios, al visitar la versión final, experimentarán una interfaz visual y funcionalmente optimizada, con información clara y relevante sobre el producto o servicio, incentivándolos a realizar una acción específica, como registrarse, realizar una compra, descargar un recurso o contactar al equipo de ventas. Se completará la implementación final del frontend de la landing page, garantizando una interfaz responsiva y de alto rendimiento, así como la entrega de la versión final del backend, con todas las funcionalidades de soporte necesarias para asegurar la operatividad y la interacción efectiva con el usuario.
 
-![Ejemplo de Imagen](resources/TB3/trello.jpeg)
+![Ejemplo de Imagen](resources/TF/trello.png)
 
 
 **LINK DE TRELLO**
- https://trello.com/invite/b/6711da4a3be5a9e0a087dcb2/ATTIfa46c9cd21d7ee35af8d9786c7e68db0952A556A/sprint-backlog-3
+ https://trello.com/invite/b/6711db297f39357bafeb09cc/ATTI2c467d9b50de1de4d75587836cac2e5c02550782/sprint-backlog-4
 
+**TS DEL TRELLO**
 
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | | |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA01 | Diseñar la arquitectura del servicio | Diseñar la arquitectura necesaria para soportar la visualización de datos en gráficos interactivos. | 3 | Jhon Arevalo | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA02 | Definir los requisitos del endpoint | Identificar los parámetros necesarios para el endpoint de visualización, como el formato de los datos y filtros. | 2 | Valentino Sandoval | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA03 | Desarrollar la validación de entrada de datos | Asegurar que los datos de entrada sean correctos y compatibles con los requerimientos del gráfico. | 3 | Diego Cabrera | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA04 | Implementar la lógica de gráficos interactivos | Desarrollar la lógica para generar gráficos interactivos en función de los datos recibidos por el endpoint. | 5 | Jhon Arevalo | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA05 | Probar la visualización de los gráficos | Realizar pruebas para asegurar que los gráficos se renderizan correctamente en diferentes dispositivos. | 3 | Valentino Sandoval | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA01 | Implementar endpoint de eliminación de climate sensors | Crear el endpoint para eliminar un sensor climático de la base de datos. | 5 | Diego Cabrera | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA02 | Validar permisos de eliminación | Implementar control de acceso para asegurar que solo usuarios con permisos puedan eliminar sensores. | 3 | Jhon Arevalo | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA03 | Probar endpoint de eliminación | Realizar pruebas para verificar que el endpoint elimina correctamente los sensores y maneja errores. | 2 | Valentino Sandoval | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA04 | Actualizar la base de datos después de la eliminación | Implementar la lógica para actualizar el estado de la base de datos después de eliminar un sensor. | 3 | Diego Cabrera | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA05 | Documentar endpoint de eliminación | Crear documentación detallada para el uso del endpoint de eliminación de sensores, incluyendo ejemplos. | 2 | Jhon Arevalo | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA00 | Gestionar control de acceso de permisos | Definir y gestionar el control de acceso para la actualización de storerooms. | 4 | Valentino Sandoval | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA01 | Definir los requisitos de actualización para los storerooms | Identificar los campos que serán actualizados y las validaciones necesarias. | 3 | Diego Cabrera | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA02 | Implementar el endpoint de actualización | Desarrollar el endpoint para actualizar la información de los storerooms en la base de datos. | 5 | Jhon Arevalo | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA03 | Validar datos antes de la actualización | Asegurarse de que los datos de actualización sean válidos antes de realizar la operación. | 3 | Valentino Sandoval | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA04 | Probar el endpoint de actualización | Realizar pruebas para asegurar que el endpoint funciona correctamente con los datos actualizados. | 4 | Diego Cabrera | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA05 | Crear pruebas de rendimiento del endpoint | Realizar pruebas de carga para verificar el rendimiento del endpoint con grandes cantidades de datos. | 3 | Jhon Arevalo | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA01 | Implementar endpoint de eliminación de storerooms | Crear el endpoint para eliminar un storeroom de la base de datos. | 5 | Valentino Sandoval | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA02 | Validar dependencias antes de eliminación | Verificar si el storeroom tiene dependencias activas que deban ser gestionadas antes de eliminarlo. | 3 | Diego Cabrera | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA03 | Probar endpoint de eliminación | Realizar pruebas para asegurar que el endpoint elimina correctamente los storerooms. | 2 | Jhon Arevalo | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA04 | Implementar manejo de errores de eliminación | Añadir manejo de errores para situaciones donde el storeroom no pueda eliminarse debido a dependencias. | 3 | Valentino Sandoval | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA05 | Actualizar la base de datos después de la eliminación | Implementar la lógica para actualizar la base de datos después de eliminar un storeroom. | 3 | Diego Cabrera | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA01 | Implementar endpoint para actualización de temperatura | Desarrollar el endpoint para actualizar los valores de temperatura máxima y mínima en un storeroom. | 5 | Jhon Arevalo | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA02 | Validar los datos de temperatura | Asegurar que las temperaturas máximas y mínimas sean válidas según los límites definidos. | 3 | Valentino Sandoval | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA03 | Probar el endpoint de actualización | Realizar pruebas para verificar que el endpoint actualiza correctamente la temperatura de los storerooms. | 2 | Diego Cabrera | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA04 | Actualizar la base de datos después de la actualización | Asegurar que la base de datos refleja correctamente los cambios realizados en la temperatura del storeroom. | 3 | Jhon Arevalo | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA05 | Crear documentación del endpoint | Documentar el endpoint y los parámetros de temperatura para su uso por otros servicios. | 2 | Valentino Sandoval | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA01 | Implementar endpoint para actualización de humedad | Desarrollar el endpoint para actualizar los valores de humedad máxima y mínima de un storeroom. | 5 | Diego Cabrera | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA02 | Validar los datos de humedad | Asegurar que las humedades máximas y mínimas sean válidas según los límites definidos. | 3 | Jhon Arevalo | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA03 | Probar el endpoint de actualización | Realizar pruebas para asegurar que el endpoint actualiza correctamente los umbrales de humedad. | 2 | Valentino Sandoval | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA04 | Actualizar la base de datos después de la actualización | Asegurarse de que los datos de humedad se actualizan correctamente en la base de datos. | 3 | Diego Cabrera | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA05 | Realizar pruebas de integración | Verificar que la actualización de los umbrales de humedad no interfiera con otros servicios relacionados. | 3 | Jhon Arevalo | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA01 | Implementar endpoint de eliminación de environment devices | Crear el endpoint para eliminar dispositivos de ambiente (environment devices). | 5 | Valentino Sandoval | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA02 | Validar permisos de eliminación | Asegurar que solo los usuarios autorizados puedan eliminar dispositivos. | 3 | Diego Cabrera | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA03 | Probar endpoint de eliminación | Realizar pruebas para asegurar que el endpoint elimina correctamente los dispositivos de ambiente. | 2 | Jhon Arevalo | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA04 | Implementar manejo de errores de eliminación | Añadir manejo de errores para situaciones donde el dispositivo no pueda ser eliminado. | 3 | Valentino Sandoval | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA05 | Actualizar la base de datos después de la eliminación | Asegurarse de que la base de datos refleja correctamente los cambios después de la eliminación de un dispositivo. | 3 | Diego Cabrera | Done |
 
+**TS Y US DEL IAM**
 
 | Sprint # | Sprint 4 | | | | | | |
 |----------|----------|---|---|---|---|---|---|
@@ -2554,10 +2596,36 @@ En cuanto a la landing page, los usuarios, al visitar la versión final, experim
 
 
 <div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
+
 <div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	|75c0c75| Initial commit| Initial commit |17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6548432   | feature: added US01 gherkin  | feature: added US01 gherkin  | 17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	|a19b6ac |feature: added US02 gherkin|feature: added US02 gherkin | 17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 29ca9f3 |feature: added US03 gherkin|feature: added US03 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 7fe8f1f   | feature: added US04 gherkin | feature: added US04 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US05 gherkin | feature: added US05 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US06 gherkin | feature: added US06 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US07 gherkin | feature: added US07 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US08 gherkin | feature: added US08 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US09 gherkin | feature: added US09 gherkin | 17/11/2024              |
+
+
+Link del repositorio Commints: https://github.com/si730-2402-ws53-WebApplications/Testing/tree/feature/tf
+
+
 <div id='5.2.4.5.'><h4>5.2.4.5. Execution Evidence for Sprint Review</h4></div>
+
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas, junto con un enlace a
+un video que ilustre y explique la visualización y navegación logrados en este Sprint.
+
 <div id='5.2.4.6.'><h4>5.2.4.6. Services Documentation Evidence for Sprint Review</h4></div>
+
 <div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
+
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint</h4></div>
 
 
