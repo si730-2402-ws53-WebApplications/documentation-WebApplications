@@ -2450,9 +2450,13 @@ En este Sprint 3, durante la reunión de planificación, el equipo seleccionará
 
 <div id='5.2.4.2.'><h4>5.2.4.2. Sprint Backlog 4</h4></div>
 
-El objetivo principal de este Sprint es optimizar la experiencia del usuario en la plataforma mediante la implementación y mejora de funcionalidades clave, como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. Además, se busca asegurar que los usuarios reciban alertas y notificaciones precisas para mantener el control del inventario y mejorar la usabilidad de la interfaz de la aplicación.
+### Objetivo del Sprint  
 
-En cuanto a la landing page, los usuarios, al visitar la versión final, experimentarán una interfaz visual y funcionalmente optimizada, con información clara y relevante sobre el producto o servicio, incentivándolos a realizar una acción específica, como registrarse, realizar una compra, descargar un recurso o contactar al equipo de ventas. Se completará la implementación final del frontend de la landing page, garantizando una interfaz responsiva y de alto rendimiento, así como la entrega de la versión final del backend, con todas las funcionalidades de soporte necesarias para asegurar la operatividad y la interacción efectiva con el usuario.
+El objetivo principal de este Sprint es optimizar la experiencia del usuario en la plataforma mediante la implementación y mejora de funcionalidades clave, como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. También se busca asegurar que los usuarios reciban alertas y notificaciones precisas para mantener el control del inventario y mejorar la usabilidad de la interfaz.  
+
+En cuanto a la **landing page**, los usuarios experimentarán una versión final con una interfaz visual y funcionalmente optimizada, que destaca información clara y relevante sobre el producto o servicio, incentivándolos a realizar acciones específicas como registrarse, realizar compras, descargar recursos o contactar al equipo de ventas. Se completó la implementación final del frontend, garantizando una interfaz responsiva y de alto rendimiento, junto con la entrega de un backend totalmente funcional, asegurando la operatividad y la interacción eficiente con los usuarios.  
+
+Adicionalmente, como parte de este último Sprint, se implementó el **IAM (Identity and Access Management)**, fortaleciendo la seguridad y control de acceso en la plataforma para garantizar una experiencia segura y confiable para todos los usuarios.  
 
 ![Ejemplo de Imagen](resources/TF/trello.png)
 
@@ -2502,7 +2506,7 @@ En cuanto a la landing page, los usuarios, al visitar la versión final, experim
 | TS08 | Desarrollo de endpoint para eliminación de environment devices | TA04 | Implementar manejo de errores de eliminación | Añadir manejo de errores para situaciones donde el dispositivo no pueda ser eliminado. | 3 | Valentino Sandoval | Done |
 | TS08 | Desarrollo de endpoint para eliminación de environment devices | TA05 | Actualizar la base de datos después de la eliminación | Asegurarse de que la base de datos refleja correctamente los cambios después de la eliminación de un dispositivo. | 3 | Diego Cabrera | Done |
 
-**TS Y US DEL IAM**
+**En esta sección presentamos los USER STORIES Y LAS TECHNICAL STORIES DEL IAM IMPLEMENTADO**
 
 | Sprint # | Sprint 4 | | | | | | |
 |----------|----------|---|---|---|---|---|---|
@@ -2700,9 +2704,50 @@ https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytL
 
 <div id='5.2.4.6.'><h4>5.2.4.6. Services Documentation Evidence for Sprint Review</h4></div>
 
-Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fabric Controller, Storeroom Controller, EnviroDevice Controller, ClimateSensor Controller). Cada controller tiene 3 endpoints (GetAll, GetById, Create). Además se empleó swagger para hacer las pruebas a los endpoints.
+Durante el Sprint 4, se documentaron un total de 12 endpoints distribuidos en 7 controladores: Fabric Controller, Storeroom Controller, EnviroDevice Controller y ClimateSensor Controller. Cada controlador incluye los endpoints principales: GetAll, GetById y Create. Para las pruebas de los endpoints, se utilizó Swagger, facilitando la validación y verificación de su funcionalidad.
+
+Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores.
 
 Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
+
+### ProfilesController
+
+Maneja las operaciones relacionadas con la gestión de perfiles de usuario en una aplicación. Esto incluye funcionalidades como visualizar y crear la información del perfil de un usuario, así como modificar parámetros como el nombre, la dirección de correo electrónico, la contraseña, entre otros.
+
+
+
+| Tag      | Http Verbs | Endpoint                      | Summary                    | Description                                      | OperationId        |
+|----------|------------|-------------------------------|----------------------------|--------------------------------------------------|--------------------|
+| Profiles | POST       | /api/v1/profiles               | Create a new profile        | Create a new profile                             | CreateProfile      |
+| Profiles | GET        | /api/v1/profiles/{profileId}   | Get profile by Id           | Get a profile by its unique identifier           | GetProfileById     |
+| Profiles | GET        | /api/v1/profiles               | Get all profiles             | Get all profiles                                 | GetAllProfiles     |
+
+![Ejemplo de Imagen](resources/TF/au4.png)
+
+![Ejemplo de Imagen](resources/TF/au5.png)
+
+### AuthenticationController
+
+El AuthenticationController proporciona los endpoints necesarios para la autenticación de usuarios en la plataforma. Permite a los usuarios registrarse (sign-up) y acceder (sign-in) a la aplicación.
+
+| Tag            | Http Verbs | Endpoint                   | Summary           | Description                             | OperationId  |
+|----------------|------------|----------------------------|-------------------|-----------------------------------------|--------------|
+| Authentication | POST       | /api/v1/authentication/sign-in | Sign in           | Sign in to the platform                 | SignIn       |
+| Authentication | POST       | /api/v1/authentication/sign-up | Sign up           | Sign up to the platform                 | SignUp       |
+
+![Ejemplo de Imagen](resources/TF/au1.png)
+
+**SIGN-IN**
+
+Authentication Controller con funcionalidad de Sign-In se utiliza para manejar el inicio de sesión de los usuarios en una aplicación. Este controlador recibe las credenciales proporcionadas por el usuario (como correo electrónico y contraseña), las valida, y si son correctas, genera y devuelve un token de autenticación 
+
+![Ejemplo de Imagen](resources/TF/au2.png)
+
+**SIGN-UP**
+
+Authentication Controller con funcionalidad de Sign-Up maneja el registro de nuevos usuarios en la aplicación. Este controlador recibe los datos proporcionados por el usuario (como nombre, correo electrónico, contraseña, etc.), valida la información y crea un nuevo registro de usuario en la base de datos.
+
+![Ejemplo de Imagen](resources/TF/au3.png)
 
 ### FabricController
 
