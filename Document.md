@@ -2523,18 +2523,18 @@ Adicionalmente, como parte de este último Sprint, se implementó el **IAM (Iden
 | **ID**   | **Title** | **ID** | **Title** | **Description** | | |
 | **US001** | **Inicio de sesión de usuario** | **T01** | Diseñar formulario de inicio de sesión | Crear un formulario de inicio de sesión con campos de usuario y contraseña. | 2 | María Pérez | Done |
 | | | **T02** | Implementar lógica de autenticación | Desarrollar la funcionalidad para verificar credenciales de usuario. | 3 | Juan González | In Progress |
-| | | **T03** | Validar credenciales y mostrar mensajes de error | Añadir validaciones para credenciales incorrectas y mostrar mensajes de error. | 2 | Laura Sánchez | Done |
-| | | **T04** | Redireccionar al usuario al inicio tras autenticarse | Configurar redirección a la pantalla principal al iniciar sesión correctamente. | 1 | Pedro Ramírez | To Do |
+| | | **T03** | Validar credenciales y mostrar mensajes de error | Añadir validaciones para credenciales incorrectas y mostrar mensajes de error. | 2 | Diego Cabrera | Done |
+| | | **T04** | Redireccionar al usuario al inicio tras autenticarse | Configurar redirección a la pantalla principal al iniciar sesión correctamente. | 1 | Diego Cabrera | To Do |
 | | | **T05** | Implementar reCAPTCHA en el formulario | Añadir reCAPTCHA para proteger el formulario de inicio de sesión. | 2 | Laura Sánchez | To Do |
-| **US002** | **Cierre de sesión seguro** | **T01** | Diseñar botón de cierre de sesión | Crear un botón de cierre de sesión visible en la interfaz. | 1 | Laura Sánchez | Done |
-| | | **T02** | Implementar lógica de cierre de sesión | Desarrollar funcionalidad para cerrar la sesión y eliminar tokens de autenticación. | 2 | Juan González | Done |
-| | | **T03** | Redireccionar a la pantalla de inicio de sesión tras cerrar sesión | Configurar redirección al formulario de inicio de sesión tras cerrar sesión. | 1 | Pedro Ramírez | Done |
+| **US002** | **Cierre de sesión seguro** | **T01** | Diseñar botón de cierre de sesión | Crear un botón de cierre de sesión visible en la interfaz. | 1 | Diego Cabrera | Done |
+| | | **T02** | Implementar lógica de cierre de sesión | Desarrollar funcionalidad para cerrar la sesión y eliminar tokens de autenticación. | 2 | Diego Cabrera | Done |
+| | | **T03** | Redireccionar a la pantalla de inicio de sesión tras cerrar sesión | Configurar redirección al formulario de inicio de sesión tras cerrar sesión. | 1 | Diego Cabrera | Done |
 | | | **T04** | Añadir opción para cerrar sesión desde el menú | Agregar un botón para cerrar sesión desde el menú de usuario. | 1 | María Pérez | Done |
-| **US003** | **Restablecimiento de contraseña** | **T01** | Diseñar formulario de restablecimiento de contraseña | Crear formulario de ingreso de correo electrónico para restablecimiento de contraseña. | 2 | María Pérez | Done |
-| | | **T02** | Implementar lógica de generación de enlace de restablecimiento | Desarrollar funcionalidad para generar y enviar el enlace de restablecimiento al correo del usuario. | 3 | Juan González | In Progress |
+| **US003** | **Restablecimiento de contraseña** | **T01** | Diseñar formulario de restablecimiento de contraseña | Crear formulario de ingreso de correo electrónico para restablecimiento de contraseña. | 2 | Diego Cabrera | Done |
+| | | **T02** | Implementar lógica de generación de enlace de restablecimiento | Desarrollar funcionalidad para generar y enviar el enlace de restablecimiento al correo del usuario. | 3 |Diego Cabrera | In Progress |
 | | | **T03** | Verificar enlace de restablecimiento y actualizar contraseña | Implementar lógica para verificar el enlace y permitir el cambio de contraseña. | 3 | Laura Sánchez | To Do |
 | | | **T04** | Notificar al usuario cuando se genera el enlace | Enviar correo de confirmación cuando el enlace de restablecimiento haya sido generado. | 1 | Pedro Ramírez | To Do |
-| **US004** | **Registro de nuevos usuarios** | **T01** | Diseñar formulario de registro de usuario | Crear un formulario de registro con campos necesarios (nombre, correo, contraseña). | 2 | María Pérez | Done |
+| **US004** | **Registro de nuevos usuarios** | **T01** | Diseñar formulario de registro de usuario | Crear un formulario de registro con campos necesarios (nombre, correo, contraseña). | 2 | Diego Cabrera | Done |
 | | | **T02** | Implementar lógica de validación de datos | Desarrollar validaciones para campos obligatorios y contraseñas seguras. | 2 | Juan González | In Progress |
 | | | **T03** | Enviar correo de confirmación al nuevo usuario | Configurar funcionalidad para enviar correo de verificación tras el registro. | 2 | Laura Sánchez | To Do |
 | | | **T04** | Añadir validación de formato de correo electrónico | Verificar que el correo ingresado tenga un formato válido. | 1 | Pedro Ramírez | To Do |
