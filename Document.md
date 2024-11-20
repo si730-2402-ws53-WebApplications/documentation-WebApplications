@@ -235,6 +235,15 @@ TF:<br>
    5.2.3.6. [Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
    5.2.3.7. [Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
    5.2.3.8. [Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
+   5.2.4. [Sprint 4](#5.2.4.)<br>
+   5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+   5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+   5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+   5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+   5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review](#5.2.4.6.)<br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review](#5.2.4.7.)<br>
+   5.2.4.8. [Team Collaboration Insights during Sprint](#5.2.4.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
@@ -2606,7 +2615,11 @@ Adicionalmente, como parte de este último Sprint, se implementó el **IAM (Iden
 
 <div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
 
-Commits realizados en el repositorio de frontend durante el sprint 3:
+En esta sección se detallan los progresos alcanzados durante el Sprint en relación con los productos de la solución definidos en el alcance: Landing Page, Web Applications y Web Services. Aquí se presenta un resumen de los principales avances logrados en la implementación, destacando cómo cada componente contribuye a los objetivos generales del proyecto.
+
+Para proporcionar una visión clara y estructurada, se incluye una tabla que organiza los commits realizados en cada repositorio. Esto permite rastrear de manera precisa las actividades de desarrollo asociadas con la implementación, mostrando los detalles clave que respaldan el progreso técnico.
+
+A continuación, se presenta la tabla que resume los commits relevantes para cada repositorio:
 
 **Tabla de commits del frontend**
 
@@ -2637,6 +2650,10 @@ Commits realizados en el repositorio de frontend durante el sprint 3:
 
 <div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
 
+En esta sección se presentan los *Unit Tests*, *Integration Tests* y *Acceptance Tests* desarrollados para los *Web Services* relacionados con las User Stories del Sprint. Para las pruebas BDD, se incluyen los archivos *.feature* en *Gherkin* y los archivos *Steps*, detallando su relación con las User Stories.  
+
+Se especifican las clases y comportamientos probados en los Unit Tests, mientras que los Integration y Acceptance Tests muestran los escenarios evaluados. También se incluye la ruta del repositorio y los commits clave relacionados con los avances en Testing. A continuación, se presenta una tabla que resume estos avances.
+
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
 | si730-2402-ws53-WebApplications/Testing | feature/TF	|75c0c75| Initial commit| Initial commit |17/11/2024|
@@ -2656,9 +2673,11 @@ Link del repositorio Commints: https://github.com/si730-2402-ws53-WebApplication
 
 <div id='5.2.4.5.'><h4>5.2.4.5. Execution Evidence for Sprint Review</h4></div>
 
-Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
-presenta screenshots de las principales vistas implementadas, junto con un enlace a
-un video que ilustre y explique la visualización y navegación logrados en este Sprint.
+En esta sección se resumen los logros del Sprint, incluyendo capturas de pantalla de las vistas implementadas en nuestro frontend como en nuestra landingpaga y un enlace a un video que muestra la visualización y navegación logradas.
+Services Documentation Evidence for Sprint Review.:
+También se presenta la documentación de los Web Services con OpenAPI, detallando los endpoints desarrollados, sus acciones soportadas, verbos HTTP, parámetros, ejemplos de uso y enlaces a la documentación generada.
+
+Finalmente, se incluyen capturas que evidencian la interacción con los servicios documentados, junto con el URL del repositorio y los commits relevantes al Sprint.
 
 ![Ejemplo de Imagen](resources/TB3/landing2.jpeg)
 
@@ -2809,9 +2828,9 @@ Authentication Controller con funcionalidad de Sign-Up maneja el registro de nue
 
 <div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
 
-Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
+En esta sección se presentan los procesos realizados para el Deployment durante este Sprint, incluyendo actividades como creación de cuentas, configuración de recursos en proveedores cloud y ajustes en los proyectos de desarrollo para integrar o automatizar tareas de despliegue.
 
-Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+El trabajo abarcó todos los productos del proyecto: Landing Page, Web Applications y Web Services. Se incluyen capturas de pantalla y explicaciones detalladas de los pasos realizados para garantizar un despliegue exitoso y funcional.
 
 <img src="resources/figmaIngreso1.png">
 
