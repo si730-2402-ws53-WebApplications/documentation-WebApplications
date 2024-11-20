@@ -2710,6 +2710,12 @@ Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
 
 ![Ejemplo de Imagen](resources/TB2/inventory2.png)
 
+**En esta parte se observa como se agregan elementos en el frontend y se logran observar en el backend** 
+
+![Ejemplo de Imagen](resources/TF/im1.png)
+
+![Ejemplo de Imagen](resources/TF/im2.png)
+
 * ENVIRONMENT - BOUNDED CONTEXT
 
 ![Ejemplo de Imagen](resources/TB2/ENVI1.png)
@@ -2717,6 +2723,14 @@ Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
 * MAINTENANCE - BOUNDED CONTEXT
 
 ![Ejemplo de Imagen](resources/TB3/front4.jpeg)
+
+**Se logra observar como que que al agregar un WAREHOUSE este se logra visualizar tanto en el frontend como en el backend**
+
+![Ejemplo de Imagen](resources/TF/im3.png)
+
+![Ejemplo de Imagen](resources/TF/im4.png)
+
+![Ejemplo de Imagen](resources/TF/im5.png)
 
 Video About-the-Product: 
 https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM
