@@ -63,12 +63,9 @@
 
 | Versión | Fecha    | Autor              | Descripción de la modificación                          |
 | ------- | -------- | ------------------ | ------------------------------------------------------- |
-| TF       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
-| TF       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
-| TF       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
-| TF      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
-| TF       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
-| TF      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+| TF       | 10/11/24 | Diego Cabrera      | Realización del sprint 4 y de los artefactos             |
+| TF      | 16/11/24 | John Arevalo       | Realización del sprint 4 y de los artefactos |
+| TF      | 16/11/24 | Valentino Sandoval | Realización del sprint 4 y de los artefactos  |
 
 
 ## Project Report Collaboration Insights
@@ -82,6 +79,7 @@
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
 | https://github.com/si730-2402-ws53-WebApplications/telasecure-platform | https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | https://github.com/si730-2402-ws53-WebApplications/landing-page |
 
+TF: Se han realizado todas las tareas asignadas para la entrega del TF, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/si730-2402-ws53-WebApplications. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/si730-2402-ws53-WebApplications/landing-page . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. Ademas, se presenta las ultimas versiones del FRONTEND en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend y del backend que se encuentra en el siguiente repositorio BACKEND:
 
 TB2: Se han realizado todas las tareas asignadas para la entrega del Tb2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/si730-2402-ws53-WebApplications. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/si730-2402-ws53-WebApplications/landing-page . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. FRONTEND: https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend
 
@@ -129,6 +127,14 @@ TB2:<br>
 |Cabrera Buitron Diego Ivan| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context  en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 3, sprint backlog 3, video about the product|
 |Sandoval Paiva Valentino| Desarrollo de backend para  bounded context, desarrollo de nueva version para meeting bounded context forntend, Sprint backlog 3, diseño de entrevistas, registro de entrevistas, testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
 | Arévalo Meza John | Desarrollo de backend para  bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
+
+TF:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Cabrera Buitron Diego Ivan| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context  en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 4, sprint backlog 4, video about the product|
+|Sandoval Paiva Valentino| Desarrollo de backend para  bounded context, desarrollo de nueva version para inventory bounded context forntend, Sprint backlog 4,  testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
+| Arévalo Meza John | Desarrollo de backend para  bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
+
 
 
 
@@ -1649,7 +1655,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
 
-<img src="resources/dataClass.png">
+<img src="resources\TF\basededatos.png">
 
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
@@ -2437,9 +2443,9 @@ En este Sprint 3, durante la reunión de planificación, el equipo seleccionará
 | Sprint n – 4 Review Summary                    | Logramos completar el  despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo la visualización de datos y la funcionalidad principal de gestión de inventarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario como el inicio de sesión y el registro de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas. |
 | Sprint n – 4 Retrospective Summary                   | Para este ultimo sprint se notó una gran mejora en la comunicación y colaboración entre los miembros del equipo, lo cual facilitó el avance en las tareas mas importantes. |
 | Sprint Goal & User Stories       |
- Sprint 3 Goal                    | Los usuarios, al visitar la versión final de la landing page, obtendrán una experiencia visual y funcional optimizada, con información clara y detallada sobre el producto o servicio, que los motive a realizar una acción específica como registrarse, comprar, descargar un recurso o contactar con el equipo de ventas. Además, se completará la implementación final del frontend de la landing page, garantizando una interfaz responsiva y de alto rendimiento, y se entregará la versión final del backend, con todas las funcionalidades de soporte necesarias para asegurar la correcta operatividad de la página y la interacción con el usuario. |
-| Sprint 2 Velocity                |  |
-| Sum of story points             |  |
+ Sprint 3 Goal                    | Nuestro objetivo principal es brindar a los usuarios la oportunidad de explorar la versión final de la landing page, ofreciéndoles una experiencia visual y funcional optimizada. Esta página destacará información clara y detallada sobre el producto o servicio, incentivando acciones específicas como registrarse, realizar una compra, descargar un recurso o ponerse en contacto con el equipo de ventas. Adicionalmente, completaremos la implementación final del frontend, garantizando una interfaz responsiva y de alto rendimiento, junto con la entrega de la versión final del backend. Este backend incluirá todas las funcionalidades necesarias para asegurar la operatividad de la página y una interacción fluida con el usuario. Creemos que este enfoque mejorará la experiencia del usuario, fortalecerá la gestión de servicios, el cuidado y el control. Ademas, ampliará las capacidades de los desarrolladores para trabajar con funcionalidades clave de la plataforma. La efectividad de estas mejoras se confirmará cuando los usuarios puedan interactuar con una landing page completamente funcional y visualmente atractiva, con opciones claras y directas para lograr sus objetivos.. |
+| Sprint 4 Velocity                | Para la realización de este sprint el equipo puede aceptar hasta 70 story points |
+| Sum of story points             | La suma de story point atendidos es de 70 story point.  |
 
 
 <div id='5.2.4.2.'><h4>5.2.4.2. Sprint Backlog 4</h4></div>
@@ -2919,7 +2925,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 00:00 |
 | Fin del video | 07:28 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
-|  | Como primer entrevistado, tenemos al Juan Garces, quien mencionó que encontrar y comparar diferentes tipos de telas en la plataforma le resultó algo complicado al principio, ya que había muchas opciones y no tenía claro cómo filtrar las telas específicas. Sugiere que contar con guías o un asistente de búsqueda le habría facilitado la navegación. En cuanto a la calidad, las descripciones y fotos le fueron útiles, pero le gustaría ver un sistema de clasificación. Respecto a la infraestructura de inventario, considera que un mapa interactivo y alertas de cambios ambientales mejorarían la claridad de la información. |
+| ![Ejemplo de Imagen](resources/TF/entrevista1.png ) | Como primer entrevistado, tenemos al Juan Garces, quien mencionó que encontrar y comparar diferentes tipos de telas en la plataforma le resultó algo complicado al principio, ya que había muchas opciones y no tenía claro cómo filtrar las telas específicas. Sugiere que contar con guías o un asistente de búsqueda le habría facilitado la navegación. En cuanto a la calidad, las descripciones y fotos le fueron útiles, pero le gustaría ver un sistema de clasificación. Respecto a la infraestructura de inventario, considera que un mapa interactivo y alertas de cambios ambientales mejorarían la claridad de la información. |
 | **Nombre entrevistado** | **Victor Hernandez** |
 | Edad | 23 años |
 | Profesión | Administración y Marketing |
@@ -2927,7 +2933,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 07:47 |
 | Fin del video | 16:34 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
-|  | El segundo entrevistado, Victor Hernandez, evaluó la facilidad de comparación de telas como "bastante fácil" gracias a su experiencia con los filtros, aunque desearía un comparador que presente las diferencias clave en una sola pantalla. En la navegación, no se sintió perdido, pero cree que un sistema de etiquetas personalizables sería beneficioso. Para garantizar la calidad, las especificaciones y etiquetas le resultaron útiles, aunque también sugiere añadir reseñas de usuarios y clasificaciones de resistencia. En la gestión de inventario, encuentra la vista clara, pero añadir gráficos históricos le ayudaría a prever escasez. |
+| ![Ejemplo de Imagen](resources/TF/entrevista2.png ) | El segundo entrevistado, Victor Hernandez, evaluó la facilidad de comparación de telas como "bastante fácil" gracias a su experiencia con los filtros, aunque desearía un comparador que presente las diferencias clave en una sola pantalla. En la navegación, no se sintió perdido, pero cree que un sistema de etiquetas personalizables sería beneficioso. Para garantizar la calidad, las especificaciones y etiquetas le resultaron útiles, aunque también sugiere añadir reseñas de usuarios y clasificaciones de resistencia. En la gestión de inventario, encuentra la vista clara, pero añadir gráficos históricos le ayudaría a prever escasez. |
 | **Nombre entrevistado** | **Matías Munives Santamaria** |
 | Edad | 23 años |
 | Profesión | Ingeniero de Sistemas |
