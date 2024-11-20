@@ -85,24 +85,24 @@ TB2: Se han realizado todas las tareas asignadas para la entrega del Tb2, las cu
 
 *Vista de commits: REPORTE TF:*  
 
-![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+![Ejemplo de Imagen](resources/TF/commit1.png)
 
 COMMITS: 
 
-    * Valentino Sandoval Paiva: 
-    * John Arevalo Meza: 
-    * Diego Cabrera: 
+    * Valentino Sandoval Paiva: 10
+    * John Arevalo Meza: 3
+    * Diego Cabrera: 17
 
 
 *Vista de commits: REPORTE TB2:*  
 
-![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+![Ejemplo de Imagen](resources/TF/commit2.png)
 
 COMMITS: 
 
-    * Valentino Sandoval Paiva: 
-    * John Arevalo Meza: 
-    * Diego Cabrera: 
+    * Valentino Sandoval Paiva: 23
+    * John Arevalo Meza: 18
+    * Diego Cabrera: 45
 
 
 TB1:<br>
