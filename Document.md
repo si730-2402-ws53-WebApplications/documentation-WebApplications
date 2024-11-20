@@ -2597,6 +2597,36 @@ En cuanto a la landing page, los usuarios, al visitar la versión final, experim
 
 <div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
 
+Commits realizados en el repositorio de frontend durante el sprint 3:
+
+**Tabla de commits del frontend**
+
+| Repository            | Branch       | CommitId                                | Commit message                                  | Commit message body                          | Committed on |
+|-----------------------|--------------|-----------------------------------------|------------------------------------------------|---------------------------------------------|--------------|
+| frontend   | main       | 2c81a408405aa9a04c753de4fc5e6f2ab88b99be | feat: fixed the report section   | feat: fixed the report section | 20/11/2024   |
+| frontend   |  main       | 5534cde404c3cf9b103c329214f17dc9ad0577fd | feat: fixed the grafic's report section | feat: fixed the grafic's report section | 16/11/2024   |
+| frontend   | main       | 7b52e28b6ae23d1ecda1646b7cc1f43da4f99794 | fix:routes | fix:routes  | 12/11/2024   |
+| frontend   | main       | d67990da963ed05b401cdf884558376032bd1c84 | Merge pull request #15 from si730-2402-ws53-WebApplications/feat/fabric | Merge pull request #15 from si730-2402-ws53-WebApplications/feat/fabric | 02/11/2024   |
+| frontend   | main      | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics. | feat: update fabrics. | 02/11/2024 |
+| frontend   | main      | e68a01a11fc4a48704a881b3a6c6a5de797e37db | Merge pull request #13 from si730-2402-ws53-WebApplications/feat/fabric |Merge pull request #13 from si730-2402-ws53-WebApplications/feat/fabric | 01/11/2024   |
+| frontend   | main      | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics  | feat: add fabrics  | 01/11/2024   |
+| frontend   | main      | 60e4d59b9693650acb7dfce42300c1ceccde6d18 | Merge pull request #12 from si730-2402-ws53-WebApplications/fix/environment-control | Merge pull request #12 from si730-2402-ws53-WebApplications/fix/environment-control  | 01/11/2024   |
+| frontend   | main | 591a7a403fd92c998584ec5426e98c935b205e5b | Merge pull request #11 from si730-2402-ws53-WebApplications/feature/facilities  | Merge pull request #11 from si730-2402-ws53-WebApplications/feature/facilities   | 01/11/2024   |
+
+**Tabla de commits del backend**
+
+| Repository            | Branch       | CommitId                                | Commit message                                  | Commit message body                          | Committed on |
+|-----------------------|--------------|-----------------------------------------|------------------------------------------------|---------------------------------------------|--------------|
+| telasecure-platform   | master       | a0b8ccceaf2c5bd5336a19c1ca14827a76c2f4d1 | Merge pull request #15 from si730-2402-ws53-WebApplications/develop  | Merge pull request #15 from si730-2402-ws53-WebApplications/develop | 17/11/2024   |
+| telasecure-platform  | master       | 02e0449451f57c17b2b873065a82ff87a71606c5 | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | 17/11/2024   |
+| telasecure-platform   | master       | 0d7117046981b93448247c18e42287df90b699c6 | feat: add IAM.  | feat: add IAM.   | 17/11/2024   |
+| telasecure-platform   | master       | 47075398f847d9e2be9c18a78dcd2acff748b61c | Merge pull request #13 from si730-2402-ws53-WebApplications/develop
+  | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | 16/11/2024   |
+| telasecure-platform  | master      | 5a84685503544753d1aa77c70ca393c6640a558d | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | 16/11/2024 |
+| telasecure-platform   | master      | b87d9873e99209d6c056ff4bcd9341c59394a008 | feat(report): added the queries services. | feat(report): added the queries services.| 02/11/2024   |
+| telasecure-platform  | master      | 751e659ecbe354acce39cd09ba3bab63799864ed | feat: added storeroom acl and fabric storeroom external service.  | feat: added storeroom acl and fabric storeroom external service.  | 16/11/2024   |
+| telasecure-platform   | master      | a028507fe8dc189033bd3dffd964b4ad3e188fca | feat(report): added the repository.  | feat(report): added the repository. | 02/11/2024   |
+
 <div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
 
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
@@ -2763,6 +2793,7 @@ Gestión de Inventario de Telas
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
 |  | Finalmente Erick Cerna nos comenta que el registro de telas le resulta fácil y eficiente, aunque le gustaría contar con opciones avanzadas para clasificar o duplicar registros. La búsqueda en el inventario le parece intuitiva, pero sugiere integrar filtros dinámicos basados en la demanda. No tiene problemas al editar o eliminar telas, aunque opina que una función de edición masiva o plantillas específicas optimizarían el proceso. Las notificaciones de stock le permiten anticiparse a pedidos y gestionar su inventario, y considera que tener notificaciones personalizables sería ideal. La visualización de sus servicios le resulta clara y le permite gestionar eficientemente, aunque le gustaría contar con gráficas de tendencias para ajustar sus compras y ventas. Describe el proceso de actualización de información como muy sencillo, especialmente desde la app móvil, y propone una opción para preconfigurar actualizaciones por categoría. Valora los reportes de ventas, las notificaciones de stock en tiempo real y la integración con otros sistemas de gestión como ventajas destacadas frente a otras plataformas que utiliza. |
 | Duración de todas las entrevistas: 19:58 | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
+
 
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
