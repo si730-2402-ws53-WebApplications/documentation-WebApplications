@@ -1621,7 +1621,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="resources/classdiagram.png">
+<img src="resources/TF/diagrama.png">
 
 <div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
 
