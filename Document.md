@@ -2846,6 +2846,12 @@ En esta sección se presentan los procesos realizados para el Deployment durante
 
 El trabajo abarcó todos los productos del proyecto: Landing Page, Web Applications y Web Services. Se incluyen capturas de pantalla y explicaciones detalladas de los pasos realizados para garantizar un despliegue exitoso y funcional.
 
+**LINK LANDING PAGE DESPLEGADA**: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+**LINK FRONTEND DESPLAGADO**: https://weaveguard-frontend.vercel.app/
+
+**LINK BACKEND DESPLAGADO**: https://waveguard-telasecure-gfameha0dbfcd6cg.brazilsouth-01.azurewebsites.net/
+
 <img src="resources/figmaIngreso1.png">
 
 <img src="resources/figmaIngreso2.png">
@@ -2878,6 +2884,13 @@ Finalmente nos dará un link directo a la Landing page desplegada: https://si730
 ![Ejemplo de Imagen](resources/deployFrontend1.png)
 
 LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
+
+**BACKEND** 
+
+Para desplegar un backend en Azure, primero crea una cuenta en el portal de Azure y configura un recurso de App Service. Elige un nombre, sistema operativo y plan de hosting. Prepara tu backend (por ejemplo, con un archivo package.json para Node.js) y despliega la aplicación utilizando Git, FTP o la Azure CLI. Si tu backend necesita variables de entorno, configúralas en la sección Configuration del App Service. Si utilizas bases de datos, configura servicios adicionales como Azure SQL. Finalmente, verifica el despliegue accediendo a la URL proporcionada por Azure y monitorea el rendimiento con herramientas como Azure Monitor.
+
+![Ejemplo de Imagen](resources/TF/im6.png)
+
 
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint</h4></div>
 
