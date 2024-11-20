@@ -2454,7 +2454,6 @@ En cuanto a la landing page, los usuarios, al visitar la versión final, experim
 **LINK DE TRELLO**
  https://trello.com/invite/b/6711db297f39357bafeb09cc/ATTI2c467d9b50de1de4d75587836cac2e5c02550782/sprint-backlog-4
 
-**TS DEL TRELLO**
 
 | Sprint # | Sprint 3 | | | | | | |
 |----------|----------|---|---|---|---|---|---|
@@ -2620,8 +2619,7 @@ Commits realizados en el repositorio de frontend durante el sprint 3:
 | telasecure-platform   | master       | a0b8ccceaf2c5bd5336a19c1ca14827a76c2f4d1 | Merge pull request #15 from si730-2402-ws53-WebApplications/develop  | Merge pull request #15 from si730-2402-ws53-WebApplications/develop | 17/11/2024   |
 | telasecure-platform  | master       | 02e0449451f57c17b2b873065a82ff87a71606c5 | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | 17/11/2024   |
 | telasecure-platform   | master       | 0d7117046981b93448247c18e42287df90b699c6 | feat: add IAM.  | feat: add IAM.   | 17/11/2024   |
-| telasecure-platform   | master       | 47075398f847d9e2be9c18a78dcd2acff748b61c | Merge pull request #13 from si730-2402-ws53-WebApplications/develop
-  | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | 16/11/2024   |
+| telasecure-platform   | master       | 47075398f847d9e2be9c18a78dcd2acff748b61c | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | 16/11/2024   |
 | telasecure-platform  | master      | 5a84685503544753d1aa77c70ca393c6640a558d | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | 16/11/2024 |
 | telasecure-platform   | master      | b87d9873e99209d6c056ff4bcd9341c59394a008 | feat(report): added the queries services. | feat(report): added the queries services.| 02/11/2024   |
 | telasecure-platform  | master      | 751e659ecbe354acce39cd09ba3bab63799864ed | feat: added storeroom acl and fabric storeroom external service.  | feat: added storeroom acl and fabric storeroom external service.  | 16/11/2024   |
@@ -2652,12 +2650,188 @@ Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
 presenta screenshots de las principales vistas implementadas, junto con un enlace a
 un video que ilustre y explique la visualización y navegación logrados en este Sprint.
 
+![Ejemplo de Imagen](resources/TB3/landing2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landin2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing3.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing4.jpeg)
+
+* INICIO DE SESIÓN 
+
+![Ejemplo de Imagen](resources/TB2/lpIni.png)
+
+* REGISTRO DE USUARIO
+
+![Ejemplo de Imagen](resources/TB3/landing5.jpeg)
+
+
+## FRONTEND
+En este apartado mostraremos el despliegue de la ultima version web application de TelaSecure
+Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
+
+* SIDEBAR
+
+![Ejemplo de Imagen](resources/TB3/front1.jpeg)
+
+* INVENTORY - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/inventory.png)
+
+![Ejemplo de Imagen](resources/TB2/inventory2.png)
+
+* ENVIRONMENT - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/ENVI1.png)
+
+* MAINTENANCE - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB3/front4.jpeg)
+
+Video About-the-Product: 
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM
+
 <div id='5.2.4.6.'><h4>5.2.4.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+Para el sprint 3 se documentaron 12 endpoints repartidos en 4 controladores (Fabric Controller, Storeroom Controller, EnviroDevice Controller, ClimateSensor Controller). Cada controller tiene 3 endpoints (GetAll, GetById, Create). Además se empleó swagger para hacer las pruebas a los endpoints.
+
+Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
+
+### FabricController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+|Fabrics | POST| /api/v1/fabrics | Create a new fabric| Create a new fabric|CreateFabric |
+|Fabrics | GET| /api/v1/fabrics{fabricId}| Get fabric by id| Get fabric by id|GetFabricById |
+|Fabrics | GET| /api/v1/fabrics| Get all fabrics|Get all fabrics|GetAllFabrics |
+
+### StoreroomController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| Storerooms |POST | /api/v1/storerooms | Create Storeroom| Create a new storeroom.| CreateStoreroom |
+| Storerooms |GET | /api/v1/storerooms | Get All Storerooms| Get all storerooms | GetAllStorerooms |
+| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.| GetStoreroomById |
+
+### ClimateSensorController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| ClimateSensors | POST| /api/v1/climate-sensors|Create climate sensor |Create a new climate sensor |CreateClimateSensor |
+| ClimateSensors | GET| /api/v1/climate-sensors{climateSensorId}|Get climate sensor by id |Get a climate sensor by its unique identifier |GetClimateSensorById |
+| ClimateSensors | GET| /api/v1/climate-sensors|Get all climate sensors |Get all climate sensors |GetAllClimateSensors |
+
+### EnviroDeviceController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| EnviroDevices | POST | /api/v1/enviro-devices| Create enviro device| Create a new enviro device|CreateEnviroDevice |
+| EnviroDevices | GET | /api/v1/enviro-devices| Get all enviro devices| Get all enviro devices |GetAllEnviroDevices |
+| EnviroDevices | GET | /api/v1/enviro-devices{enviroDeviceId}| Get enviro device by id| Get enviro device by its unique id |GetEnviroDeviceById |
+
+![Ejemplo de Imagen](resources/TB3/back.jpeg)
+
+![swagger](resources/TB3/swagger1.png)
+
+![swagger](resources/TB3/swagger2.png)
+
+![swagger](resources/TB3/swagger3.png)
+
+![swagger](resources/TB3/swagger4.png)
+
+![swagger](resources/TB3/swagger5.png)
+
+![swagger](resources/TB3/swagger6.png)
+
+![swagger](resources/TB3/swagger7.png)
+
+![swagger](resources/TB3/swagger8.png)
+
+![swagger](resources/TB3/swagger9.png)
+
+![swagger](resources/TB3/swagger10.png)
+
+![swagger](resources/TB3/swagger11.png)
+
+![swagger](resources/TB3/swagger12.png)
 
 <div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
 
+Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
+
+Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+
+<img src="resources/figmaIngreso1.png">
+
+<img src="resources/figmaIngreso2.png">
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![Ejemplo de Imagen](resources/TB3/page1.jpeg)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](resources/TB3/page2.jpeg)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](resources/TB3/page3.jpeg)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+**Frontend**
+
+![Ejemplo de Imagen](resources/deployFrontend.png)
+
+![Ejemplo de Imagen](resources/deployFrontend1.png)
+
+LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
+
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint</h4></div>
 
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+***Landing Page***: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun gran cambio significativo en las ultimas semanas.
+
+![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 2
+    * John Arevalo Meza: 6
+    * Diego Cabrera: 2
+
+Aplicaciones Web: Se trabajó en las mejoras del frontend, optimizando la experiencia del usuario y garantizando una navegación fluida.
+
+![Ejemplo de Imagen](resources/TB3/frontReview2.png)
+![Ejemplo de Imagen](resources/TB3/frontReview1.png)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 8
+    * John Arevalo Meza: 12
+    * Diego Cabrera: 6
+
+Servicios Web: Se implementaron los servicios backend necesarios, con un enfoque en la creación de endpoints RESTful que faciliten la gestión de datos.
+
+![Ejemplo de Imagen](resources/TB3/backReview1.png)
+![Ejemplo de Imagen](resources/TB3/backReview2.png)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 3
+    * John Arevalo Meza: 15
+    * Diego Cabrera: 4
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 
