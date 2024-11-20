@@ -2706,7 +2706,7 @@ https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytL
 
 Durante el Sprint 4, se documentaron un total de 12 endpoints distribuidos en 7 controladores: Fabric Controller, Storeroom Controller, EnviroDevice Controller y ClimateSensor Controller. Cada controlador incluye los endpoints principales: GetAll, GetById y Create. Para las pruebas de los endpoints, se utilizó Swagger, facilitando la validación y verificación de su funcionalidad.
 
-Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores.
+Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores..
 
 Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
 
