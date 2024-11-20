@@ -2783,9 +2783,9 @@ Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplicatio
 
 <div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
 
-Para poder realizar la sección del Sprint Se decidió usar la plataforma de Figma donde se realizaron los mockups, wireframes y demás de manera colaborativa por parte del equipo y, con esta misma plataforma, se realizó el prototipo de la aplicacion.
+En esta sección se presentan los procesos realizados para el Deployment durante este Sprint, incluyendo actividades como creación de cuentas, configuración de recursos en proveedores cloud y ajustes en los proyectos de desarrollo para integrar o automatizar tareas de despliegue.
 
-Para poder entrar al figma del grupo es necesario contar con una cuenta ya registrada y haber iniciado sesión en la plataforma mencionada.
+El trabajo abarcó todos los productos del proyecto: Landing Page, Web Applications y Web Services. Se incluyen capturas de pantalla y explicaciones detalladas de los pasos realizados para garantizar un despliegue exitoso y funcional.
 
 <img src="resources/figmaIngreso1.png">
 
