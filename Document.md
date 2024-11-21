@@ -2887,7 +2887,7 @@ LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
 
 **BACKEND** 
 
-Para desplegar un backend en Azure, primero crea una cuenta en el portal de Azure y configura un recurso de App Service. Elige un nombre, sistema operativo y plan de hosting. Prepara tu backend (por ejemplo, con un archivo package.json para Node.js) y despliega la aplicación utilizando Git, FTP o la Azure CLI. Si tu backend necesita variables de entorno, configúralas en la sección Configuration del App Service. Si utilizas bases de datos, configura servicios adicionales como Azure SQL. Finalmente, verifica el despliegue accediendo a la URL proporcionada por Azure y monitorea el rendimiento con herramientas como Azure Monitor.
+Para desplegar un backend en Azure, primero crea una cuenta en el portal de Azure y configura un recurso de App Service. Elegir un nombre, sistema operativo y plan de hosting. Lo siguiente es crear una base de datos flexible y hacerla de acceso público y enlazarla a la app web de azure mediante un connection string. Posteriormente, subimos el proyecto, en este caso de C# y .NET a un repositorio de github, agregando el connection string al application properties. Una vez subido el repositorio, accedems a este en azure mediante github actions, ingresando la cuenta de github y seleccionando el repositorio, se creará un archivo .yml y se notificará si hay algún problema con el deploy. Cabe resaltar que se dar permisos a la direccion del frontend desplegado a través de CORS. 
 
 ![Ejemplo de Imagen](resources/TF/im6.png)
 
