@@ -63,12 +63,9 @@
 
 | Versión | Fecha    | Autor              | Descripción de la modificación                          |
 | ------- | -------- | ------------------ | ------------------------------------------------------- |
-| TF       | 16/08/24 | Diego Cabrera      | Creación del documento en formato Markdown              |
-| TF       | 27/08/24 | Diego Cabrera      | Realización del capítulo I y el capítulo IV             |
-| TF       | 27/08/24 | Diego Acuña        | Realización del capítulo I, capítulo II y capítulo V    |
-| TF      | 28/08/24 | John Arevalo       | Realización del capítulo II, capítulo III y capítulo IV |
-| TF       | 29/08/24 | Godofredo Quispe   | Realización del capítulo I y capítulo II                |
-| TF      | 30/08/24 | Valentino Sandoval | Realización del capítulo III, capítulo IV y capítulo V  |
+| TF       | 10/11/24 | Diego Cabrera      | Realización del sprint 4 y de los artefactos             |
+| TF      | 16/11/24 | John Arevalo       | Realización del sprint 4 y de los artefactos |
+| TF      | 16/11/24 | Valentino Sandoval | Realización del sprint 4 y de los artefactos  |
 
 
 ## Project Report Collaboration Insights
@@ -82,29 +79,30 @@
 |  :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------:|
 | https://github.com/si730-2402-ws53-WebApplications/telasecure-platform | https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend | https://github.com/si730-2402-ws53-WebApplications/landing-page |
 
+TF: Se han realizado todas las tareas asignadas para la entrega del TF, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/si730-2402-ws53-WebApplications. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/si730-2402-ws53-WebApplications/landing-page . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. Ademas, se presenta las ultimas versiones del FRONTEND en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend y del backend que se encuentra en el siguiente repositorio BACKEND:
 
 TB2: Se han realizado todas las tareas asignadas para la entrega del Tb2, las cuales se encuentran registradas en el repositorio de Github de la organización del equipo bajo el enlace https://github.com/si730-2402-ws53-WebApplications. Para elaborar el informe cada miembro corrigio y añadio puntos que se debian mejorar de la anterior entrega en el siguiente repositorio: https://github.com/si730-2402-ws53-WebApplications/documentation-WebApplications, de la misma manera para el desarrollo de la landing page se trabajo en este repositorio: https://github.com/si730-2402-ws53-WebApplications/landing-page . Sin embargo, para el desarollo de la Landing page tuvimos una modificaciones este último mes. FRONTEND: https://github.com/si730-2402-ws53-WebApplications/weaveguard-frontend
 
 *Vista de commits: REPORTE TF:*  
 
-![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+![Ejemplo de Imagen](resources/TF/commit1.png)
 
 COMMITS: 
 
-    * Valentino Sandoval Paiva: 
-    * John Arevalo Meza: 
-    * Diego Cabrera: 
+    * Valentino Sandoval Paiva: 10
+    * John Arevalo Meza: 3
+    * Diego Cabrera: 17
 
 
 *Vista de commits: REPORTE TB2:*  
 
-![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+![Ejemplo de Imagen](resources/TF/commit2.png)
 
 COMMITS: 
 
-    * Valentino Sandoval Paiva: 
-    * John Arevalo Meza: 
-    * Diego Cabrera: 
+    * Valentino Sandoval Paiva: 23
+    * John Arevalo Meza: 18
+    * Diego Cabrera: 45
 
 
 TB1:<br>
@@ -129,6 +127,14 @@ TB2:<br>
 |Cabrera Buitron Diego Ivan| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context  en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 3, sprint backlog 3, video about the product|
 |Sandoval Paiva Valentino| Desarrollo de backend para  bounded context, desarrollo de nueva version para meeting bounded context forntend, Sprint backlog 3, diseño de entrevistas, registro de entrevistas, testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
 | Arévalo Meza John | Desarrollo de backend para  bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
+
+TF:<br>
+|Integrante|Tarea Asignada|
+|-|-|
+|Cabrera Buitron Diego Ivan| Desarrollo del bounded context en backend, desarrollo de nueva versión de bounded context  en frontend, registro de entrevistas, execution evidence for sprint review, sprint planning 4, sprint backlog 4, video about the product|
+|Sandoval Paiva Valentino| Desarrollo de backend para  bounded context, desarrollo de nueva version para inventory bounded context forntend, Sprint backlog 4,  testing evidence for sprint, execution evidence for sprint review, descripción de problemas|
+| Arévalo Meza John | Desarrollo de backend para  bounded context, desarrollo de nueva version de frontend para backlog bounded context, Execution evidence for sprint review, software deployment evidence for sprint review, deploy de backend, team collaboration insights, registro de entrevistas|
+
 
 
 
@@ -229,6 +235,15 @@ TB2:<br>
    5.2.3.6. [Services Documentation Evidence for Sprint Review](#5.2.3.6.)<br>
    5.2.3.7. [Software Deployment Evidence for Sprint Review](#5.2.3.7.)<br>
    5.2.3.8. [Team Collaboration Insights during Sprint](#5.2.3.8.)<br>
+   5.2.4. [Sprint 4](#5.2.4.)<br>
+   5.2.4.1. [Sprint Planning 4](#5.2.4.1.)<br>
+   5.2.4.2. [Sprint Backlog 4](#5.2.4.2.)<br>
+   5.2.4.3. [Development Evidence for Sprint Review](#5.2.4.3.)<br>
+   5.2.4.4. [Testing Suite Evidence for Sprint Review](#5.2.4.4.)<br>
+   5.2.4.5. [Execution Evidence for Sprint Review](#5.2.4.5.)<br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review](#5.2.4.6.)<br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review](#5.2.4.7.)<br>
+   5.2.4.8. [Team Collaboration Insights during Sprint](#5.2.4.8.)<br>
    5.3. [**_Validation Interviews_**](#5.3.)<br>
    5.3.1.[Diseño de Entrevistas](#5.3.1.)<br>
    5.3.2.[Registro de Entrevistas](#5.3.2.)<br>
@@ -246,8 +261,8 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 
 | Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                     |
 | -- | ----- | ---- |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos.<br>TP:<br>Desarrollé el componente de Invenotry Management en llamadas colaborativas con el grupo para coordinar correctamente su creación.<br>-Apoyé en la realización del Sprint II mediante llamadas en Discord para evitar la desorganización.<br>TB2: Para este enregable, continué promoviendo un liderazgo compartido con el team leader facilitando y promoviendo la toma de decisiones. He colaborado con mis compañeros para garantizar una comunicación efectiva y una distribución igualitaria de responsabilidades, lo que ha fortalecido la cohesión y la eficacia del grupo. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas.<br>TP: <br>Fomenté un ambiente de trabajo colaborativo donde todos participaron activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. Esto nos ayudó a cumplir los objetivos y entregar todo a tiempo, desde el desarrollo hasta el despliegue sin problemas.<br>TB2: Al trabajar en el backed del proyecto ayudé a los demás miembros del equipo al brindar las estructura del proyecto y los diferentes aggregates, junto con todo lo que conllevan (controllers, repositories, models, endpoints, etc). Además de apoyar con la corrección de secciones del fronted, landing page y documentación. <br> **Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva.TP:<br>Trabajé con mi equipo para proporcionar liderazgo colaborativo, gestionando de manera efectiva la planificación y ejecución del sprint. Utilizamos un enfoque ágil para definir y priorizar tareas en el Sprint Backlog, asegurando alineación y asignación en el Sprint Planning. Mantuvimos una comunicación constante que permitió una ejecución fluida y la entrega de evidencias de desarrollo, pruebas, despliegue y documentación de servicios. La colaboración mejoró notablemente gracias a la implementación de un bounded context que organizó nuestras estrategias e integró eficientemente los servicios de software. <br> TB2: Como líder de grupo, organicé y facilité reuniones tanto virtuales como presenciales para coordinar el trabajo en equipo de manera efectiva. Fomenté un entorno colaborativo, incentivando a los miembros a plantear preguntas y compartir ideas. Establecí normas claras de comunicación y una jerarquía basada en la división de responsabilidades y áreas de enfoque. Además, asigné tareas específicas a cada integrante según sus habilidades y fortalezas, lo que ayudó a optimizar el flujo de trabajo y a garantizar que cada miembro contribuyera de manera significativa. A través de evaluaciones regulares del progreso, promoví la mejora continua y la resolución proactiva de cualquier obstáculo en el proyecto.| Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto.<br>Para el presente TP se realizó de todo lo relacionado al sprint II, teniendo ciertos inconvenientes, pero cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. <br> Para la presente TB2 se llevó a cabo todo lo relacionado con el Sprint III, enfrentando algunos inconvenientes, pero cada integrante contribuyó de manera cooperativa y coordinada con el resto del equipo, demostrando un trabajo conjunto efectivo; se implementaron mejoras y actualizaciones significativas, incluyendo la optimización de las user stories, el desarrollo de la landing page, la actualización del frontend y la creación de la primera versión del backend.|
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización.<br>TP:<br>-Las reuniones realizadas en llamadas de Discord permitieron que desarrolle de manera ordenada el component de Inventory Management<br>La designación de tareas realizadas en Trello permitieron organizar el desarrollo del informe y la mejora de este mismo. <br>TB2: <br> Durante la realización de este sprint se creo el repositorio de weaveguard-platform y se agregó los bounded context de manera eficiente mediante reuniones de llamada en Discord. <br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez, planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos.<br>TP:<br>Fomenté un ambiente de trabajo colaborativo donde todos participamos activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. <br> TB2:<br> A lo largo del sprint cree el repositorio para el service de la plataforma, incluyendo la estructura y los principales aggregates de los diferentes bounded context, además de colaborar activamente en las reuniones realizadas para avanzar el proyecto. Por otro lado, ayude al grupo mejorarando secciones en el frontend de la aplicacion. <br>**Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva.<br>TP:<br>Para esta entrega fomenté un entorno colaborativo e inclusivo, asegurando que todos los miembros del equipo participaran activamente en la planificación y ejecución de tareas. Establecimos metas claras y compartidas desde el Sprint Planning, y dividimos el trabajo de manera equitativa en el Sprint Backlog, asignando responsabilidades según las fortalezas individuales. A lo largo del sprint, promoví una comunicación abierta y fluida, lo que nos permitió cumplir con los objetivos planteados, entregar evidencias de desarrollo, pruebas, y desplegar los servicios con éxito.<br> TB2: Configuré un servidor de comunicación para el equipo donde fijé mensajes importantes y mantuve toda la información esencial sobre las asignaciones de tareas accesible para todos. Para la organización del trabajo, implementé un sistema visual en nuestro tablero de gestión (como Trello), usando códigos de colores para clasificar y priorizar tareas según su urgencia y tipo, lo que facilitó la comprensión del flujo de trabajo. Me aseguré de distribuir las responsabilidades de manera equilibrada, tomando en cuenta tanto las habilidades individuales como la disponibilidad de cada miembro. Además, organicé reuniones periódicas para revisar el progreso y resolver dudas, e incluí recordatorios automáticos para que todos estuvieran al tanto de sus tareas y plazos, fomentando así una dinámica de trabajo fluida y colaborativa. | Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br>Para el presente TP se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br> Para el presente TB2, se organizaron y desarrollaron múltiples sesiones de trabajo colaborativo, enfocadas en la coordinación efectiva de las tareas asignadas. Estas sesiones permitieron un intercambio constante de ideas y soluciones, lo que facilitó el avance en cada una de las actividades de forma estructurada y eficiente. Además, se promovió un ambiente de colaboración activa, donde cada integrante pudo aportar sus conocimientos y habilidades, asegurando que todas las tareas se realizaran de manera óptima y en los tiempos establecidos. Este enfoque colaborativo fue clave para lograr un progreso significativo en el desarrollo del proyecto y cumplir con los objetivos del equipo de manera satisfactoria. |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar la sección de Estrategias y tácticas frente a competidores pude liderar a mi equipo para coordinar cuáles serían nuestras mejores opciones, también se decidió la estructura de nuestro Diagrama de clases y el Diagrama de Base de Datos.<br>TP:<br>Desarrollé el componente de Invenotry Management en llamadas colaborativas con el grupo para coordinar correctamente su creación.<br>-Apoyé en la realización del Sprint II mediante llamadas en Discord para evitar la desorganización.<br>TB2: Para este enregable, continué promoviendo un liderazgo compartido con el team leader facilitando y promoviendo la toma de decisiones. He colaborado con mis compañeros para garantizar una comunicación efectiva y una distribución igualitaria de responsabilidades, lo que ha fortalecido la cohesión y la eficacia del grupo.<br>TF:<br>Al relaizar el sprint 4 pude comprender, junto a mis compañeros, la conexión entre el frontend y el backend, mediante reuniones en discord se logró una mejor comunicación y desarrollo del presente trabajo. <br>**John Telesforo Arevalo Meza**<br> TB1: Al trabajar en la landing page, lideré junto a mi equipo la coordinación de las mejores opciones de diseño y contenido. Así como a separar las diferentes partes de esta. Colaboramos en la elaboración de los wireframes y mockups tanto de la landing page como de la aplicación web, siempre teniendo en cuenta las ideas de los demas.<br>TP: <br>Fomenté un ambiente de trabajo colaborativo donde todos participaron activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. Esto nos ayudó a cumplir los objetivos y entregar todo a tiempo, desde el desarrollo hasta el despliegue sin problemas.<br>TB2: Al trabajar en el backed del proyecto ayudé a los demás miembros del equipo al brindar las estructura del proyecto y los diferentes aggregates, junto con todo lo que conllevan (controllers, repositories, models, endpoints, etc). Además de apoyar con la corrección de secciones del fronted, landing page y documentación.<br>TF: <br>Al culminar con este proyecto, pude coordinar con el equipo y poder realizar las tareas necesarias para la culminación de este trabajo final desarrollando la conexión entre el frontend y el backend <br> **Valentino Sandoval Paiva**<br> TB1: Durante la fase de definición de estrategias, trabajé estrechamente con mi equipo para identificar y priorizar nuestras mejores opciones. Utilizamos herramientas como Lean UX Assumptions para validar hipótesis, User Task Matrix para optimizar tareas del usuario, y Empathy Mapping para entender su perspectiva. También aplicamos Impact Mapping para alinear nuestras decisiones con los objetivos del proyecto y Organization Systems para organizar nuestras estrategias de manera efectiva.TP:<br>Trabajé con mi equipo para proporcionar liderazgo colaborativo, gestionando de manera efectiva la planificación y ejecución del sprint. Utilizamos un enfoque ágil para definir y priorizar tareas en el Sprint Backlog, asegurando alineación y asignación en el Sprint Planning. Mantuvimos una comunicación constante que permitió una ejecución fluida y la entrega de evidencias de desarrollo, pruebas, despliegue y documentación de servicios. La colaboración mejoró notablemente gracias a la implementación de un bounded context que organizó nuestras estrategias e integró eficientemente los servicios de software. <br> TB2: Como líder de grupo, organicé y facilité reuniones tanto virtuales como presenciales para coordinar el trabajo en equipo de manera efectiva. Fomenté un entorno colaborativo, incentivando a los miembros a plantear preguntas y compartir ideas. Establecí normas claras de comunicación y una jerarquía basada en la división de responsabilidades y áreas de enfoque. Además, asigné tareas específicas a cada integrante según sus habilidades y fortalezas, lo que ayudó a optimizar el flujo de trabajo y a garantizar que cada miembro contribuyera de manera significativa. A través de evaluaciones regulares del progreso, promoví la mejora continua y la resolución proactiva de cualquier obstáculo en el proyecto.<br>TF: <br> Organicé al equipo mediante reuniones online para que la realización de este trabajo se culminara de manera efectiva y ordenada, el flujo de trabajo fue decente y superior en cuanto a entregas padsadas.| Para la presente TB1 se realizó de manera acertada la realización de los capítulos I, II, III, IV y V; cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto.<br>Para el presente TP se realizó de todo lo relacionado al sprint II, teniendo ciertos inconvenientes, pero cada integrante aportó de manera cooperativa y coordinada con los demás, demostrando el trabajo conjunto. <br> Para la presente TB2 se llevó a cabo todo lo relacionado con el Sprint III, enfrentando algunos inconvenientes, pero cada integrante contribuyó de manera cooperativa y coordinada con el resto del equipo, demostrando un trabajo conjunto efectivo; se implementaron mejoras y actualizaciones significativas, incluyendo la optimización de las user stories, el desarrollo de la landing page, la actualización del frontend y la creación de la primera versión del backend.<br>TF: <br> Para el presente TF se realizó lo relacionado con el Sprint IV, se coordinó de manera plena con el grupo mediante llamadas y reuniones en discord y se obtuvo un progreso eficiente al conectar nuestor frontend con el backend.|
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Diego Ivan Cabrera Buitron**<br> TB1: Al realizar el diagrama de Base de Datos y el Diagrama de Clases se coordinó con el equipo mediante llamadas grupales por Google Meet, de esta manera cada miembro apoyó en la realización.<br>TP:<br>-Las reuniones realizadas en llamadas de Discord permitieron que desarrolle de manera ordenada el component de Inventory Management<br>La designación de tareas realizadas en Trello permitieron organizar el desarrollo del informe y la mejora de este mismo. <br>TB2: <br> Durante la realización de este sprint se creo el repositorio de weaveguard-platform y se agregó los bounded context de manera eficiente mediante reuniones de llamada en Discord.<br>TF: <br>Al realizar el presnete sprint 4 fue crucial las reuniones online realizadas para poder coornidarnos eficientemente.<br>**John Telesforo Arevalo Meza**<br> TB1: Durante la creación de los wireframes y mockups de la landing page y de la aplicación web, se estuvo un entorno inclusivo a través de reuniones grupales por Google Meet y Discord. Con el as-is y to-be mapping, establecimos metas claras y realistas, asu vez, planificamos las tareas necesarias y se contribuyó activamente para alcanzar los objetivos definidos.<br>TP:<br>Fomenté un ambiente de trabajo colaborativo donde todos participamos activamente en la planificación y ejecución. Establecimos metas claras, repartimos tareas de manera justa y mantuvimos una comunicación fluida. <br> TB2:<br> A lo largo del sprint cree el repositorio para el service de la plataforma, incluyendo la estructura y los principales aggregates de los diferentes bounded context, además de colaborar activamente en las reuniones realizadas para avanzar el proyecto. Por otro lado, ayude al grupo mejorarando secciones en el frontend de la aplicacion.<br>TF: <br>En el presente sprint, realicé el despliegue del backend y participé activamente en las reuniones proporcionadas por el team leader, estas fueron de mucha ayuda para tener una comunicación clara y concisa. <br>**Valentino Sandoval Paiva**<br> TB1: Al crear un entorno colaborativo e inclusivo, organizamos sesiones de trabajo grupales a través de Google Meet para el desarrollo del cada apartado del proyecto. Establecimos metas claras y planificamos las tareas utilizando herramientas como Lean UX Assumptions, User Task Matrix y Empathy Mapping para garantizar que cada miembro pudiera contribuir efectivamente. Implementamos Impact Mapping y Organization Systems para asegurar que nuestras decisiones y esfuerzos se alinearan con los objetivos del proyecto y se cumplieran de manera efectiva.<br>TP:<br>Para esta entrega fomenté un entorno colaborativo e inclusivo, asegurando que todos los miembros del equipo participaran activamente en la planificación y ejecución de tareas. Establecimos metas claras y compartidas desde el Sprint Planning, y dividimos el trabajo de manera equitativa en el Sprint Backlog, asignando responsabilidades según las fortalezas individuales. A lo largo del sprint, promoví una comunicación abierta y fluida, lo que nos permitió cumplir con los objetivos planteados, entregar evidencias de desarrollo, pruebas, y desplegar los servicios con éxito.<br> TB2: Configuré un servidor de comunicación para el equipo donde fijé mensajes importantes y mantuve toda la información esencial sobre las asignaciones de tareas accesible para todos. Para la organización del trabajo, implementé un sistema visual en nuestro tablero de gestión (como Trello), usando códigos de colores para clasificar y priorizar tareas según su urgencia y tipo, lo que facilitó la comprensión del flujo de trabajo. Me aseguré de distribuir las responsabilidades de manera equilibrada, tomando en cuenta tanto las habilidades individuales como la disponibilidad de cada miembro. Además, organicé reuniones periódicas para revisar el progreso y resolver dudas, e incluí recordatorios automáticos para que todos estuvieran al tanto de sus tareas y plazos, fomentando así una dinámica de trabajo fluida y colaborativa. <br>TF: <br> Realicé la conexión entre el frontend y el backend de manera concreta mediante información intercambiada con los participantes del equipo en reuniones que organicé oportunamente, organicé y designé las tareas por realizar para el equipo.| Para la presente TB1 se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br>Para el presente TP se realizaron varias sesiones colaborativas para la coordinación de las tareas asignadas y realizarlas de manera idónea.<br> Para el presente TB2, se organizaron y desarrollaron múltiples sesiones de trabajo colaborativo, enfocadas en la coordinación efectiva de las tareas asignadas. Estas sesiones permitieron un intercambio constante de ideas y soluciones, lo que facilitó el avance en cada una de las actividades de forma estructurada y eficiente. Además, se promovió un ambiente de colaboración activa, donde cada integrante pudo aportar sus conocimientos y habilidades, asegurando que todas las tareas se realizaran de manera óptima y en los tiempos establecidos. Este enfoque colaborativo fue clave para lograr un progreso significativo en el desarrollo del proyecto y cumplir con los objetivos del equipo de manera satisfactoria.<br>Para el presente TF, se realizaron varias reuniones para tener un entorno colaborativo, lo cuál facilitó la realización del presente trabajo, aportando nuestros conocimientos para el despliegue y la conexión entre el backend y el frontend de manera óptima y concisa.|
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 <div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
@@ -910,19 +925,19 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 | ID     | Título                                              | Descripción                                                                                                                                                                                                                                                                                        | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                               | EpicID |
 |--------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| TS001  | Implementar API REST para generación de reportes personalizables | Como developer, necesito implementar un endpoint RESTful que permita a los usuarios generar reportes personalizados basados en los criterios de fecha, tipo de reporte, y área específica. Este endpoint debe soportar filtros avanzados y responder con la información en formato JSON.       | - **Escenario 1:** Generación de reporte exitoso <br>   **Dado** que se envía una solicitud GET con criterios de filtro válidos, <br>   **Cuando** el backend procesa la solicitud, <br>   **Entonces** se debe devolver el reporte filtrado en formato JSON con un código 200. <br> - **Escenario 2:** Filtro inválido en generación de reporte <br>   **Dado** que se envía una solicitud GET con parámetros incorrectos, <br>   **Entonces** se debe devolver un código 400 con un mensaje de error. | EP07   |
-| TS002 | Implementar endpoint para generación de gráficos en reportes ambientales | Como developer, necesito crear un endpoint que genere gráficos de temperatura y humedad en reportes ambientales, facilitando la visualización de datos históricos. | - Escenario 1: Generación de gráfico exitoso <br> Dado que se envía una solicitud GET para generar un reporte ambiental, <br> Cuando el backend recibe los datos y los procesa, <br> Entonces debe responder con un gráfico de línea en JSON que muestre las tendencias de temperatura y humedad. <br> - Escenario 2: Error en la generación de gráfico <br> Dado que faltan datos para el gráfico, <br> Entonces el backend debe devolver un mensaje de error con código 400. | EP07 |
-| TS003 | Configuración de API para almacenamiento de datos históricos de plagas | Como developer, necesito configurar un endpoint que permita almacenar el historial de detección de plagas, incluyendo fecha, ubicación, tipo de plaga, y medidas correctivas. | - Escenario 1: Registro exitoso de plaga detectada <br> Dado que se detecta una plaga y se envían los datos correspondientes, <br> Cuando se envía una solicitud POST, <br> Entonces el backend debe almacenar un registro detallado y devolver un código 201. <br> - Escenario 2: Consulta de historial de plagas <br> Dado que se envía una solicitud GET para consultar el historial, <br> Entonces el backend debe devolver los registros históricos en JSON con un código 200. | EP07 |
-| TS004 | Endpoint para mostrar beneficios de la plataforma en la landing page | Como developer, necesito crear un endpoint que proporcione los beneficios de la plataforma para mostrarlos en la landing page. | - Escenario 1: Respuesta exitosa con beneficios <br> Dado que el frontend solicita los beneficios, <br> Cuando se envía una solicitud GET, <br> Entonces el backend debe responder con los beneficios en formato JSON y un código 200. <br> - Escenario 2: Beneficios destacados por relevancia <br> Dado que hay múltiples beneficios, <br> Cuando se envía una solicitud GET, <br> Entonces el backend debe ordenar los beneficios más relevantes en la parte superior de la respuesta. | EP07 |
-| TS005 | Implementar API para llamada a la acción en la landing page | Como developer, necesito crear un endpoint que proporcione la información de la llamada a la acción (CTA) en la landing page, invitando al usuario a registrarse o probar la plataforma. | - Escenario 1: Visualización de la CTA exitosa <br> Dado que se solicita la CTA, <br> Cuando se envía una solicitud GET, <br> Entonces el backend responde con los datos de la CTA en JSON y un código 200. <br> - Escenario 2: Cambios en la CTA según interacción <br> Dado que la CTA tiene estados interactivos, <br> Cuando el backend recibe una solicitud de actualización, <br> Entonces debe responder con el estado actualizado en JSON. | EP07 |
-| TS006 | Crear API para menú lateral navegable | Como developer, necesito implementar un endpoint que proporcione las opciones de navegación para un menú lateral dinámico en la aplicación. | - Escenario 1: Visualización exitosa del menú lateral <br> Dado que el usuario solicita el menú lateral, <br> Cuando se envía una solicitud GET, <br> Entonces el backend responde con las opciones de navegación en JSON y un código 200. <br> - Escenario 2: Apertura y cierre del menú lateral <br> Dado que el usuario solicita actualizar el estado del menú, <br> Cuando se envía una solicitud POST, <br> Entonces el backend debe responder confirmando el cambio. | EP07 |
-| TS007 | API para configuración de la cuenta del usuario | Como developer, necesito implementar un endpoint para la configuración de la cuenta del usuario, permitiendo modificar su información. | - Escenario 1: Acceso a configuración de cuenta <br> Dado que el usuario desea modificar su configuración, <br> Cuando envía una solicitud GET, <br> Entonces el backend responde con los datos de configuración actuales en JSON. <br> - Escenario 2: Guardado exitoso de configuración <br> Dado que el usuario envía modificaciones en su configuración, <br> Cuando envía una solicitud PUT, <br> Entonces el backend guarda los cambios y devuelve un mensaje de éxito. | EP07 |
-| TS008 | Crear API para registro de telas en el inventario | Como developer, necesito implementar un endpoint que permita registrar nuevas telas en el inventario. | - Escenario 1: Registro exitoso de tela <br> Dado que el usuario proporciona todos los detalles necesarios, <br> Cuando envía una solicitud POST, <br> Entonces el backend crea un nuevo registro de tela y devuelve un código 201. <br> - Escenario 2: Validación de datos incompletos <br> Dado que el usuario omite detalles importantes, <br> Entonces el backend debe devolver un código de error 400 con un mensaje adecuado. | EP07 |
-| TS009 | API para aplicar filtros de inventario por almacén | Como developer, necesito crear un endpoint que permita aplicar filtros al inventario por almacén específico. | - Escenario 1: Filtros aplicados correctamente <br> Dado que el usuario desea ver el inventario de un almacén específico, <br> Cuando envía una solicitud GET con filtros, <br> Entonces el backend responde con los productos de ese almacén en JSON. <br> - Escenario 2: Sin filtros aplica todo el inventario <br> Dado que el usuario no aplica filtros, <br> Entonces el backend devuelve todo el inventario. | EP07 |
-| TS010 | Endpoint para configurar alertas de temperatura y humedad | Como developer, necesito implementar un servicio que permita configurar alertas de temperatura y humedad. | - Escenario 1: Configuración exitosa de alertas <br> Dado que el usuario establece parámetros válidos, <br> Cuando envía una solicitud POST, <br> Entonces el backend guarda la configuración y devuelve un código 201. <br> - Escenario 2: Validación de parámetros incorrectos <br> Dado que el usuario ingresa parámetros inválidos, <br> Entonces el backend devuelve un mensaje de error 400. | EP07 |
-| TS011 | Implementar API para monitoreo en tiempo real de temperatura y humedad | Como developer, necesito crear un endpoint que permita la visualización en tiempo real de datos de temperatura y humedad para un almacén específico. | - Escenario 1: Monitoreo en tiempo real exitoso <br> Dado que el usuario solicita datos en tiempo real, <br> Cuando envía una solicitud GET, <br> Entonces el backend responde con los datos actualizados. <br> - Escenario 2: Manejo de desconexiones <br> Dado que se pierde la conexión, <br> Entonces el backend envía un mensaje de error y reintenta automáticamente. | EP07 |
-| TS012 | Crear API para registro de almacenes y sensores | Como developer, necesito implementar un endpoint que permita registrar almacenes y sus sensores asociados. | - Escenario 1: Registro exitoso de almacén y sensor <br> Dado que el usuario proporciona todos los datos necesarios, <br> Cuando envía una solicitud POST, <br> Entonces el backend registra el almacén con el sensor y devuelve un código 201. <br> - Escenario 2: Validación de datos incompletos <br> Dado que el usuario omite datos requeridos, <br> Entonces el backend devuelve un código 400 con un mensaje de error. | EP07 |
-| TS013 | Endpoint para visualización de almacenes y sensores | Como developer, necesito crear un endpoint que permita visualizar todos los almacenes y sus sensores registrados. | - Escenario 1: Visualización exitosa de almacenes y sensores <br> Dado que el usuario accede a la sección de almacenes, <br> Cuando envía una solicitud GET, <br> Entonces el backend devuelve la lista en JSON. <br> - Escenario 2: Ordenar almacenes por nombre <br> Dado que el usuario solicita orden alfabético, <br> Entonces el backend devuelve la lista ordenada por nombre. | EP07 |
+| **TS001**  | Implementar API REST para generación de reportes personalizables | Crear un endpoint REST que permita a los usuarios obtener reportes personalizados en formato JSON, utilizando filtros avanzados (fecha, tipo de reporte, área específica) para mejorar la precisión de los datos entregados. | - **Escenario 1:** Generación de reporte exitosa <br> **Dado** un conjunto válido de filtros en la solicitud GET <br> **Cuando** el backend procesa los filtros <br> **Entonces** debe responder con un reporte en JSON y código HTTP 200. <br><br> - **Escenario 2:** Error en los filtros de solicitud <br> **Dado** que la solicitud GET incluye filtros no válidos <br> **Entonces** debe devolver un código 400 y un mensaje de error descriptivo. | **EP07** |
+| **TS002**  | Implementar endpoint para generación de gráficos en reportes ambientales | Crear un endpoint que genere gráficos de líneas para reportes ambientales (temperatura y humedad) a partir de datos históricos, proporcionando al usuario una visualización clara de tendencias. | - **Escenario 1:** Generación de gráfico exitosa <br> **Dado** una solicitud GET para un gráfico ambiental válido <br> **Cuando** el backend procesa la solicitud <br> **Entonces** se debe responder con un gráfico de línea en JSON mostrando tendencias de temperatura y humedad, y un código HTTP 200. <br><br> - **Escenario 2:** Faltan datos para el gráfico <br> **Dado** una solicitud GET con datos insuficientes <br> **Entonces** se debe responder con un mensaje de error y un código HTTP 400. | **EP07** |
+| **TS003**  | Configuración de API para almacenamiento de datos históricos de plagas | Implementar un endpoint para almacenar y consultar datos históricos de detección de plagas (fecha, ubicación, tipo de plaga, medidas correctivas) para un registro detallado. | - **Escenario 1:** Registro exitoso de detección de plaga <br> **Dado** que el usuario proporciona todos los datos de detección <br> **Cuando** el backend procesa la solicitud POST <br> **Entonces** se guarda el registro y se devuelve un código HTTP 201. <br><br> - **Escenario 2:** Consulta de historial de plagas <br> **Dado** que el usuario envía una solicitud GET <br> **Entonces** el backend debe responder con el historial en JSON y un código HTTP 200. | **EP07** |
+| **TS004**  | Endpoint para mostrar beneficios de la plataforma en la landing page | Crear un endpoint que entregue al frontend los beneficios de la plataforma, permitiendo que se muestren en orden de relevancia en la página de inicio. | - **Escenario 1:** Entrega exitosa de beneficios <br> **Dado** que el frontend solicita los beneficios <br> **Cuando** se envía la solicitud GET <br> **Entonces** el backend responde con los beneficios ordenados por relevancia en formato JSON y un código HTTP 200. | **EP07** |
+| **TS005**  | Implementar API para llamada a la acción en la landing page | Proporcionar un endpoint para la CTA en la landing page, que muestre una invitación al registro o prueba de la plataforma, y soporte cambios interactivos en tiempo real. | - **Escenario 1:** Visualización de la CTA <br> **Dado** que el usuario solicita la CTA <br> **Cuando** se envía una solicitud GET <br> **Entonces** el backend responde con la CTA en formato JSON y un código HTTP 200. <br><br> - **Escenario 2:** Actualización de la CTA <br> **Dado** que la CTA tiene estados interactivos <br> **Cuando** el backend recibe una solicitud POST para actualizar el estado <br> **Entonces** responde con el estado actualizado en JSON. | **EP07** |
+| **TS006**  | Crear API para menú lateral navegable | Implementar un endpoint para obtener las opciones de navegación en el menú lateral, permitiendo su actualización dinámica en la interfaz de usuario. | - **Escenario 1:** Visualización de opciones del menú lateral <br> **Dado** que el usuario solicita el menú lateral <br> **Cuando** se envía una solicitud GET <br> **Entonces** el backend responde con las opciones en JSON y un código HTTP 200. <br><br> - **Escenario 2:** Actualización del estado del menú lateral <br> **Dado** que el usuario interactúa con el menú <br> **Cuando** se envía una solicitud POST <br> **Entonces** el backend confirma el cambio de estado. | **EP07** |
+| **TS007**  | API para configuración de la cuenta del usuario | Endpoint que permite a los usuarios consultar y modificar su configuración de cuenta, asegurando la persistencia de cambios. | - **Escenario 1:** Consulta de configuración de cuenta <br> **Dado** que el usuario envía una solicitud GET <br> **Entonces** el backend responde con los datos actuales de configuración en JSON. <br><br> - **Escenario 2:** Guardado de configuración de cuenta <br> **Dado** que el usuario envía cambios válidos <br> **Cuando** se envía una solicitud PUT <br> **Entonces** el backend guarda y confirma los cambios. | **EP07** |
+| **TS008**  | Crear API para registro de telas en el inventario | Endpoint que permite el registro de nuevas telas en el inventario, validando la completitud de los datos. | - **Escenario 1:** Registro exitoso de tela <br> **Dado** que el usuario proporciona los datos necesarios <br> **Cuando** se envía una solicitud POST <br> **Entonces** el backend crea el registro y responde con código HTTP 201. <br><br> - **Escenario 2:** Validación de datos incompletos <br> **Dado** que faltan datos en la solicitud <br> **Entonces** se responde con un código HTTP 400 y un mensaje de error. | **EP07** |
+| **TS009**  | API para aplicar filtros de inventario por almacén | Endpoint que permite filtrar el inventario por almacén, con la opción de mostrar el inventario completo en caso de no aplicar filtros. | - **Escenario 1:** Aplicación exitosa de filtros <br> **Dado** que el usuario filtra por almacén <br> **Cuando** se envía una solicitud GET <br> **Entonces** el backend responde con los productos filtrados. <br><br> - **Escenario 2:** Consulta sin filtros <br> **Dado** que no se envían filtros <br> **Entonces** el backend devuelve todo el inventario. | **EP07** |
+| **TS010**  | Endpoint para configurar alertas de temperatura y humedad | Proveer un endpoint para configurar alertas de temperatura y humedad, validando los parámetros antes de guardarlos. | - **Escenario 1:** Configuración de alerta exitosa <br> **Dado** que los parámetros son válidos <br> **Cuando** se envía una solicitud POST <br> **Entonces** el backend guarda y confirma la configuración. <br><br> - **Escenario 2:** Parámetros de alerta inválidos <br> **Dado** que los parámetros no son válidos <br> **Entonces** el backend devuelve un mensaje de error y un código HTTP 400. | **EP07** |
+| **TS011**  | Implementar API para monitoreo en tiempo real de temperatura y humedad | Crear un endpoint para obtener datos de temperatura y humedad en tiempo real de un almacén específico, mejorando la precisión en el monitoreo. | - **Escenario 1:** Monitoreo en tiempo real exitoso <br> **Dado** que el usuario solicita datos de temperatura y humedad en tiempo real <br> **Cuando** se envía una solicitud GET <br> **Entonces** el backend debe responder con datos actualizados en JSON y un código HTTP 200. <br><br> - **Escenario 2:** Manejo de desconexiones <br> **Dado** que se pierde la conexión <br> **Entonces** el backend envía un mensaje de error y realiza un reintento automático. | **EP07** |
+| **TS012**  | Crear API para registro de almacenes y sensores | Implementar un endpoint para registrar almacenes y sus sensores, facilitando la identificación y organización de estos datos en el sistema. | - **Escenario 1:** Registro exitoso de almacén y sensor <br> **Dado** que el usuario proporciona toda la información necesaria <br> **Cuando** se envía una solicitud POST <br> **Entonces** el backend guarda el registro del almacén y el sensor, y responde con un código HTTP 201. <br><br> - **Escenario 2:** Validación de datos incompletos <br> **Dado** que faltan datos en la solicitud <br> **Entonces** el backend devuelve un mensaje de error descriptivo y un código HTTP 400. | **EP07** |
+| **TS013**  | Endpoint para visualización de almacenes y sensores | Crear un endpoint que permita visualizar todos los almacenes y sus sensores asociados, ordenados alfabéticamente para facilitar su consulta. | - **Escenario 1:** Visualización exitosa de almacenes y sensores <br> **Dado** que el usuario accede a la sección de almacenes <br> **Cuando** envía una solicitud GET <br> **Entonces** el backend responde con la lista de almacenes y sensores en JSON y un código HTTP 200. <br><br> - **Escenario 2:** Ordenar almacenes por nombre <br> **Dado** que el usuario solicita ordenación alfabética <br> **Entonces** el backend responde con la lista ordenada por nombre en JSON. | **EP07** |
 
 
 
@@ -996,18 +1011,18 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 | Story ID | Título                                   |
 |----------|-------------------------------------------|
 | TS001     | Implementar API REST para generación de reportes personalizables|
-| TS002     | Implementar visualización de datos en gráficos para reportes ambientales|
-| TS003     | Configuración del almacenamiento de datos históricos de plagas   |
-| TS004     | Implementar Sección de Beneficios en la Landing Page|
-| TS005     | Crear Llamada a la Acción en la Landing Page  |
-| TS006     |Implementar Menú Lateral Navegable|
-|TS007|Crear Vista de Configuración en la Barra Superior|
-|TS008|Crear API para Registro de Telas en el Inventario|
-|TS009|Implementar Filtros para Visualización de Inventario por Almacén |
-|TS010|API para Configuración de Alertas de Temperatura y Humedad|
-|TS011|Monitoreo en Tiempo Real de Temperatura y Humedad|
-|TS012|Crear API para Registrar Almacenes y Sensores|
-|TS013|Implementar Visualización de Almacenes y Sensores |
+| TS002     | Implementar endpoint para generación de gráficos en reportes ambientales|
+| TS003     | Configuración de API para almacenamiento de datos históricos de plagas   |
+| TS004     | Endpoint para mostrar beneficios de la plataforma en la landing page|
+| TS005     | Implementar API para llamada a la acción en la landing page  |
+| TS006     | Crear API para menú lateral navegable|
+| TS007     | API para configuración de la cuenta del usuario|
+| TS008     | Crear API para registro de telas en el inventario|
+| TS009     | API para aplicar filtros de inventario por almacén |
+| TS010     | Endpoint para configurar alertas de temperatura y humedad|
+| TS011     | Implementar API para monitoreo en tiempo real de temperatura y humedad|
+| TS012     | Crear API para registro de almacenes y sensores|
+| TS013     | Endpoint para visualización de almacenes y sensores |
 
 
 <div id='3.3'><h3> 3.3. Impact Mapping. </h3></div>
@@ -1019,25 +1034,25 @@ SEGMENTO ENCARGADOS DEL INVENTARIO DE EMPRESAS DE CONFECCIÓN: Aquí para el seg
 
 | Prioridad | ID      | Descripción                                                                                                             | Tipo              | Story Points (SP) |
 |-----------|---------|-------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------|
-| 1         | TS001   | Implementar API REST para generar reportes personalizados en formato JSON.                                              | Technical Story   | 3                  |
-| 2         | TS010   | Crear API para configuración de alertas de temperatura y humedad.                                                       | Technical Story   | 4                  |
+| 1         | TS001   | Implementar API REST para generación de reportes personalizables                                             | Technical Story   | 3                  |
+| 2         | TS010   | Endpoint para configurar alertas de temperatura y humedad                                                       | Technical Story   | 4                  |
 | 3         | US001   | Mostrar beneficios de la plataforma en la landing page para facilitar el registro.                                      | User Story        | 3                  |
-| 4         | TS002   | Crear gráficos para reportes ambientales que muestren tendencias de temperatura y humedad.                              | Technical Story   | 4                  |
-| 5         | TS006   | Desarrollar un menú lateral navegable en la aplicación.                                                                 | Technical Story   | 3                  |
+| 4         | TS002   | Implementar endpoint para generación de gráficos en reportes ambientales                             | Technical Story   | 4                  |
+| 5         | TS006   | Crear API para menú lateral navegable                                                               | Technical Story   | 3                  |
 | 6         | US002   | Implementar una llamada a la acción (Call to Action) para registro rápido en la landing page.                           | User Story        | 2                  |
 | 7         | US004   | Habilitar acceso rápido desde la landing page para usuarios recurrentes.                                                | User Story        | 5                  |
 | 8         | US005   | Asegurar que la landing page sea responsive en distintos dispositivos.                                                  | User Story        | 5                  |
-| 9         | TS011   | Visualizar datos de temperatura y humedad en tiempo real en almacenes.                                                  | Technical Story   | 5                  |
+| 9         | TS011   | Implementar API para monitoreo en tiempo real de temperatura y humedad                                                  | Technical Story   | 5                  |
 | 10        | US012   | Crear un sistema sencillo de inicio de sesión.                                                                          | User Story        | 3                  |
 | 11        | US013   | Permitir la creación de cuentas múltiples para gestión de perfiles.                                                     | User Story        | 5                  |
 | 12        | US014   | Registrar nuevas telas en el inventario con detalles de tipo, cantidad y ubicación.                                     | User Story        | 3                  |
 | 13        | US020   | Configurar alertas de temperatura en la sección de gestión ambiental.                                                   | User Story        | 3                  |
 | 14        | US021   | Visualizar la temperatura en tiempo real en los almacenes.                                                              | User Story        | 5                  |
 | 15        | US027   | Registrar nuevos almacenes para gestionar sensores y condiciones ambientales.                                           | User Story        | 3                  |
-| 16        | TS004   | Crear una sección en la landing page para mostrar los beneficios de la plataforma.                                      | Technical Story   | 2                  |
-| 17        | TS005   | Implementar una llamada a la acción (CTA) en la landing page.                                                           | Technical Story   | 2                  |
-| 18        | TS012   | Implementar API para registrar almacenes y sus sensores asociados.                                                      | Technical Story   | 3                  |
-| 19        | TS013   | Desarrollar vista para visualizar almacenes y sensores registrados.                                                     | Technical Story   | 3                  |
+| 16        | TS004   | Endpoint para mostrar beneficios de la plataforma en la landing page                                    | Technical Story   | 2                  |
+| 17        | TS005   | Implementar API para llamada a la acción en la landing page                                                          | Technical Story   | 2                  |
+| 18        | TS012   | Crear API para registro de almacenes y sensores                                                     | Technical Story   | 3                  |
+| 19        | TS013   | Endpoint para visualización de almacenes y sensores                                                    | Technical Story   | 3                  |
 
 
 
@@ -1615,7 +1630,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="resources/classdiagram.png">
+<img src="resources/TF/diagrama.png">
 
 <div id="4.7.1."><h4>4.7.2. Class Dictionary</h4>
 
@@ -1649,7 +1664,7 @@ Los componentes del sistema siguen el patrón de arquitectura en capas, organiza
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
 
-<img src="resources/dataClass.png">
+<img src="resources\TF\basededatos.png">
 
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment</h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management</h3></div>
@@ -2419,15 +2434,503 @@ COMMITS:
 
 
 <div id='5.2.4.'><h3> 5.2.4. Sprint 4</h3></div>
+
+Durante el Sprint 4, nuestro enfoque principal fue el desarrollo del BackEnd y la conexion de este con el FrontEnd de Waveguard, además de realizar todas las mejoras correspondientes para este. Este sprint fue fundamental para implementar las ultimas versiones de nuestras aplicaciones.
+
 <div id='5.2.4.1.'><h4>5.2.4.1. Sprint Planning 4</h4></div>
+
+En este Sprint 3, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+| Sprint #                        | Sprint 4                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 4                                                                                                                                       |
+| Date                            |15/11/2024                                                                                                                                    |
+| Time                             | 19:00 AM                                                                                                                                       |
+| Location                            | Discord (Reunión virtual)                                                                                                                      |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
+| Attendees (to planning meeting) |Diego Ivan Cabrera Buitron, John Telesforo Arevalo Meza, Valentino Sandoval Paiva           |
+| Sprint n – 4 Review Summary                    | Logramos completar el  despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo la visualización de datos y la funcionalidad principal de gestión de inventarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario como el inicio de sesión y el registro de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas. |
+| Sprint n – 4 Retrospective Summary                   | Para este ultimo sprint se notó una gran mejora en la comunicación y colaboración entre los miembros del equipo, lo cual facilitó el avance en las tareas mas importantes. |
+| Sprint Goal & User Stories       |
+ Sprint 3 Goal                    | Nuestro objetivo principal es brindar a los usuarios la oportunidad de explorar la versión final de la landing page, ofreciéndoles una experiencia visual y funcional optimizada. Esta página destacará información clara y detallada sobre el producto o servicio, incentivando acciones específicas como registrarse, realizar una compra, descargar un recurso o ponerse en contacto con el equipo de ventas. Adicionalmente, completaremos la implementación final del frontend, garantizando una interfaz responsiva y de alto rendimiento, junto con la entrega de la versión final del backend. Este backend incluirá todas las funcionalidades necesarias para asegurar la operatividad de la página y una interacción fluida con el usuario. Creemos que este enfoque mejorará la experiencia del usuario, fortalecerá la gestión de servicios, el cuidado y el control. Ademas, ampliará las capacidades de los desarrolladores para trabajar con funcionalidades clave de la plataforma. La efectividad de estas mejoras se confirmará cuando los usuarios puedan interactuar con una landing page completamente funcional y visualmente atractiva, con opciones claras y directas para lograr sus objetivos.. |
+| Sprint 4 Velocity                | Para la realización de este sprint el equipo puede aceptar hasta 70 story points |
+| Sum of story points             | La suma de story point atendidos es de 70 story point.  |
+
+
 <div id='5.2.4.2.'><h4>5.2.4.2. Sprint Backlog 4</h4></div>
+
+### Objetivo del Sprint  
+
+El objetivo principal de este Sprint es optimizar la experiencia del usuario en la plataforma mediante la implementación y mejora de funcionalidades clave, como la gestión de cuentas, la organización del inventario por categorías y áreas, y el monitoreo en tiempo real de condiciones ambientales. También se busca asegurar que los usuarios reciban alertas y notificaciones precisas para mantener el control del inventario y mejorar la usabilidad de la interfaz.  
+
+En cuanto a la **landing page**, los usuarios experimentarán una versión final con una interfaz visual y funcionalmente optimizada, que destaca información clara y relevante sobre el producto o servicio, incentivándolos a realizar acciones específicas como registrarse, realizar compras, descargar recursos o contactar al equipo de ventas. Se completó la implementación final del frontend, garantizando una interfaz responsiva y de alto rendimiento, junto con la entrega de un backend totalmente funcional, asegurando la operatividad y la interacción eficiente con los usuarios.  
+
+Adicionalmente, como parte de este último Sprint, se implementó el **IAM (Identity and Access Management)**, fortaleciendo la seguridad y control de acceso en la plataforma para garantizar una experiencia segura y confiable para todos los usuarios.  
+
+![Ejemplo de Imagen](resources/TF/trello.png)
+
+
+**LINK DE TRELLO**
+ https://trello.com/invite/b/6711db297f39357bafeb09cc/ATTI2c467d9b50de1de4d75587836cac2e5c02550782/sprint-backlog-4
+
+
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | | |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA01 | Diseñar la arquitectura del servicio | Diseñar la arquitectura necesaria para soportar la visualización de datos en gráficos interactivos. | 3 | Jhon Arevalo | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA02 | Definir los requisitos del endpoint | Identificar los parámetros necesarios para el endpoint de visualización, como el formato de los datos y filtros. | 2 | Valentino Sandoval | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA03 | Desarrollar la validación de entrada de datos | Asegurar que los datos de entrada sean correctos y compatibles con los requerimientos del gráfico. | 3 | Diego Cabrera | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA04 | Implementar la lógica de gráficos interactivos | Desarrollar la lógica para generar gráficos interactivos en función de los datos recibidos por el endpoint. | 5 | Jhon Arevalo | Done |
+| TS02 | Desarrollar endpoint para la visualización de datos ambientales en gráficos interactivos | TA05 | Probar la visualización de los gráficos | Realizar pruebas para asegurar que los gráficos se renderizan correctamente en diferentes dispositivos. | 3 | Valentino Sandoval | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA01 | Implementar endpoint de eliminación de climate sensors | Crear el endpoint para eliminar un sensor climático de la base de datos. | 5 | Diego Cabrera | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA02 | Validar permisos de eliminación | Implementar control de acceso para asegurar que solo usuarios con permisos puedan eliminar sensores. | 3 | Jhon Arevalo | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA03 | Probar endpoint de eliminación | Realizar pruebas para verificar que el endpoint elimina correctamente los sensores y maneja errores. | 2 | Valentino Sandoval | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA04 | Actualizar la base de datos después de la eliminación | Implementar la lógica para actualizar el estado de la base de datos después de eliminar un sensor. | 3 | Diego Cabrera | Done |
+| TS03 | Desarrollo de endpoint para eliminación de climate sensors | TA05 | Documentar endpoint de eliminación | Crear documentación detallada para el uso del endpoint de eliminación de sensores, incluyendo ejemplos. | 2 | Jhon Arevalo | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA00 | Gestionar control de acceso de permisos | Definir y gestionar el control de acceso para la actualización de storerooms. | 4 | Valentino Sandoval | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA01 | Definir los requisitos de actualización para los storerooms | Identificar los campos que serán actualizados y las validaciones necesarias. | 3 | Diego Cabrera | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA02 | Implementar el endpoint de actualización | Desarrollar el endpoint para actualizar la información de los storerooms en la base de datos. | 5 | Jhon Arevalo | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA03 | Validar datos antes de la actualización | Asegurarse de que los datos de actualización sean válidos antes de realizar la operación. | 3 | Valentino Sandoval | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA04 | Probar el endpoint de actualización | Realizar pruebas para asegurar que el endpoint funciona correctamente con los datos actualizados. | 4 | Diego Cabrera | Done |
+| TS04 | Desarrollo de endpoint para actualización de storerooms | TA05 | Crear pruebas de rendimiento del endpoint | Realizar pruebas de carga para verificar el rendimiento del endpoint con grandes cantidades de datos. | 3 | Jhon Arevalo | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA01 | Implementar endpoint de eliminación de storerooms | Crear el endpoint para eliminar un storeroom de la base de datos. | 5 | Valentino Sandoval | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA02 | Validar dependencias antes de eliminación | Verificar si el storeroom tiene dependencias activas que deban ser gestionadas antes de eliminarlo. | 3 | Diego Cabrera | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA03 | Probar endpoint de eliminación | Realizar pruebas para asegurar que el endpoint elimina correctamente los storerooms. | 2 | Jhon Arevalo | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA04 | Implementar manejo de errores de eliminación | Añadir manejo de errores para situaciones donde el storeroom no pueda eliminarse debido a dependencias. | 3 | Valentino Sandoval | Done |
+| TS05 | Desarrollo de endpoint para eliminación de storerooms | TA05 | Actualizar la base de datos después de la eliminación | Implementar la lógica para actualizar la base de datos después de eliminar un storeroom. | 3 | Diego Cabrera | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA01 | Implementar endpoint para actualización de temperatura | Desarrollar el endpoint para actualizar los valores de temperatura máxima y mínima en un storeroom. | 5 | Jhon Arevalo | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA02 | Validar los datos de temperatura | Asegurar que las temperaturas máximas y mínimas sean válidas según los límites definidos. | 3 | Valentino Sandoval | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA03 | Probar el endpoint de actualización | Realizar pruebas para verificar que el endpoint actualiza correctamente la temperatura de los storerooms. | 2 | Diego Cabrera | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA04 | Actualizar la base de datos después de la actualización | Asegurar que la base de datos refleja correctamente los cambios realizados en la temperatura del storeroom. | 3 | Jhon Arevalo | Done |
+| TS06 | Desarrollo de endpoint para actualización de temperatura máxima y mínima de un storeroom | TA05 | Crear documentación del endpoint | Documentar el endpoint y los parámetros de temperatura para su uso por otros servicios. | 2 | Valentino Sandoval | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA01 | Implementar endpoint para actualización de humedad | Desarrollar el endpoint para actualizar los valores de humedad máxima y mínima de un storeroom. | 5 | Diego Cabrera | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA02 | Validar los datos de humedad | Asegurar que las humedades máximas y mínimas sean válidas según los límites definidos. | 3 | Jhon Arevalo | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA03 | Probar el endpoint de actualización | Realizar pruebas para asegurar que el endpoint actualiza correctamente los umbrales de humedad. | 2 | Valentino Sandoval | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA04 | Actualizar la base de datos después de la actualización | Asegurarse de que los datos de humedad se actualizan correctamente en la base de datos. | 3 | Diego Cabrera | Done |
+| TS07 | Desarrollo de endpoint para actualización de umbrales de humedad máxima y mínima de un storeroom | TA05 | Realizar pruebas de integración | Verificar que la actualización de los umbrales de humedad no interfiera con otros servicios relacionados. | 3 | Jhon Arevalo | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA01 | Implementar endpoint de eliminación de environment devices | Crear el endpoint para eliminar dispositivos de ambiente (environment devices). | 5 | Valentino Sandoval | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA02 | Validar permisos de eliminación | Asegurar que solo los usuarios autorizados puedan eliminar dispositivos. | 3 | Diego Cabrera | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA03 | Probar endpoint de eliminación | Realizar pruebas para asegurar que el endpoint elimina correctamente los dispositivos de ambiente. | 2 | Jhon Arevalo | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA04 | Implementar manejo de errores de eliminación | Añadir manejo de errores para situaciones donde el dispositivo no pueda ser eliminado. | 3 | Valentino Sandoval | Done |
+| TS08 | Desarrollo de endpoint para eliminación de environment devices | TA05 | Actualizar la base de datos después de la eliminación | Asegurarse de que la base de datos refleja correctamente los cambios después de la eliminación de un dispositivo. | 3 | Diego Cabrera | Done |
+
+**En esta sección presentamos los USER STORIES Y LAS TECHNICAL STORIES DEL IAM IMPLEMENTADO**
+
+| Sprint # | Sprint 4 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item / Task** | | | **Estimation<br>(Hours)** | **Assigned<br>To** | **Status<br>(To-do / InProcess / To-Review / Done)** |
+| **ID**   | **Title** | **ID** | **Title** | **Description** | | |
+| **US001** | **Inicio de sesión de usuario** | **T01** | Diseñar formulario de inicio de sesión | Crear un formulario de inicio de sesión con campos de usuario y contraseña. | 2 | María Pérez | Done |
+| | | **T02** | Implementar lógica de autenticación | Desarrollar la funcionalidad para verificar credenciales de usuario. | 3 | Juan González | In Progress |
+| | | **T03** | Validar credenciales y mostrar mensajes de error | Añadir validaciones para credenciales incorrectas y mostrar mensajes de error. | 2 | Diego Cabrera | Done |
+| | | **T04** | Redireccionar al usuario al inicio tras autenticarse | Configurar redirección a la pantalla principal al iniciar sesión correctamente. | 1 | Diego Cabrera | To Do |
+| | | **T05** | Implementar reCAPTCHA en el formulario | Añadir reCAPTCHA para proteger el formulario de inicio de sesión. | 2 | Laura Sánchez | To Do |
+| **US002** | **Cierre de sesión seguro** | **T01** | Diseñar botón de cierre de sesión | Crear un botón de cierre de sesión visible en la interfaz. | 1 | Diego Cabrera | Done |
+| | | **T02** | Implementar lógica de cierre de sesión | Desarrollar funcionalidad para cerrar la sesión y eliminar tokens de autenticación. | 2 | Diego Cabrera | Done |
+| | | **T03** | Redireccionar a la pantalla de inicio de sesión tras cerrar sesión | Configurar redirección al formulario de inicio de sesión tras cerrar sesión. | 1 | Diego Cabrera | Done |
+| | | **T04** | Añadir opción para cerrar sesión desde el menú | Agregar un botón para cerrar sesión desde el menú de usuario. | 1 | María Pérez | Done |
+| **US003** | **Restablecimiento de contraseña** | **T01** | Diseñar formulario de restablecimiento de contraseña | Crear formulario de ingreso de correo electrónico para restablecimiento de contraseña. | 2 | Diego Cabrera | Done |
+| | | **T02** | Implementar lógica de generación de enlace de restablecimiento | Desarrollar funcionalidad para generar y enviar el enlace de restablecimiento al correo del usuario. | 3 |Diego Cabrera | In Progress |
+| | | **T03** | Verificar enlace de restablecimiento y actualizar contraseña | Implementar lógica para verificar el enlace y permitir el cambio de contraseña. | 3 | Laura Sánchez | To Do |
+| | | **T04** | Notificar al usuario cuando se genera el enlace | Enviar correo de confirmación cuando el enlace de restablecimiento haya sido generado. | 1 | Pedro Ramírez | To Do |
+| **US004** | **Registro de nuevos usuarios** | **T01** | Diseñar formulario de registro de usuario | Crear un formulario de registro con campos necesarios (nombre, correo, contraseña). | 2 | Diego Cabrera | Done |
+| | | **T02** | Implementar lógica de validación de datos | Desarrollar validaciones para campos obligatorios y contraseñas seguras. | 2 | Juan González | In Progress |
+| | | **T03** | Enviar correo de confirmación al nuevo usuario | Configurar funcionalidad para enviar correo de verificación tras el registro. | 2 | Laura Sánchez | To Do |
+| | | **T04** | Añadir validación de formato de correo electrónico | Verificar que el correo ingresado tenga un formato válido. | 1 | Pedro Ramírez | To Do |
+| **US005** | **Acceso restringido para usuarios no autenticados** | **T01** | Configurar redireccionamiento de rutas protegidas | Implementar redirección a inicio de sesión para usuarios no autenticados. | 1 | Pedro Ramírez | Done |
+| | | **T02** | Implementar middleware de autenticación | Crear middleware para verificar el estado de autenticación en rutas protegidas. | 2 | Juan González | Done |
+| | | **T03** | Mostrar mensaje de acceso restringido | Configurar un mensaje de advertencia si un usuario no autenticado intenta acceder a una ruta protegida. | 2 | Laura Sánchez | To Do |
+| **US006** | **Verificación de correo electrónico al registrarse** | **T01** | Diseñar plantilla de correo de verificación | Crear una plantilla de correo para verificación de cuenta. | 1 | Laura Sánchez | Done |
+| | | **T02** | Generar enlace de verificación | Desarrollar la lógica para generar un enlace de verificación único. | 2 | Juan González | In Progress |
+| | | **T03** | Actualizar estado de usuario tras verificación | Implementar lógica para marcar el usuario como verificado tras hacer clic en el enlace. | 2 | Pedro Ramírez | To Do |
+| | | **T04** | Enviar notificación de éxito al usuario | Enviar un mensaje de notificación confirmando la verificación de la cuenta. | 1 | María Pérez | To Do |
+| **US007** | **Autenticación multifactor (MFA)** | **T01** | Diseñar flujo de autenticación multifactor | Crear el flujo de usuario para activar y configurar la autenticación multifactor. | 3 | Laura Sánchez | To Do |
+| | | **T02** | Implementar envío de código de verificación | Desarrollar funcionalidad para enviar código de verificación al dispositivo del usuario. | 3 | Juan González | In Progress |
+| | | **T03** | Validar código de autenticación | Implementar la lógica para verificar el código de autenticación ingresado por el usuario. | 2 | Pedro Ramírez | To Do |
+| | | **T04** | Configurar opción para recordar dispositivo | Implementar la opción de recordar dispositivos para no requerir MFA en futuras sesiones. | 3 | Laura Sánchez | To Do |
+| **US008** | **Notificación de inicio de sesión desde dispositivos nuevos** | **T01** | Detectar inicio de sesión desde dispositivos desconocidos | Desarrollar lógica para detectar dispositivos desconocidos o ubicaciones nuevas. | 2 | Juan González | Done |
+| | | **T02** | Enviar notificación de inicio de sesión | Configurar el envío de notificación por correo ante detección de dispositivo desconocido. | 1 | Laura Sánchez | In Progress |
+| | | **T03** | Permitir la opción de confiar en el dispositivo | Agregar la funcionalidad de recordar el dispositivo como confiable. | 2 | Pedro Ramírez | To Do |
+| **US009** | **Gestión de roles y permisos** | **T01** | Diseñar interfaz para asignación de roles | Crear una interfaz de usuario para asignar roles y permisos a usuarios. | 3 | María Pérez | Done |
+| | | **T02** | Implementar lógica de permisos según rol | Desarrollar la lógica para controlar acceso según rol asignado. | 3 | Juan González | In Progress |
+| | | **T03** | Validar asignación de permisos | Verificar que los permisos asignados se apliquen correctamente al usuario. | 2 | Laura Sánchez | To Do |
+| **US010** | **Expiración automática de sesiones** | **T01** | Configurar temporizador de inactividad | Implementar un temporizador que detecte la inactividad del usuario. | 2 | Laura Sánchez | Done |
+| | | **T02** | Cerrar sesión automáticamente tras inactividad | Desarrollar lógica para cerrar sesión automáticamente tras alcanzar el tiempo de inactividad configurado. | 2 | Juan González | In Progress |
+| | | **T03** | Notificar al usuario antes de cerrar sesión | Enviar una advertencia al usuario 5 minutos antes de cerrar la sesión. | 2 | Pedro Ramírez | To Do |
+| **TS001** | **Endpoint para autenticación de usuarios con autenticación multifactor** | **TA001** | Implementar el endpoint "/api/iam/auth/multifactor" para autenticación multifactor | Crear un endpoint para autenticación multifactor. | 5 | Valentino Sandoval | Done |
+| | | **TA002** | Realizar pruebas de respuesta del endpoint para autenticación exitosa con multifactor | Realizar pruebas para verificar la autenticación exitosa con el endpoint multifactor. | 3 | Valentino Sandoval | Done |
+| | | **TA003** | Realizar pruebas de respuesta para fallo en autenticación por código incorrecto | Probar el comportamiento del endpoint al recibir un código incorrecto. | 3 | Valentino Sandoval | Done |
+| | | **TA004** | Crear y definir los aggregates para autenticación multifactor | Crear los aggregates necesarios para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA005** | Crear y definir resources y commands para autenticación multifactor | Crear y definir los recursos y comandos para autenticación multifactor. | 2 | Valentino Sandoval | Done |
+| | | **TA006** | Crear y definir queryservice para autenticación multifactor | Crear y definir el queryservice para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA007** | Crear e implementar commandserviceimpls para autenticación multifactor | Implementar el commandserviceimpl para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA008** | Crear e implementar queryserviceimpls para autenticación multifactor | Implementar el queryserviceimpl para la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| | | **TA009** | Crear controller para autenticación multifactor | Crear el controller para gestionar la autenticación multifactor. | 1 | Valentino Sandoval | Done |
+| TS002 | **Endpoint para restablecimiento de contraseñas** | TA010 | Implementar endpoint para solicitud de restablecimiento de contraseña | Implementar el endpoint "/api/iam/password-reset/request" para solicitud de restablecimiento de contraseña. | 5 | Valentino Sandoval | Done |
+|        |           | TA011 | Implementar endpoint para confirmar restablecimiento de contraseña | Implementar el endpoint "/api/iam/password-reset/confirm" para confirmar restablecimiento de contraseña. | 5 | Valentino Sandoval | Done |
+|        |           | TA012 | Realizar pruebas de respuesta para solicitud de restablecimiento | Realizar pruebas de respuesta del endpoint para solicitud de restablecimiento de contraseña. | 3 | Valentino Sandoval | Done |
+|        |           | TA013 | Realizar pruebas de respuesta para restablecimiento exitoso | Realizar pruebas de respuesta para restablecimiento de contraseña exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA014 | Crear aggregates para restablecimiento de contraseñas | Crear y definir los aggregates para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA015 | Crear y definir resources y commands | Crear y definir resources y commands para restablecimiento de contraseñas. | 2 | Valentino Sandoval | Done |
+|        |           | TA016 | Crear y definir queryservice | Crear y definir queryservice para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA017 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA018 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+|        |           | TA019 | Crear controller para restablecimiento | Crear controller para restablecimiento de contraseñas. | 1 | Valentino Sandoval | Done |
+| TS003 | **Endpoint para inicio de sesión** | TA020 | Implementar endpoint para inicio de sesión | Implementar el endpoint "/api/iam/auth/login" para inicio de sesión. | 5 | Valentino Sandoval | Done |
+|        |           | TA021 | Realizar pruebas de respuesta para inicio de sesión exitoso | Realizar pruebas de respuesta del endpoint para inicio de sesión exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA022 | Realizar pruebas de error en inicio de sesión | Realizar pruebas de respuesta para error en inicio de sesión por credenciales incorrectas. | 3 | Valentino Sandoval | Done |
+|        |           | TA023 | Crear aggregates para inicio de sesión | Crear y definir los aggregates para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA024 | Crear y definir resources y commands | Crear y definir resources y commands para inicio de sesión. | 2 | Valentino Sandoval | Done |
+|        |           | TA025 | Crear y definir queryservice | Crear y definir queryservice para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA026 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA027 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para inicio de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA028 | Crear controller para inicio de sesión | Crear controller para inicio de sesión. | 1 | Valentino Sandoval | Done |
+| TS004 | **Endpoint para cerrar sesión** | TA029 | Implementar endpoint para cierre de sesión | Implementar el endpoint "/api/iam/auth/logout" para cierre de sesión. | 5 | Valentino Sandoval | Done |
+|        |           | TA030 | Realizar pruebas de respuesta para cierre de sesión exitoso | Realizar pruebas de respuesta del endpoint para cierre de sesión exitoso. | 3 | Valentino Sandoval | Done |
+|        |           | TA031 | Crear aggregates para cierre de sesión | Crear y definir los aggregates para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA032 | Crear y definir resources y commands | Crear y definir resources y commands para cierre de sesión. | 2 | Valentino Sandoval | Done |
+|        |           | TA033 | Crear y definir queryservice | Crear y definir queryservice para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA034 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA035 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para cierre de sesión. | 1 | Valentino Sandoval | Done |
+|        |           | TA036 | Crear controller para cierre de sesión | Crear controller para cierre de sesión. | 1 | Valentino Sandoval | Done |
+| TS005 | **Restricción de acceso a la aplicación para usuarios no autenticados** | TA037 | Implementar restricción de acceso para usuarios no autenticados | Implementar la restricción de acceso para usuarios no autenticados en todos los endpoints. | 5 | Valentino Sandoval | Done |
+|        |           | TA038 | Realizar pruebas de respuesta para acceso restringido | Realizar pruebas de respuesta para acceso restringido para usuarios no autenticados. | 3 | Valentino Sandoval | Done |
+|        |           | TA039 | Crear aggregates para restricción de acceso | Crear y definir los aggregates para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA040 | Crear y definir resources y commands | Crear y definir resources y commands para la restricción de acceso. | 2 | Valentino Sandoval | Done |
+|        |           | TA041 | Crear y definir queryservice | Crear y definir queryservice para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA042 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA043 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+|        |           | TA044 | Crear controller para restricción de acceso | Crear controller para la restricción de acceso. | 1 | Valentino Sandoval | Done |
+| TS006 | **Endpoint para registro de nuevos usuarios** | TA045 | Implementar endpoint para registro de nuevos usuarios | Implementar el endpoint "/api/iam/auth/register" para registro de nuevos usuarios. | 5 | Valentino Sandoval | Done |
+|        |           | TA046 | Realizar pruebas de respuesta para registro de nuevos usuarios | Realizar pruebas de respuesta para el registro de nuevos usuarios. | 3 | Valentino Sandoval | Done |
+|        |           | TA047 | Crear aggregates para registro de usuarios | Crear y definir los aggregates para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA048 | Crear y definir resources y commands | Crear y definir resources y commands para registro de usuarios. | 2 | Valentino Sandoval | Done |
+|        |           | TA049 | Crear y definir queryservice | Crear y definir queryservice para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA050 | Crear e implementar commandserviceimpls | Crear e implementar commandserviceimpls para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA051 | Crear e implementar queryserviceimpls | Crear e implementar queryserviceimpls para registro de usuarios. | 1 | Valentino Sandoval | Done |
+|        |           | TA052 | Crear controller para registro de usuarios | Crear controller para registro de usuarios. | 1 | Valentino Sandoval | Done |
+
+
+
 <div id='5.2.4.3.'><h4>5.2.4.3. Development Evidence for Sprint Review</h4></div>
+
+En esta sección se detallan los progresos alcanzados durante el Sprint en relación con los productos de la solución definidos en el alcance: Landing Page, Web Applications y Web Services. Aquí se presenta un resumen de los principales avances logrados en la implementación, destacando cómo cada componente contribuye a los objetivos generales del proyecto.
+
+Para proporcionar una visión clara y estructurada, se incluye una tabla que organiza los commits realizados en cada repositorio. Esto permite rastrear de manera precisa las actividades de desarrollo asociadas con la implementación, mostrando los detalles clave que respaldan el progreso técnico.
+
+A continuación, se presenta la tabla que resume los commits relevantes para cada repositorio:
+
+**Tabla de commits del frontend**
+
+| Repository            | Branch       | CommitId                                | Commit message                                  | Commit message body                          | Committed on |
+|-----------------------|--------------|-----------------------------------------|------------------------------------------------|---------------------------------------------|--------------|
+| frontend   | main       | 2c81a408405aa9a04c753de4fc5e6f2ab88b99be | feat: fixed the report section   | feat: fixed the report section | 20/11/2024   |
+| frontend   |  main       | 5534cde404c3cf9b103c329214f17dc9ad0577fd | feat: fixed the grafic's report section | feat: fixed the grafic's report section | 16/11/2024   |
+| frontend   | main       | 7b52e28b6ae23d1ecda1646b7cc1f43da4f99794 | fix:routes | fix:routes  | 12/11/2024   |
+| frontend   | main       | d67990da963ed05b401cdf884558376032bd1c84 | Merge pull request #15 from si730-2402-ws53-WebApplications/feat/fabric | Merge pull request #15 from si730-2402-ws53-WebApplications/feat/fabric | 02/11/2024   |
+| frontend   | main      | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics. | feat: update fabrics. | 02/11/2024 |
+| frontend   | main      | e68a01a11fc4a48704a881b3a6c6a5de797e37db | Merge pull request #13 from si730-2402-ws53-WebApplications/feat/fabric |Merge pull request #13 from si730-2402-ws53-WebApplications/feat/fabric | 01/11/2024   |
+| frontend   | main      | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics  | feat: add fabrics  | 01/11/2024   |
+| frontend   | main      | 60e4d59b9693650acb7dfce42300c1ceccde6d18 | Merge pull request #12 from si730-2402-ws53-WebApplications/fix/environment-control | Merge pull request #12 from si730-2402-ws53-WebApplications/fix/environment-control  | 01/11/2024   |
+| frontend   | main | 591a7a403fd92c998584ec5426e98c935b205e5b | Merge pull request #11 from si730-2402-ws53-WebApplications/feature/facilities  | Merge pull request #11 from si730-2402-ws53-WebApplications/feature/facilities   | 01/11/2024   |
+
+**Tabla de commits del backend**
+
+| Repository            | Branch       | CommitId                                | Commit message                                  | Commit message body                          | Committed on |
+|-----------------------|--------------|-----------------------------------------|------------------------------------------------|---------------------------------------------|--------------|
+| telasecure-platform   | master       | a0b8ccceaf2c5bd5336a19c1ca14827a76c2f4d1 | Merge pull request #15 from si730-2402-ws53-WebApplications/develop  | Merge pull request #15 from si730-2402-ws53-WebApplications/develop | 17/11/2024   |
+| telasecure-platform  | master       | 02e0449451f57c17b2b873065a82ff87a71606c5 | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | Merge pull request #14 from si730-2402-ws53-WebApplications/feat/IAM | 17/11/2024   |
+| telasecure-platform   | master       | 0d7117046981b93448247c18e42287df90b699c6 | feat: add IAM.  | feat: add IAM.   | 17/11/2024   |
+| telasecure-platform   | master       | 47075398f847d9e2be9c18a78dcd2acff748b61c | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | Merge pull request #13 from si730-2402-ws53-WebApplications/develop | 16/11/2024   |
+| telasecure-platform  | master      | 5a84685503544753d1aa77c70ca393c6640a558d | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | Merge pull request #12 from si730-2402-ws53-WebApplications/feature/inventory | 16/11/2024 |
+| telasecure-platform   | master      | b87d9873e99209d6c056ff4bcd9341c59394a008 | feat(report): added the queries services. | feat(report): added the queries services.| 02/11/2024   |
+| telasecure-platform  | master      | 751e659ecbe354acce39cd09ba3bab63799864ed | feat: added storeroom acl and fabric storeroom external service.  | feat: added storeroom acl and fabric storeroom external service.  | 16/11/2024   |
+| telasecure-platform   | master      | a028507fe8dc189033bd3dffd964b4ad3e188fca | feat(report): added the repository.  | feat(report): added the repository. | 02/11/2024   |
+
 <div id='5.2.4.4.'><h4>5.2.4.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+En esta sección se presentan los *Unit Tests*, *Integration Tests* y *Acceptance Tests* desarrollados para los *Web Services* relacionados con las User Stories del Sprint. Para las pruebas BDD, se incluyen los archivos *.feature* en *Gherkin* y los archivos *Steps*, detallando su relación con las User Stories.  
+
+Se especifican las clases y comportamientos probados en los Unit Tests, mientras que los Integration y Acceptance Tests muestran los escenarios evaluados. También se incluye la ruta del repositorio y los commits clave relacionados con los avances en Testing. A continuación, se presenta una tabla que resume estos avances.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	|75c0c75| Initial commit| Initial commit |17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6548432   | feature: added US01 gherkin  | feature: added US01 gherkin  | 17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	|a19b6ac |feature: added US02 gherkin|feature: added US02 gherkin | 17/11/2024|
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 29ca9f3 |feature: added US03 gherkin|feature: added US03 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 7fe8f1f   | feature: added US04 gherkin | feature: added US04 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US05 gherkin | feature: added US05 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US06 gherkin | feature: added US06 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US07 gherkin | feature: added US07 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US08 gherkin | feature: added US08 gherkin | 17/11/2024              |
+| si730-2402-ws53-WebApplications/Testing | feature/TF	 | 6e41532 | feature: added US09 gherkin | feature: added US09 gherkin | 17/11/2024              |
+
+
+Link del repositorio Commints: https://github.com/si730-2402-ws53-WebApplications/Testing/tree/feature/tf
+
+
 <div id='5.2.4.5.'><h4>5.2.4.5. Execution Evidence for Sprint Review</h4></div>
+
+En esta sección se resumen los logros del Sprint, incluyendo capturas de pantalla de las vistas implementadas en nuestro frontend como en nuestra landingpaga y un enlace a un video que muestra la visualización y navegación logradas.
+Services Documentation Evidence for Sprint Review.:
+También se presenta la documentación de los Web Services con OpenAPI, detallando los endpoints desarrollados, sus acciones soportadas, verbos HTTP, parámetros, ejemplos de uso y enlaces a la documentación generada.
+
+Finalmente, se incluyen capturas que evidencian la interacción con los servicios documentados, junto con el URL del repositorio y los commits relevantes al Sprint.
+
+![Ejemplo de Imagen](resources/TB3/landing2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landin2.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing3.jpeg)
+
+![Ejemplo de Imagen](resources/TB3/landing4.jpeg)
+
+* INICIO DE SESIÓN 
+
+![Ejemplo de Imagen](resources/TB2/lpIni.png)
+
+* REGISTRO DE USUARIO
+
+![Ejemplo de Imagen](resources/TB3/landing5.jpeg)
+
+
+## FRONTEND
+En este apartado mostraremos el despliegue de la ultima version web application de TelaSecure
+Link del FRONTEND desplegado: https://weaveguard-frontend.vercel.app/
+
+* SIDEBAR
+
+![Ejemplo de Imagen](resources/TB3/front1.jpeg)
+
+* INVENTORY - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/inventory.png)
+
+![Ejemplo de Imagen](resources/TB2/inventory2.png)
+
+**En esta parte se observa como se agregan elementos en el frontend y se logran observar en el backend** 
+
+![Ejemplo de Imagen](resources/TF/im1.png)
+
+![Ejemplo de Imagen](resources/TF/im2.png)
+
+* ENVIRONMENT - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB2/ENVI1.png)
+
+* MAINTENANCE - BOUNDED CONTEXT
+
+![Ejemplo de Imagen](resources/TB3/front4.jpeg)
+
+**Se logra observar como que que al agregar un WAREHOUSE este se logra visualizar tanto en el frontend como en el backend**
+
+![Ejemplo de Imagen](resources/TF/im3.png)
+
+![Ejemplo de Imagen](resources/TF/im4.png)
+
+![Ejemplo de Imagen](resources/TF/im5.png)
+
+Video About-the-Product: 
+https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM
+
 <div id='5.2.4.6.'><h4>5.2.4.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+Durante el Sprint 4, se documentaron un total de 12 endpoints distribuidos en 7 controladores: Fabric Controller, Storeroom Controller, EnviroDevice Controller y ClimateSensor Controller. Cada controlador incluye los endpoints principales: GetAll, GetById y Create. Para las pruebas de los endpoints, se utilizó Swagger, facilitando la validación y verificación de su funcionalidad.
+
+Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores..
+
+Link al repositorio de backend: https://github.com/si730-2402-ws53-WebApplications/telasecure-platform
+
+### ProfilesController
+
+Maneja las operaciones relacionadas con la gestión de perfiles de usuario en una aplicación. Esto incluye funcionalidades como visualizar y crear la información del perfil de un usuario, así como modificar parámetros como el nombre, la dirección de correo electrónico, la contraseña, entre otros.
+
+
+
+| Tag      | Http Verbs | Endpoint                      | Summary                    | Description                                      | OperationId        |
+|----------|------------|-------------------------------|----------------------------|--------------------------------------------------|--------------------|
+| Profiles | POST       | /api/v1/profiles               | Create a new profile        | Create a new profile                             | CreateProfile      |
+| Profiles | GET        | /api/v1/profiles/{profileId}   | Get profile by Id           | Get a profile by its unique identifier           | GetProfileById     |
+| Profiles | GET        | /api/v1/profiles               | Get all profiles             | Get all profiles                                 | GetAllProfiles     |
+
+![Ejemplo de Imagen](resources/TF/au4.png)
+
+![Ejemplo de Imagen](resources/TF/au5.png)
+
+### AuthenticationController
+
+El AuthenticationController proporciona los endpoints necesarios para la autenticación de usuarios en la plataforma. Permite a los usuarios registrarse (sign-up) y acceder (sign-in) a la aplicación.
+
+| Tag            | Http Verbs | Endpoint                   | Summary           | Description                             | OperationId  |
+|----------------|------------|----------------------------|-------------------|-----------------------------------------|--------------|
+| Authentication | POST       | /api/v1/authentication/sign-in | Sign in           | Sign in to the platform                 | SignIn       |
+| Authentication | POST       | /api/v1/authentication/sign-up | Sign up           | Sign up to the platform                 | SignUp       |
+
+![Ejemplo de Imagen](resources/TF/au1.png)
+
+**SIGN-IN**
+
+Authentication Controller con funcionalidad de Sign-In se utiliza para manejar el inicio de sesión de los usuarios en una aplicación. Este controlador recibe las credenciales proporcionadas por el usuario (como correo electrónico y contraseña), las valida, y si son correctas, genera y devuelve un token de autenticación 
+
+![Ejemplo de Imagen](resources/TF/au2.png)
+
+**SIGN-UP**
+
+Authentication Controller con funcionalidad de Sign-Up maneja el registro de nuevos usuarios en la aplicación. Este controlador recibe los datos proporcionados por el usuario (como nombre, correo electrónico, contraseña, etc.), valida la información y crea un nuevo registro de usuario en la base de datos.
+
+![Ejemplo de Imagen](resources/TF/au3.png)
+
+### FabricController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+|Fabrics | POST| /api/v1/fabrics | Create a new fabric| Create a new fabric|CreateFabric |
+|Fabrics | GET| /api/v1/fabrics{fabricId}| Get fabric by id| Get fabric by id|GetFabricById |
+|Fabrics | GET| /api/v1/fabrics| Get all fabrics|Get all fabrics|GetAllFabrics |
+
+### StoreroomController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| Storerooms |POST | /api/v1/storerooms | Create Storeroom| Create a new storeroom.| CreateStoreroom |
+| Storerooms |GET | /api/v1/storerooms | Get All Storerooms| Get all storerooms | GetAllStorerooms |
+| Storerooms |GET | /api/v1/storerooms{storeroomId} | Get Storeroom by Id| Get a storeroom by its unique identifier.| GetStoreroomById |
+
+### ClimateSensorController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| ClimateSensors | POST| /api/v1/climate-sensors|Create climate sensor |Create a new climate sensor |CreateClimateSensor |
+| ClimateSensors | GET| /api/v1/climate-sensors{climateSensorId}|Get climate sensor by id |Get a climate sensor by its unique identifier |GetClimateSensorById |
+| ClimateSensors | GET| /api/v1/climate-sensors|Get all climate sensors |Get all climate sensors |GetAllClimateSensors |
+
+### EnviroDeviceController
+
+| Tag | Http verbs | Endpoint | Summary | Description | OperatrionId |
+|-|-|-|-|-|-|
+| EnviroDevices | POST | /api/v1/enviro-devices| Create enviro device| Create a new enviro device|CreateEnviroDevice |
+| EnviroDevices | GET | /api/v1/enviro-devices| Get all enviro devices| Get all enviro devices |GetAllEnviroDevices |
+| EnviroDevices | GET | /api/v1/enviro-devices{enviroDeviceId}| Get enviro device by id| Get enviro device by its unique id |GetEnviroDeviceById |
+
+![Ejemplo de Imagen](resources/TB3/back.jpeg)
+
+![swagger](resources/TB3/swagger1.png)
+
+![swagger](resources/TB3/swagger2.png)
+
+![swagger](resources/TB3/swagger3.png)
+
+![swagger](resources/TB3/swagger4.png)
+
+![swagger](resources/TB3/swagger5.png)
+
+![swagger](resources/TB3/swagger6.png)
+
+![swagger](resources/TB3/swagger7.png)
+
+![swagger](resources/TB3/swagger8.png)
+
+![swagger](resources/TB3/swagger9.png)
+
+![swagger](resources/TB3/swagger10.png)
+
+![swagger](resources/TB3/swagger11.png)
+
+![swagger](resources/TB3/swagger12.png)
+
 <div id='5.2.4.7.'><h4>5.2.4.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+En esta sección se presentan los procesos realizados para el Deployment durante este Sprint, incluyendo actividades como creación de cuentas, configuración de recursos en proveedores cloud y ajustes en los proyectos de desarrollo para integrar o automatizar tareas de despliegue.
+
+El trabajo abarcó todos los productos del proyecto: Landing Page, Web Applications y Web Services. Se incluyen capturas de pantalla y explicaciones detalladas de los pasos realizados para garantizar un despliegue exitoso y funcional.
+
+**LINK LANDING PAGE DESPLEGADA**: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+**LINK FRONTEND DESPLAGADO**: https://weaveguard-frontend.vercel.app/
+
+**LINK BACKEND DESPLAGADO**: https://waveguard-telasecure-gfameha0dbfcd6cg.brazilsouth-01.azurewebsites.net/
+
+<img src="resources/figmaIngreso1.png">
+
+<img src="resources/figmaIngreso2.png">
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+![Ejemplo de Imagen](resources/TB3/page1.jpeg)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](resources/TB3/page2.jpeg)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](resources/TB3/page3.jpeg)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://si730-2402-ws53-webapplications.github.io/landing-page/
+
+**Frontend**
+
+Para desplegar el frontend, en primer lugar tenemos que haber validado el funcionamiento de este en local conectándolo con el backend o con mydbjson, para posteriormente conectar con el mencionado anteriormente y actualizar. Luego, subimos el repositorio a github y se debe crear una cuenta en vercel para así poder acceder al repositorio y hacer el despliegue mediante este.
+
+![Ejemplo de Imagen](resources/deployFrontend.png)
+
+![Ejemplo de Imagen](resources/deployFrontend1.png)
+
+LINK FRONTEND DESPLEGADA: https://weaveguard-frontend.vercel.app/
+
+**BACKEND** 
+
+Para desplegar un backend en Azure, primero crea una cuenta en el portal de Azure y configura un recurso de App Service. Elegir un nombre, sistema operativo y plan de hosting. Lo siguiente es crear una base de datos flexible y hacerla de acceso público y enlazarla a la app web de azure mediante un connection string. Posteriormente, subimos el proyecto, en este caso de C# y .NET a un repositorio de github, agregando el connection string al application properties. Una vez subido el repositorio, accedems a este en azure mediante github actions, ingresando la cuenta de github y seleccionando el repositorio, se creará un archivo .yml y se notificará si hay algún problema con el deploy. Cabe resaltar que se dar permisos a la direccion del frontend desplegado a través de CORS. 
+
+![Ejemplo de Imagen](resources/TF/im6.png)
+
+
 <div id='5.2.4.8.'><h4> 5.2.4.8. Team Collaboration Insights during Sprint</h4></div>
 
+En esta sección, el equipo detalla el proceso de implementación de las actividades realizadas durante el Sprint, destacando la colaboración y el esfuerzo conjunto en la creación de los productos. Se presentan capturas de pantalla de los analíticos de colaboración y los commits en GitHub, que reflejan la participación activa de cada miembro del equipo.
+
+Participación del Equipo Todos los miembros del equipo han contribuido de manera significativa en la implementación de los siguientes productos:
+
+***Landing Page***: Cada integrante aportó en diferentes aspectos del diseño y desarrollo de la landing page, asegurando que la interfaz sea atractiva y funcional. En esta ultima versión de la landing page no se realizo ningun gran cambio significativo en las ultimas semanas.
+
+![Ejemplo de Imagen](resources/TB3/landingcommit2.jpeg)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 2
+    * John Arevalo Meza: 6
+    * Diego Cabrera: 2
+
+Aplicaciones Web: Se trabajó en las mejoras del frontend, optimizando la experiencia del usuario y garantizando una navegación fluida.
+
+![Ejemplo de Imagen](resources/TB3/frontReview2.png)
+![Ejemplo de Imagen](resources/TB3/frontReview1.png)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 8
+    * John Arevalo Meza: 12
+    * Diego Cabrera: 6
+
+Servicios Web: Se implementaron los servicios backend necesarios, con un enfoque en la creación de endpoints RESTful que faciliten la gestión de datos.
+
+![Ejemplo de Imagen](resources/TB3/backReview1.png)
+![Ejemplo de Imagen](resources/TB3/backReview2.png)
+
+COMMITS: 
+
+    * Valentino Sandoval Paiva: 3
+    * John Arevalo Meza: 15
+    * Diego Cabrera: 4
 
 <div id='5.3.'><h3> 5.3. Validation Interviews</h3></div>
 
@@ -2515,7 +3018,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 00:00 |
 | Fin del video | 07:28 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
-|  | Como primer entrevistado, tenemos al Juan Garces, quien mencionó que encontrar y comparar diferentes tipos de telas en la plataforma le resultó algo complicado al principio, ya que había muchas opciones y no tenía claro cómo filtrar las telas específicas. Sugiere que contar con guías o un asistente de búsqueda le habría facilitado la navegación. En cuanto a la calidad, las descripciones y fotos le fueron útiles, pero le gustaría ver un sistema de clasificación. Respecto a la infraestructura de inventario, considera que un mapa interactivo y alertas de cambios ambientales mejorarían la claridad de la información. |
+| ![Ejemplo de Imagen](resources/TF/entrevista1.png ) | Como primer entrevistado, tenemos al Juan Garces, quien mencionó que encontrar y comparar diferentes tipos de telas en la plataforma le resultó algo complicado al principio, ya que había muchas opciones y no tenía claro cómo filtrar las telas específicas. Sugiere que contar con guías o un asistente de búsqueda le habría facilitado la navegación. En cuanto a la calidad, las descripciones y fotos le fueron útiles, pero le gustaría ver un sistema de clasificación. Respecto a la infraestructura de inventario, considera que un mapa interactivo y alertas de cambios ambientales mejorarían la claridad de la información. |
 | **Nombre entrevistado** | **Victor Hernandez** |
 | Edad | 23 años |
 | Profesión | Administración y Marketing |
@@ -2523,7 +3026,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 07:47 |
 | Fin del video | 16:34 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/Eohfc7IRwnxIl0d3_XP2alABLmyARtz3-wTYSi1EtzIAtA?e=XB5Oc0] |
-|  | El segundo entrevistado, Victor Hernandez, evaluó la facilidad de comparación de telas como "bastante fácil" gracias a su experiencia con los filtros, aunque desearía un comparador que presente las diferencias clave en una sola pantalla. En la navegación, no se sintió perdido, pero cree que un sistema de etiquetas personalizables sería beneficioso. Para garantizar la calidad, las especificaciones y etiquetas le resultaron útiles, aunque también sugiere añadir reseñas de usuarios y clasificaciones de resistencia. En la gestión de inventario, encuentra la vista clara, pero añadir gráficos históricos le ayudaría a prever escasez. |
+| ![Ejemplo de Imagen](resources/TF/entrevista2.png ) | El segundo entrevistado, Victor Hernandez, evaluó la facilidad de comparación de telas como "bastante fácil" gracias a su experiencia con los filtros, aunque desearía un comparador que presente las diferencias clave en una sola pantalla. En la navegación, no se sintió perdido, pero cree que un sistema de etiquetas personalizables sería beneficioso. Para garantizar la calidad, las especificaciones y etiquetas le resultaron útiles, aunque también sugiere añadir reseñas de usuarios y clasificaciones de resistencia. En la gestión de inventario, encuentra la vista clara, pero añadir gráficos históricos le ayudaría a prever escasez. |
 | **Nombre entrevistado** | **Matías Munives Santamaria** |
 | Edad | 23 años |
 | Profesión | Ingeniero de Sistemas |
@@ -2545,7 +3048,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 00:00 |
 | Fin del video | 10:13 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
-|  | Como primer entrevistado tenemos al Jorge Mendieta, quien nos comenta que registrar nuevas telas en el sistema le resultó complicado debido a la cantidad de campos y la falta de claridad sobre qué información debía incluir. Al buscar telas en el inventario, se sintió confundido con los filtros y comenta que, aunque un tutorial le fue útil, la navegación no le pareció del todo intuitiva. Además, menciona que tuvo dificultades para editar o eliminar registros, por lo que sugiere mejorar el proceso con botones más claros o un asistente. Respecto a las notificaciones de stock, las considera útiles para reabastecer, dado que no siempre está al tanto del inventario. También opina que la visualización de servicios en la plataforma podría ser más clara y que el proceso de actualización de la información de las telas le resultó complicado, proponiendo una ayuda paso a paso. Finalmente, valora las notificaciones de stock y la accesibilidad al inventario, aunque desearía que fuera tan intuitivo como otras plataformas que requieren menos pasos. |
+|![Ejemplo de Imagen](resources/TB2/entre1.png )  | Como primer entrevistado tenemos al Jorge Mendieta, quien nos comenta que registrar nuevas telas en el sistema le resultó complicado debido a la cantidad de campos y la falta de claridad sobre qué información debía incluir. Al buscar telas en el inventario, se sintió confundido con los filtros y comenta que, aunque un tutorial le fue útil, la navegación no le pareció del todo intuitiva. Además, menciona que tuvo dificultades para editar o eliminar registros, por lo que sugiere mejorar el proceso con botones más claros o un asistente. Respecto a las notificaciones de stock, las considera útiles para reabastecer, dado que no siempre está al tanto del inventario. También opina que la visualización de servicios en la plataforma podría ser más clara y que el proceso de actualización de la información de las telas le resultó complicado, proponiendo una ayuda paso a paso. Finalmente, valora las notificaciones de stock y la accesibilidad al inventario, aunque desearía que fuera tan intuitivo como otras plataformas que requieren menos pasos. |
 | **Nombre entrevistado** | **Manuel Quispe** |
 | Edad | 23 años |
 | Profesión | Reservado |
@@ -2553,7 +3056,7 @@ Gestión de Inventario de Telas
 | Inicio del video | 10:20 |
 | Fin del video | 16:30 |
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
-|  | Nuestro segundo entrevistado Manuel Quispe nos comenta que registrar nuevas telas es "más o menos fácil" para él, aunque algunos detalles, como etiquetas específicas, a veces se le escapan, por lo que un proceso automatizado sería beneficioso. Al buscar telas, le resulta intuitivo, pero sugiere que la búsqueda autocompletaría los nombres o colores para facilitar el proceso. Aunque no tuvo grandes dificultades para editar o eliminar telas, cree que una opción de edición en masa sería conveniente para ahorrar tiempo. Las notificaciones de stock le resultan útiles para planificar compras y ofrecer alternativas cuando un producto se agota. En cuanto a la visualización de servicios, la considera clara, pero sugiere mejorar algunos íconos y etiquetas. El proceso de actualización de la información le parece sencillo en general, aunque cuando tiene muchos cambios, se vuelve tedioso, por lo que una opción de actualización múltiple sería útil. Destaca como funcionalidades valiosas las notificaciones automáticas de stock y los reportes de ventas. |
+| ![Ejemplo de Imagen](resources/TB2/entr2.png ) | Nuestro segundo entrevistado Manuel Quispe nos comenta que registrar nuevas telas es "más o menos fácil" para él, aunque algunos detalles, como etiquetas específicas, a veces se le escapan, por lo que un proceso automatizado sería beneficioso. Al buscar telas, le resulta intuitivo, pero sugiere que la búsqueda autocompletaría los nombres o colores para facilitar el proceso. Aunque no tuvo grandes dificultades para editar o eliminar telas, cree que una opción de edición en masa sería conveniente para ahorrar tiempo. Las notificaciones de stock le resultan útiles para planificar compras y ofrecer alternativas cuando un producto se agota. En cuanto a la visualización de servicios, la considera clara, pero sugiere mejorar algunos íconos y etiquetas. El proceso de actualización de la información le parece sencillo en general, aunque cuando tiene muchos cambios, se vuelve tedioso, por lo que una opción de actualización múltiple sería útil. Destaca como funcionalidades valiosas las notificaciones automáticas de stock y los reportes de ventas. |
 | **Nombre entrevistado** | **Erick Cerna** |
 | Edad | 23 años |
 | Profesión | Ingeniero de Sistemas |
@@ -2563,6 +3066,7 @@ Gestión de Inventario de Telas
 |Link del video: | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
 |  | Finalmente Erick Cerna nos comenta que el registro de telas le resulta fácil y eficiente, aunque le gustaría contar con opciones avanzadas para clasificar o duplicar registros. La búsqueda en el inventario le parece intuitiva, pero sugiere integrar filtros dinámicos basados en la demanda. No tiene problemas al editar o eliminar telas, aunque opina que una función de edición masiva o plantillas específicas optimizarían el proceso. Las notificaciones de stock le permiten anticiparse a pedidos y gestionar su inventario, y considera que tener notificaciones personalizables sería ideal. La visualización de sus servicios le resulta clara y le permite gestionar eficientemente, aunque le gustaría contar con gráficas de tendencias para ajustar sus compras y ventas. Describe el proceso de actualización de información como muy sencillo, especialmente desde la app móvil, y propone una opción para preconfigurar actualizaciones por categoría. Valora los reportes de ventas, las notificaciones de stock en tiempo real y la integración con otros sistemas de gestión como ventajas destacadas frente a otras plataformas que utiliza. |
 | Duración de todas las entrevistas: 19:58 | URL: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EvnOj6AmOChKmyv5bRbCWOIByj-SSw_kBDDZg2om-ow7Bw?e=VAXuw7] |
+
 
 
 <div id='5.3.3.'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
@@ -2663,11 +3167,35 @@ En este video about the product te presentamos: TELASECURE, una solución innova
 
 [https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211b293_upc_edu_pe/EmFWHytLQaBFpHnkZgLLZO4B_oVbVhHx8qmJsWY8iuSrTQ?e=PNqIVM)
 
+<div id='5.5.'><h3> 5.6. Video About the team</h3></div>
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWHkmg8G0IRIjz_rrv9kU3kBKIFhKI1Z6QQoewtf04VLMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S5MkpO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWHkmg8G0IRIjz_rrv9kU3kBKIFhKI1Z6QQoewtf04VLMA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S5MkpO)
+
+<div id='5.6.'><h3> 5.6. Video de exposición</h3></div>
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWMWlg6wq6hCsczYq4f3nAwBcocde-UyU80VnO2nS_xEkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tnqD6Y](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EWMWlg6wq6hCsczYq4f3nAwBcocde-UyU80VnO2nS_xEkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tnqD6Y)
+
+<div id='5.7.'><h3> 5.7. Entrevistas</h3></div>
+
+Entrevistas sector distribuidor: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EVb3s6UnUhVHnmt8u1ureoMBgbNRfCflAygtDXZbf03LtQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JhXvDa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EVb3s6UnUhVHnmt8u1ureoMBgbNRfCflAygtDXZbf03LtQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JhXvDa)
+
+Entrevistas sector encargados: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EbT3oKj5FXBCsP6pg9yo-gcBp8-PXHJM45C2jgyQaNt9WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dOStRL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EbT3oKj5FXBCsP6pg9yo-gcBp8-PXHJM45C2jgyQaNt9WA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dOStRL)
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 El desarrollo de TelaSecure para nuestra startup WeaveGuard fue un proceso desafiante pero gratificante. El equipo demostró un alto nivel de compromiso, colaboración y capacidad para distribuir tareas de manera efectiva, logrando implementar características clave como la Landing Page, el analisis de competidores, los Mockups y el desarrollo de estrategias Lean UX orientadas a mejorar la experiencia del usuario.
 
 A lo largo del proyecto, el grupo adquirió una valiosa experiencia en metodologías de desarrollo web, gestión de proyectos a través de plataformas colaborativas como GitHub y diseño centrado en el usuario. Para proyectos futuros, se seguirá utilizando herramientas de gestión colaborativa, manteniendo una comunicación constante entre los miembros del equipo.
+
+Reducción de Pérdidas y Optimización de Recursos: TelaSecure permite un monitoreo preciso de factores críticos como temperatura y humedad en los almacenes, lo cual reduce las pérdidas materiales debido a condiciones adversas. Esto, a su vez, optimiza los recursos de la empresa, ya que reduce los costos asociados con reposición de materiales y desperdicios.
+
+Incremento en la Eficiencia Operativa: La automatización de procesos, como la gestión del inventario y el control ambiental, libera tiempo para los empleados, quienes pueden dedicarse a tareas más estratégicas. Esto mejora la eficiencia operativa y permite una asignación más efectiva de los recursos humanos.
+
+Mejora en la Toma de Decisiones: TelaSecure, al ofrecer datos en tiempo real, facilita la toma de decisiones informadas, permitiendo a los encargados de almacenes actuar rápidamente ante cualquier alteración en las condiciones de almacenamiento. Esto no solo minimiza riesgos, sino que también fortalece la capacidad de respuesta de la empresa frente a problemas.
+
+Fomento de la Sostenibilidad: Al reducir el desperdicio de materiales y optimizar los procesos de almacenamiento, TelaSecure contribuye a prácticas empresariales más sostenibles. Esta característica es especialmente relevante para empresas que desean implementar procesos más respetuosos con el medio ambiente.
+
+Mayor Satisfacción del Cliente: Al asegurar la calidad del producto almacenado, TelaSecure contribuye a una mejor experiencia del cliente final, lo cual fortalece la reputación de la empresa en el mercado y genera mayor fidelización.
 
 En conclusión, el entregable referente al proyecto fue una experiencia de aprendizaje significativa que nos permitió fortalecer habilidades tanto técnicas como blandas, a la hora de aprender a trabajar mejor en equipo, comunicarnos y aprender herramientas y tecnologias referentes al desarrollo backed, además de reforzae conceptos vistos en entregas anteriores, enfocadas a documentación, lado frontend y landing page. Por otro lado, el trabajo se enfocó en la aplicación de Domain Driven Design, lo cual ayuda a la mejor lectura del codigo y escalabilidad del mismo.
 
@@ -2680,6 +3208,44 @@ Delta (2023). Problemas de calidad de los productos textiles: ¿cómo resolverlo
 Sociedad Nacional de Industrias (2024). Resultados encuesta de opinión industrial (EOI). [https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf](https://sni.org.pe/wp-content/uploads/2024/07/Resultados_EOI-II-TRIM-2024-1.pdf)
 
 Lean UX (2021). Lean UX, 3rd Edition. [https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/](https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/)
+
+Hospodor, C., & Porto, C. (2021). *Vue.js 3 By Example: Build eight real-world applications from the ground up using Vue 3, Vuex, and Vue Router*. https://www.packtpub.com/product/vuejs-3-by-example/9781838826345
+
+Bonnin, H. (2020). *Vue.js 3 Cookbook: Discover actionable solutions for building modern web apps with the latest Vue features and TypeScript*. https://www.packtpub.com/product/vuejs-3-cookbook/9781838826222
+
+Kotsifas, E. (2021). *Full-Stack Web Development with Vue.js and Node: Build scalable and powerful web apps with modern web stack: MongoDB, Vue, Node, and Express*. https://www.packtpub.com/product/full-stack-web-development-with-vuejs-and-node/9781788831147
+
+Roig, P. (2021). *Getting Started with Firebase for Web Developers: A Comprehensive Guide to Integrating Google Firebase with Your Web App*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Brown, G., & Mullen, S. (2019). *Google Cloud Platform for Architects: Design and Manage Powerful Cloud Solutions*. https://www.packtpub.com/product/google-cloud-platform-for-architects/9781788833073
+
+Thomas, C. (2020). *Firebase Cookbook: Over 70 recipes for building high-quality web and mobile applications*. https://www.packtpub.com/product/firebase-cookbook/9781788292399
+
+Date, C. J. (2019). *Database Design and Relational Theory: Normal Forms and All That Jazz* (2nd ed.). https://link.springer.com/book/10.1007/978-1-4842-5540-7
+
+Fowler, M. (2016). *NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence*. https://www.pearson.com/en-us/subject-catalog/p/nosql-distilled-a-brief-guide-to-the-emerging-world-of-polyglot-persistence/P200000009587/9780133036121
+
+Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+1Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Disponible también en línea de forma gratuita. https://git-scm.com/book/en/v2
+
+Bell, J. (2018). *GitLab Quick Start Guide: Build a DevOps culture and collaborate effectively with GitLab for CI/CD*. https://www.packtpub.com/product/gitlab-quick-start-guide/9781788837613
+
+Avelino, M. (2019). *GitHub Essentials: Become a Git and GitHub expert with this fast-paced guide*. https://www.packtpub.com/product/github-essentials/9781789538502
+
+Scott, D., & Farrelly, M. (2021). *UI is Communication: How to Design Intuitive, User Centered Interfaces by Focusing on Effective Communication*. https://www.elsevier.com/books/ui-is-communication/scott/978-0-12-396980-8
+
+Henke, R. (2020). *UX Design 2020: Complete Beginner's Guide to Become an Effective UX/UI Designer*. https://www.amazon.com/dp/B08KHL2J5Y
+
+Kang, M. (2018). *Figma for UX/UI Design: The Comprehensive Guide*. https://www.amazon.com/dp/B07KHL2J5Y
+
+Palepu, V. (2021). *Hands-On Test-Driven Development with JavaScript: A practical guide to TDD, automated testing, and continuous integration*. https://www.packtpub.com/product/hands-on-test-driven-development-with-javascript/9781838820213
+
+Hendrickson, E. (2017). *Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing*. https://pragprog.com/titles/ehxta/explore-it/
+
+Meszaros, G. (2007). *xUnit Test Patterns: Refactoring Test Code*. https://www.pearson.com/store/p/xunit-test-patterns/P100000009587
+
+
 
 <div id='8.'><h2>Anexos</h2></div>
 
