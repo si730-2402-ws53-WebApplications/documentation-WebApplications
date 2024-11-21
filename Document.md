@@ -2879,6 +2879,8 @@ Finalmente nos dará un link directo a la Landing page desplegada: https://si730
 
 **Frontend**
 
+Para desplegar el frontend, en primer lugar tenemos que haber validado el funcionamiento de este en local conectándolo con el backend o con mydbjson, para posteriormente conectar con el mencionado anteriormente y actualizar. Luego, subimos el repositorio a github y se debe crear una cuenta en vercel para así poder acceder al repositorio y hacer el despliegue mediante este.
+
 ![Ejemplo de Imagen](resources/deployFrontend.png)
 
 ![Ejemplo de Imagen](resources/deployFrontend1.png)
